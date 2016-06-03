@@ -21,5 +21,3 @@
     * [Opportunity Employment](/Policies/Equal-Opportunity-Employment.md)
     * [List](/Policies/Holiday-List.md)
     * [Off](/Policies/Time-Off.md)
-- Images
-- Styles
