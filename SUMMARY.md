@@ -1,16 +1,16 @@
 # Your Book Name
 
-- [Culture OS](/Culture OS/README.md)
-  - Processes
-      * [Conflict](/Culture OS/Processes/Conflict.md)
-    * [Transparency](/Culture OS/Transparency.md)
-    * [Values](/Culture OS/Values.md)
-    * [Agreements](/Culture OS/agreements.md)
-    * [Guidelines](/Culture OS/guidelines.md)
-    * [Purpose](/Culture OS/purpose.md)
+- [Culture](/Culture/README.md)
+  - [Processes](/Culture/Processes/README.md)
+      * [Conflict](/Culture/Processes/Conflict.md)
+    * [Transparency](/Culture/Transparency.md)
+    * [Values](/Culture/Values.md)
+    * [Agreements](/Culture/agreements.md)
+    * [Guidelines](/Culture/guidelines.md)
+    * [Purpose](/Culture/purpose.md)
 - Misc
-    * [CONTRIBUTING](/Misc/CONTRIBUTING.md)
-    * [GLOSSARY](/Misc/GLOSSARY.md)
+    * [Contributing](/Misc/Contributing.md)
+    * [Glossary](/Misc/Glossary.md)
 - Operating Model
     * [Tooling](/Operating Model/Tooling.md)
     * [Working Together](/Operating Model/Working Together.md)
@@ -22,3 +22,4 @@
     * [Equal Opportunity Employment](/Policies/Equal Opportunity Employment.md)
     * [Holiday List](/Policies/Holiday List.md)
     * [Time Off](/Policies/Time Off.md)
+    * [Play Conditions](/Policies/play conditions.md)
