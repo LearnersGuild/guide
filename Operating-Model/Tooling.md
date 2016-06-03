@@ -58,7 +58,7 @@ Link: https://github.com/learnersguild<br>
 Purpose: Software storage, versioning, collaboration. Also some documents.<br>
 Users: All partners.
 
-GitHub is where we store and collaborate on internal software projects. It is also used for certain documents and resources, such as this guide.
+GitHub is where we store and collaborate on internal software projects. It is also used for certain documents and resources, such as this playbook.
 
 ### GlassFrog
 

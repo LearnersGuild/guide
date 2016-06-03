@@ -1,4 +1,4 @@
-# General Guidelines & Strategies
+# General Playbooklines & Strategies
 
 Advice from ourselves to ourselves for when we forget
 

@@ -2,7 +2,7 @@
 
 The strategies outlined here follow the format of "X over Y". What this means is that, given a choice between the two, we agree to choose one over the other in most situations.
 
-These are strategies that apply at the _organizational_ level: these are the guides we use when making decisions that affect the whole organization or a significant subset of it.
+These are strategies that apply at the _organizational_ level: these are the playbooks we use when making decisions that affect the whole organization or a significant subset of it.
 
 ## Emphasize Scale over Quality
 

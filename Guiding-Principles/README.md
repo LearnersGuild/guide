@@ -5,4 +5,4 @@
 * [Org Strategy](Strategy.md)
 * [Tribe Agreements](agreements.md)
 * [Conflict Resolution Process](Conflict.md)
-* [General Guidelines](guidelines.md)
+* [General Playbooklines](playbooklines.md)

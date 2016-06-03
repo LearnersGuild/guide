@@ -26,7 +26,7 @@ The Guild Core is the central organizational body of Learners Guild. The Core is
 Everyone who works for or with Learners Guild is a member. This includes the staff (partners) of the core as well as everyone involved with a guild chapter, as well as all learners.
 
 # Mentors
-Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, support, and otherwise assist apprentices and practitioners in their learning.
+Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to playbook, support, and otherwise assist apprentices and practitioners in their learning.
 
 # Learner
 Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
@@ -38,7 +38,7 @@ Open information is information visible and accessible to everyone inside and ou
 Partner is the term we use for learners who work in the Guild Core. A partner is an employee of the Learners Guild who has an open ended, fixed employment. Partners are *entrusted with upholding the Guilds guiding principles and furthering its prupose*.
 
 # Practitioner
-Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
+Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good playbooks can advance to become mentors.
 
 # Private
 Private information is information which is not shared with all partners but is accessible only to a subset. Contrast with transparent and open.

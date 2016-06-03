@@ -24,7 +24,7 @@ We use all-remote meetings because it is smoother to have every participant logg
 
 In order to maximize working productivity and quality of life, partners can expense the cost of a monthly coworking space membership (flexible or dedicated desk), if they prefer not to work from home.
 
-The amount of reimbursement may vary by city, but should align to typical membership costs for a partner's location (use WeWork or Impact Hub's location-based rates as a guideline: https://www.wework.com/locations / http://www.impacthub.net/where-are-impact-hubs/)
+The amount of reimbursement may vary by city, but should align to typical membership costs for a partner's location (use WeWork or Impact Hub's location-based rates as a playbookline: https://www.wework.com/locations / http://www.impacthub.net/where-are-impact-hubs/)
 
 ## What Full-Time / Flex-Time Means
 
@@ -78,4 +78,4 @@ All partners in Learners Guild commit to practicing [Getting Things Done](GTD). 
 
 Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
 
-Check out the [Getting Things Done](GTD.md) section of the Guide for more information.
+Check out the [Getting Things Done](GTD.md) section of the Playbook for more information.

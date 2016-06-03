@@ -34,7 +34,7 @@ Use this matrix to answer questions like:
 
 | Open to All        | Share with Trusted People\*          | NDA Required      | Never Share               |
 |--------------------|--------------------------------------|-------------------|---------------------------|
-| Our guide          | Who funds us                         | Amount of funding | Partner salaries & comp   |
+| Our playbook          | Who funds us                         | Amount of funding | Partner salaries & comp   |
 | That we are funded | Who is on our board                  | Financial model   | No. of outstanding shares |
 | Team profiles      | Launch strategy (timing, location)   |                   | Valuation                 |
 |                    | Pitch deck                           |                   |                           |
