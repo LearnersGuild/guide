@@ -1,8 +1,6 @@
 # Your Book Name
 
 - [Culture](/Culture/README.md)
-  - [Processes](/Culture/Processes/README.md)
-      * [Conflict](/Culture/Processes/Conflict.md)
     * [Transparency](/Culture/Transparency.md)
     * [Values](/Culture/Values.md)
     * [Agreements](/Culture/agreements.md)
@@ -21,5 +19,7 @@
     * [Employee Privacy](/Policies/Employee Privacy.md)
     * [Equal Opportunity Employment](/Policies/Equal Opportunity Employment.md)
     * [Holiday List](/Policies/Holiday List.md)
+    * [Play Conditions](/Policies/Play Conditions.md)
     * [Time Off](/Policies/Time Off.md)
-    * [Play Conditions](/Policies/play conditions.md)
+- [Processes](/Processes/README.md)
+    * [Conflict](/Processes/Conflict.md)
