@@ -1,4 +1,4 @@
-# Guiding Principles
+# Culture OS
 
 * [Mission Statement](Mission-Statement.md)
 * [Core Values](Values.md)

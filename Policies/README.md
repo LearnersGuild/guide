@@ -1,4 +1,4 @@
-# Employment policies
+# Policies
 
  * [Equal Opportunity Employment](Equal-Opportunity-Employment.md)
  * [At-Will Employment](At-Will-Employment.md)
