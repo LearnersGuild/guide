@@ -9,16 +9,19 @@ We are in the learning business. Learning is the process of acting on our curios
 
 ## Safety
 
-- seen
-- appreciated
-- vulnerability
+### Values
+- Kindness: We treat ourselves and others with dignity, respect and an open heart. We assume good intentions and give others the benefit of doubt.
+- Appreciation: Seeing and reflecting the best in others
+- Vulnerability: Choosing to be impacted by someone else's truth and being committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
 
 ## Truth
 
-- continuous feedback
-- honesty
-- transparency
+### Values
+- Honesty: Speaking my truth clearly and authentically.
+- Courage: Choosing courage over comfort
+- Transparency & Openness
+- Continuous feedback
 
 First: **A genuine love for and pursuit of truth**
 

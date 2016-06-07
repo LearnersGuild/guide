@@ -58,8 +58,6 @@ Our agreements are meaningless if we don't hold ourselves and each other account
 Our interpersonal practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
 
 
-
-
 ### Practice Being Real and Vulnerable
 
 We are real with each other. We minimize bullshit and call people on it (kindly).
