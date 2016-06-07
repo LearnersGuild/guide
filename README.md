@@ -11,3 +11,5 @@ This repository contains all our agreements, policies, operating models, values 
 We are building a team that understands our mission and core values and will help us to advance these objectives. All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
 
 Each learner is responsible for reading, understanding, and complying with this playbook. Our goal is to work together towards a learning environment that is constructive and supports both personal and professional growth.  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
