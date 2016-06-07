@@ -9,7 +9,7 @@
 - Dignity
 - Belonging
 - Love
-- Practice [resisting and overcoming oppression](/Practices/overcoming-oppression.md)
+- Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
 
 ### Authentic Individuality
 - Wholeness

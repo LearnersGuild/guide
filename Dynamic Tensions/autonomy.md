@@ -8,7 +8,7 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - Autonomy
 - Freedom
 - Personal Power
-- Practice [Radical Responsibility](/Practices/radical responsibility.md)
+- Practice [Radical Responsibility](/Practices/Radical_Responsibility.md)
 
 
 ## Structure
