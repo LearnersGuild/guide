@@ -24,7 +24,7 @@
     * [Play Conditions](/Policies/play conditions.md)
 - [Practices](/Practices/README.md)
     * [Non Triangulation](/Practices/non triangulation.md)
-    * [Overcoming Oppression](/Practices/overcoming oppression.md)
+    * [Oppression](/Practices/overcoming-oppression.md)
     * [Radical Honesty](/Practices/radical honesty.md)
     * [Radical Responsibility](/Practices/radical responsibility.md)
 - [Processes](/Processes/README.md)
