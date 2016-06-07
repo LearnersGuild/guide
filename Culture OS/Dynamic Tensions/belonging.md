@@ -8,6 +8,7 @@
 - Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging
 - Dignity
 - Belonging
+- Love
 
 ### Authentic Individuality
 - Wholeness
