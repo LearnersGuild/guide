@@ -30,3 +30,10 @@
 There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the collective whole above personal desires.
 
 Total individualism views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship.
+
+
+## What it looks like
+
+What’s possible: An environment that values the collective and the individual is one where I can be myself while still being able to tell that I’m part of something bigger than just me. I act in the collective best interest of the community because I can tell that a healthy community will serve me as an individual. The community makes space for me as an individual because it knows that when I’m recognized for my unique contributions, I joyfully offer them in service of the community.
+Feels like: I can be “myself” here. My differences are respected, celebrated and encouraged. This is a place where people like me belong. I’m comfortable, I don’t have to pretend to be someone different. I feel “up to something” with the people around me. We’re building something bigger than any one of us could accomplish alone. We’re on a journey together. These are “my people”.
+Looks like: Individual differences are celebrated and appreciated. There’s room for difference of opinion and belief, for self-determination and individual agency. The environment is shaped and changed by the people in it. People are thoughtful and mindful of their impact on each other and the physical space. They self-organize around keeping spaces clean, making improvements that will benefit everyone, not just themselves. There’s a strong group identity - LG pride.

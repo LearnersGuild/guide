@@ -1,5 +1,8 @@
 # Growth Tension: Safety <--> Truth
 
+The Growth Tension optimizes the energies between safety and truth. We believe that growth truly happens when we feel safe enough to risk truth telling with one another; when we feel safe enough to take a hard look at ourselves and accept the gift of our community’s feedback; when we are held accountable without feeling judged; when we stretch to remain in integrity with ourselves and our shared agreements; when we strive to be impeccable with our words.
+
+
 We hold the fundamental belief that all people can learn and grow, and are driven by a deep desire to do so.
 
 Everyone at Learners Guild makes a commitment to their own personal development. They also make a commitment to the personal growth of others. We do this as a necessary means of achieving the highest business outcomes, and as an end in itself.
@@ -24,9 +27,6 @@ We are in the learning business. Learning is the process of acting on our curios
 - Transparency & Openness
 - Continuous feedback
 
-### Hold Others Accountable
-
-Our agreements are meaningless if we don't hold ourselves and each other accountable to them. It is crucial that we step up to violated promises, broken commitments and bad behavior. In doing so, we maintain our integrity, and support each other lovingly and firmly in doing the same.
 
 
 

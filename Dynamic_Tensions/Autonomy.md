@@ -17,7 +17,7 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - Clarity: Making what's implicit, explicit
 - Integrity: Keeping my word. Practicing the values I profess
 - Boundaries: Having good boundaries and honoring others' boundaries
-
+- Practice [Accountability](/practices/Accountability.md)
 
 ## What could looks like
 - I can influence the structures that I am a part of

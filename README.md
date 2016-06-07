@@ -22,6 +22,8 @@ The COS defines the components of our culture, and processes by which participan
 
 Learners Guild embodies this commitment by deliberately creating a culture that supports our ongoing development on a daily basis. An ecosystem of structures, practices, tools, and shared language allow us to do this. Everyone is responsible for embodying and improving this culture.
 
+Acknowledge and use the water you’re swimming in. We shape culture; culture shapes us. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have. Develop collective mastery rather than restrictive rule-making. Intentional culture building supports intentionality in other domains as well.
+
 Critically, we manage our business culture like we manage our learning culture: embodying in our own practices what we expect from our learners and partners. The cultural architecture we develop and implement internally for ourselves will serve as the foundation for the learning culture that we offer to our members.[^1]
 
 
