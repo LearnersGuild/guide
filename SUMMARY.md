@@ -1,11 +1,11 @@
 # Your Book Name
 
-- [Culture](/Culture/README.md)
-    * [Transparency](/Culture/Transparency.md)
-    * [Values](/Culture/Values.md)
-    * [Agreements](/Culture/agreements.md)
-    * [Guidelines](/Culture/guidelines.md)
-    * [Purpose](/Culture/purpose.md)
+- [Culture OS](/Culture OS/README.md)
+    * [Transparency](/Culture OS/Transparency.md)
+    * [Values](/Culture OS/Values.md)
+    * [Agreements](/Culture OS/agreements.md)
+    * [Guidelines](/Culture OS/guidelines.md)
+    * [Purpose](/Culture OS/purpose.md)
 - Misc
     * [Contributing](/Misc/Contributing.md)
     * [Glossary](/Misc/Glossary.md)
