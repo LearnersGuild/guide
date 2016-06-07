@@ -2,7 +2,7 @@
 
 We are human. Personal conflicts will come up as we work together. When you feel that something personal is beginning to get in the way of you working optimally with another partner, **address it directly with them as soon as you can.**
 
-We call this process "clearing a withhold".
+We call this practice "clearing a withhold".
 
 A withhold is anything that I'm "holding" in my mind or heart, that's keeping me from feeling "clear" with you.
 
@@ -18,4 +18,4 @@ Sharing reflections in this way, and being heard, can often diffuse the withhold
 
 Another good use of sharing a reflection, is with regards to the Five Personal Practices. Because these practices are interpersonal, giving and receiving reflections from each other on our progress and the areas where we need to practice more supports them in staying alive.
 
-If you tried to clear a withhold with someone and failed, use our [Conflict Resloution Process][conflict-process] to resolve it.
+If you tried to clear a withhold with someone and failed, use our [Conflict Resloution Process](/Processes/Conflict.md) to resolve it.
