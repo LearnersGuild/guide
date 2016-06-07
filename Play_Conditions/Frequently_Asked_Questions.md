@@ -1,6 +1,6 @@
-# Play Conditions
+## Frequently Asked Questions
 
-## Time Commitment
+**What is the time commitment?**
 
 Show up every weekday (except national holidays) for regular learning hours: 8.30am to 6pm
 
@@ -8,7 +8,7 @@ Almost every week, there will be events happening during the evening. These even
 
 Occasionally, there will be something happening on a Saturday. We’ll give you a heads up at least a month in advance and try to minimize that stuff so people can have their weekends.
 
-## Frequently Asked Questions
+Learners Guild will be closed during [official Holidays](Holiday_List.md)
 
 **What happens if I show up late? What if I have to leave early?**
 
@@ -71,36 +71,42 @@ By joining the Guild, you’re making an agreement to collaborate with anyone an
 
 Conflicts happen. It’s natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process](/Processes/Conflict.md) in place to support you in resolving it.
 
-Technology:
+**Can I use my LG laptop for personal use? Are there any limits to what I can install on my laptop or what I can use it for?**
 
-Can I use my LG laptop for personal use? Are there any limits to what I can install on my laptop or what I can use it for?
 Yes, you can use it for personal activities. However, you will need to wipe the hard drive and perform a clean OS install before giving it back to us at the end of the program. It is an expensive piece of machinery, so please take good care of it and leave it in good condition for the next learner who inherits it.
 
 You can install anything on the laptop, so long as it is legal.
 
-Can I use my own laptop instead of the LG laptop?
+**Can I use my own laptop instead of the LG laptop?**
+
 You can, although you need to have a Mac. Everyone at Learners Guild uses a Mac computer, so it will be easier for you to collaborate with your team if you are all using the same platform.
 
-What platforms and operating systems does Learners Guild use?
-We use the industry standard for web development: Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
-Conduct:
+**What platforms and operating systems does Learners Guild use?**
 
-Sexual harassment / drug / violence / security policy
+Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
 
-Is there a dress code?
+**Is there a dress code?**
+
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but maybe leave the pj’s at home.
 
-----
-After the program:
+**What if I can’t get a job?**
 
-What if I can’t get a job?
+Keep learning and studying. We all learn at different paces. As long as your keeping your agreements with the Guild, there is no limit to how long you can stay and keep practicing your craft.
 
-What if I change my mind and don’t want to be a software developer?
-We would be sorry to hear that, but of course it is your choice. You would still be bound to the financial agreement you sign, and access to all of the resources offered to Learners Guild alumnae. If you have doubts about pursuing this career before joining, please consult with us.
+**What if I change my mind and don’t want to be a software developer?**
 
-What if I want to do a startup after?
-Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer upon graduating the program. Therefore, if you choose to start your own company within three years of leaving Learners Guild, [insert clause about how we’ll own 50% of their company - wasn’t this something we discussed?]
+We would be sorry to hear that, but of course it is your choice. You would still be bound to the financial agreement you sign, and access to all of the resources offered to Learners Guild alumnae. If you have doubts about pursuing this career before joining, please let us know ASAP. Our business depends on your commitment to becoming a software developer.
 
-What if I don’t earn more than $60,000 per year in my first job?
+**What if I want to do a startup after?**
 
-What if I get fired from my first job or decide to quit?
+Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program.
+
+If you choose to start your own company within three years of leaving Learners Guild you immediately owe us the remaining payments of your Income Sharing Agreements.
+
+**What if I don’t earn more than $50,000 per year in my first job?**
+
+Income sharing only starts if you're earning a salary of more than $50k.
+
+**What if I get fired from my first job or decide to quit?**
+
+If you're unemployed, the Income Sharing Agreement is paused until you're making a salary again.
