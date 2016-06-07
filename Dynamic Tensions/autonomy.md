@@ -18,7 +18,6 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - Clarity: Making what's implicit, explicit
 - Integrity: Keeping my word. Practicing the values I profess
 - Boundaries: Having good boundaries and honoring others' boundaries
-- Collective Responsibility
 
 
 
@@ -27,7 +26,7 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - I can influence the structures that I am a part of
 - As few structures as are needed. No more, no less
 - Non prescriptive
-- Non coersive
+- Non coersive structures
 - Clear transparent agreements. Shared. Recorded.
 - I know my place here, what is expected of me, what I can expect from other people
 - There is accountability: people do what they say they are going to do
