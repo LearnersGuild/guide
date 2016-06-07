@@ -1,4 +1,6 @@
-# Mastery Tension: Support <--> Challenge
+# Mastery Tension
+
+## Challenge <--> Support
 
 We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.[^1]
 

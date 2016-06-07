@@ -10,10 +10,10 @@ Each of these tensions can be illustrated by looking at the intersection of each
 
 We support our learning environment by seeding a growth oriented culture that draws out the best in us through the enactment of seemingly paradoxical values that we call Dynamic Tensions. All Guild Members are invited to step into ownership of our culture. it’s vitality depends on it. If we are to achieve our primary objective of creating a dignified livelihood for everyone, then we are all called upon to play in the cultural field on purpose, as our shared purpose.  
 
-* [Freedom](/Dynamic Tensions/Freedom.md)
 * [Belonging](/Dynamic Tensions/Belonging.md)
+* [Freedom](/Dynamic Tensions/Freedom.md)
 * [Growth](/Dynamic Tensions/Growth.md)
 * [Joy](/Dynamic Tensions/Joy.md)
 * [Mastery](/Dynamic Tensions/Mastery.md)
 
-TODO: draw four tensions
+TODO: draw five tensions

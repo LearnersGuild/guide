@@ -1,4 +1,6 @@
-# Growth Tension: Safety <--> Truth
+# Growth Tension
+
+## Truth <--> Safety
 
 The Growth Tension optimizes the energies between safety and truth. We believe that growth truly happens when we feel safe enough to risk truth telling with one another; when we feel safe enough to take a hard look at ourselves and accept the gift of our community’s feedback; when we are held accountable without feeling judged; when we stretch to remain in integrity with ourselves and our shared agreements; when we strive to be impeccable with our words.
 
@@ -9,6 +11,14 @@ Everyone at Learners Guild makes a commitment to their own personal development.
 
 We are in the learning business. Learning is the process of acting on our curiosity, receiving feedback, integrating it, and reflecting on it. In working together, we are animated by:
 
+## Truth
+
+- Courage: Choosing courage over comfort
+- Transparency & Openness
+- Continuous feedback
+- Practice [Accountability](/Practices/Accountability.md)
+- Practice [Radical Honesty](/Practices/Radical_Honesty.md)
+
 
 ## Safety
 
@@ -18,15 +28,6 @@ We are in the learning business. Learning is the process of acting on our curios
 - Practice [clearing withholds](/Practices/Clearing_Withholds.md)
 - Practice [non triangulation](/Practices/Non_Triangulation.md)
 - Practice [non judgement](/Practices/Non_Judgement.md)
-
-
-## Truth
-
-- Courage: Choosing courage over comfort
-- Transparency & Openness
-- Continuous feedback
-- Practice [Accountability](/Practices/Accountability.md)
-- Practice [Radical Honesty](/Practices/Radical_Honesty.md)
 
 
 ## Look & Feel
