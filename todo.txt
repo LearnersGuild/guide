@@ -1,3 +1,0 @@
-- create and update readme
-- breakdown playconditions and clean it up
-- re-write into
