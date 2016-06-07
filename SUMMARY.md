@@ -1,18 +1,18 @@
 # Your Book Name
 
-- [Dynamic Tensions](/Dynamic Tensions/README.md)
-    * [Autonomy](/Dynamic Tensions/Autonomy.md)
-    * [Belonging](/Dynamic Tensions/Belonging.md)
-    * [Growth](/Dynamic Tensions/Growth.md)
-    * [Joy](/Dynamic Tensions/Joy.md)
-    * [Mastery](/Dynamic Tensions/Mastery.md)
+- [Dynamic Tensions](/Dynamic_Tensions/README.md)
+    * [Autonomy](/Dynamic_Tensions/Autonomy.md)
+    * [Belonging](/Dynamic_Tensions/Belonging.md)
+    * [Growth](/Dynamic_Tensions/Growth.md)
+    * [Joy](/Dynamic_Tensions/Joy.md)
+    * [Mastery](/Dynamic_Tensions/Mastery.md)
   * [Guidelines](/Guidelines.md)
 - Misc
     * [Contributing](/Misc/Contributing.md)
     * [Glossary](/Misc/Glossary.md)
 - Operating Model
-    * [Tooling](/Operating Model/Tooling.md)
-    * [Working Together](/Operating Model/Working_Together.md)
+    * [Tooling](/Operating_Model/Tooling.md)
+    * [Working Together](/Operating_Model/Working_Together.md)
 - [Policies](/Policies/README.md)
     * [Agreements](/Policies/Agreements.md)
     * [Code Of Conduct](/Policies/Code_of_Conduct.md)
