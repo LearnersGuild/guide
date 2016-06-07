@@ -6,10 +6,11 @@
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Joy](/Dynamic_Tensions/Joy.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
-  * [Guidelines](/Guidelines.md)
 - Misc
     * [Contributing](/Misc/Contributing.md)
     * [Glossary](/Misc/Glossary.md)
+    * [Guidelines](/Misc/Guidelines.md)
+    * [Purpose](/Misc/Purpose.md)
 - Operating Model
     * [Tooling](/Operating_Model/Tooling.md)
     * [Working Together](/Operating_Model/Working_Together.md)
@@ -32,4 +33,3 @@
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
     * [Conflict](/Processes/Conflict.md)
-  * [Purpose](/Purpose.md)
