@@ -4,7 +4,7 @@
 
 As a Learning Collective, we have the following two objectives as our purpose:
 
-1. To provide the opportunity of a dignified[^1] livelihood for everyone.
+1. To provide the opportunity of a dignified[1] livelihood for everyone.
 2. To co-create a culture that draws out the best in us
 
 ## Mission
