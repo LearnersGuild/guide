@@ -9,11 +9,6 @@
     * [Holiday List](/Agreements/Holiday List.md)
     * [Time Off](/Agreements/Time Off.md)
     * [Play Conditions](/Agreements/play conditions.md)
-- Culture OS
-  - Dynamic Tensions
-      * [Autonomy](/Culture OS/Dynamic Tensions/autonomy.md)
-      * [Growth](/Culture OS/Dynamic Tensions/growth.md)
-      * [Joy](/Culture OS/Dynamic Tensions/joy.md)
 - [Dynamic Tensions](/Dynamic Tensions/README.md)
     * [Autonomy](/Dynamic Tensions/autonomy.md)
     * [Belonging](/Dynamic Tensions/belonging.md)
