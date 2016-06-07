@@ -1,14 +1,6 @@
 # Core Values
 
-## Deliberately Developmental Culture
 
-We hold the fundamental belief that all people can learn and grow, and are driven by a deep desire to do so.
-
-Everyone at Learners Guild makes a commitment to their own personal development. They also make a commitment to the personal growth of others. We do this as a necessary means of achieving the highest business outcomes, and as an end in itself.
-
-Learners Guild embodies this commitment by deliberately creating a culture that supports our ongoing development on a daily basis. An ecosystem of structures, practices, tools, and shared language allow us to do this. Everyone is responsible for embodying and improving this culture.
-
-Critically, we manage our business culture like we manage our learning culture: embodying in our own practices what we expect from our learners and partners. The cultural architecture we develop and implement internally for ourselves will serve as the foundation for the learning culture that we offer to our members.[^1]
 
 ## Partners First
 

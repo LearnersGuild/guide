@@ -1,6 +1,13 @@
 # Purpose Tension: Play <--> Seriousness
 
+## Play
+
+## Seriousness
+
+### Values
 - meaning
-- joy
 - purpose
+
+## What it could look like
+
 - flow

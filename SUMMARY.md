@@ -3,6 +3,7 @@
 - [Culture OS](/Culture OS/README.md)
   - [Dynamic Tensions](/Culture OS/Dynamic Tensions/README.md)
       * [Autonomy](/Culture OS/Dynamic Tensions/autonomy.md)
+      * [Belonging](/Culture OS/Dynamic Tensions/belonging.md)
       * [Growth](/Culture OS/Dynamic Tensions/growth.md)
       * [Joy](/Culture OS/Dynamic Tensions/joy.md)
       * [Mastery](/Culture OS/Dynamic Tensions/mastery.md)

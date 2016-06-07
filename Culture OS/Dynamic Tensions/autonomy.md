@@ -2,23 +2,24 @@
 
 Optimizes the energies between structure and possibility (choice?/freedom? agency?). We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us.
 
-### Structure
+## Agency
 
-#### Values
-- Clarity
-- Accountability
-- Integrity
-- Collective Responsibility
-
-### Agency
-
-#### Values
+### Values
 - Autonomy
 - Freedom
 - Personal Power
 - Individual Responsibility
 
-### What could looks like
+## Structure
+
+### Values
+- Clarity
+- Accountability
+- Integrity
+- Collective Responsibility
+
+
+## What could looks like
 - I can influence the structures that I am a part of
 - As few structures as are needed. No more, no less
 - Non prescriptive

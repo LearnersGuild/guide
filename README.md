@@ -12,5 +12,8 @@ We are building a team that understands our mission and core values and will hel
 
 Each learner is responsible for reading, understanding, and complying with this playbook. Our goal is to work together towards a learning environment that is constructive and supports both personal and professional growth.  
 
+---
+
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
