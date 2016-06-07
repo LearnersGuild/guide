@@ -1,16 +1,18 @@
-# Joy Tension: Play <--> Seriousness (Whole Heartedness)
+# Joy Tension: Play <--> Whole Heartedness
 
-The Flow Tension optimizes the energies between seriousness and joyous play. We believe that when take ourselves and our practices seriously, when we approach our practices with wholeheartedness and immerse ourselves in them, we get into the flow, or a state of sustained engagement that generates spontaneous joy.  
+The Flow Tension optimizes the energies between whole heartedness and play. We believe that when take ourselves lightly and our purpose seriously, when we approach our practices with wholeheartedness and immerse ourselves in them, we get into the flow, or a state of sustained engagement that generates spontaneous joy.  
 
 
 ## Play
+- fun
+- enjoyment
+- aimless exploration
 
-## Seriousness
 
-### Values
+## Whole Heartedness
 - meaning
 - purpose
-- Practice [Whole Heartedness](/Practices/Whole_Heartedness.md)
+- Practice [presence](/Practices/Presence.md)
 
 
 ## What it could look like

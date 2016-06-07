@@ -11,13 +11,13 @@ We understand that the achievement of mastery is one of the strongest drives in 
 
 - Resources
 
-## What it looks like
+## Look & Feel
 
-What’s possible: An environment that is “high challenge, high support” enables me to accomplish things that I can’t do alone. I’m stretched and pushed into my Zone of Proximal Development, consistently working on challenges that are slightly out of my reach, but that I can effectively tackle with support and guidance.
+**What’s possible:** An environment that is “high challenge, high support” enables me to accomplish things that I can’t do alone. I’m stretched and pushed into my Zone of Proximal Development, consistently working on challenges that are slightly out of my reach, but that I can effectively tackle with support and guidance.
 
-Feels like: Working in my ZPD with adequate support is inherently joyful; I can tell I’m acquiring new skills, growing and developing my capacities. I’m challenged enough to tell I’ve accomplished something at the end of the day, but not so much that I feel consistently defeated or demoralized. There may be moments or even long stretches of frustration and struggle, but it’s in these moments that I feel safe enough to ask for help and the appropriate amount and type of support is available (modeling, coaching, or encouragement). I experience a sense of accomplishment and personal efficacy.
+**Feels like:** Working in my ZPD with adequate support is inherently joyful; I can tell I’m acquiring new skills, growing and developing my capacities. I’m challenged enough to tell I’ve accomplished something at the end of the day, but not so much that I feel consistently defeated or demoralized. There may be moments or even long stretches of frustration and struggle, but it’s in these moments that I feel safe enough to ask for help and the appropriate amount and type of support is available (modeling, coaching, or encouragement). I experience a sense of accomplishment and personal efficacy.
 
-Looks like: High engagement, the room is “buzzing”, people are eager to help me (and I’m eager to help them) and tackle problems together. I know how to get help when I need it and where to get it from. When providing help, I know something about the right kind of help to offer (does the person need me to show them? Talk them through it? Encourage them to stick with it through a challenging moment?) High fives, exclamations of success, appreciations, funny dance moves, and encouragement abound.
+**Looks like:** High engagement, the room is “buzzing”, people are eager to help me (and I’m eager to help them) and tackle problems together. I know how to get help when I need it and where to get it from. When providing help, I know something about the right kind of help to offer (does the person need me to show them? Talk them through it? Encourage them to stick with it through a challenging moment?) High fives, exclamations of success, appreciations, funny dance moves, and encouragement abound.
 
 ----
 

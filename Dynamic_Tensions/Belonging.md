@@ -1,22 +1,26 @@
 > Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation. ~ Dewey
 
-# Belonging Tension: Authentic Individuality <--> Common Wealth / Wellbeing / Good
+# Belonging Tension: Authentic Individuality <--> Common Good
+
+The Belonging Tension optimizes the energies between the individual and the community. We believe that human beings thrive when we are in the full expression of who we are while also being aware that we are a part of something greater than ourselves.
+
 
 ## Common Good
 
-### Values
 - Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging
 - Dignity
 - Belonging
 - Love
 - Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
 
-### Authentic Individuality
+## Authentic Individuality
 - Wholeness
 - Diversity
 - Inclusion
+- Realness
+- Personal expression
 
-## What it could look like
+## Look & Feel
 
 - Aligned incentives
 - Flux, dynamism and tension between individual self interest and collective gain

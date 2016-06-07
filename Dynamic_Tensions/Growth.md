@@ -12,7 +12,6 @@ We are in the learning business. Learning is the process of acting on our curios
 
 ## Safety
 
-### Values
 - Kindness: We treat ourselves and others with dignity, respect and an open heart. We assume good intentions and give others the benefit of doubt.
 - Appreciation: Seeing and reflecting the best in others
 - Vulnerability: Choosing to be impacted by someone else's truth and being committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
@@ -23,7 +22,6 @@ We are in the learning business. Learning is the process of acting on our curios
 
 ## Truth
 
-### Values
 - Courage: Choosing courage over comfort
 - Transparency & Openness
 - Continuous feedback
@@ -31,11 +29,11 @@ We are in the learning business. Learning is the process of acting on our curios
 - Practice [Radical Honesty](/Practices/Radical_Honesty.md)
 
 
-First: **A genuine love for and pursuit of truth**
+## Look & Feel
 
-  We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as open as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
+### A genuine love for and pursuit of truth**
 
-
+We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as open as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
 
 ### Building Trust with Truth
 
