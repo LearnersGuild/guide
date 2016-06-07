@@ -17,17 +17,18 @@ We are in the learning business. Learning is the process of acting on our curios
 - Appreciation: Seeing and reflecting the best in others
 - Vulnerability: Choosing to be impacted by someone else's truth and being committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 - Practice [clearing withholds](/Practices/Clearing_Withholds.md)
+- Practice [non triangulation](/Practices/Non_Triangulation.md)
+- Practice [non judgement](/Practices/Non_Judgement.md)
 
 
 ## Truth
 
 ### Values
-- Honesty: Speaking my truth clearly and authentically.
 - Courage: Choosing courage over comfort
 - Transparency & Openness
 - Continuous feedback
-
-
+- Practice [Accountability](/Practices/Accountability.md)
+- Practice [Radical Honesty](/Practices/Radical_Honesty.md)
 
 
 First: **A genuine love for and pursuit of truth**

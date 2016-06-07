@@ -10,9 +10,7 @@ The Flow Tension optimizes the energies between seriousness and joyous play. We 
 ### Values
 - meaning
 - purpose
-- Practice Whole Heartedness
-
-We are present. Fully engaging our work. Mind, body, heart and spirit. We don't hold back.
+- Practice [Whole Heartedness](/Practices/Whole_Heartedness.md)
 
 
 ## What it could look like
