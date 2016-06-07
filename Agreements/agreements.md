@@ -57,24 +57,14 @@ Our agreements are meaningless if we don't hold ourselves and each other account
 
 Our interpersonal practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
 
-### Practice Kindness
 
-We treat ourselves and others with dignity, respect and an open heart. We assume good intentions and give others the benefit of doubt.
 
-### Practice Whole Heartedness
-
-We are present. Fully engaging our work. Mind, body, heart and spirit. We don't hold back.
-
-### Practice Radical Responsibility:
-
-We assume full ownership of our collective purpose and our role(s) in it. We don't blame or avoid. [We own our experience, and our emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
 
 ### Practice Being Real and Vulnerable
 
 We are real with each other. We minimize bullshit and call people on it (kindly).
 ![Alt text](/images/candor.jpg)
 
-On the flip side of choosing radical honesty, we choose to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
 ### Practice Resisting and Overcoming Oppression
 

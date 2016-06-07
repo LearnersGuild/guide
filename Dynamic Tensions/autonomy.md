@@ -8,19 +8,15 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - Autonomy
 - Freedom
 - Personal Power
-- Accountability: Accepting responsibility for my actions. Owning my stuff
-- Practice Radical Responsibility: We assume full ownership of our collective purpose and our role(s) in it. We don't blame or avoid. [We own our experience, and our emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
-
+- Individual Responsibility
 
 ## Structure
 
 ### Values
-- Clarity: Making what's implicit, explicit
-- Integrity: Keeping my word. Practicing the values I profess
-- Boundaries: Having good boundaries and honoring others' boundaries
+- Clarity
+- Accountability
+- Integrity
 - Collective Responsibility
-
-
 
 
 ## What could looks like
