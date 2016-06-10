@@ -96,7 +96,7 @@ Casual, but professional. As in, we want you to be comfortable and that looks di
 
 **What if I can’t get a job?**
 
-Keep learning and studying. We all learn at different paces. As long as your keeping your agreements with the Guild, there is no limit to how long you can stay and keep practicing your craft.
+Keep learning and studying. We all learn at different paces. As long as you are keeping your agreements with the Guild, there is no limit to how long you can stay and keep practicing your craft.
 
 **What if I change my mind and don’t want to be a software developer?**
 
@@ -114,4 +114,4 @@ Income sharing only starts if you're earning a salary of more than $50k.
 
 **What if I get fired from my first job or decide to quit?**
 
-If you're unemployed, the Income Sharing Agreement is paused until you're making a salary again.
+If you become unemployed, the Income Sharing Agreement is paused until you're making a salary again.
