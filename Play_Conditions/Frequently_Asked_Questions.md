@@ -12,7 +12,6 @@ Occasionally, there will be something happening on a Saturday. We’ll give you 
 
 Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn. Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments that cannot happen outside of business hours.
 
-
 **What if I get sick?**
 
 Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity.
@@ -21,11 +20,12 @@ Inform your team and/or moderator, and make sure to make up anything you missed.
 
 No. We close the doors at 6:30pm, and nobody works on weekends. Get some rest, exercise, go outside! Your mind and body need breaks to sustain the prolonged learning effort.
 
-Leaving, starting, stopping the program:
+### Leaving, starting, stopping the program
 
-Do you kick people out? Why? How? Will I know ahead of time?
+**Do you kick people out? Why? How? Will I know ahead of time?**
 
-Can I take a leave of absence?
+**Can I take a leave of absence?**
+
 Under extenuating circumstances (e.g. illness, family emergency), learners may be allowed to take a leave of absence from the program. Upon your return, you would likely join the cohort closest to the point in the program when you had to leave. Leaves of absence will be evaluated on a case-by-case basis.
 
 **Can I re-join a later cohort if it turns out the timing isn’t good for me?**
@@ -43,7 +43,8 @@ By signing this contract, you’re letting us know that you are certain about yo
 **What’s the consequence for leaving the program early?**
 
 During the fourth week of the program, you’ll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you’ve decided that becoming a software engineer is not the path you want to pursue, or that you don’t wish to continue pursuing that path with Learners Guild, you’ll have an opportunity to leave the program with no additional consequence or obligation. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
-Working together:
+
+### Working together
 
 **What’s required? What’s optional? (Projects, Home Group, HD curriculum)**
 
@@ -86,6 +87,8 @@ Apple computers running the latest Mac OS. If you are used to a Windows or Linux
 **Is there a dress code?**
 
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but maybe leave the pj’s at home.
+
+### After the program
 
 **What if I can’t get a job?**
 
