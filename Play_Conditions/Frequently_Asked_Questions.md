@@ -40,7 +40,7 @@ You can only change cohorts once. After that, you will need to quit and re-apply
 
 **What if I change my mind after I sign this contract?**
 
-By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. Please don’t sign it until you are sure - reach out to us to discuss questions or concerns. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. Please carefully consider your decision, and sign only when you are a joyful and confident “yes”. If you need to seek the opinion of a trusted third party, we highly encourage you to do so.  
+By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. Please don’t sign it until you are sure—reach out to us to discuss questions or concerns. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. Please carefully consider your decision, and sign only when you are a joyful and confident “yes”. If you need to seek the opinion of a trusted third party, we highly encourage you to do so.
 
 **What’s the consequence for leaving the program early?**
 
@@ -48,13 +48,13 @@ During the fourth week of the program, you’ll have an opportunity to reflect o
 
 ### Working together
 
-**What’s required? What’s optional? (Projects, Home Group, HD curriculum)**
+**What’s required? What’s optional? (Projects, Home Group, HD modules)**
 
 With other learners, you collectively choose the projects you work on - no specific project is required, many things may be offered or suggested by a Practitioner or Learning Facilitator. What is required is that you participate fully in the structure of the program:
 
 - you vote on choosing a goals and join a project to work towards each week
-- you dedicate yourself to it for the week
-- you complete the weekly retrospective
+- you dedicate yourself to the project and your team for the week
+- you complete the end-of-week retrospective
 - you attend daily standups and weekly home group meetings
 - you serve as a team lead when it’s your turn to do so
 
