@@ -6,23 +6,23 @@
 
 This means that while the company will always try to respect member privacy, members do not have a right to privacy in their workspaces in any property that belongs to Learners Guild. Learners Guild reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover member safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to a staff member.
 
-## Email and Internet Privacy
+## Email, Chat, and Internet Privacy
 
-Learners Guild email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at member usage for both in order to protect member safety and wellbeing, as well as company property and interests.
+Learners Guild email, chat, and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at member usage for both in order to protect member safety and wellbeing, as well as company property and interests.
 
 ## All Conduct Rules Apply to Email & Chat
 
-All of our policies and rules of conduct apply to member use of the email system. This means, for example, that you may not use the email system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
+All of our policies and rules of conduct apply to member use of the email and chat systems. This means, for example, that you may not use the email or chat system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
 
 ## Professional Tone and Content
 
 We expect you to exercise discretion in using electronic communications equipment. When you send email using a Learners Guild email address or Learners Guild social account, you are representing Learners Guild. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
 
-## Email Security
+## Internet Security
 
-To avoid email viruses, phishing for account information, and other threats, members should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
+To avoid viruses, phishing for account information, and other threats, members should not open file attachments from people and businesses they don’t recognize, particularly if they originate from an email message that appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
 
-If you believe your computer has been infected by a virus, worm, or other security threat to Learners Guild’s system, you must inform the founders immediately.
+If you believe your computer has been infected by a virus, worm, or other security threat to Learners Guild’s system, you must inform a Learners Guild staff member immediately.
 
 Members may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Learners Guild network
 

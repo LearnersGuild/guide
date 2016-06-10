@@ -2,7 +2,7 @@
 
 **What is the time commitment?**
 
-Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
+Show up every weekday (except [these observed national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
 
 Almost every week, there will be events happening during the evening. These events will be optional but highly recommended (usually Tuesday and Thursday evening)
 
@@ -10,8 +10,9 @@ Occasionally, there will be something happening on a Saturday. We’ll give you 
 
 **What happens if I show up late? What if I have to leave early?**
 
-Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn. Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments that cannot happen outside of business hours.
+Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn.
 
+Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments and civic duties that cannot happen outside of business hours.
 
 **What if I get sick?**
 
@@ -21,11 +22,12 @@ Inform your team and/or moderator, and make sure to make up anything you missed.
 
 No. We close the doors at 6:30pm, and nobody works on weekends. Get some rest, exercise, go outside! Your mind and body need breaks to sustain the prolonged learning effort.
 
-Leaving, starting, stopping the program:
+### Leaving, starting, stopping the program
 
-Do you kick people out? Why? How? Will I know ahead of time?
+**Do you kick people out? Why? How? Will I know ahead of time?**
 
-Can I take a leave of absence?
+**Can I take a leave of absence?**
+
 Under extenuating circumstances (e.g. illness, family emergency), learners may be allowed to take a leave of absence from the program. Upon your return, you would likely join the cohort closest to the point in the program when you had to leave. Leaves of absence will be evaluated on a case-by-case basis.
 
 **Can I re-join a later cohort if it turns out the timing isn’t good for me?**
@@ -38,20 +40,21 @@ You can only change cohorts once. After that, you will need to quit and re-apply
 
 **What if I change my mind after I sign this contract?**
 
-By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. Please don’t sign it until you are sure - reach out to us to discuss questions or concerns. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. Please carefully consider your decision, and sign only when you are a joyful and confident “yes”. If you need to seek the opinion of a trusted third party, we highly encourage you to do so.  
+By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. Please don’t sign it until you are sure—reach out to us to discuss questions or concerns. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. Please carefully consider your decision, and sign only when you are a joyful and confident “yes”. If you need to seek the opinion of a trusted third party, we highly encourage you to do so.
 
 **What’s the consequence for leaving the program early?**
 
 During the fourth week of the program, you’ll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you’ve decided that becoming a software engineer is not the path you want to pursue, or that you don’t wish to continue pursuing that path with Learners Guild, you’ll have an opportunity to leave the program with no additional consequence or obligation. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
-Working together:
 
-**What’s required? What’s optional? (Projects, Home Group, HD curriculum)**
+### Working together
+
+**What’s required? What’s optional? (Projects, Home Group, HD modules)**
 
 With other learners, you collectively choose the projects you work on - no specific project is required, many things may be offered or suggested by a Practitioner or Learning Facilitator. What is required is that you participate fully in the structure of the program:
 
 - you vote on choosing a goals and join a project to work towards each week
-- you dedicate yourself to it for the week
-- you complete the weekly retrospective
+- you dedicate yourself to the project and your team for the week
+- you complete the end-of-week retrospective
 - you attend daily standups and weekly home group meetings
 - you serve as a team lead when it’s your turn to do so
 
@@ -79,6 +82,8 @@ You can install anything on the laptop, so long as it is legal.
 
 You can, although you need to have a Mac. Everyone at Learners Guild uses a Mac computer, so it will be easier for you to collaborate with your team if you are all using the same platform.
 
+While using Learners Guild facilities and network access, you are still bound by the same usage policy as other learners (i.e. no illegal online activities).
+
 **What platforms and operating systems does Learners Guild use?**
 
 Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
@@ -87,9 +92,11 @@ Apple computers running the latest Mac OS. If you are used to a Windows or Linux
 
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but maybe leave the pj’s at home.
 
+### After the program
+
 **What if I can’t get a job?**
 
-Keep learning and studying. We all learn at different paces. As long as your keeping your agreements with the Guild, there is no limit to how long you can stay and keep practicing your craft.
+Keep learning and studying. We all learn at different paces. As long as you are keeping your agreements with the Guild, there is no limit to how long you can stay and keep practicing your craft.
 
 **What if I change my mind and don’t want to be a software developer?**
 
@@ -107,4 +114,4 @@ Income sharing only starts if you're earning a salary of more than $50k.
 
 **What if I get fired from my first job or decide to quit?**
 
-If you're unemployed, the Income Sharing Agreement is paused until you're making a salary again.
+If you become unemployed, the Income Sharing Agreement is paused until you're making a salary again.

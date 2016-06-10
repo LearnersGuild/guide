@@ -8,4 +8,4 @@ Above all other considerations, our drug and alcohol policy is intended to preem
 
 Members who violate this policy may face disciplinary action, up to and including termination. Alcohol in the form of beer or wine may occasionally be brought into the office to celebrate an accomplishment, birthday, or other milestone. Though events at the Learners Guild office will be presumed dry until otherwise discussed, there may also be events in the office after work where beer or wine are available.
 
-Illegal drugs should not be used, bought, sold, or distributed, either in the office or outside of the office while representing Learners Guild.
+Illegal drugs should not be used, bought, sold, or distributed, either in the office or outside of the office at any time.
