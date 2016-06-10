@@ -2,7 +2,7 @@
 
 **What is the time commitment?**
 
-Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
+Show up every weekday (except [these observed national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
 
 Almost every week, there will be events happening during the evening. These events will be optional but highly recommended (usually Tuesday and Thursday evening)
 
