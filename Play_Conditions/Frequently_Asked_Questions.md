@@ -82,6 +82,8 @@ You can install anything on the laptop, so long as it is legal.
 
 You can, although you need to have a Mac. Everyone at Learners Guild uses a Mac computer, so it will be easier for you to collaborate with your team if you are all using the same platform.
 
+While using Learners Guild facilities and network access, you are still bound by the same usage policy as other learners (i.e. no illegal online activities).
+
 **What platforms and operating systems does Learners Guild use?**
 
 Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
