@@ -10,7 +10,9 @@ Occasionally, there will be something happening on a Saturday. We’ll give you 
 
 **What happens if I show up late? What if I have to leave early?**
 
-Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn. Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments that cannot happen outside of business hours.
+Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn.
+
+Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments and civic duties that cannot happen outside of business hours.
 
 **What if I get sick?**
 
