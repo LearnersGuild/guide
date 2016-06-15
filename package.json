@@ -1,0 +1,27 @@
+{
+  "name": "playbook",
+  "version": "0.0.1",
+  "description": "Guide for Learners",
+  "scripts": {
+    "book:clean": "rimraf _book",
+    "book:prepare": "gitbook install",
+    "book:build": "npm run book:prepare && gitbook build",
+    "book:watch": "npm run book:prepare && gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnersGuild/playbook.git"
+  },
+  "author": "Shereef Bishay <shereef@learnersguild.org>",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/LearnersGuild/playbook/issues"
+  },
+  "homepage": "https://github.com/LearnersGuild/playbook#readme",
+  "devDependencies": {
+    "gitbook": "^3.1.1",
+    "gitbook-cli": "^2.3.0",
+    "gitbook-summary": "^1.1.0",
+    "rimraf": "^2.4.3"
+  }
+}

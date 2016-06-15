@@ -1,7 +1,5 @@
 {
   "bookname": "Playbook",
-  "catalog": "all",
-  "ignores": ["_book"],
-  "unchanged": [],
-  "sortedBy": "_"
+  "gitbook": "3.x.x",
+  "ignores": ["_book"]
 }
