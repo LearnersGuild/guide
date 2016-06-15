@@ -22,26 +22,26 @@ Your focus should be on developing the above skills. The below tasks are good pl
 
 #### Development Environment and Tooling
 
-- [ ] Download and install the [Atom][atom] editor
-- [ ] Read chapters 1 and 2 of the [Atom Flight Manual][atom-flight-manual]
-- [ ] Read this [introduction to the Mac OS command line][intro-cli] and try out the commands
-- [ ] Go through the [Command Line Crash Course][cli-crash-course] and/or Codecademy's [Learn the Command Line][codecademy-cli] course
-- [ ] Sign up for a free account on a cloud development environment service (like [Nitrous][nitrous] or [Cloud 9][c9]) and play with the features
+- Download and install the [Atom][atom] editor
+- Read chapters 1 and 2 of the [Atom Flight Manual][atom-flight-manual]
+- Read this [introduction to the Mac OS command line][intro-cli] and try out the commands
+- Go through the [Command Line Crash Course][cli-crash-course] and/or Codecademy's [Learn the Command Line][codecademy-cli] course
+- Sign up for a free account on a cloud development environment service (like [Nitrous][nitrous] or [Cloud 9][c9]) and play with the features
 
 #### Making Websites: HTML, CSS, and JavaScript
 
-- [ ] Read [20 Things I Learned About Browsers and the Web][20-things]
-- [ ] Read and complete [Shay Howe's HTML & CSS lessons][shay-howe-htmlcss]
-- [ ] Read chapters 1-10 of [Eloquent JavaScript][eloquent-js]
-- [ ] Complete [Make a Website][codecademy-make-website], [Make an Interactive Website][codecademy-interactive-website], [JavaScript][codecademy-js] tracks on Codecademy
-- [ ] Create and publish your own website with GitHub Pages (use [this Guide][gh-pages-guide])
+- Read [20 Things I Learned About Browsers and the Web][20-things]
+- Read and complete [Shay Howe's HTML & CSS lessons][shay-howe-htmlcss]
+- Read chapters 1-10 of [Eloquent JavaScript][eloquent-js]
+- Complete [Make a Website][codecademy-make-website], [Make an Interactive Website][codecademy-interactive-website], [JavaScript][codecademy-js] tracks on Codecademy
+- Create and publish your own website with GitHub Pages (use [this Guide][gh-pages-guide])
 
 #### Version Control and Project Management
 
-- [ ] Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
-- [ ] Complete the [Try Git][cs-try-git] course
-- [ ] Read and practice the [Mastering Issues][gh-issues-guide] and [Forking Projects][gh-forking-guide] guides
-- [ ] Read [Mastering Markdown][gh-md-guide] and practice writing Markdown wherever you can
+- Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
+- Complete the [Try Git][cs-try-git] course
+- Read and practice the [Mastering Issues][gh-issues-guide] and [Forking Projects][gh-forking-guide] guides
+- Read [Mastering Markdown][gh-md-guide] and practice writing Markdown wherever you can
 
 #### Other Useful Resources
 
