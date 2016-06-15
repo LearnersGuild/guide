@@ -4,7 +4,7 @@
 
 Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
 
-Almost every week, there will be events happening during the evening. These events will be optional but highly recommended (usually Tuesday and Thursday evening)
+Almost every week, there will be events (social/networking/speakers) happening during the evening. These events will be optional but highly recommended (usually Tuesday or Thursday evening).
 
 Occasionally, there will be something happening on a Saturday. We’ll give you a heads up at least a month in advance and try to minimize that stuff so people can have their weekends.
 
