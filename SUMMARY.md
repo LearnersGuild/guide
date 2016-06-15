@@ -11,9 +11,6 @@
 - Misc
     * [Guidelines](/Misc/Guidelines.md)
     * [Purpose](/Misc/Purpose.md)
-- Operating Model
-    * [Tooling](/Operating_Model/Tooling.md)
-    * [Working Together](/Operating_Model/Working_Together.md)
 - [Policies](/Policies/README.md)
     * [Code Of Conduct](/Policies/Code_of_Conduct.md)
     * [Complaint Policy](/Policies/Complaint_Policy.md)
