@@ -16,12 +16,10 @@ The Play Tension optimizes the energies between whole heartedness and fun. We be
 - purpose
 - dedication
 - whole heartedness
-- Practice [presence](/Practices/Presence.md)
-
+- practice [presence](/Practices/Presence.md)
+- flow
 
 ## What it could look like
-
-- flow
 
 What’s possible: An environment that is both high in play and high in seriousness creates a field of purposeful joy. I’m resourced to sustain a high output of energy over a long period of time because the act of working is energizing and joyful.
 Feels like: Fun! I’m in a flow state, fully present and immersed in the act of learning. I feel a healthy competitive motivation to exceed my past performance, to “win” at accomplishing the goals I’ve set for myself.

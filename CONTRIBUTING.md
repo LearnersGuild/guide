@@ -1,12 +1,12 @@
 # Contributing and Editing the Playbook
 
-Any partner within Learners Guild can contribute to the playbook. This document explains how.
+Any member of Learners Guild can contribute to the playbook. This document explains how.
 
 Depending on the kind of edit, there are different approaches.
 
 If the edit is about formatting, fixing links, or otherwise improving the form of the content, it is a **style edit**. If the edit is about changing, removing, or adding to the information contained within the playbook, it is a **content edit**.
 
-Style edits don't need to be approved by anyone - they can be immediately integrated. Content edits should be approved by at least one other partner, since they will affect how we work together.
+Style edits don't need to be approved by anyone - they can be immediately integrated. Content edits should be approved by an LG partner, since they will affect how we work/learn together.
 
 Before learning about how to make edits, let's review the technology used.
 

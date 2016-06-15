@@ -12,7 +12,6 @@ Occasionally, there will be something happening on a Saturday. We’ll give you 
 
 Your stats will be affected, and you may have to make up work. But so long as you stay in integrity (i.e. let your team and/or moderator know ahead of time), you will not be asked to leave. That said, please hold the program hours as sacred and do whatever you can to protect them and ensure you are present and ready to learn. Schedule appointments and other obligations outside of program hours - exceptions should only be made for medical appointments that cannot happen outside of business hours.
 
-
 **What if I get sick?**
 
 Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity.
@@ -23,9 +22,12 @@ No. We close the doors at 6:30pm, and nobody works on weekends. Get some rest, e
 
 Leaving, starting, stopping the program:
 
-Do you kick people out? Why? How? Will I know ahead of time?
+**Do you kick people out? Why? How? Will I know ahead of time?**
 
-Can I take a leave of absence?
+Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process](/Processes/Conflict.md). Usually, this is because they have consistently violated our shared agreements.
+
+**Can I take a leave of absence?**
+
 Under extenuating circumstances (e.g. illness, family emergency), learners may be allowed to take a leave of absence from the program. Upon your return, you would likely join the cohort closest to the point in the program when you had to leave. Leaves of absence will be evaluated on a case-by-case basis.
 
 **Can I re-join a later cohort if it turns out the timing isn’t good for me?**
@@ -97,9 +99,7 @@ We would be sorry to hear that, but of course it is your choice. You would still
 
 **What if I want to do a startup after?**
 
-Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program.
-
-If you choose to start your own company within three years of leaving Learners Guild you immediately owe us the remaining payments of your Income Sharing Agreements.
+Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront. 
 
 **What if I don’t earn more than $50,000 per year in my first job?**
 
