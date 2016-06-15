@@ -14,7 +14,7 @@ Respect, love, and nurture your own and others' opinions. Recognize that they ar
 
 ## Identify real tensions.
 
-Where is your tension coming from? Is it coming from a role? Is it coming from a past experience? Is it a personal tension? A future fear? Every tension is valid. It is your intelligence sensing that something can change for the better.
+Where is your tension coming from? Is it coming from a past experience? Is it a personal tension? A future fear? Every tension is valid. It is your intelligence sensing that something can change for the better.
 
 Stay true to it, and seek to clarify its origin. If you give up on your tension, you will disengage from your work, and rob the company from the information embedded in it.
 
@@ -57,7 +57,7 @@ Autonomy only works if we choose to communicate over command. In a cooperative e
 
 Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.  
 
-Love comes bearing many gifts: forgiveness, gratitude, enjoyment and ease. Let's work together for a low-drama, low-struggle, enemy-free, loving company.
+Love comes bearing many gifts: forgiveness, gratitude, enjoyment and ease. Let's work together for a low-drama, low-struggle, enemy-free, loving collective.
 
 ## Serve with humility
 
