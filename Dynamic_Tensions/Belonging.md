@@ -2,25 +2,31 @@
 
 # Belonging Tension
 
-## Authentic Individuality <--> Common Good
+## Authenticity <--> Relationship
 
 The Belonging Tension optimizes the energies between the individual and the community. We believe that human beings thrive when we are in the full expression of who we are while also being aware that we are a part of something greater than ourselves.
 
+## Authenticity
 
-## Common Good
-
-- Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging
-- Dignity
-- Belonging
-- Love
-- Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
-
-## Authentic Individuality
 - Wholeness
 - Diversity
 - Inclusion
 - Realness
 - Personal expression
+- Authentic Individuality
+- Being Yourself
+
+
+## Relationship
+
+- Shared Identity
+- Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging
+- Being with Others
+- Dignity
+- Belonging
+- Love
+- Common Good
+- Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
 
 ## Look & Feel
 
@@ -43,3 +49,5 @@ Total individualism views society only as an oppressive force— any collaborati
 What’s possible: An environment that values the collective and the individual is one where I can be myself while still being able to tell that I’m part of something bigger than just me. I act in the collective best interest of the community because I can tell that a healthy community will serve me as an individual. The community makes space for me as an individual because it knows that when I’m recognized for my unique contributions, I joyfully offer them in service of the community.
 Feels like: I can be “myself” here. My differences are respected, celebrated and encouraged. This is a place where people like me belong. I’m comfortable, I don’t have to pretend to be someone different. I feel “up to something” with the people around me. We’re building something bigger than any one of us could accomplish alone. We’re on a journey together. These are “my people”.
 Looks like: Individual differences are celebrated and appreciated. There’s room for difference of opinion and belief, for self-determination and individual agency. The environment is shaped and changed by the people in it. People are thoughtful and mindful of their impact on each other and the physical space. They self-organize around keeping spaces clean, making improvements that will benefit everyone, not just themselves. There’s a strong group identity - LG pride.
+
+> If you want to fast, go alone. If you want to go far, go together. ~ African Proverb

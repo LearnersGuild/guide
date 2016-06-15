@@ -1,4 +1,4 @@
-# Freedom Tension
+# Efficacy Tension
 
 ## Agency <--> Structure
 
