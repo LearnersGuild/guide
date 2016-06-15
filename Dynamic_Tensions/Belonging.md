@@ -1,4 +1,4 @@
-> Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation. ~ Dewey
+> If you want to fast, go alone. If you want to go far, go together. ~ African Proverb
 
 # Belonging Tension
 
@@ -10,7 +10,6 @@ The Belonging Tension optimizes the energies between the individual and the comm
 
 - Wholeness
 - Diversity
-- Inclusion
 - Realness
 - Personal expression
 - Authenticity
@@ -19,8 +18,9 @@ The Belonging Tension optimizes the energies between the individual and the comm
 
 ## Being in Relationship
 
+- Inclusion
 - Shared Identity
-- Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging
+- Human Connection
 - Being with Others
 - Dignity
 - Belonging
@@ -46,8 +46,12 @@ Total individualism views society only as an oppressive force— any collaborati
 
 ## What it looks like
 
-What’s possible: An environment that values the collective and the individual is one where I can be myself while still being able to tell that I’m part of something bigger than just me. I act in the collective best interest of the community because I can tell that a healthy community will serve me as an individual. The community makes space for me as an individual because it knows that when I’m recognized for my unique contributions, I joyfully offer them in service of the community.
-Feels like: I can be “myself” here. My differences are respected, celebrated and encouraged. This is a place where people like me belong. I’m comfortable, I don’t have to pretend to be someone different. I feel “up to something” with the people around me. We’re building something bigger than any one of us could accomplish alone. We’re on a journey together. These are “my people”.
-Looks like: Individual differences are celebrated and appreciated. There’s room for difference of opinion and belief, for self-determination and individual agency. The environment is shaped and changed by the people in it. People are thoughtful and mindful of their impact on each other and the physical space. They self-organize around keeping spaces clean, making improvements that will benefit everyone, not just themselves. There’s a strong group identity - LG pride.
+**What’s possible:** An environment that values the collective and the individual is one where I can be myself while still being able to tell that I’m part of something bigger than just me. I act in the collective best interest of the community because I can tell that a healthy community will serve me as an individual. The community makes space for me as an individual because it knows that when I’m recognized for my unique contributions, I joyfully offer them in service of the community.
 
-> If you want to fast, go alone. If you want to go far, go together. ~ African Proverb
+
+**Feels like:** I can be “myself” here. My differences are respected, celebrated and encouraged. This is a place where people like me belong. I’m comfortable, I don’t have to pretend to be someone different. I feel “up to something” with the people around me. We’re building something bigger than any one of us could accomplish alone. We’re on a journey together. These are “my people”.
+
+
+**Looks like:** Individual differences are celebrated and appreciated. There’s room for difference of opinion and belief, for self-determination and individual agency. The environment is shaped and changed by the people in it. People are thoughtful and mindful of their impact on each other and the physical space. They self-organize around keeping spaces clean, making improvements that will benefit everyone, not just themselves. There’s a strong group identity - LG pride.
+
+> Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation. ~ Dewey
