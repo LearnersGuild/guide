@@ -4,13 +4,17 @@
 
 We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.[^1]
 
+We achieve Mastery by co-creating an environment that challenges us out of our comfort zone, and supports us in overcoming these challenges.
+
 ## Challenge
 
 - Relevant Stretchy goals
-- ZPD
+- Zone of Proximal Development
 
 ## Support
 
+- Guidance
+- Mentorship
 - Resources
 
 ## Look & Feel
