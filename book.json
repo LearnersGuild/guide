@@ -1,1 +1,7 @@
-{}
+{
+  "bookname": "Playbook",
+  "catalog": "all",
+  "ignores": ["_book"],
+  "unchanged": [],
+  "sortedBy": "_"
+}
