@@ -2,7 +2,7 @@
 
 ## Agency <--> Structure
 
-Optimizes the energies between structure and possibility (choice?/freedom? agency?). We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us.
+Optimizes the energies between structure and agency. We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able to experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us in an effective and efficient way. 
 
 ## Agency
 - Autonomy
@@ -21,8 +21,8 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 - I can influence the structures that I am a part of
 - As few structures as are needed. No more, no less
 - Non prescriptive
-- Non coersive structures
-- Clear transparent agreements. Shared. Recorded.
+- Non coercive structures
+- Clear transparent agreements. Shared. Recorded
 - I know my place here, what is expected of me, what I can expect from other people
 - There is accountability: people do what they say they are going to do
 - There is integrity: if I mess up I follow up on it
