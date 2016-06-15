@@ -47,7 +47,7 @@ Everyone is responsible for embodying and improving this culture.
     * [Radical Honesty](/Practices/Radical_Honesty.md)
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
-    * [Conflict](/Processes/Conflict.md)
+    * [Conflict Resolution Process](/Processes/Conflict.md)
 - [Purpose](/Misc/Purpose.md)
 - [Guidelines](/Misc/Guidelines.md)
 - [Glossary](/GLOSSARY.md)

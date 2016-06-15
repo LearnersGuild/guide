@@ -53,7 +53,4 @@ Within a role, learners move through three stages of development: apprentice, pr
 Stakeholders include all members in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
 
 # Support staff
-Support staff are guild members who work for Learners Guild but have a variable and/or short term commitment. 
-
-# Transparent
-Transparent information is information visible and accessible to all partners at Learners Guild, but is not shared with the outside world (including non-partner members). Contrast with open and private.
+Support staff are guild members who work for Learners Guild but have a variable and/or short term commitment.

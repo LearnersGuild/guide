@@ -27,5 +27,5 @@
     * [Radical Honesty](/Practices/Radical_Honesty.md)
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
-    * [Conflict](/Processes/Conflict.md)
+    * [Conflict Resolution Process](/Processes/Conflict.md)
 * [GLOSSARY](/GLOSSARY.md)
