@@ -22,23 +22,13 @@ The Cultural OS defines the components of our shared culture and the processes b
 
 Everyone is responsible for embodying and improving this culture.
 
+
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
     * [Belonging](/Dynamic_Tensions/Belonging.md)
-    * [Freedom](/Dynamic_Tensions/Freedom.md)
+    * [Efficacy](/Dynamic_Tensions/Efficacy.md)
     * [Growth](/Dynamic_Tensions/Growth.md)
-    * [Joy](/Dynamic_Tensions/Joy.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
-  * [GLOSSARY](/GLOSSARY.md)
-- Misc
-    * [Guidelines](/Misc/Guidelines.md)
-    * [Purpose](/Misc/Purpose.md)
-- Operating Model
-    * [Tooling](/Operating_Model/Tooling.md)
-    * [Working Together](/Operating_Model/Working_Together.md)
-- Play Conditions
-    * [Drug And Alcohol Policy](/Play_Conditions/Drug_and_Alcohol_Policy.md)
-    * [Frequently Asked Questions](/Play_Conditions/Frequently_Asked_Questions.md)
-    * [Member Privacy](/Play_Conditions/Member_Privacy.md)
+    * [Play](/Dynamic_Tensions/Play.md)
 - [Policies](/Policies/README.md)
     * [Code Of Conduct](/Policies/Code_of_Conduct.md)
     * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -58,9 +48,11 @@ Everyone is responsible for embodying and improving this culture.
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
     * [Conflict](/Processes/Conflict.md)
+- Misc
+    * [Guidelines](/Misc/Guidelines.md)
+    * [Purpose](/Misc/Purpose.md)
 
-
-TODO: Update links here from summary.md
+* [GLOSSARY](/GLOSSARY.md)
 
 ---
 

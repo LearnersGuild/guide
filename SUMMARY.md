@@ -1,13 +1,11 @@
 # Your Book Name
 
-  * [CONTRIBUTING](/CONTRIBUTING.md)
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
     * [Belonging](/Dynamic_Tensions/Belonging.md)
     * [Efficacy](/Dynamic_Tensions/Efficacy.md)
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Play](/Dynamic_Tensions/Play.md)
-  * [GLOSSARY](/GLOSSARY.md)
 - Misc
     * [Guidelines](/Misc/Guidelines.md)
     * [Purpose](/Misc/Purpose.md)
@@ -30,3 +28,4 @@
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
     * [Conflict](/Processes/Conflict.md)
+* [GLOSSARY](/GLOSSARY.md)
