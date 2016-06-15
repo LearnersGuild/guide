@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+command -v book >/dev/null 2>&1 || {
+  echo "Unable to build summary."
+  echo ""
+  echo "Install gitbook and gitbook-summary packages"
+  echo ""
+  echo "$ npm install -g gitbook gitbook-summary"
+  exit 1
+}
+
+book sm
