@@ -2,12 +2,11 @@
 
 ## Truth <--> Safety
 
-The Growth Tension optimizes the energies between safety and truth. We believe that growth truly happens when we feel safe enough to risk truth telling with one another; when we feel safe enough to take a hard look at ourselves and accept the gift of our community’s feedback; when we are held accountable without feeling judged; when we stretch to remain in integrity with ourselves and our shared agreements; when we strive to be impeccable with our words.
-
-
 We hold the fundamental belief that all people can learn and grow, and are driven by a deep desire to do so.
 
-Everyone at Learners Guild makes a commitment to their own personal development. They also make a commitment to the personal growth of others. We do this as a necessary means of achieving the highest business outcomes, and as an end in itself.
+The Growth Tension optimizes the energies between safety and truth. Growth truly happens when we feel safe enough to risk truth telling with one another; when we feel safe enough to take a hard look at ourselves and accept the gift of our community’s feedback; when we are held accountable without feeling judged; when we stretch to remain in integrity with ourselves and our shared agreements; when we strive to be impeccable with our words.
+
+Everyone at Learners Guild makes a commitment to their own personal development. They also make a commitment to the personal growth of others. We do this as a necessary means of achieving the highest learning outcomes, and as an end in itself.
 
 We are in the learning business. Learning is the process of acting on our curiosity, receiving feedback, integrating it, and reflecting on it. In working together, we are animated by:
 
@@ -44,13 +43,13 @@ The best way for you to make a decision about what’s good for Learners Guild i
 
 Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Learners Guild. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
-### Partner-to-Partner Feedback
+### Member-to-Member Feedback
 
-Feedback given from one partner to another is private unless the partner receiving the feedback wishes to share.
+Feedback given from one member to another is private unless the member receiving the feedback wishes to share.
 
-Giving and receiving feedback is an integral part of working at Learners Guild. We acknowledge that in order for us all to continuously grow, we need to be able to give and receive feedback on things that push the edges of our comfort zones. Feedback is vulnerable and thus should be respectful and private.
+Giving and receiving feedback is an integral part of learning at Learners Guild. We acknowledge that in order for us all to continuously grow, we need to be able to give and receive feedback on things that push the edges of our comfort zones. Feedback is vulnerable and thus should be respectful and private.
 
-Partners are, of course, encouraged to share as much of their _received_ feedback as they wish, whether to seek support or to stay in integrity.
+Members are, of course, encouraged to share as much of their _received_ feedback as they wish, whether to seek support or to stay in integrity.
 
 ### Private Information: When and why information should be private
 
@@ -58,14 +57,14 @@ Choose to make information private if:
 
 - making it transparent could damage the purpose of the organization
 - you do not own the information and do not have the owner's explicit permission to make it transparent
-- the information directly concerns another partner and you do not have their explicit permission to make it transparent
+- the information directly concerns another person and you do not have their explicit permission to make it transparent
 
 
 ### Closing the Gaps
 
 In a typical organization, individuals expend enormous energy protecting themselves. People hide parts of themselves, avoid conflict, unwittingly sabotage change efforts, and subtly enforce a separation between “the me at work” and the “real me”. The consequences are all too common, and all too familiar: more stress and turnover, office politics and gossip, less engagement and collaboration, and ultimately worse outcomes.
 
-“Gaps” in organizations, in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.[^1]
+“Gaps” in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.[^1]
 
 #### Gaps may arise between:
 
@@ -81,7 +80,7 @@ In a typical organization, individuals expend enormous energy protecting themsel
 
 We acknowledge that these gaps exist, and we are dedicated to closing them.
 
-We are inspired by efforts like those of Chris Argyris, who recognized the existence of these gaps as a prime hindrance to organizational effectiveness and even learning in the specific. We will work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.[^2]
+The existence of these gaps as a prime hindrance to our collective effectiveness and even learning in the specific. We work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.[^2]
 
 ----
 
