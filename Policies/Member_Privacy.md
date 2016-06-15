@@ -14,10 +14,6 @@ Learners Guild email and Internet are not being actively monitored by anyone, bu
 
 All of our policies and rules of conduct apply to member use of the email system. This means, for example, that you may not use the email system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
 
-## Professional Tone and Content
-
-We expect you to exercise discretion in using electronic communications equipment. When you send email using a Learners Guild email address or Learners Guild social account, you are representing Learners Guild. Make sure that your messages are professional and appropriate, in tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
-
 ## Email Security
 
 To avoid email viruses, phishing for account information, and other threats, members should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
