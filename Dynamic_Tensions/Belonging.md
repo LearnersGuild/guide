@@ -2,22 +2,22 @@
 
 # Belonging Tension
 
-## Authenticity <--> Relationship
+## Being Myself <--> Being in Relationship
 
 The Belonging Tension optimizes the energies between the individual and the community. We believe that human beings thrive when we are in the full expression of who we are while also being aware that we are a part of something greater than ourselves.
 
-## Authenticity
+## Being Myself
 
 - Wholeness
 - Diversity
 - Inclusion
 - Realness
 - Personal expression
-- Authentic Individuality
-- Being Yourself
+- Authenticity
+- Individuality
 
 
-## Relationship
+## Being in Relationship
 
 - Shared Identity
 - Human Connection: There is a significant and difficult to measure value that comes from human connection and belonging

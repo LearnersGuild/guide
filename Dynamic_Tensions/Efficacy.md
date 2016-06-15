@@ -6,6 +6,7 @@ Optimizes the energies between structure and possibility (choice?/freedom? agenc
 
 ## Agency
 - Autonomy
+- Freedom
 - Personal Power
 - Practice [Radical Responsibility](/Practices/Radical_Responsibility.md)
 
