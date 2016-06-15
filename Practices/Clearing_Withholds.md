@@ -1,6 +1,6 @@
 # Clear personal tensions swiftly and directly
 
-We are human. Personal conflicts will come up as we work together. When you feel that something personal is beginning to get in the way of you working optimally with another partner, **address it directly with them as soon as you can.**
+We are human. Personal conflicts will come up as we work/learn together. When you feel that something personal is beginning to get in the way of you working optimally with someone else, **address it directly with them as soon as you can.**
 
 We call this practice "clearing a withhold".
 
