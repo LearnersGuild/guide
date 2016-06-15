@@ -8,5 +8,3 @@ We are real with each other. We minimize bullshit and call people on it (kindly)
 
 
 TODO: fix image
-TODO: link to radical honesty book
-TODO: flesh out radical honesty
