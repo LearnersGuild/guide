@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 18</td>
+    <td>3rd Monday of January</td>
   </tr>
   <tr>
     <td>President’s Day</td>
