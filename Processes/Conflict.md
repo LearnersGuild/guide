@@ -36,7 +36,7 @@ Sometimes, a member can sense a conflict between two people (or is caught in a t
 
 ## Members v.s. Non-Members
 
-Our conflict resolution process is an agreement made by and between members of our learning collective. It's important to remember and acknowledge that people outside the collective are bound to the this process, and have not agreed to it. When resolving conflicts with non members, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
+Our conflict resolution process is an agreement made by and between members of our learning collective. It's important to remember and acknowledge that people outside the collective are bound to this process, and have not agreed to it. When resolving conflicts with non members, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
 
 ---
 [^1] This the only process by which a member is asked to leave Learners Guild
