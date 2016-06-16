@@ -17,6 +17,5 @@ If you notice something that could be better, or you encounter a bug, please log
 [echo]: ./Echo.md
 [commands]: ./Echo.md#commands
 [basic-gameplay]: ./Basic_Gameplay.md
-[rules]: ./Rules.md
 
 [los-repo]: https://github.com/LearnersGuild/los
