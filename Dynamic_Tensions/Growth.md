@@ -13,7 +13,7 @@ We are in the learning business. Learning is the process of acting on our curios
 ## Truth
 
 - Courage: Choosing courage over comfort
-- Transparency & Openness
+- Transparency and Openness
 - Continuous feedback
 - Practice [Accountability](/Practices/Accountability.md)
 - Practice [Radical Honesty](/Practices/Radical_Honesty.md)
@@ -29,7 +29,7 @@ We are in the learning business. Learning is the process of acting on our curios
 - Practice [non judgement](/Practices/Non_Judgement.md)
 
 
-## Look & Feel
+## Look and Feel
 
 ### A genuine love for and pursuit of truth**
 
@@ -39,9 +39,7 @@ We deliberately remove obstacles to truth telling. We welcome mistakes as long a
 
 Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our key values, and why it’s a mantra we repeat in many conversations.
 
-The best way for you to make a decision about what’s good for Learners Guild is to have all of the information about what’s going on at Learners Guild. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Learners Guild that we’re not actively involved with.
-
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Learners Guild. These are some of the policies we use to make information more accessible, but our work is ongoing.
+Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
 ### Member-to-Member Feedback
 

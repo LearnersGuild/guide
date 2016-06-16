@@ -28,7 +28,7 @@ The Belonging Tension optimizes the energies between the individual and the comm
 - Common Good
 - Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
 
-## Look & Feel
+## Look and Feel
 
 - Aligned incentives
 - Flux, dynamism and tension between individual self interest and collective gain
@@ -36,8 +36,8 @@ The Belonging Tension optimizes the energies between the individual and the comm
 - Don't sacrifice the collective for the individual
 - Resist the urge to choose one side or another
 - Dignity is derived from human connection & belonging
-- "I can succeed without you. Your success and mine are related and connected."
 - "I could learn without you. I learn better with you."
+- "Your success and mine are related and connected."
 
 There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the collective whole above personal desires.
 
