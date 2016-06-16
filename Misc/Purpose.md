@@ -15,8 +15,6 @@ Our mission is to create the opportunity for anyone who is willing and able to b
 
 Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding.
 
-Learning is facilitated by  a growth-oriented culture that draws out the best in us. All Guild Members are invited to step into ownership of our culture. If we are to achieve our primary objective of creating a dignified livelihood for everyone, then we are all called upon to play in the cultural field on purpose, as our shared purpose.  
-
 
 ---
 

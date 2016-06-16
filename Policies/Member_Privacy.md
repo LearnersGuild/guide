@@ -10,7 +10,7 @@ This means that while the company will always try to respect member privacy, mem
 
 Learners Guild email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at member usage for both in order to protect member safety and wellbeing, as well as company property and interests.
 
-## All Conduct Rules Apply to Email & Chat
+## All Conduct Rules Apply to Email and Chat
 
 All of our policies and rules of conduct apply to member use of the email system. This means, for example, that you may not use the email system to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
 

@@ -2,7 +2,7 @@
 
 ## Agency <--> Structure
 
-Optimizes the energies between structure and agency. We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able to experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us in an effective and efficient way. 
+The Efficacy tension optimizes the energies between structure and agency. We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able to experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us in an effective and efficient way.
 
 ## Agency
 - Autonomy
@@ -16,7 +16,7 @@ Optimizes the energies between structure and agency. We believe that a self-dire
 - Boundaries: Having good boundaries and honoring others' boundaries
 - Practice [Accountability](/practices/Accountability.md)
 
-## Look & Feel
+## Look and Feel
 
 - I can influence the structures that I am a part of
 - As few structures as are needed. No more, no less
@@ -28,7 +28,7 @@ Optimizes the energies between structure and agency. We believe that a self-dire
 - There is integrity: if I mess up I follow up on it
 
 
-**What’s possible:** An environment with space for improvisation within the (a) structure of integrity is one where I’m truly free, because I know the parameters within which I can play, excel and thrive. No one tells me how to get where I’m going, but I’m clear enough on where I’m going that I can find my own path there. The structure enables me to experiment, to make mistakes, and to expand my sense of what’s possible through spontaneous engagement.
+**What’s possible:** An environment with space for improvisation. There is a structure of integrity in which I’m truly free, because I know the parameters within which I can play, excel and thrive. There is no prescribed way to get to where I’m going, but I’m clear enough on where I’m going that I can find my own path there. The structure enables me to experiment, to make mistakes, and to expand my sense of what’s possible through spontaneous engagement.
 
 **Feels like:** I know what’s expected of me, I know what I can expect from others. I feel calm and settled. I know the shared systems we operate by, and the space they allow for flexibility and personalization. Because of this combination of clarity and autonomy, I feel on purpose, productive, and independent.
 

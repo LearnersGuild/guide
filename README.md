@@ -20,7 +20,8 @@ This playbook provides a framework by which we --as members of the learning coll
 
 The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it.
 
-Everyone is responsible for embodying and improving this culture.
+Everyone is responsible for embodying and improving this culture.  
+
 
 ---
 
