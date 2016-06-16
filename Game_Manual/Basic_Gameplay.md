@@ -28,7 +28,37 @@ Each learner chooses their top two goals from the list. It's best to choose goal
 
 Use the `/vote` command to vote on goals.
 
+After all learners have voted, the votes are tallied and the most popular goals become **projects** to which learners are then assigned.
+
 ### Project Kickoff
+
+A **project** is formed from a goal and is assigned a **team** of learners.
+
+The purpose of a project is for the team to achieve the goal through practicing their craft, learning through collaboration and engagement with relevant and challenging tasks.
+
+#### Artifact and Project Outline
+
+Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact** and write a **project outline** document within it.
+
+The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a project outline document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
+
+The project outline document defines the specifications and quality criteria for the artifact to meet. To create a project outline, copy the text of the goal into a `README.md` file within your artifact.
+
+#### Specifications and Quality Criteria
+
+After creating the project outline, the team must edit the document to define the scope of features and quality criteria for their project.
+
+The scope of features is determined by the set of specifications for the project. It is used to measure _completeness_.
+
+The quality criteria are rules that govern how the artifact should be produced. They are used to measure _quality_.
+
+To define the scope, add, edit, or remove specifications from the list. The team is accountable for producing an artifact that satisfies _all_ of the specifications, so be realistic.
+
+To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the project outline.
+
+For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
+
+Once a proper project outline document has been written, it's time to **practice**.
 
 ### Practice
 
