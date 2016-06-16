@@ -4,11 +4,19 @@ There are two objectives of the game: to learn, and to contribute to others' lea
 
 Focus on these two activities and you will succeed.
 
+### Roles
+
+There are two roles: **Learner** and **Moderator**.
+
+Learners play the game; the Moderator acts as a referee and game master.
+
 ### Cycles
 
 The game moves forward through a series of 1-week cycles. Everything happens within a cycle; it is the primary game loop.
 
 Every cycle, learners select learning goals, form projects from them, practice their craft in the context of the project, and finish the cycle by reflecting on both the process and the outcome.
+
+Learners complete cycles on their journey to achieving dignified livelihood.
 
 ### Goal Selection
 
