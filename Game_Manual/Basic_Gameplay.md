@@ -62,6 +62,14 @@ Once a proper project outline document has been written, it's time to **practice
 
 ### Practice
 
+Most of the cycle is spent in the **practice** stage. This is the time for engaged collaboration, research, study, and experimentation.
+
+What happens in practice is entirely up to the team and the project at hand. It is the learners prerogative to decide _how_ to spend their time to best achieve the goal.
+
+The most important piece about practice is that learners should be appropriately challenged. Practice that isn't sufficiently challenging (or is overwhelmingly difficult) will not result in learning. Practice should stretch a learner just beyond the edge of their knowledge and skill, but not too far past it.
+
+Seek advice from more experienced learners on how to engage in good, deliberate practice.
+
 ### Reflection
 
 #### Retrospective
