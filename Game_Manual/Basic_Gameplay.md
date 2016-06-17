@@ -24,6 +24,8 @@ The first stage of a cycle is called **goal selection**.
 
 During this stage, learners vote on goals from the goal library for their particular craft. The goal library for your craft is located in the appropriate craft repo under the [GuildCrafts][guildcrafts] organization.
 
+Any learner can add goals to the library, just follow the template and instructions in the goal repository.
+
 Each learner chooses their top two goals from the list. It's best to choose goals that are both _relevant_ to the skills you wish to acquire and appropriately _challenging_ given your current skill level.
 
 Use the `/vote` command to vote on goals.
