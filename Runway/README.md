@@ -17,6 +17,7 @@ These fundamental skills are needed for nearly all web development projects:
 - Version control and project management with git and GitHub
 - Using a command-line shell to navigate the filesystem and execute commands
 - Using a professional text editor for writing code
+- Typing, using shortcuts, and other general-purpose computer skills
 
 Your focus should be on developing the above skills. The below tasks are good place to start, but you should by no means consider this an exhaustive list. Always be on the lookout for other resources and places to practice and grow.
 
@@ -42,6 +43,12 @@ Your focus should be on developing the above skills. The below tasks are good pl
 - Complete the [Try Git][cs-try-git] course
 - Read and practice the [Mastering Issues][gh-issues-guide] and [Forking Projects][gh-forking-guide] guides
 - Read [Mastering Markdown][gh-md-guide] and practice writing Markdown wherever you can
+
+#### General Computer Skills
+
+- Boost your typing speed to at least 50 WPM for regular English typing (any typing program will do, but this one is free: [keybr][keybr])
+- Boost your typing speed to at least 25 WPM for programming language typing using [typing.io][typing-io]
+- Practice shortcuts using [Shortcut Foo][shortcut-foo], especially the Atom, Command Line, Git, GitHub, Chrome Dev Tools, and JavaScipt Programming Dojos
 
 #### Other Useful Resources
 
@@ -85,5 +92,8 @@ Doing this repeatedly will help to ground the knowledge you gain in actual exper
 [gh-forking-guide]: https://guides.github.com/activities/forking/
 [gh-md-guide]: https://guides.github.com/features/mastering-markdown/
 
+[keybr]: http://www.keybr.com/
+[typing-io]: https://typing.io/
+[shortcut-foo]: https://www.shortcutfoo.com/app/dojos
 
 [wiki-delib-practice]: https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
