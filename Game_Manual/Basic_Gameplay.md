@@ -64,6 +64,8 @@ The quality criteria are rules that govern how the artifact should be produced. 
 
 To define the scope, add, edit, or remove specifications from the list. The team is accountable for producing an artifact that satisfies _all_ of the specifications, so be realistic.
 
+Discuss the specs with your team, and adjust them as you see fit to get to a scope that will provide an appropriate level of difficulty and "stretch".
+
 To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the project outline.
 
 For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
