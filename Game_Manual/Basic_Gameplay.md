@@ -32,6 +32,14 @@ Use the `/vote` command to vote on goals.
 
 After all learners have voted, the votes are tallied and the most popular goals become **projects** to which learners are then assigned.
 
+#### Project Formation
+
+Forming projects from votes is a relatively complex process. To ensure that project teams have the right number of learners with the right balance of experience levels, more than just votes have to be factored into the equation.
+
+For example, to make **cognitive apprenticeship** work, every team needs one learner who has significantly more experience so that they can take on the most difficult tasks and share their skills and knowledge with the rest of the team. So if one advanced learner votes differently from four beginner learners, then the advanced learner may get assigned to the more popular project to ensure that their experience is put to best use.
+
+To accomplish this, there is an automated process that will generate projects using many different parameters to try and achieve the best result. This means that voting on a goal is not a _guarantee_ that the goal will be chosen or that you will be assigned to the project.
+
 ### Project Kickoff
 
 A **project** is formed from a goal and is assigned a **team** of learners.
