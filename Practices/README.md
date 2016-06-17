@@ -1,6 +1,8 @@
 # Practices
 
-Our interpersonal practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
+Practices tend to be ongoing and are used as needed. For example, we practice clearing withholds when we realize we’re holding onto feelings, perceptions or stories that are getting in the way of our connection with someone.
+
+Our practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
 
 * [Accountability](/Practices/Accountability.md)
 * [Clearing Withholds](/Practices/Clearing_Withholds.md)
