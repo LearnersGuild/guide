@@ -9,12 +9,11 @@ The Belonging Tension optimizes the energies between the individual and the comm
 ## Being Myself
 
 - Wholeness
-- Diversity
 - Realness
 - Personal expression
 - Authenticity
 - Individuality
-
+- Dignity
 
 ## Being in Relationship
 
@@ -22,8 +21,8 @@ The Belonging Tension optimizes the energies between the individual and the comm
 - Shared Identity
 - Human Connection
 - Being with Others
-- Dignity
 - Belonging
+- Diversity
 - Love
 - Common Good
 - Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)

@@ -6,9 +6,8 @@ The optimal state of learning, is play.
 
 The Play Tension optimizes the energies between dedicated engagement, and  fun. We believe that when take ourselves lightly and take our purpose seriously, when we approach our practices with wholeheartedness and immerse ourselves in them, we get into the flow, or a state of sustained engagement that generates spontaneous joy.  
 
-## Play
+## Fun
 
-- Fun
 - Enjoyment
 - Aimless exploration
 - Curiosity
@@ -28,4 +27,4 @@ The Play Tension optimizes the energies between dedicated engagement, and  fun. 
 
 **Feels like:** I’m in a flow state, fully present and immersed in the act of learning. I feel a healthy competitive motivation to exceed my past performance, to “win” at accomplishing the goals I’ve set for myself. Time flies by.
 
-**Looks like:** Mistakes and failures are a welcome part of the journey towards success. People are laughing, creating inside jokes, developing fun ways to move work forward. People don’t take themselves too seriously. There's a distraction-free, dedicated commitment to the craft that helps people focus and stay on purpose. 
+**Looks like:** Mistakes and failures are a welcome part of the journey towards success. People are laughing, creating inside jokes, developing fun ways to move work forward. People don’t take themselves too seriously. There's a distraction-free, dedicated commitment to the craft that helps people focus and stay on purpose.
