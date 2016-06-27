@@ -16,11 +16,9 @@ Each learner is responsible for reading, understanding, and complying with this 
 
 Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
 
-This playbook provides a framework by which we --as members of the learning collective-- can participate in co-creating a culture that draws out the best in us.
+While this playbook provides a framework by which we learn together, the [Culture Operating System](http://cos.learnersguild.org) enables us to participate in co-creating a culture that draws out the best in us.
 
 The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it.
-
-Everyone is responsible for embodying and improving this culture.  
 
 
 ---
