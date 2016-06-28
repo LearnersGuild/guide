@@ -56,13 +56,16 @@ To make a style edit (change formatting, edit link, etc.), follow these steps:
 
 To edit the content of the Playbook, we use [GitHub flow][gh-flow].
 
+If any of your edits change the file structure (i.e. adding/removing/changing the name of a file or folder), make sure to update the `SUMMARY.md` document. There is even a command to regenerate it: `npm run book:summary`.
+
 Distilled, the process looks like this:
 
 1. Create a new branch to encapsulate the desired changes
-2. Make all changes as commits on the new branch
-3. When the branch is ready to be merged, open a pull request from your branch to the `master` branch
-4. Have at least one another partner review and approve of the changes
-5. When the changes are approved, merge the pull request
+1. Make all changes as commits on the new branch
+  - Run `npm run book:summary` and commit if necessary
+1. When the branch is ready to be merged, open a pull request from your branch to the `master` branch
+1. Have at least one another partner review and approve of the changes
+1. When the changes are approved, merge the pull request
 
 [gh-repo]:https://help.github.com/articles/github-glossary/#repository
 [gb-format]:http://help.gitbook.com/format/index.html
