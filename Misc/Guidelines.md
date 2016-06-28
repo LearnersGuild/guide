@@ -51,7 +51,7 @@ When reality is not aligned with how you wish it to be, clarify the dissonance f
 
 Autonomy only works if we choose to communicate over command. In a cooperative environment, we lead with clarity.
 
-> “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.” ~ Donella Meadows
+> "Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own." ~ Donella Meadows
 
 ## Love is important
 

@@ -23,7 +23,7 @@ In addition to our two breaks, we observe the following national holidays. If a 
 
 <table>
   <tr>
-    <td>New Year’s Day</td>
+    <td>New Year's Day</td>
     <td>January 1</td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ In addition to our two breaks, we observe the following national holidays. If a 
     <td>3rd Monday of January</td>
   </tr>
   <tr>
-    <td>President’s Day</td>
+    <td>President's Day</td>
     <td>February 15</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ In addition to our two breaks, we observe the following national holidays. If a 
     <td>First Monday in September</td>
   </tr>
   <tr>
-    <td>Indigenous People’s Day</td>
+    <td>Indigenous People's Day</td>
     <td>Second Monday in October</td>
   </tr>
   <tr>
