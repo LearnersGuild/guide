@@ -2,7 +2,7 @@
 
 We take 2 week-long breaks each year for summer and winter holidays.
 
-During these breaks, pods aren't running and we have time to take a breather.
+During these breaks the offices are closed.
 
 ### Holiday Breaks 2016-2020
 
@@ -16,8 +16,7 @@ During these breaks, pods aren't running and we have time to take a breather.
 - 2020-06-22 - 2020-06-28
 - 2020-12-21 - 2020-12-27
 
-
-# Observed Holiday List
+### Observed Holiday List
 
 In addition to our two breaks, we observe the following national holidays. If a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
 
