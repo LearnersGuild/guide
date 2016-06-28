@@ -40,12 +40,11 @@ You can only change cohorts once. After that, you will need to quit and re-apply
 
 **What if I change my mind after I sign this contract?**
 
-By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. Please don’t sign it until you are sure - reach out to us to discuss questions or concerns. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. Please carefully consider your decision, and sign only when you are a joyful and confident “yes”. If you need to seek the opinion of a trusted third party, we highly encourage you to do so.  
+By signing this contract, you’re letting us know that you are certain about your commitment to Learners Guild. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. While we don't ask for a deposit, there will be a $250 cancellation fee if you sign a contract and decide not to join the Guild within 3 weeks of your cohort start date. Please carefully consider your decision, and sign only when you are a joyful and confident "yes". If you need to seek the opinion of a trusted third party, we highly encourage you to do so.
 
 **What’s the consequence for leaving the program early?**
 
-During the fourth week of the program, you’ll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you’ve decided that becoming a software engineer is not the path you want to pursue, or that you don’t wish to continue pursuing that path with Learners Guild, you’ll have an opportunity to leave the program with no additional consequence or obligation. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
-Working together:
+During the fourth week of the program, you’ll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you’ve decided that becoming a software engineer is not the path you want to pursue, or that you don’t wish to continue pursuing that path with Learners Guild, you'll have an opportunity to leave the program and pay only a $250 cancellation fee. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
 
 **What’s required? What’s optional? (Projects, Home Group, HD curriculum)**
 
@@ -99,7 +98,7 @@ We would be sorry to hear that, but of course it is your choice. You would still
 
 **What if I want to do a startup after?**
 
-Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront. 
+Learners Guild’s business model depends on our learners “paying forward” their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront.
 
 **What if I don’t earn more than $50,000 per year in my first job?**
 
