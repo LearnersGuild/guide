@@ -1,6 +1,5 @@
 # Playbook
 
-- [Runway](Runway/README.md)
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
   * [Echo](Game_Manual/Echo.md)
@@ -15,5 +14,7 @@
   * [Frequently Asked Questions](Policies/Frequently_Asked_Questions.md)
   * [Holiday List](Policies/Holiday_List.md)
   * [Member Privacy](Policies/Member_Privacy.md)
+  * [Oakland Building](Policies/Oakland_Building.md)
+- [Runway](Runway/README.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [GLOSSARY](GLOSSARY.md)
