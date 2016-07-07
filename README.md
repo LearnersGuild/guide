@@ -12,6 +12,14 @@ This repository contains all our agreements, policies, operating models, values 
 
 Each learner is responsible for reading, understanding, and complying with this playbook. Our goal is to work together towards a learning environment that is constructive and supports both personal and professional growth.  
 
+# Learning Operating System
+
+The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship.
+
+The main way that learners engage with the LOS is through [Echo](http://echo.learnersguild.org).
+
+To read more about the Learning OS, visit the [Game Manual](./Game_Manual/README.md) section of the playbook.
+
 # Culture Operating System
 
 Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
@@ -19,7 +27,6 @@ Our learning environment is self-organizing, rigorously goal-driven, and persona
 While this playbook provides a framework by which we learn together, the [Culture Operating System](http://cos.learnersguild.org) enables us to participate in co-creating a culture that draws out the best in us.
 
 The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it.
-
 
 ---
 
