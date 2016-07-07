@@ -1,4 +1,4 @@
-# Breaks
+# Holidays
 
 We take 2 week-long breaks each year for summer and winter holidays.
 

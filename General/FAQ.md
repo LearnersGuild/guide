@@ -70,7 +70,7 @@ By joining the Guild, you're making an agreement to collaborate with anyone and 
 
 **What if I have a conflict with someone that I can't resolve on my own?**
 
-Conflicts happen. It's natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process](/Processes/Conflict.md) in place to support you in resolving it.
+Conflicts happen. It's natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process](http://cos.learnersguild.org/Processes/Conflict.html) in place (in the COS) to support you in resolving it.
 
 **Can I use my LG laptop for personal use? Are there any limits to what I can install on my laptop or what I can use it for?**
 
