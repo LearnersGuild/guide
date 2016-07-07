@@ -2,7 +2,9 @@
 
 **What is the time commitment?**
 
-Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm
+Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm.
+
+You don't have to keep your time commitment in the case of big life events: births, deaths, and weddings.
 
 Almost every week, there will be events (social/networking/speakers) happening during the evening. These events will be optional but highly recommended (usually Tuesday or Thursday evening).
 
