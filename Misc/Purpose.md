@@ -1,4 +1,4 @@
-> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” ~ Dee Hock
+> "A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.'" ~ Dee Hock
 
 # What is our Shared Purpose as a Learning Collective?
 
@@ -9,7 +9,7 @@ As a Learning Collective, we have the following two objectives as our purpose:
 
 ## Mission
 
-Learners Guild’s purpose is a dignified livelihood for everyone.
+Learners Guild's purpose is a dignified livelihood for everyone.
 
 Our mission is to create the opportunity for anyone who is willing and able to become a software developer to do so.
 
