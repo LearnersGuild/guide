@@ -3,6 +3,7 @@
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
   * [Echo](Game_Manual/Echo.md)
+  * [Moderator Guide](Game_Manual/Moderator_Guide.md)
 - [General](General/README.md)
   * [FAQ](General/FAQ.md)
   * [Guidelines](General/Guidelines.md)
