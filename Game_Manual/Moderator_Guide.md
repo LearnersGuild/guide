@@ -37,6 +37,7 @@ Orienting learners to the systems, structures, and processes of the game is usua
 1. How to pick a goal
   - Relevancy
   - Challenge
+1. Discussion: relevant stretchy goals
 1. Using the `/vote` command
 
 ## Creating Goals
@@ -49,6 +50,8 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - Following the process in `CONTRIBUTING`
   - Submitting for review
   - Review and publishing process
+1. Break into groups of 2/3, each takes a crack at creating a goal
+  - Then share and group review one or two
 1. Moderator's role in goal curation
 
 ## Forming Projects
