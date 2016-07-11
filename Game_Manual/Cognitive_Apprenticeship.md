@@ -42,22 +42,49 @@ The observation phase could also be referred to as the "working" phase. It's whe
 
 *Behaviors to apply to the observation phase*
 
-*Learner Behaviors*
+*Learner Behaviors During Observation*
 
 1. Immediately before observing a Practitioner perform a task, prepare to take notes and record questions and thoughts based on what you expect to be looking for.
 2. While observing a Practitioner perform a task, continuously try to deduce the approach and the perspective they are using to complete the task.
 3. During the observation phase, avoid asking questions that might interupt the Practitioner, ask clarifying questions only.
 4. When an observation phase lasts longer than 60 minutes, ask to take a break and do a brief review before continuing to observe.
 
-*Practitioner Behaviors*
+*Practitioner Behaviors During Observation*
 
 1. Immediately before beginning to work on a task, prime the Learner to take notes and record questions/thoughts based on what you expect them to be looking for.
-2. While performing a task, verbalize your thoughts out loud as much as you can. BUT DO NOT TEACH! DO NOT INSTRUCT! DO NOT TRY TO EXPLAIN WHY YOU'RE DOING WHAT YOU'RE DOING!
+2. While performing a task, verbalize your thoughts out loud as much as you can. BUT DO NOT TEACH! DO NOT INSTRUCT! DO NOT TRY TO EXPLAIN WHY YOU'RE DOING WHAT YOU'RE DOING! Just do it!
 3. During the observation phase, avoid instructing or telling the Learner what to do or what you're doing, demonstrate what to do instead.
 4. When the task being performed during an observation phase lasts more than 60 minutes, take a break and do a brief review with the Learner(s) before continuing.
 
 ##### Reflection
 
-The Reflection phase 
+The reflection phase is the time to harvest learnings. The goal of the reflection phase is to identify what work was done, discuss the various perspectives/questions that came up for each participant during the observation phase, and to find a way to align on those perspectives. By the end of the reflection phase, everyone should experience having learned something valuable and feel inspired to prepare for the next task/goal.
+
+*Behaviors to apply to the reflection phase*
+
+*Learner Behaviors During Reflection*
+
+1. Immediately following a work session, conduct a thorough review with the Practioner. 
+2. During a review of work done, describe what you noticed (what stood out to you) during the observation phase.
+3. While describing what you noticed, ask the Practitioner any questions you wrote down as they become relevant.
+3. Throughout the reflection phase, try to see the work through the eyes of the Practitioner, ask questions whenever you don't understand what they were thinking/doing.
+4. After collectively reviewing the observations phase, update your log/notes with your reflections.
+5. At the end of the reflection phase, ask yourself what you've learned through observing a more experienced practitioner and what you'd like to attempt to do next on your own.
+
+*Practitioner Behaviors During Reflection*
+
+1. Immediately following a work session, conduct a thorough review with participating Learner(s). 
+2. During a review of work done, ask Learner(s) to describe what they observed.
+3. When Learner(s) describe that they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
+3. When you observe a discrepancy between each of your perspectives, address that discrepancy openly and honestly.
+4. At the end of the review session, prompt Learner(s) to reflect on what they learned and update their log/notes.
+5. While Leaner(s) update their log, add your own observations to it.
+6. Between apprenticeship sessions, inspire participating Learner(s) to prepare for, seek value in, and reflect on the work they perform on their own.
+
+### Repeating the pattern
+
+After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation. 
+
+Cognitive Apprenticeship has the power to support Practioners and Learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it's becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
 
 
