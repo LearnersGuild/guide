@@ -96,6 +96,10 @@ Orienting learners to the systems, structures, and processes of the game is usua
 1. Parts of a reflection
   - Retrospective: internal to project, about the process
   - Review: both inter- and intra-project, about the outcome
+  - No collusion
+    - Ruins the data (wisdom of the crowds v.s. tyranny of the persuasive)
+    - Bad feedback = Garbage in, Garbage out
+    - Don't discuss relative contribution, quality, or completeness numbers
 1. Retrospective questions
   - Walkthrough of the retro process
   - Question types, what they mean, how they are used
