@@ -127,3 +127,71 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - How to measure completeness
   - How to measure quality
 1. Invite people to blog/journal for their own personal reflection
+
+
+---
+
+### Scratch notes from Tanner's first LOS Orientation
+
+- this is a game
+- difference between a game and classroom
+- you start with zero
+- we like games because they emphasize constant feedback
+- the more feedback you can get the more you learn
+- low consequence environment. it's safe to make mistakes.
+- different roles. game board. terrain. stats and scores.
+- it's our job to make sure the game runs smoothly. game master.
+
+- as a learner you have two goals
+- first goal is to get a job. to learn enough to be able to compete in the market
+- second part of the goal is to co-create a learning environment.
+
+in some ways they are in opposition, in other ways they are deeply aligned. it's our intention to create a community where you are constantly sharing knowledge exponentially.
+
+there are two stats:
+
+first is XP. how much experience you have. we measure it by how many projects you complete.
+
+second statistics is support. to what extent are you supporting the rest of your team. focus on both those stats.
+
+week to week what does it look like:
+
+we've broken the game into cycles. similar to quarters in football. 1 cycle is 1 week. Every cycle has same cadence:
+
+At the beginning of the cycle we all propose goals for the weeks. Then we vote on them, then teams form on them, you work on them for the end of the cycle. At the end there's a reflection period and you do two things:
+
+1. Reflect on the team. Harvest all the interpersonal and procedural learning of the week. Also a time for self reflection. Without reflection there's really no learning.
+
+2. Review: Review the code that was produced. Both your own project and others: two rubrics: quality and completeness
+
+Don't expect to have homework.
+
+## Cognitive apprenticeship:
+
+In order to learn a mental skill it's hard to learn because you can't see somebody doing it unlike weaving or carpentry. Your brain is good at mimicking other people's muscle movement. Cognitive apprenticeship is a way where more experienced crafts person can support you.
+
+Our only criteria for a project is that they have an artifact.
+
+
+----
+
+Feedback:
+
+- Mention the premise: Work in teams. On relevant stretchy goals. Where there is a skill differential. You'll get there.
+- Use 'collective' not 'community'
+- Repeat the questions, or ask if everybody can hear it
+- Set a time container
+- Give a chance for staff to chime in, ask us if you missed anything
+- Did you intend to not 
+
+----
+
+Introduce echo.
+Introduce github and craft repo.
+- Show contributing.md Encourage people to contributing to it.
+- Show people the goals. The templates for the projects you're going to be working on it.
+- Go through an anatomy of a goal. Describe description, context, and goals.
+- Introduce playbook
+- Tell people how to improve the LOS
+
+----
