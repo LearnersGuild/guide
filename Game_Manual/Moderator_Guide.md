@@ -182,7 +182,7 @@ Feedback:
 - Repeat the questions, or ask if everybody can hear it
 - Set a time container
 - Give a chance for staff to chime in, ask us if you missed anything
-- Did you intend to not 
+- Did you intend to not
 
 ----
 
@@ -195,3 +195,20 @@ Introduce github and craft repo.
 - Tell people how to improve the LOS
 
 ----
+
+First Tuesday: Standup intro:
+
+- something I learned yesterday
+- something I'm doing today
+- anything blocking
+
+Do it in the whole group
+Invite people to do it in their groups starting the next day
+
+Remind people to track their team members and hold them accountable. Perhaps by asking is anybody missing from your team, do you know where they are? Remember to track them.
+
+Remind people to file bugs/ideas/issues in github repo
+
+-----
+
+First Wednesday: Introduce goal authoring
