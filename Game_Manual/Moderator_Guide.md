@@ -212,3 +212,12 @@ Remind people to file bugs/ideas/issues in github repo
 -----
 
 First Wednesday: Introduce goal authoring
+
+- Goal templates
+- Introduce relevant, stretchy, goals
+- Mention drafts and how it goes from draft to normal
+- It's important to build the muscle of figuring out which goal you should take on. Our goal selection discussion is designed to do that.
+
+------
+
+First Friday: Goal formation
