@@ -2,7 +2,7 @@
 
 The Learning Operating System (LOS, for short) at Learners Guild uses a mechanic called cognitive apprenticeship.
 
-Cognitive Apprenticeship is a method for transferring knowledge and skills from one person to another. It is based on the simple idea that humans learn from observing each other, immitating each other, and then trying to innovate or improve on what they see others doing.
+Cognitive Apprenticeship is a method for transferring knowledge and skills from one person to another. It is based on the simple idea that humans learn from observing each other, imitating each other, and then trying to innovate or improve on what they see others doing.
 
 ### Apprenticeship
 
@@ -14,7 +14,7 @@ The goal of an apprenticeship is for you to learn by observing and doing actual 
 
 ### Why *Cognitive* Apprenticeship?
 
-Learners Guild uses a special type of apprenticeship called Cognitive Apprenticeship. Cognitive Apprenticeship uses a specific set of practices or habits to help accelerate the transfer of expertise that is hard to see, hear, or observe directly. Cognitive Apprenticeship patterns of behavior allow learners to more easily identify the mental efforts being made by more experienced practitioners. These behaviors and patterns of interaction also help practitioners share their expertise in a way that makes their wisdom and experience more accessible to others. 
+Learners Guild uses a special type of apprenticeship called Cognitive Apprenticeship. Cognitive Apprenticeship uses a specific set of practices or habits to help accelerate the transfer of expertise that is hard to see, hear, or observe directly. Cognitive Apprenticeship patterns of behavior allow learners to more easily identify the mental efforts being made by more experienced practitioners. These behaviors and patterns of interaction also help practitioners share their expertise in a way that makes their wisdom and experience more accessible to others.
 
 Whenever you are learning a highly thoughtful craft (ex: software development) where most of the work is done within the human brain/body (as opposed to being performed on an object, like a football or a piano) Cognitive Apprenticeship is a powerful tool to get the most out of working with people who are more or less experienced than you. In fact, it has been shown to help experienced practitioners learn more about how they themselves practice their craft, and how they can do it even better.
 
@@ -22,15 +22,15 @@ Because everyone, regardless of experience, can learn from and with each other b
 
 ### The practice of Cognitive Apprenticeship
 
-Cognitive Apprenticeship can be practiced by moving sequencially and repeatedly through three states of mind.
+Cognitive Apprenticeship can be practiced by moving sequentially and repeatedly through three states of mind.
 
 Preparation -> Observation -> Reflection
 
 ##### Preparation
 
-Both experienced Practitioners and Learners must prepare to do work together. At Learners Guild, the preparation phase of Cognitive Apprenticeship occurs during Goal Selection, Project Formation, and the Project Kickoff. The goal of the preparation phase is for both Pracititioner and Learner to make themselves ready for the work that will be performed on the chosen project.
+Both experienced Practitioners and Learners must prepare to do work together. At Learners Guild, the preparation phase of Cognitive Apprenticeship occurs during Goal Selection, Project Formation, and the Project Kickoff. The goal of the preparation phase is for both Practitioner and Learner to make themselves ready for the work that will be performed on the chosen project.
 
-*Questions to answer during the preparation phase* 
+*Questions to answer during the preparation phase*
 
 1. *The Who* Who will be the Practitioner that will perform the work on this goal or task? Who will be the Learner(s) that will observe?
 2. *The When and Where* When will the Practitioner and the Learner(s) meet? What tools and/or environment will be needed to perform and observe the task?
@@ -46,7 +46,7 @@ The observation phase could also be referred to as the "working" phase. It's whe
 
 1. Immediately before observing a Practitioner perform a task, prepare to take notes and record questions and thoughts based on what you expect to be looking for.
 2. While observing a Practitioner perform a task, continuously try to deduce the approach and the perspective they are using to complete the task.
-3. During the observation phase, avoid asking questions that might interupt the Practitioner, ask clarifying questions only.
+3. During the observation phase, avoid asking questions that might interrupt the Practitioner, ask clarifying questions only.
 4. When an observation phase lasts longer than 60 minutes, ask to take a break and do a brief review before continuing to observe.
 
 *Practitioner Behaviors During Observation*
@@ -64,7 +64,7 @@ The reflection phase is the time to harvest learnings. The goal of the reflectio
 
 *Learner Behaviors During Reflection*
 
-1. Immediately following a work session, conduct a thorough review with the Practioner. 
+1. Immediately following a work session, conduct a thorough review with the Practitioner.
 2. During a review of work done, describe what you noticed (what stood out to you) during the observation phase.
 3. While describing what you noticed, ask the Practitioner any questions you wrote down as they become relevant.
 3. Throughout the reflection phase, try to see the work through the eyes of the Practitioner, ask questions whenever you don't understand what they were thinking/doing.
@@ -73,18 +73,16 @@ The reflection phase is the time to harvest learnings. The goal of the reflectio
 
 *Practitioner Behaviors During Reflection*
 
-1. Immediately following a work session, conduct a thorough review with participating Learner(s). 
+1. Immediately following a work session, conduct a thorough review with participating Learner(s).
 2. During a review of work done, ask Learner(s) to describe what they observed.
 3. When Learner(s) describe that they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
 3. When you observe a discrepancy between each of your perspectives, address that discrepancy openly and honestly.
 4. At the end of the review session, prompt Learner(s) to reflect on what they learned and update their log/notes.
-5. While Leaner(s) update their log, add your own observations to it.
+5. While Learner(s) update their log, add your own observations to it.
 6. Between apprenticeship sessions, inspire participating Learner(s) to prepare for, seek value in, and reflect on the work they perform on their own.
 
 ### Repeating the pattern
 
-After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation. 
+After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation.
 
-Cognitive Apprenticeship has the power to support Practioners and Learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it's becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
-
-
+Cognitive Apprenticeship has the power to support Practitioners and Learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it's becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
