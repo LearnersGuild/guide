@@ -18,7 +18,7 @@ Learners Guild uses a special type of apprenticeship called Cognitive Apprentice
 
 Whenever you are learning a highly thoughtful craft (ex: software development) where most of the work is done within the human brain/body (as opposed to being performed on an object, like a football or a piano) Cognitive Apprenticeship is a powerful tool to get the most out of working with people who are more or less experienced than you. In fact, it has been shown to help experienced practitioners learn more about how they themselves practice their craft, and how they can do it even better.
 
-Because everyone, regardless of experience, can learn from and with each other by engaging in a Cognitive Apprenticeship, Learners Guild believes it is one of the most dignified ways to learn a valued craft like Software Development. It's also quite simple.
+Because everyone, regardless of experience, can learn from and with each other by engaging in a Cognitive Apprenticeship, Learners Guild believes it is one of the most dignified ways to learn a valued craft like software development. It's also quite simple.
 
 ## The practice of Cognitive Apprenticeship
 
@@ -28,33 +28,39 @@ Cognitive Apprenticeship can be practiced by moving sequentially and repeatedly 
 
 ### Preparation
 
-Both experienced Practitioners and Learners must prepare to do work together. At Learners Guild, the preparation phase of Cognitive Apprenticeship occurs during Goal Selection, Project Formation, and the Project Kickoff. The goal of the preparation phase is for both Practitioner and Learner to make themselves ready for the work that will be performed on the chosen project.
+Both experienced practitioners and learners must prepare to do work together. At Learners Guild, the preparation phase of Cognitive Apprenticeship occurs during Goal Creation, Goal Selection, Project Formation, and the Project Kickoff. The goal of the preparation phase is for both practitioner and learner to make themselves ready for the work that will be performed on the chosen project.
 
 _Questions to answer during the preparation phase_
 
-1. _The Who_ Who will be the Practitioner that will perform the work on this goal or task? Who will be the Learner(s) that will observe?
-1. _The When and Where_ When will the Practitioner and the Learner(s) meet? What tools and/or environment will be needed to perform and observe the task?
-1. _The What_ What specific goal will be efforted? What reading, studying, practicing, or other preparation must the Practitioner do to attempt the goal? What reading, studying, practicing, or other preparation must be done by the learner(s) to be capable of observing the practitioner work on this particular goal?
+1. _The Who_
+
+  Who will be the practitioner that will perform the work on this goal or task? Who will be the learner(s) that will observe?
+1. _The When and Where_
+
+  When will the practitioner and the learner(s) meet? What tools and/or environment will be needed to perform and observe the task?
+1. _The What_
+
+  What specific goal will be efforted? What reading, studying, practicing, or other preparation must the practitioner do to attempt the goal? What reading, studying, practicing, or other preparation must be done by the learner(s) to be capable of observing the practitioner work on this particular goal?
 
 ### Observation
 
-The observation phase could also be referred to as the "working" phase. It's where the goal is efforted, the task performed, the work is done. The difference here, is that instead of just doing work, both the Practitioner and the Learner(s) do specific things that make the expertise being performed more observable by all participants.
+The observation phase could also be referred to as the "working" phase. It's where the goal is efforted, the task performed, the work is done. The difference here, is that instead of just doing work, both the practitioner and the learner(s) do specific things that make the expertise being performed more observable by all participants.
 
 #### Behaviors to apply to the observation phase
 
-_Learner Behaviors During Observation_
+_Learner behaviors during observation_
 
-1. Immediately before observing a Practitioner perform a task, prepare to take notes and record questions and thoughts based on what you expect to be looking for.
-1. While observing a Practitioner perform a task, continuously try to deduce the approach and the perspective they are using to complete the task.
-1. During the observation phase, avoid asking questions that might interrupt the Practitioner, ask clarifying questions only.
+1. Immediately before observing a practitioner perform a task, prepare to take notes and record questions and thoughts based on what you expect to be looking for.
+1. While observing a practitioner perform a task, continuously try to deduce the approach and the perspective they are using to complete the task.
+1. During the observation phase, avoid asking questions that might interrupt the practitioner, ask clarifying questions only.
 1. When an observation phase lasts longer than 60 minutes, ask to take a break and do a brief review before continuing to observe.
 
-_Practitioner Behaviors During Observation_
+_Practitioner behaviors during observation_
 
-1. Immediately before beginning to work on a task, prime the Learner to take notes and record questions/thoughts based on what you expect them to be looking for.
+1. Immediately before beginning to work on a task, prime the learner to take notes and record questions/thoughts based on what you expect them to be looking for.
 1. While performing a task, verbalize your thoughts out loud as much as you can. BUT DO NOT TEACH! DO NOT INSTRUCT! DO NOT TRY TO EXPLAIN WHY YOU'RE DOING WHAT YOU'RE DOING! Just do it!
-1. During the observation phase, avoid instructing or telling the Learner what to do or what you're doing, demonstrate what to do instead.
-1. When the task being performed during an observation phase lasts more than 60 minutes, take a break and do a brief review with the Learner(s) before continuing.
+1. During the observation phase, avoid instructing or telling the learner what to do or what you're doing, demonstrate what to do instead.
+1. When the task being performed during an observation phase lasts more than 60 minutes, take a break and do a brief review with the learner(s) before continuing.
 
 ### Reflection
 
@@ -62,27 +68,27 @@ The reflection phase is the time to harvest learnings. The goal of the reflectio
 
 #### Behaviors to apply to the reflection phase
 
-_Learner Behaviors During Reflection_
+_Learner behaviors during reflection_
 
-1. Immediately following a work session, conduct a thorough review with the Practitioner.
+1. Immediately following a work session, conduct a thorough review with the practitioner.
 1. During a review of work done, describe what you noticed (what stood out to you) during the observation phase.
-1. While describing what you noticed, ask the Practitioner any questions you wrote down as they become relevant.
-1. Throughout the reflection phase, try to see the work through the eyes of the Practitioner, ask questions whenever you don't understand what they were thinking/doing.
+1. While describing what you noticed, ask the practitioner any questions you wrote down as they become relevant.
+1. Throughout the reflection phase, try to see the work through the eyes of the practitioner, ask questions whenever you don't understand what they were thinking/doing.
 1. After collectively reviewing the observations phase, update your log/notes with your reflections.
 1. At the end of the reflection phase, ask yourself what you've learned through observing a more experienced practitioner and what you'd like to attempt to do next on your own.
 
-_Practitioner Behaviors During Reflection_
+_Practitioner behaviors during reflection_
 
-1. Immediately following a work session, conduct a thorough review with participating Learner(s).
-1. During a review of work done, ask Learner(s) to describe what they observed.
-1. When Learner(s) describe that they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
+1. Immediately following a work session, conduct a thorough review with participating learner(s).
+1. During a review of work done, ask learner(s) to describe what they observed.
+1. When learner(s) describe that they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
 1. When you observe a discrepancy between each of your perspectives, address that discrepancy openly and honestly.
-1. At the end of the review session, prompt Learner(s) to reflect on what they learned and update their log/notes.
-1. While Learner(s) update their log, add your own observations to it.
-1. Between apprenticeship sessions, inspire participating Learner(s) to prepare for, seek value in, and reflect on the work they perform on their own.
+1. At the end of the review session, prompt learner(s) to reflect on what they learned and update their log/notes.
+1. While learner(s) update their log, add your own observations to it.
+1. Between apprenticeship sessions, inspire participating learner(s) to prepare for, seek value in, and reflect on the work they perform on their own.
 
 ### Repeating the pattern
 
 After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation.
 
-Cognitive Apprenticeship has the power to support Practitioners and Learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it's becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
+Cognitive Apprenticeship has the power to support practitioners and learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it's becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
