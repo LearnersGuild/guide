@@ -220,4 +220,62 @@ First Wednesday: Introduce goal authoring
 
 ------
 
-First Friday: Goal formation
+## First Friday: Goal formation
+
+### Presentations
+
+- Stats
+  - Name the stats
+  - Talk about assessment accuracy, and how that's the most important stat their is
+  - Talk about how they should maximize stats
+  - If you get high stats, you will get a job
+- Project reviews
+  - Go through what a review looks like
+  - Remind people of project artifacts and ask them to set their artifact
+  - Reviews need to be real and honest. Garbage IN. Garbage OUT.
+  - No collusion.
+- 2 minutes per team. Project review right after.
+
+### Setting next goal
+- This was all
+- This is the pedagogy of learners guild:
+  - work on relevant stretchy goals in teams
+  - make sure there's a skill differential on the team
+  - get great feedback at the end
+  - rinse and repeat
+- How challenged were you?
+- What's your ZPD
+  - Comfort, stretch, tear
+- Here's how you know this goal is in your ZPD
+  - I can't do this by myself. I need support.
+  - It slightly scares you
+  - It has your full attention
+  - You're not actually totally sure that you can hit it
+  - Your brain is sore, and you're ready for the weekend
+  - It pushes the urgency of your time here because you've taken on something that is really ambitious to complete in the amount of time you have here
+  - In the real world you don't do work because someone is breathing down your neck, you do it because there's a lot of work to do. When you're going to bed at night.
+  - Flow happens when the edge of our skill is demanded by the task at hand
+  - Don't just describe it by inner feelings it's an objective thing
+- You should aim to finish all your goals, but if you're really in your ZPD, then in the first few weeks you should fail
+- Learning to find your ZPD is a critical skill
+- We need your help how to help other people to find this quicker, so when you set a goal that's too ambitious you're helping us
+- How could you tell?
+- Mohammed Ali: I don't start counting my situps until it starts hurts. That's when your muscles are actually developing.
+
+
+-----
+
+### Second Monday
+
+- Remind advanced players to weigh in heavily on goals and help people set them up.
+- Spend 30 minutes in the morning collaborating on goals.
+- Ask people to pitch the projects they want to work on
+- Give some feedback on goals and how well they are structured and how stretchy they are
+- Give a sense to people about high they should aim: "The projects you finished on the first week with a team in 1 week you should be able to do by ourself in one hour halfway through the program. "
+
+-------
+
+
+### Third Monday
+
+- If you're going to drop out talk. You have 10 days to make up your mind.
