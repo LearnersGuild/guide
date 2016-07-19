@@ -8,6 +8,7 @@
   * [Play](Dynamic_Tensions/Play.md)
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
+  * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
   * [Echo](Game_Manual/Echo.md)
 - Misc
   * [Guidelines](Misc/Guidelines.md)
