@@ -2,9 +2,9 @@
 
 A key component of the game is to create an environment where learners can find _challenge_. This is based on a theory of learning which says that learners should seek activities which place them in their [zone of proximal development (ZPD)][wikipedia-zpd].
 
-To do this effectively, you'll need to know _what_ your ZPD is and _how it feels_ when you're in it.
+To do this effectively, you'll need to know _what_ your ZPD is and [how it feels](#finding-your-zpd) when you're in it.
 
-To find the best opportunity to learn in your ZPD, you'll also need to know _how to choose and/or create_ appropriate goals.
+To find the best opportunity to learn in your ZPD, you'll also need to know [how to choose and/or create](#choosing-goals-for-challenge) appropriate goals.
 
 ## Finding your ZPD
 
@@ -42,6 +42,30 @@ A **challenging** task for Pilar would be one like "replace the brake system". S
 
 If Pilar were given the goal of "build a racing bicycle", it would likely be **overwhelming** for her. There are whole branches of knowledge that she'd have to gain to complete this task (aerodynamics, structural engineering, etc.), and she wouldn't know where to start. With her current skillset, she wouldn't be able to make much progress at all on this goal.
 
+## Choosing Goals for Challenge
+
+When you are choosing or creating goals, you should be considering whether or not the goal will put you into your ZPD.
+
+This is a form of prediction, and prediction is hard. Learning to pick goals that at the right level of challenge is a skill in itself, and one you'll have to practice over time.
+
+To help you get started, and to scaffold your thinking about this, consider the following questions when choosing or creating a goal:
+
+1. Have you completed a similar goal before?
+  - (A) Yes
+  - (B) No
+1. How many objectives are within your range of skills, and how many are beyond?
+  - (A) 70-100% within, 0-30% beyond
+  - (B) 30-70% within, 30-70% beyond
+  - (C) 0-30% within, 70-100% beyond
+1. Which percentage of the terms and concepts used in the goal familiar to you?
+  - (A) 90-100%
+  - (B) 70-90%
+  - (C) 0-70%
+1. Do you feel confident that you could complete the goal in the time allotted?
+  - (A) Yes
+  - (B) No
+
+If you answered (A) for most of the above, then the goal is likely too easy. If you answered (B) for all questions, then this goal is likely to put you in your ZPD. If you answered (C) to any questions, the goal might be too difficult for you at this point.
 
 [wikipedia-zpd]: https://en.wikipedia.org/wiki/Zone_of_proximal_development
 [wikipedia-flow]: https://en.wikipedia.org/wiki/Flow_(psychology)
