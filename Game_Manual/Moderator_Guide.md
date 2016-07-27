@@ -276,6 +276,6 @@ First Wednesday: Introduce goal authoring
 -------
 
 
-### Third Monday
+### Third Friday
 
-- If you're going to drop out talk. You have 10 days to make up your mind.
+- If you're going to drop out talk. You have 5 days to make up your mind.

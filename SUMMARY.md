@@ -2,6 +2,7 @@
 
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
+  * [Game Over](Game_Manual/Game_Over.md)
   * [Echo](Game_Manual/Echo.md)
   * [Moderator Guide](Game_Manual/Moderator_Guide.md)
 - [General](General/README.md)
