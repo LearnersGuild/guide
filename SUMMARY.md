@@ -2,10 +2,12 @@
 
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
+  * [Boundaries](Game_Manual/Boundaries.md)
   * [Challenge](Game_Manual/Challenge.md)
   * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
   * [Echo](Game_Manual/Echo.md)
   * [Moderator Guide](Game_Manual/Moderator_Guide.md)
+  * [Stats](Game_Manual/Stats.md)
 - [General](General/README.md)
   * [FAQ](General/FAQ.md)
   * [Guidelines](General/Guidelines.md)
