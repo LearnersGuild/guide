@@ -23,13 +23,13 @@ A player fails the game if their [stats][stats] show them to be consistently und
 
 Fail conditions are triggered when any of the following persists over multiple cycles:
 
-1. [Time Dedication per Cycle][time-dedication] is too low
+1. [Time Dedication per Week][time-dedication] is too low
 1. Rate of [XP][xp] growth is too low
 1. [Learning Support][learning-support] is too low
 1. [Culture Contribution][culture-contribution] is too low
 1. [Discernment][discernment] is too high or too low
 
-If fail conditions are met, the Moderator will expel the player from the game.
+If fail conditions are met, the Moderator will ask the player to leave the game.
 
 _For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players._
 
