@@ -29,7 +29,7 @@ Fail conditions are triggered when any of the following persists over multiple c
 1. [Culture Contribution][culture-contribution] is too low
 1. [Discernment][discernment] is too high or too low
 
-If these conditions are met, the Moderator will expel the player from the game.
+If fail conditions are met, the Moderator will expel the player from the game.
 
 _For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players._
 
