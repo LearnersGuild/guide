@@ -1,40 +1,43 @@
 # Game Boundaries
 
-## Game Objectives
+The boundaries of the game define its edges: what the objective is, and how a player succeeds or fails.
 
-The game is designed to support you in tracking and achieving two objectives:
+It is important to note that the game is _not_ zero-sum: one player winning does not mean another loses. It is a multiplayer cooperative game where each player's success is interconnected to and supported by other players' successes.
 
-1. To become a world class beginner in your craft
-1. To be a net positive on the culture of your team
+## Objectives
 
-## Stats
+The game is designed to support players in tracking and achieving two objectives:
 
-At the end of every project, the data gathered in the reflection phase is used to calculate and update your player stats. These are meant to reflect your progress towards your goals. Think of stats as your overall "health" in the game.
+1. To become a world class beginner in their craft
+1. To co-create a culture of collective learning
 
-1. **Discernment:** Reflects the degree to which you are biased in your assessment of yourself and others (as compared to the average of others' assessment). Represented as a positive or negative percentage, corresponding to your tendency to over- or under-estimate your own contribution. The closer this stat is to zero, the more accurate your discernment is.
+## Success Conditions
 
-1. **XP:** Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience. XP is calculated by combining:
-  - Your percentage contribution to projects
-  - Total hours worked on the project by all team members
-  - Project quality
-  - Project completeness
+A player succeeds when they (a) meet the above objectives and (b) fulfill the obligations in their contract.
 
-1. **Time Dedication per Cycle:** Average hours per cycle you spent contributing to team projects.
-
-1. **Learning Support:** How much your team members felt that you supported them in their learning. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0-100%).
-
-1. **Culture Contribution:** How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0-100%).
+At this point, they are ready to pursue their craft as a practitioner and no longer need the support and scaffolding the game provides.
 
 ## Fail Conditions
 
-Our game is not designed as a zero-sum game. It is a multiplayer cooperative game, therefore one player winning does not mean another loses.
+A player fails the game if their [stats][stats] show them to be consistently underperforming.
 
-A player fails the game, and is subsequently kicked out, if any of the following conditions persists over multiple cycles:
+Fail conditions are triggered when any of the following persists over multiple cycles:
 
-1. Time Dedication per Cycle is too low
-1. Rate of XP growth is too low
-1. Learning Support is too low
-1. Culture Contribution is too low
-1. Discernment is too high or too low
+1. [Time Dedication per Cycle][time-dedication] is too low
+1. Rate of [XP][xp] growth is too low
+1. [Learning Support][learning-support] is too low
+1. [Culture Contribution][culture-contribution] is too low
+1. [Discernment][discernment] is too high or too low
 
-For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players.
+If these conditions are met, the Moderator will expel the player from the game.
+
+_For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players._
+
+[stats]: ./Stats.md
+[time-dedication]: ./Stats#time-dedication-per-cycle
+[xp]: ./Stats#xp
+[learning-support]: ./Stats#learning-support
+[culture-contribution]: ./Stats#culture-contribution
+[discernment]: ./Stats#discernment
+
+[cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
