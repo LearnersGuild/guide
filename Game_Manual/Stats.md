@@ -25,8 +25,8 @@ How much your team members felt you contributed positively to the team culture. 
 
 Reflects the degree to which you are biased in your assessment of yourself and others (as compared to the average of others' assessment). Represented as a positive or negative percentage, corresponding to your tendency to over- or under-estimate your own contribution. The closer this stat is to zero, the more accurate your discernment is.
 
-## Time Dedication per Cycle
+## Time Dedication per Week
 
-Average hours per cycle you spent contributing to team projects.
+Average hours per week you spent contributing to team projects.
 
 [game-objectives]: ./Boundaries.md#objectives
