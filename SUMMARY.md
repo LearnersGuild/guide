@@ -2,7 +2,7 @@
 
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
-  * [Game Boundaries](Game_Manual/Game_Boundaries.md)
+  * [Boundaries](Game_Manual/Boundaries.md)
   * [Challenge](Game_Manual/Challenge.md)
   * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
   * [Echo](Game_Manual/Echo.md)

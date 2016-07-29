@@ -9,7 +9,7 @@ The game is designed to support you in tracking and achieving two objectives:
 
 ## Stats
 
-At the end of every project, the data gathered in the reflection phase is used to calculate and update your player stats. These are meant to reflect your progress towards your goals. Think of stats as your overall player "health".
+At the end of every project, the data gathered in the reflection phase is used to calculate and update your player stats. These are meant to reflect your progress towards your goals. Think of stats as your overall "health" in the game.
 
 1. **Discernment:** Reflects the degree to which you are biased in your assessment of yourself and others (as compared to the average of others' assessment). Represented as a positive or negative percentage, corresponding to your tendency to over- or under-estimate your own contribution. The closer this stat is to zero, the more accurate your discernment is.
 
@@ -25,16 +25,16 @@ At the end of every project, the data gathered in the reflection phase is used t
 
 1. **Culture Contribution:** How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0-100%).
 
-## Game Over Conditions
+## Fail Conditions
 
-Our game is not designed as a zero-sum game. It is a multi-player co-operative game. One player winning does not mean another loses.
+Our game is not designed as a zero-sum game. It is a multiplayer cooperative game, therefore one player winning does not mean another loses.
 
-There are, however, conditions by which a player can be kicked out if any of the following happens:
+A player fails the game, and is subsequently kicked out, if any of the following conditions persists over multiple cycles:
 
-1. Their Time Dedication per Cycle is too low
-2. Their XP is too low
-3. Their Learning Support is too low
-4. Their Culture Contribution is too low
-5. Their Discernment is way off (too high or too low)
+1. Time Dedication per Cycle is too low
+1. Rate of XP growth is too low
+1. Learning Support is too low
+1. Culture Contribution is too low
+1. Discernment is too high or too low
 
 For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players.
