@@ -40,9 +40,3 @@ There are, however, conditions by which a player can be kicked out if any of the
 5. Their Assessment Accuracy is way off (too high or too low)
 
 For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Game Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players.
-
-## Threshold Intervention
-
-Failure to respond to being below threshold. We want to track the action the take in response to feedback. How long do you flounder? Use language of Firing. How long to recover? Is it a probation? What's the turnaround?
-
-We want you to get a job, we need numbers that represent wether or not you're on track to do that.

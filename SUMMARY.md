@@ -2,7 +2,12 @@
 
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)
+<<<<<<< HEAD
   * [Game Over](Game_Manual/Game_Over.md)
+=======
+  * [Challenge](Game_Manual/Challenge.md)
+  * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
+>>>>>>> master
   * [Echo](Game_Manual/Echo.md)
   * [Moderator Guide](Game_Manual/Moderator_Guide.md)
 - [General](General/README.md)

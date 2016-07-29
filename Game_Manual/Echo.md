@@ -8,7 +8,7 @@ Echo is under active development. If you notice something that could be better, 
 
 Echo supports a variety of commands for interacting with the game.
 
-These include commands like `log` for logging reflections and notes, and `vote` for voting on goals.
+These include commands like `review` for reviewing projects, and `vote` for voting on goals.
 
 To issue a command, type a forward slash `/` followed by the command name in the chat window of Echo. You can type commands from any channel.
 
@@ -16,6 +16,6 @@ When you type `/`, Echo will show a menu of the available commands and some hint
 
 For many commands, passing the `-h` or `--help` flag will show you a helpful message about the command.
 
-For example, to get help with the `/log` command, type `/log --help`.
+For example, to get help with the `/review` command, type `/review --help`.
 
 [los-repo]: https://github.com/LearnersGuild/los

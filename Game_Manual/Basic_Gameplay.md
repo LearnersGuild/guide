@@ -98,7 +98,7 @@ Once the reflection stage is over, the cycle is finished, and it is time to begi
 
 The retrospective consists of a series of questions and prompts for learners to give feedback to themselves and their team.
 
-Use the `/log --retro` command to view questions and log answers.
+Use the `/retro` command to view questions and log answers.
 
 #### Review
 

@@ -278,4 +278,12 @@ First Wednesday: Introduce goal authoring
 
 ### Third Friday
 
+We want you to get a job, we need numbers that represent wether or not you're on track to do that. If you're not on track to do that, we let you know, and you need to turn it around, or leave.
+
 - If you're going to drop out talk. You have 5 days to make up your mind.
+- Things discussed when threshold is crossed:
+ - Failure to respond to being below threshold means you get kicked out.  
+ - We want to track the action the take in response to feedback.
+ - How long do you flounder?
+ - How long to recover?
+ - What's the turnaround?
