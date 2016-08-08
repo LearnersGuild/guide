@@ -6,12 +6,20 @@ At the end of every project, the data gathered in the reflection phase is used t
 
 ## XP
 
-Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience. XP is calculated by combining:
+Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience. XP is calculated by combining the following for each project worked on:
 
-- Your percentage contribution to projects
+- Your percentage contribution to the project
 - Total hours worked on the project by all team members
 - Project quality
 - Project completeness
+
+## Average Project Completeness
+
+The average % completion of all projects you've worked on.
+
+## Average Project Quality
+
+The average % quality of all projects you've worked on.
 
 ## Learning Support
 
@@ -23,7 +31,9 @@ How much your team members felt you contributed positively to the team culture. 
 
 ## Discernment
 
-Reflects the degree to which you are biased in your assessment of yourself and others (as compared to the average of others' assessment). Represented as a positive or negative percentage, corresponding to your tendency to over- or under-estimate your own contribution. The closer this stat is to zero, the more accurate your discernment is.
+Reflects the degree to which you are biased in your assessment of your contribution to projects (as compared to the average of others' assessment). Represented as a percentage corresponding to the average of how much you over- or under-estimate your contribution to projects.
+
+Zero is equal to perfect discernment (i.e. you estimate your contribution the same as your peers do). The closer this stat is to zero, the more accurate your discernment is.
 
 ## Time Dedication per Week
 
