@@ -35,6 +35,26 @@ Reflects the degree to which you are biased in your assessment of your contribut
 
 Zero is equal to perfect discernment (i.e. you estimate your contribution the same as your peers do). The closer this stat is to zero, the more accurate your discernment is.
 
+#### Example
+
+Let's say you worked on three projects, with the following contribution rankings:
+
+| Project      | Contribution (self-estimated) | Contribution (team-estimated) |
+|:-------------|:------------------------------|:------------------------------|
+| #tiny-tigers | 20%                           | 30%                           |
+| #big-bees    | 50%                           | 45%                           |
+| #red-rabbits | 28%                           | 30%                           |
+
+Your discernment _per project_ is the difference between self- and team-estimated contribution as an absolute number. So the discernment stats for the above projects would be:
+
+| Project      | Discernment          |
+|:-------------|:---------------------|
+| #tiny-tigers | abs(20% - 30%) = 10% |
+| #big-bees    | abs(50% - 45%) = 5%  |
+| #red-rabbits | abs(28% - 30%) = 2%  |
+
+Based on these projects, your overall **discernment stat** would be the mean of (10%, 5%, 2%), or **5.67%**.
+
 ## Time Dedication per Week
 
 Average hours per week you spent contributing to team projects.
