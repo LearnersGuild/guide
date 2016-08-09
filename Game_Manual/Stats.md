@@ -29,31 +29,83 @@ How much your team members felt that you supported them in their learning. This 
 
 How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0-100%).
 
-## Discernment
+## Project Contribution
 
-Reflects the degree to which you are biased in your assessment of your contribution to projects (as compared to the average of others' assessment). Represented as a percentage corresponding to the average of how much you over- or under-estimate your contribution to projects.
+The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
 
-Zero is equal to perfect discernment (i.e. you estimate your contribution the same as your peers do). The closer this stat is to zero, the more accurate your discernment is.
+Within a given project, you have **actual** and **expected** contributions, as well as a **contribution gap**.
 
-#### Example
+To demonstrate how the various contribution stats are calculated, we'll use the following dataset in examples.
 
-Let's say you worked on three projects, with the following contribution rankings:
+#### Example Project Contribution Estimations
 
-| Project      | Contribution (self-estimated) | Contribution (team-estimated) |
-|:-------------|:------------------------------|:------------------------------|
-| #tiny-tigers | 20%                           | 30%                           |
-| #big-bees    | 50%                           | 45%                           |
-| #red-rabbits | 28%                           | 30%                           |
+| Project      | Team size | Self estimate | Team estimates |
+|:-------------|:----------|:--------------|:---------------|
+| #big-bees    | 3         | 50%           | 42%, 48%       |
+| #red-rabbits | 4         | 28%           | 27%, 35%, 28%  |
+| #tiny-tigers | 2         | 20%           | 30%            |
 
-Your discernment _per project_ is the difference between self- and team-estimated contribution as an absolute number. So the discernment stats for the above projects would be:
+### Actual Contribution
 
-| Project      | Discernment          |
+Your actual contribution is the average of your team's estimates of what percentage of the project you contributed to. It includes your own estimate of your contribution. Represented as a percentage (0-100%).
+
+In the above dataset, the player's actual contribution for the `#big-bees` project is the mean of _all_ the estimates, so it would be equal to 46.67% ( (50% + 42% + 48%) / 3 ).
+
+### Expected Contribution
+
+Your expected contribution how much you are expected to contribute to the project based on the team size so that each player contributes equally. Represented as a percentage (0-100%).
+
+In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 33.33% ( 100% / 3 ) because their team has 3 players, so an equal contribution is 1/3 of the project.
+
+### Contribution Gap
+
+The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a percentage (0-100%).
+
+In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 13.34% ( 46.67% - 33.33% ).
+
+## Contribution Accuracy and Bias
+
+Contribution accuracy and bias reflect how well you estimate your contribution to projects.
+
+To demonstrate how these stats apply, we'll use a modified version of the above dataset, aggregating the team estimates into their average (mean):
+
+| Project      | Self estimate | Team estimate (avg) |
+|:-------------|:--------------|:--------------------|
+| #big-bees    | 50%           | 45%                 |
+| #red-rabbits | 28%           | 30%                 |
+| #tiny-tigers | 20%           | 30%                 |
+
+### Contribution Accuracy
+
+Contribution accuracy reflects how accurate your estimations are relative to the consensus. Represented as a percentage (0-100%).
+
+Zero is equal to perfect accuracy (i.e. you estimate your contribution the same as your peers do). The closer this stat is to zero, the more accurate your contribution estimates are.
+
+Your contribution accuracy _per project_ is the difference between self- and team-estimated contribution as an absolute number. So the contribution accuracy stats for the above projects would be:
+
+| Project      | Accuracy             |
 |:-------------|:---------------------|
 | #tiny-tigers | abs(20% - 30%) = 10% |
 | #big-bees    | abs(50% - 45%) = 5%  |
 | #red-rabbits | abs(28% - 30%) = 2%  |
 
-Based on these projects, your overall **discernment stat** would be the mean of (10%, 5%, 2%), or **5.67%**.
+Based on these projects, the _overall contribution accuracy stat_ is 5.67% (mean of [10%, 5%, 2%]).
+
+## Contribution Bias
+
+Contribution bias reflects whether you tend to over- or under- estimate your contribution. Represented as a percentage (0-100%).
+
+It is calculated the same as contribution accuracy, except that it does turn the difference into an absolute number.
+
+Your contribution bias _per project_ is the difference between self- and team-estimated contribution. So the contribution bias stats for the above projects would be:
+
+| Project      | Bias             |
+|:-------------|:-----------------|
+| #tiny-tigers | 20% - 30% = -10% |
+| #big-bees    | 50% - 45% = 5%   |
+| #red-rabbits | 28% - 30% = -2%  |
+
+Based on these projects, the _overall contribution bias stat_ is -2.33% (mean of [-10%, 5%, -2%]).
 
 ## Time Dedication per Week
 
