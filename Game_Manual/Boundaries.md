@@ -26,7 +26,7 @@ Fail conditions are triggered when any of the following persists over multiple c
 1. Rate of [XP][xp] growth is too low
 1. [Learning Support][learning-support] is too low
 1. [Culture Contribution][culture-contribution] is too low
-1. [Discernment][discernment] is too high
+1. [Estimation Accuracy][estimation-accuracy] is too high
 
 If fail conditions are met, the Moderator will ask the player to leave the game.
 
@@ -37,6 +37,6 @@ _For now, since we have very little historical data tracking stats, "too high" a
 [xp]: ./Stats#xp
 [learning-support]: ./Stats#learning-support
 [culture-contribution]: ./Stats#culture-contribution
-[discernment]: ./Stats#discernment
+[estimation-accuracy]: ./Stats#estimation-accuracy
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
