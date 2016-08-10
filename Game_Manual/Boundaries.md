@@ -26,7 +26,7 @@ Fail conditions are triggered when any of the following persists over multiple c
 1. Rate of [XP][xp] growth is too low
 1. [Learning Support][learning-support] is too low
 1. [Culture Contribution][culture-contribution] is too low
-1. [Estimation Accuracy][estimation-accuracy] is too high
+1. [Estimation Accuracy][estimation-accuracy] is too low
 
 If fail conditions are met, the Moderator will ask the player to leave the game.
 

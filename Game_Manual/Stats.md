@@ -79,17 +79,17 @@ To demonstrate how these stats apply, we'll use a modified version of the above 
 
 Estimation accuracy reflects how accurate your estimations are relative to the consensus. Represented as a percentage (0..100%).
 
-Zero is equal to perfect accuracy (i.e. you estimate your contribution the same as your peers do). The closer this stat is to zero, the more accurate your contribution estimates are.
+One hundred percent is perfect accuracy: you estimate your contribution the same as your peers do. The closer this stat is to 100%, the more accurate your contribution estimates are.
 
-Your estimation accuracy _per project_ is the difference between self- and team-estimated contribution for that project, using the [absolute value][absolute-values] of that difference. So the estimation accuracy stats for the above projects would be:
+Your estimation accuracy _per project_ is computed by first finding difference between self- and team-estimated contribution for that project, and then using the [absolute value][absolute-values] of that difference. Finally, this number is subtracted from 100% (so that a perfect score would be 100%, not 0%). So the estimation accuracy stats for the above projects would be:
 
-| Project      | Estimation Accuracy                  |
-|:-------------|:-------------------------------------|
-| #tiny-tigers | abs(20% - 30%) = abs(-10%) = **10%** |
-| #big-bees    | abs(50% - 45%) = abs(5%) = **5%**    |
-| #red-rabbits | abs(28% - 30%) = abs(-2%) = **2%**   |
+| Project      | Estimation Accuracy                          |
+|:-------------|:---------------------------------------------|
+| #tiny-tigers | 100% - abs(20% - 30%) = 100% - 10% = **90%** |
+| #big-bees    | 100% - abs(50% - 45%) = 100% - 5% = **95%**  |
+| #red-rabbits | 100% - abs(28% - 30%) = 100% - 2% = **98%**  |
 
-Based on these projects, the _overall estimation accuracy stat_ is 5.67% (average of [10%, 5%, 2%]).
+Based on these projects, the _overall estimation accuracy stat_ is 94.33% (average of [90%, 95%, 98%]).
 
 ## Estimation Bias
 
@@ -101,15 +101,13 @@ If your estimation bias is _above zero_, that means that you tend to overestimat
 
 If your estimation bias is _exactly zero_, congratulations! You must be a mind-reader, and/or exceptionally self-aware.
 
-Estimation bias is calculated the same as estimation accuracy, except that it does _not_ use the absolute values of the difference between self and team estimates.
-
 Your estimation bias _per project_ is the difference between self- and team-estimated contribution for that project. So the estimation bias stats for the above projects would be:
 
-| Project      | Estimation Bias  |
-|:-------------|:-----------------|
-| #tiny-tigers | 20% - 30% = -10% |
-| #big-bees    | 50% - 45% = 5%   |
-| #red-rabbits | 28% - 30% = -2%  |
+| Project      | Estimation Bias      |
+|:-------------|:---------------------|
+| #tiny-tigers | 20% - 30% = **-10%** |
+| #big-bees    | 50% - 45% = **5%**   |
+| #red-rabbits | 28% - 30% = **-2%**  |
 
 Based on these projects, the _overall estimation bias stat_ is -2.33% (average of [-10%, 5%, -2%]).
 
