@@ -39,11 +39,11 @@ To demonstrate how the various contribution stats are calculated, we'll use the 
 
 #### Example Project Contribution Estimations
 
-| Project      | Team size | Self estimate | Team estimates |
-|:-------------|:----------|:--------------|:---------------|
-| #big-bees    | 3         | 50%           | 42%, 48%       |
-| #red-rabbits | 4         | 28%           | 27%, 35%, 28%  |
-| #tiny-tigers | 2         | 20%           | 30%            |
+| Project      | Team size | Self estimate | Team estimates | Your Hours | Total Hours |
+|:-------------|:----------|:--------------|:---------------|:-----------|:------------|
+| #big-bees    | 3         | 50%           | 42%, 48%       | 30         | 80          |
+| #red-rabbits | 4         | 28%           | 27%, 35%, 28%  | 25         | 120         |
+| #tiny-tigers | 2         | 20%           | 30%            | 40         | 75          |
 
 ### Actual Contribution
 
@@ -53,15 +53,15 @@ In the above dataset, the player's actual contribution for the `#big-bees` proje
 
 ### Expected Contribution
 
-Your expected contribution how much you are expected to contribute to the project based on the team size so that each player contributes equally. Represented as a percentage (0..100%).
+Your expected contribution how much you are expected to contribute to the project based on how many hours you contribute relative to the total hours of all players. Represented as a percentage (0..100%).
 
-In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 33.33% ( 100% / 3 ) because their team has 3 players, so an equal contribution is 1/3 of the project.
+In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 37.5% ( 30 / 80 ) because they contributed 30 out of a total 80 hours that players spent on this project.
 
 ### Contribution Gap
 
 The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a percentage (0..100%).
 
-In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 13.34% ( 46.67% - 33.33% ).
+In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed 9.17% _more_ to the project than what is expected based on how many hours they worked on it.
 
 ## Estimation Accuracy and Bias
 
