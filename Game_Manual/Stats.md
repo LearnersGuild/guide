@@ -29,6 +29,10 @@ How much your team members felt that you supported them in their learning. This 
 
 How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
 
+## Project Reviews
+
+The number of projects you've reviewed the completeness and quality of. Represented as an integer.
+
 ## Project Contribution
 
 The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
