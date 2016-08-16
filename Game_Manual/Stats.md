@@ -2,7 +2,18 @@
 
 These statistics (stats) are meant to reflect your progress towards the [game objectives][game-objectives], as well as your overall "health" in the game.
 
-At the end of every project, the data gathered in the reflection phase is used to calculate and update your player stats.
+### How to Earn Stats
+
+At the end of every project, the data gathered in the reflection—that is, retrospectives and project reviews—is used to calculate and update your player stats.
+
+In order to earn stats from a project, the following conditions must be met:
+
+1. Every member of the team has completed the project retrospective
+1. The project has been reviewed by `2s` players, where `s` is the size of the team
+
+Once _both_ of these conditions are met for a project, stats will be calculated and awarded for all team members.
+
+---
 
 ## XP
 
