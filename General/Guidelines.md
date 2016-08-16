@@ -5,7 +5,7 @@ Advice from ourselves to ourselves for when we forget
 ## Slow down to speed up
 
 You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box][eisenhower-box].
-![Alt text](/imageseisenhowerbox.jpg)
+![Eisenhower box image](/images/eisenhowerbox.jpg)
 
 ## Hold strong opinions lightly
 
@@ -65,5 +65,16 @@ Learners Guild will not single handedly save the world. We are ultimately, not t
 
 > "We can do no great things, only small things with great love" ~ Mother Teresa
 
+## Aim for healthy and friendly competition
+
+In order to compete, we look to others and compare our behavior or outcomes with theirs. It is a useful and fun form of calibration that can drive us to be better, and expose us to new possibilities.
+
+The negative side of competition is when we slip into "comparative judgement". Instead of comparing our behavior/outcomes (like stats or products), our superego makes it about our self-worth. Now we're comparing our goodness and worth as humans, which is both unhelpful and painful.
+
+In order to play and enjoy the game, be a lighthearted competitor. When you succeed, celebrate your hard work but don't let it get to your head. When you fail, analyze your mistakes to look for ways you can improve but don't beat yourself up.
+
+It is not easy, but strive to not make your performance mean anything about your self-worth. Instead, try to benefit from the feedback, playfulness, and motivation that a healthy competition can provide.
+
+> "_Did I win? Did I lose?_ Those are the wrong questions. The correct question is: _Did I make my best effort?_” ~ Carol S. Dweck
 
 [eisenhower-box]: http://jamesclear.com/eisenhower-box
