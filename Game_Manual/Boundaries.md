@@ -32,6 +32,42 @@ If fail conditions are met, the Moderator will ask the player to leave the game.
 
 _For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players._
 
+## The Laws of Integrity and of No Collusion
+
+For the most part, the rules of the game are dictated by stats: the better a player's stats are, the better they are doing in the game.
+
+In order for this to work, however, all players must follow two laws: the Law of Integrity and the Law of No Collusion.
+
+The Law of Integrity is as follows:
+
+> Players must be as honest and truthful as possible when reporting data to the game.
+
+For example, a player would be breaking the Law of Integrity if they report that they worked 40 hours on a project when they know that they only worked 20.
+
+Much of the data requested is subjective, which is why the law only says "as truthful as possible". Absolute truth is not expected, but players are expected to not willfully distort the truth.
+
+The Law of No Collusion take the Law of Integrity to the group level:
+
+> Players must not conspire with other players to sabotage game procedures.
+
+For example, a player would be breaking this law if they made a pact with other players to vote for or against a particular goal.
+
+Players can try to persuade and influence each other in game procedures like voting and project reviews, but they may not collude to ensure a particular outcome. 
+
+It's fine (even encouraged) for players to discuss and debate the meaning of the stats:
+- "How do we define measure project quality?"
+- "What matters to you when determining culture contribution?"
+- "What do you take into account when determining percentage contribution?"
+
+The Law of Collusion forbids players from discussing **actual numbers**. For example:
+- "I'm thinking I did about a third of this project? What do you guys think?"
+- "It seems to me that our project quality is at 80%. That's what I'm going to say in my review."
+
+If these laws are upheld, then the game maintains its integrity; it is not corrupted.
+
+If these laws are broken, the moderator will step in to rectify and issue a warning. If a player repeatedly breaks them by even after being warned, they may be asked to leave.
+
+
 [stats]: ./Stats.md
 [time-dedication]: ./Stats#time-dedication-per-cycle
 [xp]: ./Stats#xp

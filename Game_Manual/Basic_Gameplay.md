@@ -4,11 +4,25 @@ There are two objectives of the game: to learn, and to contribute to others' lea
 
 Focus on these two activities and you will succeed.
 
+## Components
+
 ### Roles
 
 There are two roles: **Learner** and **Moderator**.
 
 Learners play the game; the Moderator acts as a referee and game master.
+
+### Goals
+
+Goals serve as templates for projects.
+
+Goals live in a goal library which all learners contribute to.
+
+### Projects
+
+Projects are how the work of learning is organized and made meaningful.
+
+Projects are defined by goals, but can be modified by the team working on them. They have clear outcomes and context, which helps learners know both _what success looks like_ as well as _how this project will help them learn their craft_.
 
 ### Cycles
 
@@ -17,6 +31,8 @@ The game moves forward through a series of 1-week cycles. Everything happens wit
 Every cycle, learners select learning goals, form projects from them, practice their craft in the context of the project, and finish the cycle by reflecting on both the process and the outcome.
 
 Learners complete cycles on their journey to achieving dignified livelihood.
+
+## Stages
 
 ### Goal Selection
 
@@ -32,7 +48,7 @@ Use the `/vote` command to vote on goals.
 
 After all learners have voted, the votes are tallied and the most popular goals become **projects** to which learners are then assigned.
 
-#### Project Formation
+#### Forming Project from Goals
 
 Forming projects from votes is a relatively complex process. To ensure that project teams have the right number of learners with the right balance of experience levels, more than just votes have to be factored into the equation.
 
