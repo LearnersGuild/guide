@@ -29,6 +29,12 @@ How much your team members felt that you supported them in their learning. This 
 
 How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
 
+## Team Play
+
+How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+
+Some examples of good "team play" behavior: engaging fully with the problem, trying to figure out how to maximize your output to the team, compromising and standing firm when needed, speaking up and standing back appropriately.
+
 ## Project Reviews
 
 The number of projects you've reviewed the completeness and quality of. Represented as an integer.
