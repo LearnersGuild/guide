@@ -69,9 +69,9 @@ In the above dataset, the player's expected contribution for the `#big-bees` pro
 
 ### Contribution Gap
 
-The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a percentage (0..100%).
+The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a +/- percentage (-100%..100%).
 
-In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed 9.17% _more_ to the project than what is expected based on how many hours they worked on it.
+In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed +9.17% _more_ to the project than what is expected based on how many hours they worked on it.
 
 ## Estimation Accuracy and Bias
 
