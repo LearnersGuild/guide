@@ -9,7 +9,7 @@ At the end of every project, the data gathered in the reflection—that is, retr
 In order to earn stats from a project, the following conditions must be met:
 
 1. Every member of the team has completed the project retrospective
-1. The project has been reviewed by `2s` players, where `s` is the size of the team
+1. The project has been reviewed twice as many people as the size of the team
 
 Once _both_ of these conditions are met for a project, stats will be calculated and awarded for all team members.
 
@@ -128,7 +128,7 @@ Based on these projects, the _overall estimation bias stat_ is -2.33% (average o
 
 ## Time Dedication per Week
 
-Average hours per week you spent contributing to team projects.
+Average hours per week you spent contributing to team projects. Think of these as "billable" hours. 
 
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
