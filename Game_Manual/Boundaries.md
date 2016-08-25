@@ -19,18 +19,32 @@ At this point, they are ready to pursue their craft as a practitioner and no lon
 
 ## Fail Conditions
 
-A player fails the game if their [stats][stats] show them to be consistently underperforming.
+A player is at risk of failing the game if their [stats][stats] show them to be consistently underperforming.
 
-Fail conditions are triggered when any of the following persists over multiple cycles:
+There are two stages of failing.
 
-1. Rate of [XP][xp] growth is too low
-1. [Learning Support][learning-support] is too low
-1. [Culture Contribution][culture-contribution] is too low
-1. [Estimation Accuracy][estimation-accuracy] is too low
+The first stage is the _Danger Zone_. When a stat **falls below** any of the following thresholds, it is in the Danger Zone:
 
-If fail conditions are met, the Moderator will ask the player to leave the game.
+- [Team Play][team-play] : 80%
+- [Culture Contribution][culture-contribution] : 80%
+- [XP][xp] earned per cycle : 15
 
-_For now, since we have very little historical data tracking stats, "too high" and "too low" are the best we can do in defining these stat thresholds. It's up to the Moderator to decide what the thresholds are for each stat and to communicate these thresholds to the players._
+Once a stat is within Danger Zone, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the Danger Zone, get whatever support you need to move the needle and get out of danger.
+
+The second stage is an _Exit Interview_, and is entered into when a player's stats have _both_ 
+
+1. been in the Danger Zone for at least two weeks and 
+1. have not shown any improvement.
+
+During the Exit Interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
+
+### A note about fail conditions
+
+The point of these fail conditions is to ensure that all learners in the collective are contributing fairly to their teams.
+
+If one or more of your stats falls into the Danger Zone, think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
+
+You will only be asked to leave if you consistently underperform and show no signs of improvement. A thriving learning community requires the effort and engagement from everyone involved; without that, the whole collective will fail.
 
 ## The Laws of Integrity and of No Collusion
 
@@ -52,7 +66,7 @@ The Law of No Collusion take the Law of Integrity to the group level:
 
 For example, a player would be breaking this law if they made a pact with other players to vote for or against a particular goal.
 
-Players can try to persuade and influence each other in game procedures like voting and project reviews, but they may not collude to ensure a particular outcome. 
+Players can try to persuade and influence each other in game procedures like voting and project reviews, but they may not collude to ensure a particular outcome.
 
 It's fine (even encouraged) for players to discuss and debate the meaning of the stats:
 - "How do we define measure project quality?"
@@ -71,8 +85,7 @@ If these laws are broken, the moderator will step in to rectify and issue a warn
 [stats]: ./Stats.md
 [time-dedication]: ./Stats#time-dedication-per-cycle
 [xp]: ./Stats#xp
-[learning-support]: ./Stats#learning-support
+[team-play]: ./Stats#team-play
 [culture-contribution]: ./Stats#culture-contribution
-[estimation-accuracy]: ./Stats#estimation-accuracy
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
