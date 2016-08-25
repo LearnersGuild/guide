@@ -34,7 +34,7 @@ Once a stat is within Danger Zone, the player has to **consistently improve** th
 The second stage is an _Exit Interview_, and is entered into when a player's stats have _both_ 
 
 1. been in the Danger Zone for at least two weeks and 
-1. have not shown any improvement.
+1. have not shown consistent improvement.
 
 During the Exit Interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
 
