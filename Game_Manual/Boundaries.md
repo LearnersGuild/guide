@@ -23,17 +23,20 @@ A player is at risk of failing the game if their [stats][stats] show them to be 
 
 There are two stages of failing.
 
-The first stage is the _Danger Zone_. When a stat falls below any of the following thresholds, it is in the Danger Zone:
+The first stage is the _Danger Zone_. When a stat **falls below** any of the following thresholds, it is in the Danger Zone:
 
-- [Team Play][team-play] : 80
-- [Culture Contribution][culture-contribution] : 80
+- [Team Play][team-play] : 80%
+- [Culture Contribution][culture-contribution] : 80%
 - [XP][xp] earned per cycle : 15
 
-Once a stat is within Danger Zone, the player has to consistently improve their affected stats until they are above the threshold. If you have a stat in the Danger Zone, get whatever support you need to move the needle and get out of danger.
+Once a stat is within Danger Zone, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the Danger Zone, get whatever support you need to move the needle and get out of danger.
 
-The second stage is an _Exit Interview_, and is entered into when a player's stats have _both_ (a) been in the Danger Zone for at least two weeks and (b) have not shown any improvement.
+The second stage is an _Exit Interview_, and is entered into when a player's stats have _both_ 
 
-During the Exit Interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game. If the moderator is not convinced that the player is putting in the right effort, they will ask them to leave the game.
+1. been in the Danger Zone for at least two weeks and 
+1. have not shown any improvement.
+
+During the Exit Interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
 
 ### A note about fail conditions
 
