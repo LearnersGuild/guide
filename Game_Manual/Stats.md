@@ -55,19 +55,19 @@ The average % quality of all projects you've worked on.
 
 ## Learning Support
 
-How much your team members felt that you supported them in their learning. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How much your team members felt that you supported them in their learning. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 Learning support is calculated by taking the results of learning support question from the retrospective, and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
 
 ## Culture Contribution
 
-How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How much your team members felt you contributed positively to the team culture. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 Culture contribution scores are calculated the same as learning support scores, but using the culture contribution answers from the retrospective.
 
 ## Team Play
 
-How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 Team play scores are calculated the same as learning support scores, but using the team play answers from the retrospective.
 
