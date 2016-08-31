@@ -17,12 +17,15 @@ Once _both_ of these conditions are met for a project, stats will be calculated 
 
 ## XP
 
-Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience. XP is calculated by combining the following for each project worked on:
+Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience.
 
-- Your percentage contribution to the project
-- Total hours worked on the project by all team members
-- Project quality
-- Project completeness
+XP is calculated and awarded in three steps for each project.
+
+First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
+
+Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 * .90 * .95).
+
+Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 * .40).
 
 ## Elo Rating
 
@@ -52,15 +55,21 @@ The average % quality of all projects you've worked on.
 
 ## Learning Support
 
-How much your team members felt that you supported them in their learning. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How much your team members felt that you supported them in their learning. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+
+Learning support is calculated by taking the results of learning support question from the retrospective, and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
 
 ## Culture Contribution
 
-How much your team members felt you contributed positively to the team culture. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How much your team members felt you contributed positively to the team culture. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+
+Culture contribution scores are calculated the same as learning support scores, but using the culture contribution answers from the retrospective.
 
 ## Team Play
 
-How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average with more recent projects counting more than earlier ones. Represented as a percentage (0..100%).
+How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+
+Team play scores are calculated the same as learning support scores, but using the team play answers from the retrospective.
 
 Some examples of good "team play" behavior: engaging fully with the problem, trying to figure out how to maximize your output to the team, compromising and standing firm when needed, speaking up and standing back appropriately.
 
@@ -116,7 +125,7 @@ To demonstrate how these stats apply, we'll use a modified version of the above 
 
 ### Estimation Accuracy
 
-Estimation accuracy reflects how accurate your estimations are relative to the consensus. Represented as a percentage (0..100%).
+Estimation accuracy reflects how accurate your estimations are relative to the consensus. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 One hundred percent is perfect accuracy: you estimate your contribution the same as your peers do. The closer this stat is to 100%, the more accurate your contribution estimates are.
 
@@ -132,7 +141,7 @@ Based on these projects, the _overall estimation accuracy stat_ is 94.33% (avera
 
 ## Estimation Bias
 
-Estimation bias reflects whether you tend to over- or under- estimate your contribution. Represented as a +/- percentage (-100%..100%).
+Estimation bias reflects whether you tend to over- or under-estimate your contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a +/- percentage (-100%..100%).
 
 If your estimation bias is _below zero_, that means that you tend to underestimate your contribution to the projects that you work on. Your fellow players see value that you don't recognize; you can learn to take more credit for your work!
 
@@ -152,7 +161,7 @@ Based on these projects, the _overall estimation bias stat_ is -2.33% (average o
 
 ## Time Dedication per Week
 
-Average hours per week you spent contributing to team projects. Think of these as "billable" hours. 
+Average hours per week you spent contributing to team projects. Think of these as "billable" hours.
 
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
