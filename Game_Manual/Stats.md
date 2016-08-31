@@ -17,12 +17,15 @@ Once _both_ of these conditions are met for a project, stats will be calculated 
 
 ## XP
 
-Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience. XP is calculated by combining the following for each project worked on:
+Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience.
 
-- Your percentage contribution to the project
-- Total hours worked on the project by all team members
-- Project quality
-- Project completeness
+XP is calculated and awarded in three steps for each project.
+
+First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
+
+Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 * .90 * .95).
+
+Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 * .40).
 
 ## Elo Rating
 
@@ -152,7 +155,7 @@ Based on these projects, the _overall estimation bias stat_ is -2.33% (average o
 
 ## Time Dedication per Week
 
-Average hours per week you spent contributing to team projects. Think of these as "billable" hours. 
+Average hours per week you spent contributing to team projects. Think of these as "billable" hours.
 
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
