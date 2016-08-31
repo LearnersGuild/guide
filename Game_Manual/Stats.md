@@ -125,7 +125,7 @@ To demonstrate how these stats apply, we'll use a modified version of the above 
 
 ### Estimation Accuracy
 
-Estimation accuracy reflects how accurate your estimations are relative to the consensus. Represented as a percentage (0..100%).
+Estimation accuracy reflects how accurate your estimations are relative to the consensus. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 One hundred percent is perfect accuracy: you estimate your contribution the same as your peers do. The closer this stat is to 100%, the more accurate your contribution estimates are.
 
@@ -141,7 +141,7 @@ Based on these projects, the _overall estimation accuracy stat_ is 94.33% (avera
 
 ## Estimation Bias
 
-Estimation bias reflects whether you tend to over- or under- estimate your contribution. Represented as a +/- percentage (-100%..100%).
+Estimation bias reflects whether you tend to over- or under-estimate your contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a +/- percentage (-100%..100%).
 
 If your estimation bias is _below zero_, that means that you tend to underestimate your contribution to the projects that you work on. Your fellow players see value that you don't recognize; you can learn to take more credit for your work!
 
