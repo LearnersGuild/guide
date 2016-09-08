@@ -12,6 +12,12 @@ Our space is accessible with a numeric passcode. You are responsible for maintai
 
 _You are responsible for the security of your belongings. We recommend using one of the cubbies to store your things while you are working._
 
+## Hours
+
+The office opens at 7am and closes at 10pm. However, staff will only be on-site from 8:30am to 6pm.
+
+You can arrive as early as 7am, and stay as late as 10pm. If you are the last person to leave, it is your responsibility to close down the space (turn off lights, close blinds, etc.).
+
 ## Shared Spaces
 
 ### Kitchen

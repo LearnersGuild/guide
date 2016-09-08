@@ -2,7 +2,7 @@
 
 **What is the time commitment?**
 
-Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8.30am to 6pm.
+Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8:30am to 6pm.
 
 You don't have to keep your time commitment in the case of big life events: births, deaths, and weddings.
 
@@ -12,7 +12,7 @@ Occasionally, there will be something happening on a Saturday. We'll give you a 
 
 **What happens if I show up late? What if I have to leave early?**
 
-Your commitment is to show up and build software between 8.30 to 6. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
+Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
 
 Schedule appointments and other obligations outside of program hours—exceptions should only be made for medical appointments that cannot happen outside of business hours. Only be late or leave early if it's impossible to schedule your appointment at other times (weekends or lunch).
 
@@ -24,9 +24,9 @@ Inform your team and/or moderator, and make sure to make up anything you missed.
 
 **Can I stay late and work at the office on weekends?**
 
-No. We close the doors at 6:30pm, and nobody works on weekends. Get some rest, exercise, go outside! Your mind and body need breaks to sustain the prolonged learning effort.
+Late—yes; weekends—no. You can use the space during [open hours][oak-building-hours] on weekdays, but the office is closed on weekends. No staff will be on-site outside of regular hours, and we recommend that you get rest, exercise, go outside! Your mind and body need breaks to sustain the prolonged learning effort.
 
-Leaving, starting, stopping the program:
+If you do end up staying late to work on your project, be sure to update your team the next day. Nobody is expected to stay longer than 6pm, so it's on you to make sure that your team is caught up with any extra work you put in.
 
 **Do you kick people out? Why? How? Will I know ahead of time?**
 
@@ -115,3 +115,4 @@ Income sharing only starts if you're earning a salary of more than $50k.
 If you're unemployed, the Income Sharing Agreement is paused until you're making a salary again.
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
+[oak-building-hours]: ../Policies/Oakland_Building.md#hours
