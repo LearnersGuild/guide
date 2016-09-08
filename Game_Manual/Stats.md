@@ -86,7 +86,18 @@ How well your team members felt that you collaborated on team efforts, independe
 
 Team play scores are calculated the same as learning support scores, but using the team play answers from the retrospective.
 
-Some examples of good "team play" behavior: engaging fully with the problem, trying to figure out how to maximize your output to the team, compromising and standing firm when needed, speaking up and standing back appropriately.
+### What Team Play Means
+
+It is important to understand what it means to be a good team player, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good team play" is.
+
+| Value               | Evidence                                                                                                                                   |
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Receptiveness       | They were open to feedback, and received it gracefully without becoming defensive or dismissive. They separated their ego from their work. |
+| Results Focus       | They focused on the best outcomes for the team. They were dedicated to and persevered in achieving shared goals.                           |
+| Flexible Leadership | They stepped into leadership roles when needed, and supported others to step into leading roles.                                           |
+| Friction Reduction  | They were constantly looking for ways to improve team process, and to help everyone play to their full potential.                          |
 
 ## Project Reviews
 
