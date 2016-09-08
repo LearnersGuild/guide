@@ -65,6 +65,21 @@ How much your team members felt you contributed positively to the team culture. 
 
 Culture contribution scores are calculated the same as learning support scores, but using the culture contribution answers from the retrospective.
 
+### What Culture Contribution Means
+
+Culture contribution can be a difficult thing to assess. It is important to understand what it means, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good culture contribution" is. These are mirrored by the [dynamic tensions][cos-dynam-tensions] in the COS.
+
+| Value     | Evidence                                                                                                                                                                                                                                                               |
+|:----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Belonging | They were authentic and real. They were being themselves which inspired us to be ourselves.<br> They were in relationship with me. They cared for the quality of our working relationship, and paid attention to it.                                                   |
+| Efficacy  | They honored their own and others' autonomy. They practiced and supported free, creative work.<br> They acted in integrity. They helped to create and maintain clear accountabilities. They stood firm in their domain and power, and respected the domains of others. |
+| Growth    | They told the truth. They said what was true for them, and chose truth over comfort.<br> They were safe to work with. They didn't judge, criticize, or stonewall. They supported our team culture to be free from standards, judgements, and personal attacks.         |
+| Mastery   | They challenged themselves and others. They sought out growth for themselves, and helped everyone extend their potential.<br> They were generous in their support. They were responsive to requests for help, and offered guidance and mentorship.                     |
+| Flow      | They were engaged. Their focus, dedication and motivation supported our team in staying on task.<br> They enjoyed the work. They created more fun and enjoyment for us.                                                                                                |
+
+
 ## Team Play
 
 How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
@@ -166,3 +181,4 @@ Average hours per week you spent contributing to team projects. Think of these a
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
 [elo-rating-wiki]: https://en.wikipedia.org/wiki/Elo_rating_system
+[cos-dynam-tensions]: http://cos.learnersguild.org/Dynamic_Tensions/
