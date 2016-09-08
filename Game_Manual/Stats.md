@@ -23,9 +23,9 @@ XP is calculated and awarded in three steps for each project.
 
 First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
 
-Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 * .90 * .95).
+Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 x 0.90 x 0.95).
 
-Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 * .40).
+Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 x 0.40).
 
 ## Elo Rating
 
