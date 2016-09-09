@@ -23,9 +23,9 @@ XP is calculated and awarded in three steps for each project.
 
 First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
 
-Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 * .90 * .95).
+Second, the net project XP is calculated by multiplying the gross project XP by the completeness and quality scores. So for a project with 95% completeness and 90% quality, the net project XP would be 85.5 (100 x 0.90 x 0.95).
 
-Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 * .40).
+Finally, the net project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 34.2 XP (85.5 x 0.40).
 
 ## Elo Rating
 
@@ -65,13 +65,39 @@ How much your team members felt you contributed positively to the team culture. 
 
 Culture contribution scores are calculated the same as learning support scores, but using the culture contribution answers from the retrospective.
 
+### What Culture Contribution Means
+
+Culture contribution can be a difficult thing to assess. It is important to understand what it means, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good culture contribution" is. These are mirrored by the [dynamic tensions][cos-dynam-tensions] in the COS.
+
+| Value     | Evidence                                                                                                                                                                                                                                                               |
+|:----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Belonging | They were authentic and real. They were being themselves which inspired us to be ourselves.<br> They were in relationship with me. They cared for the quality of our working relationship, and paid attention to it.                                                   |
+| Efficacy  | They honored their own and others' autonomy. They practiced and supported free, creative work.<br> They acted in integrity. They helped to create and maintain clear accountabilities. They stood firm in their domain and power, and respected the domains of others. |
+| Growth    | They told the truth. They said what was true for them, and chose truth over comfort.<br> They were safe to work with. They didn't judge, criticize, or stonewall. They supported our team culture to be free from standards, judgements, and personal attacks.         |
+| Mastery   | They challenged themselves and others. They sought out growth for themselves, and helped everyone extend their potential.<br> They were generous in their support. They were responsive to requests for help, and offered guidance and mentorship.                     |
+| Flow      | They were engaged. Their focus, dedication and motivation supported our team in staying on task.<br> They enjoyed the work. They created more fun and enjoyment for us.                                                                                                |
+
+
 ## Team Play
 
 How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
 Team play scores are calculated the same as learning support scores, but using the team play answers from the retrospective.
 
-Some examples of good "team play" behavior: engaging fully with the problem, trying to figure out how to maximize your output to the team, compromising and standing firm when needed, speaking up and standing back appropriately.
+### What Team Play Means
+
+It is important to understand what it means to be a good team player, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good team play" is.
+
+| Value               | Evidence                                                                                                                                   |
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Receptiveness       | They were open to feedback, and received it gracefully without becoming defensive or dismissive. They separated their ego from their work. |
+| Results Focus       | They focused on the best outcomes for the team. They were dedicated to and persevered in achieving shared goals.                           |
+| Flexible Leadership | They stepped into leadership roles when needed, and supported others to step into leading roles.                                           |
+| Friction Reduction  | They were constantly looking for ways to improve team process, and to help everyone play to their full potential.                          |
 
 ## Project Reviews
 
@@ -166,3 +192,4 @@ Average hours per week you spent contributing to team projects. Think of these a
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
 [elo-rating-wiki]: https://en.wikipedia.org/wiki/Elo_rating_system
+[cos-dynam-tensions]: http://cos.learnersguild.org/Dynamic_Tensions/
