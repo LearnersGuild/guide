@@ -53,17 +53,11 @@ The average % completion of all projects you've worked on.
 
 The average % quality of all projects you've worked on.
 
-## Learning Support
-
-How much your team members felt that you supported them in their learning. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
-
-Learning support is calculated by taking the results of learning support question from the retrospective, and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
-
-## Culture Contribution
+## Health - Culture
 
 How much your team members felt you contributed positively to the team culture. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
-Culture contribution scores are calculated the same as learning support scores, but using the culture contribution answers from the retrospective.
+Culture contribution is calculated by taking the results of culture contribution question from the retrospective ("Based on X's culture contribution..."), and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
 
 ### What Culture Contribution Means
 
@@ -79,12 +73,11 @@ Use the rubric below to build your sense of what "good culture contribution" is.
 | Mastery   | They challenged themselves and others. They sought out growth for themselves, and helped everyone extend their potential.<br> They were generous in their support. They were responsive to requests for help, and offered guidance and mentorship.                     |
 | Flow      | They were engaged. Their focus, dedication and motivation supported our team in staying on task.<br> They enjoyed the work. They created more fun and enjoyment for us.                                                                                                |
 
-
-## Team Play
+## Health - Team Play
 
 How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
 
-Team play scores are calculated the same as learning support scores, but using the team play answers from the retrospective.
+Team play scores are calculated the same as culture contribution scores, but using the team play answers from the retrospective.
 
 ### What Team Play Means
 
@@ -98,6 +91,12 @@ Use the rubric below to build your sense of what "good team play" is.
 | Results Focus       | They focused on the best outcomes for the team. They were dedicated to and persevered in achieving shared goals.                           |
 | Flexible Leadership | They stepped into leadership roles when needed, and supported others to step into leading roles.                                           |
 | Friction Reduction  | They were constantly looking for ways to improve team process, and to help everyone play to their full potential.                          |
+
+## Health - Technical
+
+How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+
+Technical health scores are calculated the same as culture contribution scores, but using the technical health answers from the retrospective.
 
 ## Project Reviews
 

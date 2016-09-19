@@ -23,26 +23,30 @@ A player is at risk of failing the game if their [stats][stats] show them to be 
 
 There are two stages of failing.
 
-The first stage is the _Danger Zone_. When a stat **falls below** any of the following thresholds, it is in the Danger Zone:
+The first stage starts when a player's stats go _in the red_. When a stat **falls below** any of the following thresholds, it is in the red:
 
-- [Team Play][team-play] : 80%
-- [Culture Contribution][culture-contribution] : 80%
+- [Health: Team Play][team-play] : 65%
+- [Health: Culture Contribution][culture-contribution] : 65%
 - [XP][xp] earned per cycle : 15
 
-Once a stat is within Danger Zone, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the Danger Zone, get whatever support you need to move the needle and get out of danger.
+Once a stat is in the red, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the red, get whatever support you need to move the needle and get out of danger.
 
-The second stage is an _Exit Interview_, and is entered into when a player's stats have _both_ 
+When you have a stat in the red, you have to show continuous progress. This doesn't mean that every week has to be higher than the previous week. It means that every week's stats has to be higher than than _two_ weeks ago until you get above the threshold.
 
-1. been in the Danger Zone for at least two weeks and 
-1. have not shown consistent improvement.
+> If you are in the red, and your end of cycle stats are lower than what they were two cycles ago, you get an exit interview.
 
-During the Exit Interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
+The second stage is an _exit interview_, and is entered into when a player's stats have _both_:
+
+1. been in the red for at least two weeks and
+1. have not shown consistent improvement
+
+During the exit interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
 
 ### A note about fail conditions
 
 The point of these fail conditions is to ensure that all learners in the collective are contributing fairly to their teams.
 
-If one or more of your stats falls into the Danger Zone, think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
+If one or more of your stats falls in the red, think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
 
 You will only be asked to leave if you consistently underperform and show no signs of improvement. A thriving learning community requires the effort and engagement from everyone involved; without that, the whole collective will fail.
 
@@ -85,7 +89,7 @@ If these laws are broken, the moderator will step in to rectify and issue a warn
 [stats]: ./Stats.md
 [time-dedication]: ./Stats#time-dedication-per-cycle
 [xp]: ./Stats#xp
-[team-play]: ./Stats#team-play
-[culture-contribution]: ./Stats#culture-contribution
+[team-play]: ./Stats#health-team-play
+[culture-contribution]: ./Stats#health-culture
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
