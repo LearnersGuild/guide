@@ -14,6 +14,12 @@ Occasionally, there will be something happening on a Saturday. We'll give you a 
 
 Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
 
+If you are going to be late and/or miss a day, you need to let your team know as far in advance as possible. Teams hold each other accountable.
+
+You also need to inform the Oakland chapter (via chat) so that facilitators know if you're going to miss an activity or event (e.g. home group).
+
+Letting your team and chapter know when you are unable to be present is part of our integrity agreement to respect each others' and our communal time. If you are late or absent and do not inform your team and chapter, it is a serious matter and is escalated to the moderator by the team.
+
 Schedule appointments and other obligations outside of program hours—exceptions should only be made for medical appointments that cannot happen outside of business hours. Only be late or leave early if it's impossible to schedule your appointment at other times (weekends or lunch).
 
 As per above, general exceptions apply to big life events: births, deaths, and weddings.
