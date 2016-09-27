@@ -18,7 +18,7 @@ If you are going to be late and/or miss a day, you need to let your team know as
 
 You also need to inform the Oakland chapter (via chat) so that facilitators know if you're going to miss an activity or event (e.g. home group).
 
-Letting your team and chapter know when you are unable to be present is part of our integrity agreement to respect each others' and our communal time. If you are late or absent and do not inform your team and chapter, it is a serious matter and is escalated to the moderator.
+Letting your team and chapter know when you are unable to be present is part of our integrity agreement to respect each others' and our communal time. If you are late or absent and do not inform your team and chapter, it is a serious matter and is escalated to the moderator by the team.
 
 Schedule appointments and other obligations outside of program hours—exceptions should only be made for medical appointments that cannot happen outside of business hours. Only be late or leave early if it's impossible to schedule your appointment at other times (weekends or lunch).
 
