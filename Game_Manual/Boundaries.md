@@ -27,7 +27,7 @@ The first stage starts when a player's stats go _in the red_. When a stat **fall
 
 - [Health: Team Play][team-play] : 65%
 - [Health: Culture Contribution][culture-contribution] : 65%
-- [XP][xp] earned per cycle : 15
+- [XP][xp] earned per cycle : 17.5
 
 Once a stat is in the red, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the red, get whatever support you need to move the needle and get out of danger.
 
