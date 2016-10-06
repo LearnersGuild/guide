@@ -23,11 +23,11 @@ A player is at risk of failing the game if their [stats][stats] show them to be 
 
 There are two stages of failing.
 
-The first stage starts when a player's stats go _in the red_. When a stat **falls below** any of the following thresholds, it is in the red:
+The first stage starts when a player's stats go _in the red_. When a stat passes any of the following thresholds, it is in the red:
 
-- [Health: Team Play][team-play] : 65%
-- [Health: Culture Contribution][culture-contribution] : 65%
-- [XP][xp] earned per cycle : 17.5
+- [Health: Team Play][team-play] : less than 65%
+- [Health: Culture Contribution][culture-contribution] : less than 65%
+- [XP][xp] earned per cycle : less than 17.5
 - [Estimation Bias][estimation-bias] : less than -8% or greater than +8%
 
 Once a stat is in the red, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the red, get whatever support you need to move the needle and get out of danger.
