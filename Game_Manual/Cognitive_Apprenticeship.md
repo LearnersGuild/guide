@@ -10,6 +10,7 @@ This guide is aimed to help you learn and utilize cognitive apprenticeship. Here
 
 - Read about [what apprenticeship is](#context-apprenticeship) and [why we use it](#why-cognitive-apprenticeship) at Learners Guild
 - Learn about the [practice of cognitive apprenticeship](#the-practice-of-cognitive-apprenticeship) and how to engage in a cognitive apprenticeship session
+- Get up to speed on the [language of cognitive apprenticeship](#terminology)
 - Watch a [demonstration cognitive apprenticeship session](#demonstration-session) between Tanner and Adam
 
 Once you've grasped the basic idea of cognitive apprenticeship, try it out!
@@ -117,3 +118,43 @@ It is a long video, so if you're strapped for time, you should skip ahead to 35:
 
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/dbknami46w?seo=false&videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
+## Terminology
+
+_Most of the terms below are borrowed directly from Vanessa P. Dennen and Kerry J. Burner's work, ["The Cognitive Apprenticeship Model in Educational Practice"](http://www.aect.org/edtech/edition3/ER5849x_C034.fm.pdf)._
+
+###### Apprenticeship
+A process through which a more experienced person assists a less experienced one by way of demonstration, support, and examples.
+
+###### Articulation
+In cognitive apprenticeship, verbalizing the results of reflective acts.
+
+###### Coaching
+In cognitive apprenticeship, assisting and supporting learners’ cognitive activities.
+
+###### Cognitive apprenticeship
+An apprenticeship process that utilizes cognitive and metacognitive skills and processes to guide learning.
+
+###### Community of practice
+A group of people bound by participation in an activity common to them all; may be formal or informal.
+
+###### Exploration
+In cognitive apprenticeship, forming and testing a personal hypothesis in pursuit of learning.
+
+###### Modeling
+In cognitive apprenticeship, demonstrating thought processes.
+
+###### Reflection
+In cognitive apprenticeship, self-analysis and self-assessment.
+
+###### Scaffolding
+Support that is provided to assist learners in reaching skill levels beyond their current abilities; essential to scaffolding is fading the support inversely to the learners’ acquisition of the skill that is being supported.
+
+###### Session
+A specific time during which a practitioner and one or more learners engages in one full cycle of Preparation -> Observation/Practice -> Reflection.
+
+###### Situatedness
+The context or constellation of influential events and elements that govern and shape human life.
+
+###### Zone of proximal development (ZPD)
+A term coined by Vygotsky to describe the space between a learner’s current skill level and the next skill level that the learner cannot reach without assistance.
