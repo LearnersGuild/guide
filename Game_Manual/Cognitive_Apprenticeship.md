@@ -4,7 +4,21 @@ The Learning Operating System (LOS, for short) at Learners Guild uses a mechanic
 
 Cognitive Apprenticeship is a method for transferring knowledge and skills from one person to another. It is based on the simple idea that humans learn from observing each other, imitating each other, and then trying to innovate or improve on what they see others doing.
 
-## Apprenticeship
+## How to Use this Guide
+
+This guide is aimed to help you learn and utilize cognitive apprenticeship. Here are some ways you can use it:
+
+- Read about [what apprenticeship is](#context-apprenticeship) and [why we use it](#why-cognitive-apprenticeship) at Learners Guild
+- Learn about the [practice of cognitive apprenticeship](#the-practice-of-cognitive-apprenticeship) and how to engage in a cognitive apprenticeship session
+- Get up to speed on the [language of cognitive apprenticeship](#terminology)
+- Watch a [demonstration cognitive apprenticeship session](#demonstration-session) between Tanner and Adam
+- Participate in an ongoing Q&A by adding your question to [this shared document](https://docs.google.com/document/d/1mlJ74QOSc5QSGbJQpFGaeFrFkjFl6DO7HKkb2TPaHiM/edit?usp=sharing)
+
+Once you've grasped the basic idea of cognitive apprenticeship, try it out! **[Book a cognitive apprenticeship session](https://calendly.com/tannerw/cog-app/) with Tanner.** After you schedule your session, think about what kind of task you'd like to do. Ideally, it is something that is at the far edge of your ZPD - difficult enough that you couldn't solve it on your own, but not completely out of your league. Reference the [preparation](#preparation) section for more on how to prepare for a session.
+
+---
+
+## Context: Apprenticeship
 
 Professional apprenticeships have been around for a while. They usually include an experienced professional (called a _practitioner_ or _craftsperson_) and one or more _learners_ who have less, little, or no experience in the craft being studied.
 
@@ -92,3 +106,51 @@ _Practitioner behaviors during reflection_
 After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation.
 
 Cognitive Apprenticeship has the power to support practitioners and learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
+
+## Demonstration Session
+
+The below video shows two example cognitive apprenticeship sessions between Tanner and Adam. They go through two full cycles of preparation, practice/observation, and reflection, with some "meta-reflection" and discussion thrown in for good measure.
+
+It is a long video, so if you're strapped for time, you should skip ahead to 35:00. You can also play at 1.5x or 2x speed if you don't mind listening to people that sound like chipmunks.
+
+Link to video: https://shereef.wistia.com/medias/dbknami46w
+
+## Terminology
+
+_Most of the terms below are borrowed directly from Vanessa P. Dennen and Kerry J. Burner's work, ["The Cognitive Apprenticeship Model in Educational Practice"](http://www.aect.org/edtech/edition3/ER5849x_C034.fm.pdf)._
+
+###### Apprenticeship
+A process through which a more experienced person assists a less experienced one by way of demonstration, support, and examples.
+
+###### Articulation
+In cognitive apprenticeship, verbalizing the results of reflective acts.
+
+###### Coaching
+In cognitive apprenticeship, assisting and supporting learners’ cognitive activities.
+
+###### Cognitive apprenticeship
+An apprenticeship process that utilizes cognitive and metacognitive skills and processes to guide learning.
+
+###### Community of practice
+A group of people bound by participation in an activity common to them all; may be formal or informal.
+
+###### Exploration
+In cognitive apprenticeship, forming and testing a personal hypothesis in pursuit of learning.
+
+###### Modeling
+In cognitive apprenticeship, demonstrating thought processes.
+
+###### Reflection
+In cognitive apprenticeship, self-analysis and self-assessment.
+
+###### Scaffolding
+Support that is provided to assist learners in reaching skill levels beyond their current abilities; essential to scaffolding is fading the support inversely to the learners’ acquisition of the skill that is being supported.
+
+###### Session
+A specific time during which a practitioner and one or more learners engages in one full cycle of Preparation -> Observation/Practice -> Reflection.
+
+###### Situatedness
+The context or constellation of influential events and elements that govern and shape human life.
+
+###### Zone of proximal development (ZPD)
+A term coined by Vygotsky to describe the space between a learner’s current skill level and the next skill level that the learner cannot reach without assistance.
