@@ -116,8 +116,7 @@ The below video shows two example cognitive apprenticeship sessions between Tann
 
 It is a long video, so if you're strapped for time, you should skip ahead to 35:00. You can also play at 1.5x or 2x speed if you don't mind listening to people that sound like chipmunks.
 
-<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/dbknami46w?seo=false&videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
-<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+Link to video: https://shereef.wistia.com/medias/dbknami46w
 
 ## Terminology
 
