@@ -4,7 +4,23 @@ The Learning Operating System (LOS, for short) at Learners Guild uses a mechanic
 
 Cognitive Apprenticeship is a method for transferring knowledge and skills from one person to another. It is based on the simple idea that humans learn from observing each other, imitating each other, and then trying to innovate or improve on what they see others doing.
 
-## Apprenticeship
+## How to Use this Guide
+
+This guide is aimed to help you learn and utilize cognitive apprenticeship. Here are some ways you can use it:
+
+- Read about [what apprenticeship is](#context-apprenticeship) and [why we use it](#why-cognitive-apprenticeship) at Learners Guild
+- Learn about the [practice of cognitive apprenticeship](#the-practice-of-cognitive-apprenticeship) and how to engage in a cognitive apprenticeship session
+- Watch a [demonstration cognitive apprenticeship session](#demonstration-session) between Tanner and Adam
+
+Once you've grasped the basic idea of cognitive apprenticeship, try it out!
+
+**[Book a cognitive apprenticeship session](https://calendly.com/tannerw/cog-app/) with Tanner.**
+
+After you schedule your session, think about what kind of task you'd like to do. Ideally, it is something that is at the far edge of your ZPD - difficult enough that you couldn't solve it on your own, but not completely out of your league. Reference the [preparation](#preparation) section for more on how to prepare for a session.
+
+---
+
+## Context: Apprenticeship
 
 Professional apprenticeships have been around for a while. They usually include an experienced professional (called a _practitioner_ or _craftsperson_) and one or more _learners_ who have less, little, or no experience in the craft being studied.
 
@@ -92,3 +108,12 @@ _Practitioner behaviors during reflection_
 After completing one cycle of cognitive apprenticeship (usually after completing a goal or task), you can expect to feel a desire for celebration and mental relaxation. You may also feel a desire to get right back to work. The approach in between sessions is entirely up to you. The goal is to make this cycle into a habit for yourself. Take the time to celebrate and reward yourself as best suits your personal practices for habit formation.
 
 Cognitive Apprenticeship has the power to support practitioners and learners alike in the rapid improvement of their craft/practice. You can and will get a lot from your first use of it to achieve your goals. When it becomes second nature for you, you'll be a world-class learner and well on your way to becoming a world-class craftsperson. Have fun, and happy learning!
+
+## Demonstration Session
+
+The below video shows two example cognitive apprenticeship sessions between Tanner and Adam. They go through two full cycles of preparation, practice/observation, and reflection, with some "meta-reflection" and discussion thrown in for good measure.
+
+It is a long video, so if you're strapped for time, you should skip ahead to 35:00. You can also play at 1.5x or 2x speed if you don't mind listening to people that sound like chipmunks.
+
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="//fast.wistia.net/embed/iframe/dbknami46w?seo=false&videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
