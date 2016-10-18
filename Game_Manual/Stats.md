@@ -135,6 +135,19 @@ sum(recentTechnicalFeedback) / count(recentProjects)
 
 Where `recentTechnicalFeedback` = average of technical feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
 
+## Challenge
+
+The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD).
+
+This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a number between 1 and 10, with 7 representing your ZPD. This mapping is used to give meaning to the other numbers:
+
+- 1 = Extremely bored
+- 4 = Confident and comfortable
+- 6 = Stretched but still capable
+- 7 = In flow and pushed just beyond capacity
+- 8 = Slightly more challenged than is fun
+- 10 = Completely overwhelmed
+
 ## Project Reviews
 
 The number of projects you've reviewed the completeness and quality of. Represented as an integer.
