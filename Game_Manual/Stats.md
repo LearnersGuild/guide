@@ -148,6 +148,15 @@ This is a weighted average that only uses retrospective data from the previous 6
 - 8 = Slightly more challenged than is fun
 - 10 = Completely overwhelmed
 
+##### Formula
+
+```
+sum(recentChallengeStatsForProjects) / count(recentProjects)
+```
+
+Where `recentChallengeStatsForProjects` = average of scores given for the challenge each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
+
+
 ## Project Reviews
 
 The number of projects you've reviewed the completeness and quality of. Represented as an integer.
