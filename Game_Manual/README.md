@@ -10,6 +10,7 @@ You'll learn a lot about how the game works just by asking questions in Echo and
 
 - To get your bearings, read about [Basic Gameplay][basic-gameplay].
 - To learn how to find the right level of challenge for your learning, read [Challenge][challenge].
+- To find out about the levels of advancement and game roles, read [Levels and Roles][levels-roles].
 - To better understand what cognitive apprenticeship is and how to use it, read [Cognitive Apprenticeship][cog-app].
 - To find out how your stats are calculated, read [Stats][stats].
 - To understand the game boundaries (success/fail conditions), read [Boundaries][boundaries].
@@ -21,6 +22,7 @@ If you notice something that could be better, or you encounter a bug, please log
 [echo]: ./Echo.md
 [commands]: ./Echo.md#commands
 [basic-gameplay]: ./Basic_Gameplay.md
+[levels-roles]: ./Levels_and_Roles.md
 [stats]: ./Stats.md
 [boundaries]: ./Boundaries.md
 [challenge]: ./Challenge.md

@@ -6,11 +6,17 @@ Focus on these two activities and you will succeed.
 
 ## Components
 
+### Levels
+
+All players advance through a sequence of levels in the game.
+
+Learn more about levels in [Levels & Roles][levels-roles].
+
 ### Roles
 
-There are two roles: **Learner** and **Moderator**.
+There are four roles: Player, Technical Coach, Project Lead, and Moderator.
 
-Learners play the game; the Moderator acts as a referee and game master.
+Learn more about roles in [Levels & Roles][levels-roles].
 
 ### Goals
 
@@ -125,3 +131,4 @@ Learners can review as many projects as they like. At the very least, learners s
 Use the `/review` command to capture a project review.
 
 [guildcrafts]: http://github.com/GuildCrafts
+[levels-roles]: ./Levels_and_Roles.md
