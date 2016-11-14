@@ -6,6 +6,7 @@
   * [Challenge](Game_Manual/Challenge.md)
   * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
   * [Echo](Game_Manual/Echo.md)
+  * [Levels and Roles](Game_Manual/Levels_and_Roles.md)
   * [Moderator Guide](Game_Manual/Moderator_Guide.md)
   * [Stats](Game_Manual/Stats.md)
 - [General](General/README.md)
