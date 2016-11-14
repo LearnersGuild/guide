@@ -53,14 +53,14 @@ There are 5 types of goals (only 3 of which are currently active). Eventually, t
 
 This table shows each level starting at 0 and advancing to 5 with the criteria for advancing to that level.
 
-| Level | XP | Elo | Cultural | Team Play | Technical | Bias | Reviews | Other |
-|:-----------------------------------------------------------------------------|
-| 0 | - | - | - | - | - | - | - | enrolled in LG                               |
-| 1 | Δ/week>=17.5  | - | >=65 | >=65 | - | -8<=bias<=8 | - | joined a cohort  |
-| 2 | >=150 | >=1000 | >=80 | >=80 | - | - | >=20 | -                          |
-| 3 | >=500 | >=1040 | >=85 | >=85 | - | - | >=60 | -                          |
-| 4 | >=750 | >=1080 | >=90 | >=90 | >=90 | - | >=90 | ? coach stat (TBD)      |
-| 5 | >=1000 | >=1100 | >=90 | >=90 | >=95 | - | >=120 | ? coach stat (TBD)    |
+| Level | XP           | Elo    | Cultural | Team Play | Technical | Bias        | Reviews | Other              |
+|:------|:-------------|:-------|:---------|:----------|:----------|:------------|:--------|:-------------------|
+| 0     | -            | -      | -        | -         | -         | -           | -       | enrolled in LG     |
+| 1     | Δ/week>=17.5 | -      | >=65     | >=65      | -         | -8<=bias<=8 | -       | joined a cohort    |
+| 2     | >=150        | >=1000 | >=80     | >=80      | -         | -           | >=20    | -                  |
+| 3     | >=500        | >=1040 | >=85     | >=85      | -         | -           | >=60    | -                  |
+| 4     | >=750        | >=1080 | >=90     | >=90      | >=90      | -           | >=90    | ? coach stat (TBD) |
+| 5     | >=1000       | >=1100 | >=90     | >=90      | >=95      | -           | >=120   | ? coach stat (TBD) |
 
 #### Moving Up and Back through Levels
 
