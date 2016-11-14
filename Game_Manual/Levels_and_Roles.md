@@ -98,7 +98,7 @@ The other two roles must be earned by advancing to higher levels.
 #### Player
 
 Purpose:
-- A learning collective that helps themselves and others to find dignified livelihood
+- A learning collective that helps all members find a dignified livelihood
 
 Accountabilities:
 
