@@ -56,7 +56,7 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 | Level | XP     | XP/Week | Elo    | Cultural | Team Play | Technical | Bias        | Reviews | Other              |
 |:------|:-------|:--------|:-------|:---------|:----------|:----------|:------------|:--------|:-------------------|
 | 0     | -      | -       | -      | -        | -         | -         | -           | -       | enrolled in LG     |
-| 1     | >=0    | >=18    | >=65   | >=65     | -         | -         | -8<=bias<=8 | -       | joined a cohort    |
+| 1     | >=0    | >=18    | >=900  | >=65     | >=65      | -         | -8<=bias<=8 | -       | joined a cohort    |
 | 2     | >=150  | >=22    | >=1000 | >=80     | >=80      | -         | -7<=bias<=7 | >=20    | -                  |
 | 3     | >=500  | >=27    | >=1050 | >=85     | >=85      | >=80      | -6<=bias<=6 | >=60    | -                  |
 | 4     | >=750  | >=33    | >=1100 | >=90     | >=90      | >=90      | -5<=bias<=5 | >=90    | ? coach stat (TBD) |
