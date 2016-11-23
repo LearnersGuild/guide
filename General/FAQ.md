@@ -2,45 +2,11 @@
 
 **What is the time commitment?**
 
-Show up every weekday (except [national holidays](Holiday_List.md)) for regular hours: 8:30am to 6pm.
-
-You don't have to keep your time commitment in the case of big life events: births, deaths, and weddings.
-
-Almost every week, there will be events (social/networking/speakers) happening during the evening. These events will be optional but highly recommended (usually Tuesday or Thursday evening).
-
-Occasionally, there will be something happening on a Saturday. We'll give you a heads up at least a month in advance and try to minimize that stuff so people can have their weekends.
-
-**What happens if I show up late? What if I have to leave early?**
-
-Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
-
-If you are going to be late and/or miss a day, you need to let your team know as far in advance as possible. Teams hold each other accountable.
-
-You also need to inform the Oakland chapter (via chat) so that facilitators know if you're going to miss an activity or event (e.g. home group).
-
-Letting your team and chapter know when you are unable to be present is part of our integrity agreement to respect each others' and our communal time. If you are late or absent and do not inform your team and chapter, it is a serious matter and is escalated to the moderator by the team.
-
-Schedule appointments and other obligations outside of program hours—exceptions should only be made for medical appointments that cannot happen outside of business hours. Only be late or leave early if it's impossible to schedule your appointment at other times (weekends or lunch).
-
-As per above, general exceptions apply to big life events: births, deaths, and weddings.
-
-**What if I get sick?**
-
-Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity.
-
-**Can I stay late and work at the office on weekends?**
-
-Late—yes; weekends—no. You can use the space during [open hours][oak-building-hours] on weekdays, but the office is closed on weekends. No staff will be on-site outside of regular hours, and we recommend that you get rest, exercise, go outside! Your mind and body need breaks to sustain the prolonged learning effort.
-
-If you do end up staying late to work on your project, be sure to update your team the next day. Nobody is expected to stay longer than 6pm, so it's on you to make sure that your team is caught up with any extra work you put in.
+See the [Time Commitment][time-commitment] page
 
 **Do you kick people out? Why? How? Will I know ahead of time?**
 
 Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process][cos-conflict-resolution-process]. Usually, this is because they have consistently violated our shared agreements.
-
-**Can I take a leave of absence?**
-
-Under extenuating circumstances (e.g. illness, family emergency), learners may be allowed to take a leave of absence from the program. Upon your return, you would likely join the cohort closest to the point in the program when you had to leave. Leaves of absence will be evaluated on a case-by-case basis.
 
 **Can I re-join a later cohort if it turns out the timing isn't good for me?**
 
@@ -122,3 +88,4 @@ If you're unemployed, the Income Sharing Agreement is paused until you're making
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
 [oak-building-hours]: ../Policies/Oakland_Building.md#hours
+[time-commitment]: ../Policies/Time_Commitment.md
