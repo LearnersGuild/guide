@@ -1,12 +1,17 @@
 # Time Commitment
 
-While our ambition is to be able to invest in anyone and everyone who aspires to a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege to be able to show up at the office reliably, every weekday (except [national holidays][holiday-list]) from **8:30 AM to 6:00 PM**.
+While our ambition is to be able to invest in anyone and everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege to be able to show up at the office reliably, every weekday (except [national holidays][holiday-list]) from **8:30 AM to 6:00 PM**.
 
-Life happens to all of us, so we make an allowance of **8 days** over the course of the 40 weeks.
+## Personal Days
 
-Take time off in increments of a half day or a whole day, use them for whatever you want. If it’s longer than a half day, it becomes a whole day.
+Life happens to all of us, so we make an allowance of **8 personal days** over the course of the 40 weeks.
 
-If you exceed the number of allotted hours, you have an Investment Evaluation with the founder / other investors. During this Evaluation, your stipend may be paused. You may also have your investment rescinded (you are asked to leave).
+You can use personal days at your discretion. Use them for physical/mental health days, emergency errands, major life events (birth/death/weddings) or anything else you think is important enough to warrant your absence. 
+
+Personal days are used in increments of half days (4 hours). For example, if you need to be absent for 6 hours, then you need to take a whole personal day off. If you are absent for more than eight days, there will be Investment Evaluation Meeting with the founder / other investors. Depending on the outcome of this Evaluation, the Guild's investment in you may be paused or cancelled. 
+
+When/if you decide to take a personal day, email [investors@learnersguild.org](mailto:investors@learnersguild.org) with the number of days and date, and let your team and house know on echo. 
+
 
 #### What happens if I show up late? What if I have to leave early?
 
