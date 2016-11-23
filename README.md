@@ -12,21 +12,27 @@ This repository contains all our agreements, policies, operating models, values 
 
 Each learner is responsible for reading, understanding, and complying with this playbook. Our goal is to work together towards a learning environment that is constructive and supports both personal and professional growth.  
 
-# Learning Operating System
+As a collective each member takes on two objectives:
 
-The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship.
+- **Objective 1:** Create and sustain a dignified livelihood as a software developer.
+- **Objective 2:** Cultivate a learning collective that supports me and others in achieving Objective 1.
+
+
+## Learning Operating System
+
+The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship. It's the framework that supports us in achieving the first objective. 
 
 The main way that learners engage with the LOS is through [Echo](http://echo.learnersguild.org).
 
 To read more about the Learning OS, visit the [Game Manual](./Game_Manual/README.md) section of the playbook.
 
-# Culture Operating System
+## Culture Operating System
 
 Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
 
-While this playbook provides a framework by which we learn together, the [Culture Operating System](http://cos.learnersguild.org) enables us to participate in co-creating a culture that draws out the best in us.
+While this playbook provides a framework by which we learn together, the [Culture Operating System](http://cos.learnersguild.org) enables us to participate in co-creating a culture that draws out the best in us. 
 
-The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it.
+The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it. It's the framework that supports us in achieving the second objective. 
 
 ---
 
