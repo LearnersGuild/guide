@@ -10,7 +10,7 @@ You can use personal days at your discretion. Use them for physical/mental healt
 
 Personal days are used in increments of half days (4 hours). For example, if you need to be absent for 6 hours, then you need to take a whole personal day off. If you are absent for more than eight days, there will be Investment Evaluation Meeting with the founder / other investors. Depending on the outcome of this Evaluation, the Guild's investment in you may be paused or cancelled. 
 
-When/if you decide to take a personal day, email [investors@learnersguild.org](mailto:investors@learnersguild.org) with the number of days and date, and let your team and house know on echo. 
+When/if you decide to take a personal day, email [investor@learnersguild.org](mailto:investor@learnersguild.org) with the number of days and date, and let your team and house know on echo. 
 
 
 #### What happens if I show up late? What if I have to leave early?
