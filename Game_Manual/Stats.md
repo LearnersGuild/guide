@@ -10,6 +10,34 @@ In order to earn stats from a project, _every member of the team must have compl
 
 Other stats, like average project completion and quality (both for projects and for players), will change over time as more reviews are submitted.
 
+#### Example Situations that Impact Stats
+
+To understand how stats work, it's helpful to know how certain scenarios will impact your stats. These are just a few examples - there are many more ways that stats can be impacted, and not enough room to cover them all here.
+
+##### Missing project work time
+
+If you are unable to work on your project during active hours and thus put in fewer hours than normal, there are a few consequences for your stats.
+
+The most direct consequence is that you will log fewer hours for that project, which will in turn lower your XP.
+
+Less direct consequences are that your contribution will likely be lower because you will have had less time than your teammates to contribute to the project.
+
+If you are out of integrity with your team (for example, by not informing them of absences or not taking accountability for your tasks), then you may also see a drop in your culture & team play health.
+
+##### Working more than normal hours on a project
+
+If you do "overtime" and put in more hours on a project than is expected, it is likely that you will see a greater increase in XP.
+
+Be aware that if you put in more hours but are _less effective_ (i.e. if your contribution per hour goes down), then it is likely that your Elo will not go up. Working long hours can feel like it is more productive, but if you are not getting enough sleep and the quality of your work suffers, then it can negatively impact your stats.
+
+Similarly, if you end up doing a lot of work and don't keep your team informed and engaged, you will likely see a drop in your team play and culture stats. It's great to be enthusiastic, but be sure to bring your team with you.
+
+##### One or more teammates don't submit a retrospective
+
+As mentioned above, stats cannot be earned for a project until every team member has submitted a retrospective.
+
+If one or more of your teammates is out sick or otherwise unable to submit a retro at the end of the work week, no stats can be generated for any players in that project. Remind any absent teammates to submit their retros when they are active again.
+
 ---
 
 ## XP
