@@ -12,6 +12,8 @@ Our space is accessible with a numeric passcode. You are responsible for maintai
 
 _You are responsible for the security of your belongings. We recommend using one of the cubbies to store your things while you are working._
 
+_Lost and found items will be placed on top of the LG library, which is located on the light side of LG underneath the beautiful artwork._
+
 ## Hours
 
 The office opens at 7am and closes at 10pm. However, staff will only be on-site from 8:30am to 6pm during weekdays.
