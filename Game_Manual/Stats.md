@@ -74,6 +74,8 @@ If, on the other hand, you only solved 1/5 of the puzzle, your Elo rating would 
 
 The interesting thing about Elo is that the ratings take into account the relative skill _before_ the game, so you can play more advanced players, perform worse, and _still go up_ in your Elo rating. It all depends on how much better or worse you performed relative to what is expected of you.
 
+Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for the exact formula and background on Elo rating. 
+
 ## Average Project Completeness
 
 The average % completion of all projects you've worked on.
