@@ -28,7 +28,7 @@ The first stage starts when a player's stats go _in the red_. When a stat passes
 - [Health: Team Play][team-play] : less than 65%
 - [Health: Culture Contribution][culture-contribution] : less than 65%
 - [XP][xp] earned per cycle : less than 17.5
-- [Estimation Bias][estimation-bias] : less than -8% or greater than +8%
+- [Estimation Accuracy][estimation-accuracy] : less than 90%
 
 Once a stat is in the red, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the red, get whatever support you need to move the needle and get out of danger.
 
@@ -92,6 +92,6 @@ If these laws are broken, the moderator will step in to rectify and issue a warn
 [xp]: ./Stats#xp
 [team-play]: ./Stats#health-team-play
 [culture-contribution]: ./Stats#health-culture
-[estimation-bias]: ./Stats#estimation-bias
+[estimation-accuracy]: ./Stats#estimation-accuracy
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
