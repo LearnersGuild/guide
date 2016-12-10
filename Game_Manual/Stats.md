@@ -76,6 +76,14 @@ The interesting thing about Elo is that the ratings take into account the relati
 
 Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for the exact formula and background on Elo rating. 
 
+##### Formula
+
+```
+yourNewElo = yourOldElo + 20 * (yourContributionPercentage - yourExpectedContributionPercentage)
+
+yourExpectedContributionPercentage = 1 / ( 1 + Math.pow(10, (yourPartnersOldElo - yourOldElo) / 400) )
+```
+
 ## Average Project Completeness
 
 The average % completion of all projects you've worked on.
