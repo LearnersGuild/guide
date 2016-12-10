@@ -14,6 +14,7 @@
   * [Guidelines](General/Guidelines.md)
   * [Holiday List](General/Holiday_List.md)
   * [Purpose](General/Purpose.md)
+  * [Resource Links](General/Resource_Links.md)
 - [Policies](Policies/README.md)
   * [Code Of Conduct](Policies/Code_of_Conduct.md)
   * [Complaint Policy](Policies/Complaint_Policy.md)
