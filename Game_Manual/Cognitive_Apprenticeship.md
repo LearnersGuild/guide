@@ -14,7 +14,7 @@ This guide is aimed to help you learn and utilize cognitive apprenticeship. Here
 - Watch a [demonstration cognitive apprenticeship session](#demonstration-session) between Tanner and Adam
 - Participate in an ongoing Q&A by adding your question to [this shared document](https://docs.google.com/document/d/1mlJ74QOSc5QSGbJQpFGaeFrFkjFl6DO7HKkb2TPaHiM/edit?usp=sharing)
 
-Once you've grasped the basic idea of cognitive apprenticeship, try it out! **[Book a cognitive apprenticeship session](https://calendly.com/tannerw/cog-app/) with Tanner.** After you schedule your session, think about what kind of task you'd like to do. Ideally, it is something that is at the far edge of your ZPD - difficult enough that you couldn't solve it on your own, but not completely out of your league. Reference the [preparation](#preparation) section for more on how to prepare for a session.
+Once you've grasped the basic idea of cognitive apprenticeship, try it out with a more experienced learner! Think about what kind of task you'd like to do. Ideally, choose something at the far edge of your ZPD - difficult enough that you couldn't solve it on your own, but not completely out of your league. Reference the [preparation](#preparation) section for more on how to prepare for a session.
 
 ---
 
