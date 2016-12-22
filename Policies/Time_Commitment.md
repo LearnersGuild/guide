@@ -6,11 +6,11 @@ While our ambition is to be able to invest in anyone and everyone who aspires to
 
 Life happens to all of us, so we make an allowance of **8 personal days** over the course of the 40 weeks.
 
-You can use personal days at your discretion. Use them for physical/mental health days, emergency errands, major life events (birth/death/weddings) or anything else you think is important enough to warrant your absence. 
+You can use personal days at your discretion. Use them for physical/mental health days, emergency errands, major life events (birth/death/weddings) or anything else you think is important enough to warrant your absence.
 
-Personal days are used in increments of half days (4 hours). For example, if you need to be absent for 6 hours, then you need to take a whole personal day off. If you are absent for more than eight days, there will be Investment Evaluation Meeting with the founder / other investors. Depending on the outcome of this Evaluation, the Guild's investment in you may be paused or cancelled. 
+Personal days are used in increments of half days (4 hours). If you have to miss more than an hour (up to 4 hours), you'd use a half day, anything over 4 hours would be a full day. For example, if you need to leave at 4pm for a doctor's appointment, you'd take half a personal day. If you need to be absent for 6 hours, then you need to take a whole personal day off. If you are absent for more than eight days, there will be Investment Evaluation Meeting with the founder / other investors. Depending on the outcome of this Evaluation, the Guild's investment in you may be paused or cancelled. 
 
-When/if you decide to take a personal day, email [investor@learnersguild.org](mailto:investor@learnersguild.org) with the number of days and date, and let your team and house know on echo. 
+When/if you decide to take a personal day, email [investor@learnersguild.org](mailto:investor@learnersguild.org) with the number of days and date, and let your team and house know on echo.
 
 
 #### What happens if I show up late? What if I have to leave early?
