@@ -34,14 +34,14 @@ Once a stat is in the red, the player has to **consistently improve** their affe
 
 When you have a stat in the red, you have to show continuous progress. This doesn't mean that every week has to be higher than the previous week. It means that every week's stats has to be higher than than _two_ weeks ago until you get above the threshold.
 
-> If you are in the red, and your end of cycle stats are lower than what they were two cycles ago, you get an exit interview.
+> If you are in the red, and your end of cycle stats are lower than what they were two cycles ago, you get an investment re-evaluation.
 
-The second stage is an _exit interview_, and is entered into when a player's stats have _both_:
+The second stage is an _investment re-evaluation_, and is entered into when a player's stats have _both_:
 
 1. been in the red for at least two weeks and
 1. have not shown consistent improvement
 
-During the exit interview, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
+During the re-evaluation, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
 
 ### A note about fail conditions
 
