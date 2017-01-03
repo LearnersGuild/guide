@@ -74,7 +74,48 @@ If, on the other hand, you only solved 1/5 of the puzzle, your Elo rating would 
 
 The interesting thing about Elo is that the ratings take into account the relative skill _before_ the game, so you can play more advanced players, perform worse, and _still go up_ in your Elo rating. It all depends on how much better or worse you performed relative to what is expected of you.
 
-Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for the exact formula and background on Elo rating. 
+Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for background on Elo rating.
+
+#### Formula
+
+Elo is (currently) calculated with a Ruby script that uses the [elo](https://github.com/iain/elo) library with a K-Factor of 20 and an initial Elo for all players of 1000.
+
+Below is a condensed version of the calculation, with all key components for calculating Elo except for what's taken care of by the library. Each player is an instance of the `Elo::Player` class.
+
+```ruby
+def play(player_one, player_two, project)
+  game = player_one.versus(player_two)
+
+  p1_effectiveness = effectiveness(player_one, project)
+  p2_effectiveness = effectiveness(player_two, project)
+
+  pre_scaled_result = p1_effectiveness / (p1_effectiveness + p2_effectiveness).to_f
+
+  scaled_result = ((pre_scaled_result - 0.5) * 3) + 0.5
+
+  if (scaled_result > 1)
+    scaled_result = 1
+  elsif scaled_result < 0
+    scaled_result = 0
+  end
+
+  game.result = scaled_result
+end
+
+def effectiveness(player, project)
+  return (projectContribution(player, project) / projectHours(player, project).to_f).round(2)
+end
+
+1.upto(current_cycle) do |cycle_no|
+  projects(cycle_no).sort.each do |proj_name|
+    players = players(proj_name) # all players except pro players
+
+    team_players.combination(2).each do |players|
+      play(players[0], players[1], proj_name)
+    end
+  end
+end
+```
 
 ## Average Project Completeness
 
