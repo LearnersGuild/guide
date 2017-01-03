@@ -20,7 +20,18 @@ Learning is work. "Natural" talent is mostly baloney; don't use it as an excuse 
 
 ## Practice Deliberately
 
-Find your ZPD. Set goals that scare you and commit to them. Figure out what you need to improve on and focus your energy there. Embrace your shortcomings, and then address them. Always move outside your comfort zone.
+Find your zone of proximal development (ZPD). Set goals that scare you and commit to them. Figure out what you need to improve on and focus your energy there. Embrace your shortcomings, and then address them. Always move outside your comfort zone.
+
+Some signs that you may not be in your ZPD:
+
+- You’re retreating or disengaging
+- You can’t drive the project, you’re waiting for instructions
+- You’re watching, "sous chef", instead of leading & getting assistance
+- Your technical health score is consistently low
+- Your XP is consistently low
+- Your challenge score is below 6 or above 8
+- There's no part of the project that you can tackle independently
+- You don't know what kinds of questions to ask when doing a cognitive apprenticeship with someone or pairing with them (i.e. you don't know enough to identify what you're having trouble with or ask questions about)
 
 ## Make Hypotheses and Test Them
 
