@@ -18,6 +18,10 @@ School taught us to obey. Unschool yourself. The locus of authority should be wi
 
 Learning is work. "Natural" talent is mostly baloney; don't use it as an excuse or a crutch. With the right effort and environment, everyone learns.
 
+> Mindset change is not about picking up a few pointers here and there. It’s about seeing things in a new way. When people—couples, coaches and athletes, managers and workers, parents and children, teachers and students—change to a growth mindset, they change from a judge-and-be-judged framework to a learn-and-help-learn framework. Their commitment is to growth, and growth takes plenty of time, effort, and mutual support.
+>
+> <cite>Carol S. Dweck, "Mindset: The New Psychology of Success"</cite>
+
 ## Practice Deliberately
 
 Find your zone of proximal development (ZPD). Set goals that scare you and commit to them. Figure out what you need to improve on and focus your energy there. Embrace your shortcomings, and then address them. Always move outside your comfort zone.
@@ -32,6 +36,10 @@ Some signs that you may not be in your ZPD:
 - Your challenge score is below 6 or above 8
 - There's no part of the project that you can tackle independently
 - You don't know what kinds of questions to ask when doing a cognitive apprenticeship with someone or pairing with them (i.e. you don't know enough to identify what you're having trouble with or ask questions about)
+
+> In contrast to play, deliberate practice is a highly structured activity, the explicit goal of which is to improve performance. Specific tasks are invented to overcome weaknesses, and performance is carefully monitored to provide cues for ways to improve it further. We claim that deliberate practice requires effort and is not inherently enjoyable. Individuals are motivated to practice because practice improves performance.
+>
+> <cite>K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Romer: "The Role of Deliberate Practice in the Acquisition of Expert Performance"</cite>
 
 ## Make Hypotheses and Test Them
 
@@ -69,6 +77,10 @@ The stats are a mirror, not a destination. Stay focused on your work and your le
 We all have biases. There are [a whole lot][list-of-cog-biases] of them. If you don't think you are biased, there's a bias for that :wink:.
 
 The good news is that as you develop awareness of them, you can become less susceptible to them.
+
+> The illusion that we understand the past fosters overconfidence in our ability to predict the future.
+>
+> <cite>Daniel Kahneman, "Thinking, Fast and Slow"</cite>
 
 ## Be Okay with Not Knowing
 

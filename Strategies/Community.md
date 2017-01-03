@@ -22,6 +22,10 @@ Learn to ask great questions by having the courage to ask bad ones.
 
 The guild is beta software. If you see something that needs fixing, fix it! Write goals. Open pull requests. Wash dishes. Leave the environment better than you found it.
 
+> [...] the biggest effects on student learning occur when teachers become learners of their own teaching, and when students become their own teachers.
+>
+> <cite>John Hattie, "Visible Learning"</cite>
+
 ## Ask for Help
 
 We've been trained to be self sufficient. Untrain yourself. We need each other. Reach out for support.
