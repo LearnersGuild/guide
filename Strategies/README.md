@@ -10,6 +10,10 @@ At Learners Guild, we are co-building an environment that is highly conducive to
 
 This is not easy.
 
+We are used to authority being centralized. When authority is distributed, it means every participant has more power, and with it, more decisions and more responsibility.
+
+In the same way that a citizen in a democracy has to be better informed and make more decisions than someone in a kingdom, a member of a learning collective carries more weight and autonomy than a student in a traditional educational institution.
+
 There are lots of systems to negotiate. Decisions to be made. Mistakes are inevitable. It will not always be neat, or pretty, or organized, or productive. Learning is not a straight path.
 
 It is far from impossible, though. We are constantly revising the systems by which we operate, and discovering better ways to be together, work together, learn together. Everyone's contribution matters.

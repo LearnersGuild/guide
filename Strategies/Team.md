@@ -26,9 +26,21 @@ Lead without slowing down. Follow without disengaging. Assert yourself. Stay fle
 
 ## Apply Cognitive Apprenticeship
 
-Every team has a variety of skills and skill levels. Use these internal differences to everyone's advantage: apply cognitive apprenticeship practices to best match team members to the tasks that will challenge them, and let the others (for whom the task would be too difficult) observe, reflect, and inquire.
+Every team has a variety of skills and skill levels. Use these internal differences to everyone's advantage: apply [cognitive apprenticeship practices][cog-app] to best match team members to the tasks that will challenge them, and let the others (for whom the task would be too difficult) observe, reflect, and inquire.
 
 _Best used when the team faces a task that is in or beyond most of the team's ZPD, but which one person is capable of._
+
+## Pair Up
+
+Working alongside someone else on the same problem has a lot of advantages: you are less likely to get stuck, distracted, or make glaring mistakes.
+
+There are many sub-strategies and tactics to pairing (Google "pair programming" and you'll get 1,650,000 results). Here are some of the basics to get you started:
+
+- Pace yourself. Pairing can be tiring, be sure to take breaks.
+- Keep communication flowing. Share thoughts, ideas, and questions.
+- Always aim for consent. If you can't agree, find a compromise. If you can't compromise, agree to disagree.
+
+_Best used when you want to go far together, optimize for quality, and avoid team fragmentation._
 
 ## Mob the Problem
 
@@ -59,3 +71,5 @@ A way to address this is to _parallelize_ (each team member does the same task o
 This is a good way to test yourself. You will likely discover areas where you surprise yourself with how much you know, and other areas where you struggled even though you felt confident in your abilities.
 
 _Best used when you and your team are interested in developing greater self-awareness and gauging your abilities_.
+
+[cog-app]: ../Game_Manual/Cognitive_Apprenticeship.md
