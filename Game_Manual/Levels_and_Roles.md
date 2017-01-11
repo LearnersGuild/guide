@@ -59,8 +59,8 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 | 0     | -     | -       | -     | -        | -         | -         | -                   | -       | enrolled in LG     |
 | 1     | >=0   | >18     | >900  | >65      | >65       | -         | >90%                | -       | joined a cohort    |
 | 2     | >150  | >22     | >1000 | >80      | >80       | -         | >91%                | >20     | -                  |
-| 3     | >500  | >27     | >1050 | >85      | >85       | >80       | >92%                | >60     | -                  |
-| 4     | >750  | >33     | >1100 | >90      | >90       | >90       | >93%                | >90     | ? coach stat (TBD) |
+| 3     | >500  | >27     | >990 | >85      | >85       | >80       | >92%                | >60     | -                  |
+| 4     | >750  | >33     | >1020 | >90      | >90       | >90       | >93%                | >90     | ? coach stat (TBD) |
 | 5     | >1000 | >40     | >1150 | >90      | >90       | >95       | >94%                | >=120   | ? coach stat (TBD) |
 
 #### Moving Up and Back through Levels
