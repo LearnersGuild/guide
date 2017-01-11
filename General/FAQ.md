@@ -24,17 +24,17 @@ By signing this contract, you're letting us know that you are certain about your
 
 During the fourth week of the program, you'll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you've decided that becoming a software engineer is not the path you want to pursue, or that you don't wish to continue pursuing that path with Learners Guild, you'll have an opportunity to leave the program and pay only a $250 cancellation fee. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
 
-**What's required? What's optional? (Projects, Home Group, HD curriculum)**
+**What's required? What's optional? (Projects, Player Support Group, HD curriculum)**
 
 With other learners, you collectively choose the projects you work on - no specific project is required, many things may be offered or suggested by a Practitioner or Learning Facilitator. What is required is that you participate fully in the structure of the program:
 
 - you vote on choosing a goals and join a project to work towards each week
 - you dedicate yourself to it for the week
 - you complete the weekly retrospective
-- you attend daily standups and weekly home group meetings
-- you serve as a team lead when it's your turn to do so
+- you attend daily standups, weekly player support group meetings (and weekly COS workshops, in your first five weeks)
+- you serve as a coach when it's your turn to do so
 
-Similar to the projects you choose to work on, you should choose to work on HD modules that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
+Similar to the projects you choose to work on, you may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
 
 **What if I start a project and don't want to keep working on it?**
 
