@@ -37,9 +37,26 @@ Some signs that you may not be in your ZPD:
 - There's no part of the project that you can tackle independently
 - You don't know what kinds of questions to ask when doing a cognitive apprenticeship with someone or pairing with them (i.e. you don't know enough to identify what you're having trouble with or ask questions about)
 
+### Deliberate Self-Assessment
+
+Another component of **deliberate practice** is self-assessment. It is important to know if your actual abilities match you perceived abilities.
+
+One way to do self-assessment is to pick a challenge or problem that you feel like you _should_ be able to accomplish given your current experience and skill. Set up clear objectives and success criteria for the challenge, give yourself a reasonable time frame, and then try to accomplish it _without additional support_.
+
+It may be difficult. You will probably be surprised in many ways: by things that you were able to do that you didn't think you were capable of, and by things that you struggled with that you thought you were fluent in.
+
+After you finish the challenge, ask yourself questions like:
+
+- What was most challenging? Where did I make the most mistakes?
+- What were concepts/words/aspects of the challenge that I didn't know? Where are the gaps in my knowledge and experience?
+- What was I able to achieve? How far can my current skills take me, and how is that different from my past self-assessment?
+
+If you self-assess on a regular basis, you will be able to reference past self assessments and gauge your own progress. This is a crucial component to being a lifelong learner: being able to recognize growth in yourself.
+
 > In contrast to play, deliberate practice is a highly structured activity, the explicit goal of which is to improve performance. Specific tasks are invented to overcome weaknesses, and performance is carefully monitored to provide cues for ways to improve it further. We claim that deliberate practice requires effort and is not inherently enjoyable. Individuals are motivated to practice because practice improves performance.
 >
 > <cite>K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Romer: "The Role of Deliberate Practice in the Acquisition of Expert Performance"</cite>
+
 
 ## Make Hypotheses and Test Them
 
