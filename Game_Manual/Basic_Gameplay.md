@@ -130,5 +130,18 @@ Learners can review as many projects as they like. At the very least, learners s
 
 Use the `/review` command to capture a project review.
 
+##### How to Review a Project
+
+When you review a project, there are a few steps that you should take to make sure that your review is useful and thorough.
+
+1. Check the project specs and quality metrics
+  - What counts as complete?
+  - What is the quality they are going for?
+1. Review the diff
+  - Find a way to look _only at the changes introduced during the project_. Some projects are additions to previous work, so it's important only to review the work done by the team you're reviewing.
+1. Be rigorous
+  - Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete.
+  - Give honest feedback. It's the only way we learn.
+
 [guildcrafts]: http://github.com/GuildCrafts
 [levels-roles]: ./Levels_and_Roles.md
