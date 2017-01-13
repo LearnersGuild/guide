@@ -25,7 +25,7 @@ Letting your project team and PSG know when you are unable to be present is part
 
 #### What if I get sick?
 
-Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity.
+Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity. 
 
 #### Can I stay late and work at the office on weekends?
 
@@ -34,6 +34,10 @@ Yes. You can use the space during [open hours][oak-building-hours]. No staff wil
 That being said, we strongly recommend that you get rest, exercise, and otherwise take care of yourself! Your mind and body need breaks to sustain the prolonged learning effort.
 
 If you do end up staying late to work on your project, be sure to update your team the next day. Nobody is expected to stay longer than regular hours, so it's on you to make sure that your team is caught up with any extra work you put in.
+
+#### Let people know
+
+If you are going to be late please notify your teammates, and house. If you are going to be absent for half a day (4 hours) or a full day, please notify your teammates, your house, and email investor@learnersguild.org. In either case, it's your responsibility to notify the appropriate parties as soon as you know you will be late or absent. Teams hold each other accountable and communicating via houses allows facilitators to know if you're going to miss an event or activity.
 
 #### Can I take a leave of absence?
 
