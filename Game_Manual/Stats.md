@@ -117,6 +117,14 @@ end
 end
 ```
 
+##### Formula
+
+```
+yourNewElo = yourOldElo + 20 * (yourContributionPercentage - yourExpectedContributionPercentage)
+
+yourExpectedContributionPercentage = 1 / ( 1 + Math.pow(10, (yourPartnersOldElo - yourOldElo) / 400) )
+```
+
 ## Average Project Completeness
 
 The average % completion of all projects you've worked on.
