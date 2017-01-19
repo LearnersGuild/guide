@@ -206,6 +206,24 @@ sum(recentTechnicalFeedback) / count(recentProjects)
 
 Where `recentTechnicalFeedback` = average of technical feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
 
+### What Team Play Means
+
+It is important to understand what it means to contribute technically, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good technical skill" is.
+
+| Value               | Evidence                                                                                                                                   |
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Technical Communication | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
+| Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and researching existing solutions/code bases. |
+| Debugging               | They were adept at identifying, isolating, recreating, and fixing bugs. |
+| Technical Knowledge     | They had pre-existing technical knowledge with the technologies we were working with. |
+| Testing                 | They wrote good, solid tests, and used testing to drive a better product. |
+| Code Quality            | They practiced good code organization, naming, syntax, indentation, modularity...etc. |
+| Source Control          | Their git-fu was top notch. Commits, pull requests, merge conflicts...etc. were handled skillfully. |
+
+
+
 ## Challenge
 
 The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD).
