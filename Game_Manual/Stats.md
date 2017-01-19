@@ -206,7 +206,7 @@ sum(recentTechnicalFeedback) / count(recentProjects)
 
 Where `recentTechnicalFeedback` = average of technical feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
 
-### What Team Play Means
+### What Technical Skill Means
 
 It is important to understand what it means to contribute technically, both so that you can effectively evaluate your teammates and interpret your own stats.
 
