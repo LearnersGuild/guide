@@ -214,13 +214,15 @@ Use the rubric below to build your sense of what "good technical skill" is.
 
 | Value               | Evidence                                                                                                                                   |
 |:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Code Quality            | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc. |
+| Code Completeness       | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time. |
 | Technical Communication | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
-| Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and researching existing solutions/code bases. |
-| Debugging               | They were adept at identifying, isolating, recreating, and fixing bugs. |
 | Technical Knowledge     | They had pre-existing technical knowledge with the technologies we were working with. |
+| Technical Confidence    | They were confident in facing the unknown. They stayed with the challenges, and faced them head on. |
+| Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases. |
+| Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order. |
+| Debugging               | They were adept at identifying, isolating, recreating, and fixing bugs. |
 | Testing                 | They wrote good, solid tests, and used testing to drive a better product. |
-| Code Quality            | They practiced good code organization, naming, syntax, indentation, modularity...etc. |
-| Source Control          | Their git-fu was top notch. Commits, pull requests, merge conflicts...etc. were handled skillfully. |
 
 
 
