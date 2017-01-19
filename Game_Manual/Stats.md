@@ -217,7 +217,7 @@ Use the rubric below to build your sense of what "good technical skill" is.
 | Code Quality            | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc. |
 | Code Completeness       | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time. |
 | Technical Communication | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
-| Technical Knowledge     | They had pre-existing technical knowledge with the technologies we were working with. |
+| Technical Knowledge     | They had pre-existing technical knowledge and experience with the technologies we were working with. |
 | Technical Confidence    | They were confident in facing the unknown. They stayed with the challenges, and faced them head on. |
 | Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases. |
 | Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order. |
