@@ -206,6 +206,26 @@ sum(recentTechnicalFeedback) / count(recentProjects)
 
 Where `recentTechnicalFeedback` = average of technical feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
 
+### What Technical Skill Means
+
+It is important to understand what it means to contribute technically, both so that you can effectively evaluate your teammates and interpret your own stats.
+
+Use the rubric below to build your sense of what "good technical skill" is.
+
+| Value               | Evidence                                                                                                                                   |
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Code Quality            | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc. |
+| Code Completeness       | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time. |
+| Technical Communication | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
+| Technical Knowledge     | They had pre-existing technical knowledge and experience with the technologies we were working with. |
+| Technical Confidence    | They were confident in facing the unknown. They stayed with the challenges, and faced them head on. |
+| Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases. |
+| Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order. |
+| Debugging               | They were adept at identifying, isolating, recreating, and fixing bugs. |
+| Testing                 | They wrote good, solid tests, and used testing to drive a better product. |
+
+
+
 ## Challenge
 
 The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD).
