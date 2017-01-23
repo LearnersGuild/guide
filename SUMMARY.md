@@ -23,7 +23,7 @@
   * [Member Privacy](Policies/Member_Privacy.md)
   * [Oakland Building](Policies/Oakland_Building.md)
   * [Time Commitment](Policies/Time_Commitment.md)
-  * [Disablities](Policies/Disablities.md)
+  * [Disablities](Policies/Disabilities.md)
 - [Runway](Runway/README.md)
 - [Strategies](Strategies/README.md)
   * [Community](Strategies/Community.md)
