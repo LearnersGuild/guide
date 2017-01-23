@@ -8,17 +8,17 @@ See the [Time Commitment][time-commitment] page
 
 Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process][cos-conflict-resolution-process]. Usually, this is because they have consistently violated our shared agreements.
 
-**Can I re-join a later cohort if it turns out the timing isn't good for me?**
+**Can I re-join a later if it turns out the timing isn't good for me?**
 
-We make cohort selections carefully and cannot guarantee you a spot in another cohort. Please make sure that you've considered all scheduling challenges ahead of time so that you can commit to your assigned cohort start date.
+We make selections carefully and cannot guarantee you a spot at another time. Please make sure that you've considered all scheduling challenges ahead of time so that you can commit to your assigned start date.
 
-If you have to leave, and need to re-join a later cohort, you can do so as long as the next cohort start date is within 40 weeks of your original cohort's start date. If you need to leave for longer, then you will have to quit and re-apply.
+If you have to leave, and need to re-join a later time, you can do so as long as the next start date is within 40 weeks of your original start date. If you need to leave for longer, then you will have to quit and re-apply.
 
-You can only change cohorts once. After that, you will need to quit and re-apply.
+You can only change start dates once. After that, you will need to quit and re-apply.
 
 **What if I change my mind after I sign this contract?**
 
-By signing this contract, you're letting us know that you are certain about your commitment to Learners Guild. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that cohort. While we don't ask for a deposit, there will be a $250 cancellation fee if you sign a contract and decide not to join the Guild within 3 weeks of your cohort start date. Please carefully consider your decision, and sign only when you are a joyful and confident "yes". If you need to seek the opinion of a trusted third party, we highly encourage you to do so.
+By signing this contract, you're letting us know that you are certain about your commitment to Learners Guild. If you change your mind after signing the contract and choose not to join the program, we cannot offer your spot to another learner for that start date. While we don't ask for a deposit, there will be a $250 cancellation fee if you sign a contract and decide not to join the Guild within 3 weeks of your start date. Please carefully consider your decision, and sign only when you are a joyful and confident "yes". If you need to seek the opinion of a trusted third party, we highly encourage you to do so.
 
 **What's the consequence for leaving the program early?**
 
