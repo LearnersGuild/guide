@@ -1,11 +1,8 @@
 ## Apprentice
-The apprentice stage is the first stage of learning a craft. Learners admitted to a chapter begin their journey as an apprentice. Apprentices are paid an optional minimal stipend and their primary responsibility is to advance the learning of everyone in their cohort, including themselves.
+The apprentice stage is the first stage of learning a craft. Learners admitted to a chapter begin their journey as an apprentice. Apprentices are paid an optional minimal stipend and their primary responsibility is to advance the learning of everyone, including themselves.
 
 ## Chapter
 Chapters are the centers of learning within Learners Guild. They are communities of practice designed for intensive, deliberate learning and growth.
-
-## Cohort
-A cohort is a set of learners with a shared start date and chapter.
 
 ## Craft
 Learners are involved with one or more crafts. These are the industries and skills which learners practice and work in. Web development is an example of a craft, as is graphic design, forestry, and photovoltaic technology.
