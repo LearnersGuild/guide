@@ -285,17 +285,21 @@ To demonstrate how the various contribution stats are calculated, we'll use the 
 
 #### Example Project Contribution Estimations
 
-| Project      | Team size | Self estimate | Team estimates | Your Hours | Total Hours |
-|:-------------|:----------|:--------------|:---------------|:-----------|:------------|
-| #big-bees    | 3         | 50%           | 42%, 48%       | 30         | 80          |
-| #red-rabbits | 4         | 28%           | 27%, 35%, 28%  | 25         | 120         |
-| #tiny-tigers | 2         | 20%           | 30%            | 40         | 75          |
+| Project      | Team size | Self estimate | Team estimates | Self accuracy | Team accuracies | Your Hours | Total Hours |
+|:-------------|:----------|:--------------|:---------------|:--------------|:----------------|:-----------|:------------|
+| #big-bees    | 3         | 50%           | 42%, 48%       | 88            | 88, 88          | 30         | 80          |
+| #red-rabbits | 4         | 29%           | 27%, 35%, 28%  | 91            | 92, 89, 96      | 25         | 120         |
+| #tiny-tigers | 2         | 20%           | 30%            | 96            | 94              | 40         | 75          |
 
 ### Actual Contribution
 
-Your actual contribution is the average of your team's estimates of what percentage of the project you contributed to. It includes your own estimate of your contribution. Represented as a percentage (0..100%).
+Your actual contribution is the determined by taking the contribution estimate from the player on your team who has the highest [estimation accuracy](#estimation-accuracy). Represented as a percentage (0..100%).
 
-In the above dataset, the player's actual contribution for the `#big-bees` project is the average of _all_ the estimates, so it would be equal to 46.67% ( (50% + 42% + 48%) / 3 ).
+If it is not possible to determine which player has the highest estimation accuracy, then it is determined by taking the average of your team's estimates of what percentage of the project you contributed to. It includes your own estimate of your contribution.
+
+In the above dataset, the player's actual contribution for the `#big-bees` project (since everyone on the team has the same estimation accuracy) is the average of _all_ the estimates, so it would be equal to 46.67% ( (50% + 42% + 48%) / 3 ).
+
+However, the player's actual contribution for the `#red-rabbits` project would be 28%, because the player who reported 28% has the highest estimation accuracy (96%).
 
 ##### Formula
 
