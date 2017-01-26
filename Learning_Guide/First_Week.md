@@ -30,7 +30,7 @@
 
 **5:00pm to 5:45pm**
 
-- Fill out written [retrospective](Retrospective.md)
+- Fill out written [retrospective](Retrospectives.md)
 - Have in-person retrospective with your team/pair
 
 **5:45pm to 6:00pm**
