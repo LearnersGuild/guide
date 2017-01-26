@@ -67,4 +67,13 @@ There are a few steps that you should take to make sure that your review is usef
 
 ## Guidelines for Coaches
 
-If you're a coach for the week, then focus your efforts on reviewing the reviews. Go through the list of project reviews and give the reviewers feedback on their comments. For the first half hour or so of the review period, there won't be any reviews to review, so help people setup their projects for reviews, and if you have the bandwidth, claim a review off of [prrr](http://prrr.apps.learnersguild.org) and complete it. 
+For the first half hour or so of the review period, there won't be any reviews to review, so:
+
+- help people setup their projects for reviews
+- if you have the bandwidth, claim a review off of [prrr](http://prrr.apps.learnersguild.org) and complete it (see checklist above).
+
+For the rest of the review period **focus your efforts on reviewing the reviews:**
+
+- Go through the list of project reviews and give the reviewers feedback on their comments.
+- Make sure to add your completeness and quality review for the project, even if you're reviewing the review. **In the future, we'll use coach's review scores to give other reviewers feedback about their review accuracy.**
+- Use echo (or a google spreadsheet) to co-ordinate with other coaches about which review you're reviewing, so that the effort is spread across as many reviews as possible and we don't end up in a situation where one review is reviewed by multiple coaches while others are ignored.
