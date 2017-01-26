@@ -1,6 +1,6 @@
 # Review Guide
 
-### Preparing your project for final review
+## Preparing your project for final review
 
 **Step 1:** You first need to find out the commit hash for the first commit in the repository, which you can do with:
 
@@ -42,11 +42,13 @@ which should cause the new commits to appear in the pull request.
 
 ## How to Review a Project
 
-When you review a project, there are a few steps that you should take to make sure that your review is useful and thorough.
 
-- [ ] Learning Contract is in place
-- [ ] Timing of learning Contract
-- [ ] Learning contract was reviewed on day one
+When you review a project, you are practicing reading, understanding and commenting on code that someone else wrote. This is a critical skill for a software developer to practice and master.
+
+There are a few steps that you should take to make sure that your review is useful and thorough.
+
+- [ ] Learning Contract is in place by day one
+- [ ] Learning contract was reviewed in PR on day one
 - [ ] Project specs are clear, and completeness is well defined
 - [ ] Quality rubric is clear, and quality is well defined
 - [ ] Git ignore file
