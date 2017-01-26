@@ -48,7 +48,7 @@ To begin reviewing a Project, got to [prrr](http://prrr.apps.learnersguild.org) 
 
 Once you've claimed the PR, make sure that the project/code is within your technical level to usefully review. If it isn't, unclaim it, wait a couple of minutes and claim another one.
 
-When you are reviewing a project, you are practicing reading, understanding and commenting on code that someone else wrote. This is a critical skill for a software developer to practice and master. Reading, reviewing and commenting on other developers' code is 30% to 50% of the job! Sometimes more. It's also a great way to learn. 
+When you are reviewing a project, you are practicing reading, understanding and commenting on code that someone else wrote. This is a critical skill for a software developer to practice and master. Reading, reviewing and commenting on other developers' code is 30% to 50% of the job! Sometimes more. It's also a great way to learn.
 
 There are a few steps that you should take to make sure that your review is useful and thorough.
 
@@ -64,3 +64,7 @@ There are a few steps that you should take to make sure that your review is usef
 - [ ] Find Pull Request from "Empty" branch and review code quality
 - [ ] Log quality and completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
 - [ ] Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
+
+## Guidelines for Coaches
+
+If you're a coach for the week, then focus your efforts on reviewing the reviews. Go through the list of project reviews and give the reviewers feedback on their comments. For the first half hour or so of the review period, there won't be any reviews to review, so help people setup their projects for reviews, and if you have the bandwidth, claim a review off of [prrr](http://prrr.apps.learnersguild.org) and complete it. 
