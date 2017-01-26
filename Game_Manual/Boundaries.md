@@ -1,5 +1,21 @@
 # Game Boundaries
 
+
+## Basic requirements
+
+The Learners Guild program structure requires the learner to have the ability to…
+
+- work in open floor plan arrangement with large group of people
+- work on projects collaboratively in-person 8:30-6:00pm Monday – Friday
+- work in teams of 2 or more on collaborative projects
+- participate fully in the learning operating system (submit retros, vote on projects, review projects, work collaboratively...etc.)
+- abide by all policies, space agreements, and culture agreements
+- demonstrate responsiveness to feedback about social skills (from staff and from peer evaluations)
+
+## Additional Boundaries
+
+In addition to the above basic requirements, players need to stay within the boundaries of the game.
+
 The boundaries of the game define its edges: what the objective is, and how a player succeeds or fails.
 
 It is important to note that the game is _not_ zero-sum: one player winning does not mean another loses. It is a multiplayer cooperative game where each player's success is interconnected to and supported by other players' successes.
