@@ -122,6 +122,8 @@ The retrospective consists of a series of questions and prompts for learners to 
 
 Use the `/retro` command to view questions and log answers.
 
+Dig deeper into [filling out a retrospective](Learning_Guide/Retrospectives.md) 
+
 #### Review
 
 The project review is a time for exploring an artifact and determining to what extent it satisfies the project's specifications and quality criteria.
