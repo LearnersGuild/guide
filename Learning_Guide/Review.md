@@ -37,13 +37,18 @@ which should cause the new commits to appear in the pull request.
 
 **Step 6:** Submit a link to your pull request to [prrr](http://prrr.apps.learnersguild.org)
 
-**Step 7:** Once someone has reviewed your code, be sure to go over their comments, engage in a discussion, and thank them!
+**Step 7:** Repeat steps 2 through 6 but use another branch ```empty2```. This sets up your project to reviewed by two different reviewers.
+
+**Step 8:** Once someone has reviewed your code, be sure to go over their comments, engage in a discussion, and thank them!
 
 
 ## How to Review a Project
 
+To begin reviewing a Project, got to [prrr](http://prrr.apps.learnersguild.org) and claim a PR.
 
-When you review a project, you are practicing reading, understanding and commenting on code that someone else wrote. This is a critical skill for a software developer to practice and master.
+Once you've claimed the PR, make sure that the project/code is within your technical level to usefully review. If it isn't, unclaim it, wait a couple of minutes and claim another one.
+
+When you are reviewing a project, you are practicing reading, understanding and commenting on code that someone else wrote. This is a critical skill for a software developer to practice and master. Reading, reviewing and commenting on other developers' code is 30% to 50% of the job! Sometimes more. It's also a great way to learn. 
 
 There are a few steps that you should take to make sure that your review is useful and thorough.
 
