@@ -10,7 +10,7 @@ Technical contribution is a result of *successfully* moving the project forward 
 - Writing specs and/or quality rubric for the project
 - Designing and planning project features
 - Making, and communicating architecture decisions
-- Actively building a core feature of the project (core feature = defined in the spec)
+- Actively building a core feature of the project (**core feature = defined in the spec**)
 - Assisting other team members in completing core project features
 - Getting coaching/Researching/Spiking/Reading in order to contribute to core project features
 - Resolving bugs and conflicts in the code
