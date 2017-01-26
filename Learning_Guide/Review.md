@@ -52,19 +52,19 @@ When you are reviewing a project, you are practicing reading, understanding and 
 
 There are a few steps that you should take to make sure that your review is useful and thorough.
 
-- [ ] Learning Contract is in place by day one
-- [ ] Learning contract was reviewed in PR on day one
-- [ ] Project specs are clear, and completeness is well defined
-- [ ] Quality rubric is clear, and quality is well defined
-- [ ] Git ignore file
-- [ ] README.MD file
-- [ ] License file
-- [ ] Clone, and run project locally and verify all features are complete
-- [ ] Run test suite locally
-- [ ] Find Pull Request from "Empty" branch and review code quality
-- [ ] Log quality and completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
-- [ ] Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
-- [ ] Check [prrr](http://prrr.apps.learnersguild.org) for more pending reviews and claim them. **You should aim to claim and complete two thorough reviews per review period**
+- Learning Contract is in place by day one
+- Learning contract was reviewed in PR on day one
+- Project specs are clear, and completeness is well defined
+- Quality rubric is clear, and quality is well defined
+- Git ignore file
+- README.MD file
+- License file
+- Clone, and run project locally and verify all features are complete
+- Run test suite locally
+- Find Pull Request from "Empty" branch and review code quality
+- Log quality and completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
+- Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
+- Check [prrr](http://prrr.apps.learnersguild.org) for more pending reviews and claim them. **You should aim to claim and complete two thorough reviews per review period**
 
 ## Guidelines for Coaches
 
