@@ -146,3 +146,23 @@ When reviewing another Team's project outline, make sure you cover the following
 - The quality rubric is clear and unambiguous. You can imagine yourself using it to review the quality of the project
 
 Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
+
+## FAQ
+
+**Q: I am more technically advanced than my pair/team. I feel uncomfortable dragging them behind. Can we compromise on the specs so that they're not too far outside their ZPD?**
+
+The more skilled partner should not sacrifice the work being delivered to slow down. They should also not leave their partner(s) in the dust and work on their own. The challenge is to move at the speed and skill of the more advanced pair **and stay in team**. How can you leave every project saying "We built as much as (or more) than I would have by myself". If one partner is way more advanced than the other, then they can spend the entire week in a [cognitive apprenticeship](/Game_Manual/Cognitive_Apprenticeship.md) (and should).
+
+Fidelity should be shipping high quality, complete code, on time, based on agreed on specs on day one. There will always be a tension between "going fast alone, or going far together". Part of the art of software development is working on teams with varied skills, and figuring out ways to ship code, learn, and accommodate the difference in skill all at the same time.
+
+**Q: What if a team is working on a project without a real deliverable, yet one teammate must add individual specs with a deliverable to be challenged?**
+
+You should really avoid this scenario. this is why project planning on Monday is so important. Make sure specs are clear, and deliverable is clear, and there's a good, solid, learning contract, and then spend the rest of the week executing it. Don't get into the habit of changing the scope of your work as you go along. 
+
+**Q: I feel some frustration that these guidelines sometimes seem to be asking people to sacrifice their learning for project completion.**
+
+Shipping quality code on time is the most important thing to learn. Completing projects, and meeting your specs is what software development is. The guild's pedagogy is based on *learn by doing* approach. You learn to ship quality software on time, by doing your best to ship quality software on time.
+
+The assumption is that for every project, there will be at least one member of the team who didn't understand everything that happened. It is a [spiral approach](https://en.wikipedia.org/wiki/Spiral_approach) to learning. The idea is to trust that the details you didn't pick up for this project, you'll pick up on the next.
+
+Learning to learn this way may be frustrating or difficult at first, but over time you'll get used to it. And, more importantly, it's critical for you to become adept at learning this way because **being dragged on a team of people more skilled than you, and learning in a context where you don't know all the details is what the first few years of your career are going to be like**.
