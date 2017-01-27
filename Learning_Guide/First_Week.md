@@ -14,6 +14,11 @@
 - Introduce yourself to everyone at the guild
 - Get assigned a house and meet your house members
 
+**10.15am**
+
+- Find your project team
+- [Project Kickoff](Kickoff.md)
+
 **5:30pm to 6:00pm**
 
 - Meet with learning facilitators and other noobs for a checkout

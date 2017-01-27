@@ -6,6 +6,8 @@ The purpose of a project is for the team to achieve the goal through practicing 
 
 The first couple of hours of a project are critical to the success of your learning for the week. Investing time and attention getting the kickoff right, can go a long way to maximizing your learning for the week.
 
+**You should budget around 1.5 hours for the project kickoff, and it shouldn't take you more than 2**
+
 ## First Commit
 
 Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a project outline document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
@@ -13,7 +15,7 @@ Once projects have been formed, the first thing the team needs to do is to creat
 - Create a repo for your project, and make a simple first commit. Your first commit should contain a README.md file with your project's name, team members, a link to the goal and a LICENSE.MD file.
 - Once you've done that, set the artifact for your project. For example: `/project set-artifact http://github.com/LearnersGuild/playbook`
 
-Make your first commit to a master branch. You should aim to have this step done within a few minutes of finding your team.
+Make your first commit to a master branch. You should aim to have this step done **within a few minutes** of finding your team.
 
 
 ## Project Outline
@@ -21,7 +23,9 @@ Make your first commit to a master branch. You should aim to have this step done
 
 #### Overview
 
-Once your first commit is in, it's time to scope your project by creating a project outline. The project outline document defines the specifications and quality criteria for the artifact to meet. The goal of a project outline is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
+Once your first commit is in, it's time to scope your project by creating a project outline. The project outline document defines the specifications and quality criteria for the artifact to meet.
+
+The goal of a project outline is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
 
 1. It guides and focuses your efforts for the rest of the cycle.
 2. It defines completeness and quality for your code reviewers during the reflection phase.
@@ -39,7 +43,7 @@ Before writing your project outline, it's good practice to checkin with your tea
 
 Once you've surveyed your teams' skill and availability, it's time to solidify the specs:
 
-**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their for the rest of the week. The goal is to maximize quantity and quality of software shipped. NOT to make sure everyone is comfortable.**
+**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their for the rest of the week. The goal is to maximize quantity and quality of software shipped. The project outline should challenge everyone on the team, *not* to make sure everyone is comfortable.**
 
 To create a project outline, create a new `outline` branch:
 
@@ -95,6 +99,8 @@ And create a pull request: Go to your repository on GitHub and click on the 'Pul
 
 And finally, submit a link to your pull request to [prrr](http://prrr.apps.learnersguild.org). A coach will review it and give you feedback on the quality of your specs and rubrics.
 
+**On average, it should take your team about an hour to push your project outline for review, and no more than two hours. If it's taking more than that, you're probably getting too mired in product design and should get some support to make some decisions and move on**
+
 #### Work Plan
 
 While the spec is being reviewed, it's time to checkin with your team and plan how you'll work together.
@@ -117,6 +123,8 @@ Some of the things you might want to cover:
 - How do you address any pinches or misunderstandings in communication?
 - Exchange phone numbers if comfortable to do so for communication purposes.
 
+**You should plan 15 to 20 minutes for this conversation. Don't spend too much time on it, and don't skip it**
+
 #### Check on your outline review
 
 Check on your PR,
@@ -137,4 +145,24 @@ When reviewing another Team's project outline, make sure you cover the following
 - The project specs are clear, detailed and unambiguous. They don't leave too much room for interpretation. You can imagine yourself using them to review the completeness of the project
 - The quality rubric is clear and unambiguous. You can imagine yourself using it to review the quality of the project
 
-Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. 
+Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
+
+## FAQ
+
+**Q: I am more technically advanced than my pair/team. I feel uncomfortable dragging them behind. Can we compromise on the specs so that they're not too far outside their ZPD?**
+
+The more skilled partner should not sacrifice the work being delivered to slow down. They should also not leave their partner(s) in the dust and work on their own. The challenge is to move at the speed and skill of the more advanced pair **and stay in team**. How can you leave every project saying "We built as much as (or more) than I would have by myself". If one partner is way more advanced than the other, then they can spend the entire week in a [cognitive apprenticeship](/Game_Manual/Cognitive_Apprenticeship.md) (and should).
+
+Fidelity should be shipping high quality, complete code, on time, based on agreed on specs on day one. There will always be a tension between "going fast alone, or going far together". Part of the art of software development is working on teams with varied skills, and figuring out ways to ship code, learn, and accommodate the difference in skill all at the same time.
+
+**Q: What if a team is working on a project without a real deliverable, yet one teammate must add individual specs with a deliverable to be challenged?**
+
+You should really avoid this scenario. this is why project planning on Monday is so important. Make sure specs are clear, and deliverable is clear, and there's a good, solid, learning contract, and then spend the rest of the week executing it. Don't get into the habit of changing the scope of your work as you go along. 
+
+**Q: I feel some frustration that these guidelines sometimes seem to be asking people to sacrifice their learning for project completion.**
+
+Shipping quality code on time is the most important thing to learn. Completing projects, and meeting your specs is what software development is. The guild's pedagogy is based on *learn by doing* approach. You learn to ship quality software on time, by doing your best to ship quality software on time.
+
+The assumption is that for every project, there will be at least one member of the team who didn't understand everything that happened. It is a [spiral approach](https://en.wikipedia.org/wiki/Spiral_approach) to learning. The idea is to trust that the details you didn't pick up for this project, you'll pick up on the next.
+
+Learning to learn this way may be frustrating or difficult at first, but over time you'll get used to it. And, more importantly, it's critical for you to become adept at learning this way because **being dragged on a team of people more skilled than you, and learning in a context where you don't know all the details is what the first few years of your career are going to be like**.
