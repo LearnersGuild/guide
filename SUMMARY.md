@@ -12,6 +12,7 @@
 - [Learning Guide](Learning_Guide/README.md)
   * [Mindset](Learning_Guide/Mindset.md)
   * [First Week](Learning_Guide/First_Week.md)
+  * [Project Kickoff](Learning_Guide/Kickoff.md)
   * [Retrospectives](Learning_Guide/Retrospectives.md)
   * [Reviews](Learning_Guide/Review.md)
 - [General](General/README.md)
