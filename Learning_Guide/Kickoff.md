@@ -6,6 +6,8 @@ The purpose of a project is for the team to achieve the goal through practicing 
 
 The first couple of hours of a project are critical to the success of your learning for the week. Investing time and attention getting the kickoff right, can go a long way to maximizing your learning for the week.
 
+**You should budget around 1.5 hours for the project kickoff, and it shouldn't take you more than 2**
+
 ## First Commit
 
 Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a project outline document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
@@ -13,7 +15,7 @@ Once projects have been formed, the first thing the team needs to do is to creat
 - Create a repo for your project, and make a simple first commit. Your first commit should contain a README.md file with your project's name, team members, a link to the goal and a LICENSE.MD file.
 - Once you've done that, set the artifact for your project. For example: `/project set-artifact http://github.com/LearnersGuild/playbook`
 
-Make your first commit to a master branch. You should aim to have this step done within a few minutes of finding your team.
+Make your first commit to a master branch. You should aim to have this step done **within a few minutes** of finding your team.
 
 
 ## Project Outline
@@ -21,7 +23,9 @@ Make your first commit to a master branch. You should aim to have this step done
 
 #### Overview
 
-Once your first commit is in, it's time to scope your project by creating a project outline. The project outline document defines the specifications and quality criteria for the artifact to meet. The goal of a project outline is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
+Once your first commit is in, it's time to scope your project by creating a project outline. The project outline document defines the specifications and quality criteria for the artifact to meet.
+
+The goal of a project outline is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
 
 1. It guides and focuses your efforts for the rest of the cycle.
 2. It defines completeness and quality for your code reviewers during the reflection phase.
@@ -39,7 +43,7 @@ Before writing your project outline, it's good practice to checkin with your tea
 
 Once you've surveyed your teams' skill and availability, it's time to solidify the specs:
 
-**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their for the rest of the week. The goal is to maximize quantity and quality of software shipped. NOT to make sure everyone is comfortable.**
+**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their for the rest of the week. The goal is to maximize quantity and quality of software shipped. The project outline should challenge everyone on the team, *not* to make sure everyone is comfortable.**
 
 To create a project outline, create a new `outline` branch:
 
@@ -95,6 +99,8 @@ And create a pull request: Go to your repository on GitHub and click on the 'Pul
 
 And finally, submit a link to your pull request to [prrr](http://prrr.apps.learnersguild.org). A coach will review it and give you feedback on the quality of your specs and rubrics.
 
+**On average, it should take your team about an hour to push your project outline for review, and no more than two hours. If it's taking more than that, you're probably getting too mired in product design and should get some support to make some decisions and move on**
+
 #### Work Plan
 
 While the spec is being reviewed, it's time to checkin with your team and plan how you'll work together.
@@ -117,6 +123,8 @@ Some of the things you might want to cover:
 - How do you address any pinches or misunderstandings in communication?
 - Exchange phone numbers if comfortable to do so for communication purposes.
 
+**You should plan 15 to 20 minutes for this conversation. Don't spend too much time on it, and don't skip it**
+
 #### Check on your outline review
 
 Check on your PR,
@@ -137,4 +145,4 @@ When reviewing another Team's project outline, make sure you cover the following
 - The project specs are clear, detailed and unambiguous. They don't leave too much room for interpretation. You can imagine yourself using them to review the completeness of the project
 - The quality rubric is clear and unambiguous. You can imagine yourself using it to review the quality of the project
 
-Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. 
+Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
