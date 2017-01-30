@@ -31,7 +31,7 @@ In addition to our two breaks, we observe the following national holidays. If a 
   </tr>
   <tr>
     <td>President's Day</td>
-    <td>February 15</td>
+    <td>Third Monday in February</td>
   </tr>
   <tr>
     <td>Cesar Chavez Day</td>

@@ -147,6 +147,11 @@ When reviewing another Team's project outline, make sure you cover the following
 
 Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
 
+## Guidelines for OSS projects
+
+If you are working on an OSS project, you should spend the project kickoff getting clear on which issues from the backlog you're committing to. Create a gist with links to the issues you will be working on and set it as your project asset. No need to use Prrrr or get your issues reviewed since your Project Lead is making sure the specs are clear and they will be the ones doing the project review at the end of the cycle. 
+
+
 ## FAQ
 
 **Q: I am more technically advanced than my pair/team. I feel uncomfortable dragging them behind. Can we compromise on the specs so that they're not too far outside their ZPD?**
@@ -157,7 +162,7 @@ Fidelity should be shipping high quality, complete code, on time, based on agree
 
 **Q: What if a team is working on a project without a real deliverable, yet one teammate must add individual specs with a deliverable to be challenged?**
 
-You should really avoid this scenario. this is why project planning on Monday is so important. Make sure specs are clear, and deliverable is clear, and there's a good, solid, learning contract, and then spend the rest of the week executing it. Don't get into the habit of changing the scope of your work as you go along. 
+You should really avoid this scenario. this is why project planning on Monday is so important. Make sure specs are clear, and deliverable is clear, and there's a good, solid, learning contract, and then spend the rest of the week executing it. Don't get into the habit of changing the scope of your work as you go along.
 
 **Q: I feel some frustration that these guidelines sometimes seem to be asking people to sacrifice their learning for project completion.**
 
