@@ -37,7 +37,7 @@ which should cause the new commits to appear in the pull request.
 
 **Step 6:** Submit a link to your pull request to [prrr](http://prrr.apps.learnersguild.org)
 
-**Step 7:** Repeat steps 2 through 6 but use another branch ```empty2```. This sets up your project to reviewed by two different reviewers.
+**Step 7:** Repeat steps 2 through 6 **two more times**. Use two other branches ```empty2``` and ```empty3```. This sets up your project to reviewed by three different reviewers.
 
 **Step 8:** Once someone has reviewed your code, be sure to go over their comments, engage in a discussion, and thank them!
 
@@ -65,6 +65,11 @@ There are a few steps that you should take to make sure that your review is usef
 - Log quality and completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
 - Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
 - Check [prrr](http://prrr.apps.learnersguild.org) for more pending reviews and claim them. **You should aim to claim and complete two thorough reviews per review period**
+
+**You should aim to do a thorough review of 2 projects** individually, OR **pair on reviewing three projects**.
+
+If there are no projects to review on prrr, then find [already done reviews](http://prrr.apps.learnersguild.org/all) and review them.
+Once your done with a project code review, use `/review` in echo to review completeness and quality. 
 
 ## Guidelines for OSS projects
 
