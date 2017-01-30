@@ -43,7 +43,7 @@ Before writing your project outline, it's good practice to checkin with your tea
 
 Once you've surveyed your teams' skill and availability, it's time to solidify the specs:
 
-**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their for the rest of the week. The goal is to maximize quantity and quality of software shipped. The project outline should challenge everyone on the team, *not* to make sure everyone is comfortable.**
+**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their ZPD for the rest of the week. The goal is to maximize quantity and quality of software shipped. The project outline should challenge everyone on the team, *not* to make sure everyone is comfortable.**
 
 To create a project outline, create a new `outline` branch:
 
