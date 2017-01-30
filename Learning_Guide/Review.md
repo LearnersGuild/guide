@@ -66,6 +66,12 @@ There are a few steps that you should take to make sure that your review is usef
 - Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
 - Check [prrr](http://prrr.apps.learnersguild.org) for more pending reviews and claim them. **You should aim to claim and complete two thorough reviews per review period**
 
+## Guidelines for OSS projects
+
+If you worked on an OSS project, a gist with links to the issues you worked on should be your project asset. Since every PR has been already reviewed by your project lead, you should just ping your project lead to do a /review in echo. No need to prepare review branches, and no need to use Prrrr, and you won't get two other reviews from two different coaches.
+
+
+
 ## Guidelines for Coaches
 
 For the first half hour or so of the review period, there won't be any reviews to review, so:
