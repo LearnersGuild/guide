@@ -69,7 +69,8 @@ There are a few steps that you should take to make sure that your review is usef
 **You should aim to do a thorough review of 2 projects** individually, OR **pair on reviewing three projects**.
 
 If there are no projects to review on prrr, then find [already done reviews](http://prrr.apps.learnersguild.org/all) and review them.
-Once your done with a project code review, use `/review` in echo to review completeness and quality. 
+
+**Once your done with a project code review, use `/review #team -c -q` in echo to review completeness and quality.**
 
 ## Guidelines for OSS projects
 
