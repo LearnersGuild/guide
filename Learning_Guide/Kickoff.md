@@ -10,7 +10,7 @@ The first couple of hours of a project are critical to the success of your learn
 
 ## First Commit
 
-Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a project outline document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
+Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a Learning Contract document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
 
 - Create a repo for your project, and make a simple first commit. Your first commit should contain a README.md file with your project's name, team members, a link to the goal and a LICENSE.MD file.
 - Once you've done that, set the artifact for your project. For example: `/project set-artifact http://github.com/LearnersGuild/playbook`
@@ -18,14 +18,14 @@ Once projects have been formed, the first thing the team needs to do is to creat
 Make your first commit to a master branch. You should aim to have this step done **within a few minutes** of finding your team.
 
 
-## Project Outline
+## Learning Contract
 
 
 #### Overview
 
-Once your first commit is in, it's time to scope your project by creating a project outline. The project outline document defines the specifications and quality criteria for the artifact to meet.
+Once your first commit is in, it's time to scope your project by creating a Learning Contract. The Learning Contract document defines the specifications and quality criteria for the artifact to meet.
 
-The goal of a project outline is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
+The goal of a Learning Contract is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
 
 1. It guides and focuses your efforts for the rest of the cycle.
 2. It defines completeness and quality for your code reviewers during the reflection phase.
@@ -34,7 +34,7 @@ The goal of a project outline is to guide your team's effort for the rest of the
 
 #### Preparing for the outline
 
-Before writing your project outline, it's good practice to checkin with your team about the following:
+Before writing your Learning Contract, it's good practice to checkin with your team about the following:
 
 - How familiar are they with this goal? Have they done it before? What have they learned?
 - How available are they for the week? Do they have any planned personal time off?
@@ -43,9 +43,9 @@ Before writing your project outline, it's good practice to checkin with your tea
 
 Once you've surveyed your teams' skill and availability, it's time to solidify the specs:
 
-**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their ZPD for the rest of the week. The goal is to maximize quantity and quality of software shipped. The project outline should challenge everyone on the team, *not* to make sure everyone is comfortable.**
+**You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their ZPD for the rest of the week. The goal is to maximize quantity and quality of software shipped. The Learning Contract should challenge everyone on the team, *not* to make sure everyone is comfortable.**
 
-To create a project outline, create a new `outline` branch:
+To create a Learning Contract, create a new `outline` branch:
 
 ```
 git branch outline
@@ -58,7 +58,7 @@ Copy the text of the goal into the `README.md` file.
 
 #### Specifications and Quality Criteria
 
-After creating the project outline, the team must edit the document to define the scope of features and quality criteria for their project.
+After creating the Learning Contract, the team must edit the document to define the scope of features and quality criteria for their project.
 
 The scope of features is determined by the set of specifications for the project. It is used to measure _completeness_.
 
@@ -68,13 +68,13 @@ To define the scope, add, edit, or remove specifications from the list. The team
 
 Discuss the specs with your team, and adjust them as you see fit to get to a scope that will provide an appropriate level of difficulty and "stretch".
 
-To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the project outline.
+To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the Learning Contract.
 
 For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
 
 #### Commitment and Review
 
-Once a proper project outline document has been written and agreed on, it's good practice to go around your team and give a number from 1 to 10 that signals how much of a stretch they think it will be to accomplish this work:
+Once a proper Learning Contract document has been written and agreed on, it's good practice to go around your team and give a number from 1 to 10 that signals how much of a stretch they think it will be to accomplish this work:
 
 Use the following values to calibrate:
 
@@ -87,7 +87,7 @@ Use the following values to calibrate:
 
 **If any team member is less than a seven, then you should take the time to increase the difficulty of the project by adding more specs, or raising the quality bar**
 
-Once the project outline is set, push the outline branch to github:
+Once the Learning Contract is set, push the outline branch to github:
 
 ```
 git push origin outline
@@ -99,7 +99,7 @@ And create a pull request: Go to your repository on GitHub and click on the 'Pul
 
 And finally, submit a link to your pull request to [prrr](http://prrr.apps.learnersguild.org). A coach will review it and give you feedback on the quality of your specs and rubrics.
 
-**On average, it should take your team about an hour to push your project outline for review, and no more than two hours. If it's taking more than that, you're probably getting too mired in product design and should get some support to make some decisions and move on**
+**On average, it should take your team about an hour to push your Learning Contract for review, and no more than two hours. If it's taking more than that, you're probably getting too mired in product design and should get some support to make some decisions and move on**
 
 #### Work Plan
 
@@ -132,20 +132,20 @@ Check on your PR,
 - If it's been reviewed and merged, read the review comments and begin your work
 - If it has been reviewed but not merged, incorporate the feedback to the outline, and submit it for another review
 
-- Don't being your project unless your project outline PR has been reviewed **and merged**.
+- Don't being your project unless your Learning Contract PR has been reviewed **and merged**.
 
 If you're waiting for a review, then jump on [prrr](http://prrr.apps.learnersguild.org) and claim a pending review for another project's outline and review it.
 
-## Reviewing another Team's Project Outline
+## Reviewing another Team's Learning Contract
 
-When reviewing another Team's project outline, make sure you cover the following:
+When reviewing another Team's Learning Contract, make sure you cover the following:
 
 - The README.MD has the project's name, team members, and a link to the goal
 - There is a proper LICENSE.MD file
 - The project specs are clear, detailed and unambiguous. They don't leave too much room for interpretation. You can imagine yourself using them to review the completeness of the project
 - The quality rubric is clear and unambiguous. You can imagine yourself using it to review the quality of the project
 
-Once you're confident the project outline passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
+Once you're confident the Learning Contract passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
 
 ## Guidelines for OSS projects
 

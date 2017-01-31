@@ -52,8 +52,8 @@ When you are reviewing a project, you are practicing reading, understanding and 
 
 There are a few steps that you should take to make sure that your review is useful and thorough.
 
-- Project Outline is in place by day one
-- Project Outline was reviewed in PR on day one (branch outline)
+- Learning Contract is in place by day one
+- Learning Contract was reviewed in PR on day one (branch outline)
 - Project specs are clear, and completeness is well defined
 - Quality rubric is clear, and quality is well defined
 - Git ignore file

@@ -68,17 +68,17 @@ A **project** is formed from a goal and is assigned a **team** of learners.
 
 The purpose of a project is for the team to achieve the goal through practicing their craft, learning through collaboration and engagement with relevant and challenging tasks.
 
-#### Artifact and Project Outline
+#### Artifact and Learning Contract
 
-Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact** and write a **project outline** document within it.
+Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact** and write a **Learning Contract** document within it.
 
-The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a project outline document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
+The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a Learning Contract document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
 
-The project outline document defines the specifications and quality criteria for the artifact to meet. To create a project outline, copy the text of the goal into a `README.md` file within your artifact.
+The Learning Contract document defines the specifications and quality criteria for the artifact to meet. To create a Learning Contract, copy the text of the goal into a `README.md` file within your artifact.
 
 #### Specifications and Quality Criteria
 
-After creating the project outline, the team must edit the document to define the scope of features and quality criteria for their project.
+After creating the Learning Contract, the team must edit the document to define the scope of features and quality criteria for their project.
 
 The scope of features is determined by the set of specifications for the project. It is used to measure _completeness_.
 
@@ -88,11 +88,11 @@ To define the scope, add, edit, or remove specifications from the list. The team
 
 Discuss the specs with your team, and adjust them as you see fit to get to a scope that will provide an appropriate level of difficulty and "stretch".
 
-To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the project outline.
+To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the Learning Contract.
 
 For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
 
-Once a proper project outline document has been written, it's time to **practice**.
+Once a proper Learning Contract document has been written, it's time to **practice**.
 
 ### Practice
 
