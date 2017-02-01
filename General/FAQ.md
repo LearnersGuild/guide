@@ -49,15 +49,20 @@ By joining the Guild, you're making an agreement to collaborate with anyone and 
 
 Conflicts happen. It's natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process][cos-conflict-resolution-process] in place (in the COS) to support you in resolving it.
 
-**Can I use my LG laptop for personal use? Are there any limits to what I can install on my laptop or what I can use it for?**
 
-Yes, you can use it for personal activities. However, you will need to wipe the hard drive and perform a clean OS install before giving it back to us at the end of the program. It is an expensive piece of machinery, so please take good care of it and leave it in good condition for the next learner who inherits it.
+**Do I need my own computer?**
+
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with your team if you are all using the same platform.
+
+**I don't have a Mac laptop. What should I do?**
+
+We can provide you a loaner laptop for use during the first four weeks of the program. After that, you will need to have your own. You can opt to receive funds in order to purchase a laptop, as provided in the enrollment agreement.
+
+**Can I use the loaner laptop for personal use? Are there any limits to what I can install on this laptop or what I can use it for?**
+
+Yes, you can use it for personal activities. However, you will need to wipe the hard drive and perform a clean OS install before giving it back to us at the end of the loaner period. It is an expensive piece of machinery, so please take good care of it and leave it in good condition for the next learner who inherits it.
 
 You can install anything on the laptop, so long as it is legal.
-
-**Can I use my own laptop instead of the LG laptop?**
-
-You can, although you need to have a Mac. Everyone at Learners Guild uses a Mac computer, so it will be easier for you to collaborate with your team if you are all using the same platform.
 
 **What platforms and operating systems does Learners Guild use?**
 
