@@ -12,6 +12,8 @@ Personal days are used in increments of half days (4 hours). If you have to miss
 
 When/if you decide to take a personal day, email [investor@learnersguild.org](mailto:investor@learnersguild.org) with the number of days and date, and let your team and house know on echo.
 
+**During the last 8 weeks of your time at the Guild, you may need to be absent for on-site interviews. Hours spent at on-site interviews do not count towards your 8 personal days. You should still notify your team and house before you miss time for an interview, but do not need to notify "investor@learenrsguild"**
+
 
 #### What happens if I show up late? What if I have to leave early?
 
@@ -25,7 +27,7 @@ Letting your project team and PSG know when you are unable to be present is part
 
 #### What if I get sick?
 
-Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity. 
+Inform your team and/or moderator, and make sure to make up anything you missed. Stay in integrity.
 
 #### Can I stay late and work at the office on weekends?
 
