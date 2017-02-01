@@ -1,4 +1,4 @@
-# Resources Links
+# Resource Links
 
 ### LOS
 - [Playbook](https://playbook.learnersguild.org/)
