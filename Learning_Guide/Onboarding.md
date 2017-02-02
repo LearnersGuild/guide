@@ -14,16 +14,16 @@ These documents contain the latest and greatest information about our Learning O
 
 You should have joined Echo before you arrived (if you need help signing in, talk to your onboarding mentor). Browse the available channels and join any you want to follow. We suggest the following, to start:
 
-- #culture
-- #general
-- #growth
-- #oakland
-- #onboarding
-- #significant-updates
-- #space
-- #support
-- #watercooler
-- #YourHouseChannel
+- culture
+- general
+- growth
+- oakland
+- onboarding
+- significant-updates
+- space
+- support
+- watercooler
+- YourHouseChannel
 
 **Please be judicious with your use of @all notifications during work hours - unless a message requires everyone’s immediate attention, limit @all mentions to the hours before 9:00am and after 5:30pm. **
 
