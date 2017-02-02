@@ -15,6 +15,7 @@
   * [Project Kickoff](Learning_Guide/Kickoff.md)
   * [Retrospectives](Learning_Guide/Retrospectives.md)
   * [Reviews](Learning_Guide/Review.md)
+  * [Onboarding](Learning_Guide/Onboarding.md)
 - [General](General/README.md)
   * [FAQ](General/FAQ.md)
   * [Guidelines](General/Guidelines.md)
