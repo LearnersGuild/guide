@@ -62,17 +62,17 @@ sum(allTeamHours) * yourContributionPercentage
 
 In the context of the LOS, your Elo rating is a representation of your ability to contribute to projects relative to other players. It is not an _absolute_ measure of your skill, but is only meaningful in reference to other players.
 
-Unlike XP, Elo moves up and down depending on your project-to-project contribution stats and with whom you work on projects.
+Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and and with whom you work on projects. Effectiveness is measured as percentage contribution to project over number of billable hours.
 
 It can be a little difficult to understand how Elo works in a collaborative game like this one, since it is usually applied to competitive, zero-sum games like chess or beach volleyball or hot dog eating contests. So let's dive into an example.
 
 Imagine that you're a professional jigsaw puzzle solver. You work with other puzzlers to collaboratively solve jigsaw puzzles. Your Elo rating in the Professional Jigsaw League is 1200.
 
-Let's say that you solve a puzzle with three other puzzlers of the _exact same_ Elo rating (1200). If you solve 1/2 of the puzzle (by placing 1/2 of the pieces), then your Elo rating would _go up_ after the game because you performed _much better_ than you were expected based on your Elo. On a team of four puzzlers of the same skill (Elo), you'd be expected to solve 1/4 of the puzzle.
+Let's say that you solve a puzzle with three other puzzlers of the _exact same_ Elo rating (1200). If you solve 1/2 of the puzzle (by placing 1/2 of the pieces) *in the same time as the three remaining puzzlers*, then your Elo rating would _go up_ after the game because you performed _much better_ than you were expected based on your Elo. On a team of four puzzlers of the same skill (Elo), who all put in the same time, you'd be expected to solve 1/4 of the puzzle.
 
 If, on the other hand, you only solved 1/5 of the puzzle, your Elo rating would _go down_, because you performed worse than was expected of you.
 
-The interesting thing about Elo is that the ratings take into account the relative skill _before_ the game, so you can play more advanced players, perform worse, and _still go up_ in your Elo rating. It all depends on how much better or worse you performed relative to what is expected of you.
+The interesting thing about Elo is that the ratings take into account the relative skill _before_ the game, so you can play more advanced players, perform worse (in terms of efficiency), and _still go up_ in your Elo rating. It all depends on how much better or worse you performed relative to what is expected of you.
 
 Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for background on Elo rating.
 
@@ -116,6 +116,9 @@ end
   end
 end
 ```
+
+Checkout this pELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model Elo Changes. Use a K-factor of 20.
+
 
 ## Average Project Completeness
 
