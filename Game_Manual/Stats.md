@@ -78,43 +78,75 @@ Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) articl
 
 #### Formula
 
-Elo is (currently) calculated with a Ruby script that uses the [elo](https://github.com/iain/elo) library with a K-Factor of 20 and an initial Elo for all players of 1000.
+Elo is (currently) calculated using the [elo-rank][elo-rank-github] library with a K-Factor of 20 and an initial Elo for all players of 1000.
 
-Below is a condensed version of the calculation, with all key components for calculating Elo except for what's taken care of by the library. Each player is an instance of the `Elo::Player` class.
+Below is a rough summary of what happens in our production codebase for the calculation, with all key components for calculating Elo (except for what's taken care of by the library).
 
-```ruby
-def play(player_one, player_two, project)
-  game = player_one.versus(player_two)
+```javascript
+import elo from 'elo-rank'
 
-  p1_effectiveness = effectiveness(player_one, project)
-  p2_effectiveness = effectiveness(player_two, project)
+function eloRatings([playerA, playerB]) {
+  const {rating: ratingA, score: scoreA} = playerA
+  const {rating: ratingB, score: scoreB} = playerB
+  const kFactor = 20
 
-  pre_scaled_result = p1_effectiveness / (p1_effectiveness + p2_effectiveness).to_f
+  const eloA = elo(kFactor)
+  const eloB = elo(kFactor)
 
-  scaled_result = ((pre_scaled_result - 0.5) * 3) + 0.5
+  const expectedMarginA = eloA.getExpected(ratingA, ratingB)
+  const expectedMarginB = eloB.getExpected(ratingB, ratingA)
 
-  if (scaled_result > 1)
-    scaled_result = 1
-  elsif scaled_result < 0
-    scaled_result = 0
-  end
+  const [actualMarginA, actualMarginB] = scoreMargins([scoreA, scoreB])
 
-  game.result = scaled_result
-end
+  const newRatingA = eloA.updateRating(expectedMarginA, actualMarginA, ratingA)
+  const newRatingB = eloB.updateRating(expectedMarginB, actualMarginB, ratingB)
 
-def effectiveness(player, project)
-  return (projectContribution(player, project) / projectHours(player, project).to_f).round(2)
-end
+  return [newRatingA, newRatingB]
+}
 
-1.upto(current_cycle) do |cycle_no|
-  projects(cycle_no).sort.each do |proj_name|
-    players = players(proj_name) # all players except pro players
+function updateEloRatings(playerStats) {
+  // playerStats is an object keyed on playerId
+  // with a value of that player's stats
+  const scoreboard = playerStats
+    .reduce((result, {playerId, ...stats}) => {
+      const {elo = {}} = stats
+      result.set(playerId, {
+        id: playerId,
+        rating: elo.rating || INITIAL_RATINGS.DEFAULT,
+        matches: elo.matches || 0,
+        score: stats.relativeContributionPerHour, // a.k.a., "effectiveness"
+      })
+      return result
+    }, new Map())
 
-    team_players.combination(2).each do |players|
-      play(players[0], players[1], proj_name)
-    end
-  end
-end
+  // sorted by elo (descending) solely for the sake of being deterministic
+  const sortedPlayerIds = Array.from(scoreboard.values())
+                            .sort((a, b) => a.rating - b.rating)
+                            .map(item => item.id)
+
+  // pair every team player up to run "matches"
+  const matches = toPairs(sortedPlayerIds)
+
+  // for each team player pair, update ratings based on relative effectiveness
+  matches.forEach(([playerIdA, playerIdB]) => {
+    const playerA = scoreboard.get(playerIdA)
+    const playerB = scoreboard.get(playerIdB)
+    const [playerRatingA, playerRatingB] = eloRatings([playerA, playerB])
+
+    playerA.rating = playerRatingA
+    playerA.matches++
+    playerA.kFactor = _kFactor(playerA.matches)
+
+    playerB.rating = playerRatingB
+    playerB.matches++
+    playerB.kFactor = _kFactor(playerB.matches)
+  })
+
+  // ...
+  // save updated scores to players' stats in database for each player in
+  // scoreboard
+  // ...
+}
 ```
 
 Checkout this pELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model Elo Changes. Use a K-factor of 20.
@@ -122,27 +154,31 @@ Checkout this pELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model
 
 ## Average Project Completeness
 
-The average % completion of all projects you've worked on.
+The average % completeness of all reviews for the given project.
 
 ##### Formula
 
 ```
-sum(allProjectCompletenessReviews) / count(projects)
+sum(allProjectCompletenessReviews) / count(reviews)
 ```
 
 ## Average Project Quality
 
-The average % quality of all projects you've worked on.
+The average % quality of all reviews for the given project.
 
 ##### Formula
 
 ```
-sum(allProjectQualityReviews) / count(projects)
+sum(allProjectQualityReviews) / count(reviews)
 ```
 
-## Health - Culture
+## Weighted Average Stats
 
-How much your team members felt you contributed positively to the team culture. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
+
+### Health - Culture
+
+How much your team members felt you contributed positively to the team culture. Represented as a percentage (0..100%).
 
 Culture contribution is calculated by taking the results of culture contribution question from the retrospective ("Based on X's culture contribution..."), and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
 
@@ -152,9 +188,9 @@ Culture contribution is calculated by taking the results of culture contribution
 sum(recentCultureFeedback) / count(recentProjects)
 ```
 
-Where `recentCultureFeedback` = average of culture feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
+Where `recentCultureFeedback` is one project's worth of culture feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for culture contribution.
 
-### What Culture Contribution Means
+#### What Culture Contribution Means
 
 Culture contribution can be a difficult thing to assess. It is important to understand what it means, both so that you can effectively evaluate your teammates and interpret your own stats.
 
@@ -168,9 +204,9 @@ Use the rubric below to build your sense of what "good culture contribution" is.
 | Growth    | They challenged themselves and others. They sought out growth for themselves, and helped everyone extend their potential.<br> They were generous in their support. They were responsive to requests for help, and offered guidance and mentorship.                     |
 | Flow      | They were engaged. Their focus, dedication and motivation supported our team in staying on task.<br> They enjoyed the work. They created more fun and enjoyment for us.                                                                                                |
 
-## Health - Team Play
+### Health - Team Play
 
-How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. Represented as a percentage (0..100%).
 
 Team play scores are calculated the same as culture contribution scores, but using the team play answers from the retrospective.
 
@@ -180,9 +216,9 @@ Team play scores are calculated the same as culture contribution scores, but usi
 sum(recentTeamPlayFeedback) / count(recentProjects)
 ```
 
-Where `recentTeamPlayFeedback` = average of team play feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
+Where `recentTeamPlayFeedback` is one project's worth of team play feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for team play.
 
-### What Team Play Means
+#### What Team Play Means
 
 It is important to understand what it means to be a good team player, both so that you can effectively evaluate your teammates and interpret your own stats.
 
@@ -195,9 +231,9 @@ Use the rubric below to build your sense of what "good team play" is.
 | Flexible Leadership | They stepped into leadership roles when needed, and supported others to step into leading roles.                                           |
 | Friction Reduction  | They were constantly looking for ways to improve team process, and to help everyone play to their full potential.                          |
 
-## Health - Technical
+### Health - Technical
 
-How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
+How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. Represented as a percentage (0..100%).
 
 Technical health scores are calculated the same as culture contribution scores, but using the technical health answers from the retrospective.
 
@@ -207,9 +243,9 @@ Technical health scores are calculated the same as culture contribution scores, 
 sum(recentTechnicalFeedback) / count(recentProjects)
 ```
 
-Where `recentTechnicalFeedback` = average of technical feedback for each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
+Where `recentTechnicalFeedback` is one project's worth of technical feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for technical feedback.
 
-### What Technical Skill Means
+#### What Technical Skill Means
 
 It is important to understand what it means to contribute technically, both so that you can effectively evaluate your teammates and interpret your own stats.
 
@@ -229,11 +265,9 @@ Use the rubric below to build your sense of what "good technical skill" is.
 
 
 
-## Challenge
+### Challenge
 
-The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD).
-
-This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a number between 1 and 10, with 7 representing your ZPD. This mapping is used to give meaning to the other numbers:
+The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD). Represented as a number between 1 and 10, with 7 representing your ZPD. This mapping is used to give meaning to the other numbers:
 
 - 1 = Extremely bored
 - 4 = Confident and comfortable
@@ -248,10 +282,109 @@ This is a weighted average that only uses retrospective data from the previous 6
 sum(recentChallengeStatsForProjects) / count(recentProjects)
 ```
 
-Where `recentChallengeStatsForProjects` = average of scores given for the challenge each project in last 6 cycles and `recentProjects` = your projects in the last 6 cycles.
+Where `recentChallengeStatsForProjects` one project's challenge score (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for challenge.
 
 
-## Project Reviews
+### Estimation Accuracy and Bias
+
+Estimation accuracy and bias reflect how well you estimate your contribution to projects.
+
+To demonstrate how these stats apply, we'll use a modified version of the above dataset, aggregating the team estimates into their average (mean):
+
+| Project      | Self estimate | Team estimate (avg) |
+|:-------------|:--------------|:--------------------|
+| #big-bees    | 50%           | 45%                 |
+| #red-rabbits | 28%           | 30%                 |
+| #tiny-tigers | 20%           | 30%                 |
+
+#### Estimation Accuracy
+
+Estimation accuracy reflects how accurate your estimations are relative to the consensus. Represented as a percentage (0..100%).
+
+One hundred percent is perfect accuracy: you estimate your contribution the same as your peers do. The closer this stat is to 100%, the more accurate your contribution estimates are.
+
+Your estimation accuracy _per project_ is computed by first finding difference between self- and team-estimated contribution for that project, and then using the [absolute value][absolute-values] of that difference. Finally, this number is subtracted from 100% (so that a perfect score would be 100%, not 0%). So the estimation accuracy stats for the above projects would be:
+
+| Project      | Estimation Accuracy                          |
+|:-------------|:---------------------------------------------|
+| #tiny-tigers | 100% - abs(20% - 30%) = 100% - 10% = **90%** |
+| #big-bees    | 100% - abs(50% - 45%) = 100% - 5% = **95%**  |
+| #red-rabbits | 100% - abs(28% - 30%) = 100% - 2% = **98%**  |
+
+Based on these projects, the _overall estimation accuracy stat_ is 94.33% (average of [90%, 95%, 98%]).
+
+##### Formula (for project)
+
+```
+100 - absolute(selfEstimatedContribution - teamEstimatedContribution)
+```
+
+##### Formula (for overall stat)
+
+```
+sum(recentEstimationAccuracy) / count(recentProjects)
+```
+
+Where `recentEstimationAccuracy` is one project's worth of estimation accuracy (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for estimation accuracy.
+
+
+#### Estimation Bias
+
+Estimation bias reflects whether you tend to over- or under-estimate your contribution. Represented as a +/- percentage (-100%..100%).
+
+If your estimation bias is _below zero_, that means that you tend to underestimate your contribution to the projects that you work on. Your fellow players see value that you don't recognize; you can learn to take more credit for your work!
+
+If your estimation bias is _above zero_, that means that you tend to overestimate your contribution to the projects that you work on. Your fellow players don't think you deserve as much credit as you seem to want; you can learn to be more humble.
+
+If your estimation bias is _exactly zero_, congratulations! You must be a mind-reader, and/or exceptionally self-aware.
+
+Your estimation bias _per project_ is the difference between self- and team-estimated contribution for that project. So the estimation bias stats for the above projects would be:
+
+| Project      | Estimation Bias      |
+|:-------------|:---------------------|
+| #tiny-tigers | 20% - 30% = **-10%** |
+| #big-bees    | 50% - 45% = **5%**   |
+| #red-rabbits | 28% - 30% = **-2%**  |
+
+Based on these projects, the _overall estimation bias stat_ is -2.33% (average of [-10%, 5%, -2%]).
+
+##### Formula (for project)
+
+```
+selfEstimatedContribution - teamEstimatedContribution
+```
+
+##### Formula (for overall stat)
+
+```
+sum(recentEstimationBias) / count(recentProjects)
+```
+
+Where `recentEstimationBias` is one project's worth of estimation bias (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for estimation bias.
+
+
+### Time on Task
+
+How much of your time is considered _productive_ time. It's computed based on how many hours you spend on a project relative to how many hours you were _expected_ to spend on a project (typically, 40). However, it can not exceed 100%. Represented as a percentage (0..100%).
+
+##### Formula (for project)
+
+```
+projectHoursLogged / expectedHoursForProject
+```
+
+Where `projectHoursLogged` is the number of hours you worked on the given project and `expectedHoursForProject` the number of hours you were expected to work on a project.
+
+##### Formula (for overall stat)
+
+```
+sum(projectTimeOnTask) / count(recentProjects)
+```
+
+Where `projectHoursLogged` is one project's worth of time on task (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for time on task.
+
+
+### Project Reviews
 
 The number of projects you've reviewed the completeness and quality of. Represented as an integer.
 
@@ -310,13 +443,21 @@ However, the player's actual contribution for the `#red-rabbits` project would b
 
 ##### Formula
 
+For a team where it is possible to determine which player has the highest estimation accuracy:
+
+```
+projectContribution  // (from player with highest estimation accuracy)
+```
+
+For a team where it is _not_ possible to determine which player has the highest estimation accuracy:
+
 ```
 sum(projectContributionFeedbackFromTeam) / teamSize
 ```
 
 ### Expected Contribution
 
-Your expected contribution how much you are expected to contribute to the project based on how many hours you contribute relative to the total hours of all players. Represented as a percentage (0..100%).
+Your expected contribution is how much you are expected to contribute to the project based on how many hours you contribute relative to the total hours of all players. Represented as a percentage (0..100%).
 
 In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 37.5% ( 30 / 80 ) because they contributed 30 out of a total 80 hours that players spent on this project.
 
@@ -326,79 +467,10 @@ The contribution gap is the difference between actual and expected contribution.
 
 In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed +9.17% _more_ to the project than what is expected based on how many hours they worked on it.
 
-## Estimation Accuracy and Bias
 
-Estimation accuracy and bias reflect how well you estimate your contribution to projects.
-
-To demonstrate how these stats apply, we'll use a modified version of the above dataset, aggregating the team estimates into their average (mean):
-
-| Project      | Self estimate | Team estimate (avg) |
-|:-------------|:--------------|:--------------------|
-| #big-bees    | 50%           | 45%                 |
-| #red-rabbits | 28%           | 30%                 |
-| #tiny-tigers | 20%           | 30%                 |
-
-### Estimation Accuracy
-
-Estimation accuracy reflects how accurate your estimations are relative to the consensus. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a percentage (0..100%).
-
-One hundred percent is perfect accuracy: you estimate your contribution the same as your peers do. The closer this stat is to 100%, the more accurate your contribution estimates are.
-
-Your estimation accuracy _per project_ is computed by first finding difference between self- and team-estimated contribution for that project, and then using the [absolute value][absolute-values] of that difference. Finally, this number is subtracted from 100% (so that a perfect score would be 100%, not 0%). So the estimation accuracy stats for the above projects would be:
-
-| Project      | Estimation Accuracy                          |
-|:-------------|:---------------------------------------------|
-| #tiny-tigers | 100% - abs(20% - 30%) = 100% - 10% = **90%** |
-| #big-bees    | 100% - abs(50% - 45%) = 100% - 5% = **95%**  |
-| #red-rabbits | 100% - abs(28% - 30%) = 100% - 2% = **98%**  |
-
-Based on these projects, the _overall estimation accuracy stat_ is 94.33% (average of [90%, 95%, 98%]).
-
-##### Formula
-
-```
-100 - absolute(selfEstimatedContribution - teamEstimatedContribution)
-```
-
-## Estimation Bias
-
-Estimation bias reflects whether you tend to over- or under-estimate your contribution. This is a weighted average that only uses retrospective data from the previous 6 cycles. Represented as a +/- percentage (-100%..100%).
-
-If your estimation bias is _below zero_, that means that you tend to underestimate your contribution to the projects that you work on. Your fellow players see value that you don't recognize; you can learn to take more credit for your work!
-
-If your estimation bias is _above zero_, that means that you tend to overestimate your contribution to the projects that you work on. Your fellow players don't think you deserve as much credit as you seem to want; you can learn to be more humble.
-
-If your estimation bias is _exactly zero_, congratulations! You must be a mind-reader, and/or exceptionally self-aware.
-
-Your estimation bias _per project_ is the difference between self- and team-estimated contribution for that project. So the estimation bias stats for the above projects would be:
-
-| Project      | Estimation Bias      |
-|:-------------|:---------------------|
-| #tiny-tigers | 20% - 30% = **-10%** |
-| #big-bees    | 50% - 45% = **5%**   |
-| #red-rabbits | 28% - 30% = **-2%**  |
-
-Based on these projects, the _overall estimation bias stat_ is -2.33% (average of [-10%, 5%, -2%]).
-
-##### Formula
-
-```
-selfEstimatedContribution - teamEstimatedContribution
-```
-
-## Time Dedication per Cycle
-
-Average hours per week you spent contributing to team projects. Think of these as "billable" hours.
-
-##### Formula
-
-```
-sum(cycleHoursLogged) / count(cyclesCompleted)
-```
-
-Where `cycleHoursLogged` = the set of hours you worked in each cycle and `cyclesCompleted` = the cycles during which you worked on a project.
 
 [game-objectives]: ./Boundaries.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
 [elo-rating-wiki]: https://en.wikipedia.org/wiki/Elo_rating_system
+[elo-rank-github]: https://github.com/dmamills/elo-rank
 [cos-dynam-tensions]: http://cos.learnersguild.org/Dynamic_Tensions/
