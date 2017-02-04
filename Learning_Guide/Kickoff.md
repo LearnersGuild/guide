@@ -32,7 +32,7 @@ The goal of a Learning Contract is to guide your team's effort for the rest of t
 3. It is a means for you to practice **project estimation**, **specing**, and **goal setting**. These are critical skill for any software developer to develop (and really difficult ones)
 4. It challenges you and your team to stay in your Zone of Proximal Development (ZPD). Without a good challenge, your learning will not be optimized.
 
-#### Preparing for the outline
+#### Preparing for the contract
 
 Before writing your Learning Contract, it's good practice to checkin with your team about the following:
 
@@ -45,12 +45,12 @@ Once you've surveyed your teams' skill and availability, it's time to solidify t
 
 **You should aim to write specs that are clear, and detailed, and challenging. They should put the entire team in their ZPD for the rest of the week. The goal is to maximize quantity and quality of software shipped. The Learning Contract should challenge everyone on the team, *not* to make sure everyone is comfortable.**
 
-To create a Learning Contract, create a new `outline` branch:
+To create a Learning Contract, create a new `contract` branch:
 
 ```
-git branch outline
-git checkout outline
-git push origin outline
+git branch contract
+git checkout contract
+git push origin contract
 ```
 
 Copy the text of the goal into the `README.md` file.
@@ -72,6 +72,8 @@ To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you 
 
 For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
 
+Checkout this [example of a model spec](https://github.com/GuildCrafts/model-project-specifications/blob/master/model_specs.md) and this [quality rubric library](https://github.com/GuildCrafts/model-project-specifications/blob/master/quality_rubric_library.md)
+
 #### Commitment and Review
 
 Once a proper Learning Contract document has been written and agreed on, it's good practice to go around your team and give a number from 1 to 10 that signals how much of a stretch they think it will be to accomplish this work:
@@ -87,10 +89,10 @@ Use the following values to calibrate:
 
 **If any team member is less than a seven, then you should take the time to increase the difficulty of the project by adding more specs, or raising the quality bar**
 
-Once the Learning Contract is set, push the outline branch to github:
+Once the Learning Contract is set, push the contract branch to github:
 
 ```
-git push origin outline
+git push origin contract
 ```
 
 And create a pull request: Go to your repository on GitHub and click on the 'Pull Request' button at the top right of the window:
@@ -125,16 +127,16 @@ Some of the things you might want to cover:
 
 **You should plan 15 to 20 minutes for this conversation. Don't spend too much time on it, and don't skip it**
 
-#### Check on your outline review
+#### Check on your contract review
 
 Check on your PR,
 
 - If it's been reviewed and merged, read the review comments and begin your work
-- If it has been reviewed but not merged, incorporate the feedback to the outline, and submit it for another review
+- If it has been reviewed but not merged, incorporate the feedback to the learning contract, and submit it for another review
 
 - Don't being your project unless your Learning Contract PR has been reviewed **and merged**.
 
-If you're waiting for a review, then jump on [prrr](http://prrr.apps.learnersguild.org) and claim a pending review for another project's outline and review it.
+If you're waiting for a review, then jump on [prrr](http://prrr.apps.learnersguild.org) and claim a pending review for another project's learning contract and review it.
 
 ## Reviewing another Team's Learning Contract
 
@@ -145,7 +147,7 @@ When reviewing another Team's Learning Contract, make sure you cover the followi
 - The project specs are clear, detailed and unambiguous. They don't leave too much room for interpretation. You can imagine yourself using them to review the completeness of the project
 - The quality rubric is clear and unambiguous. You can imagine yourself using it to review the quality of the project
 
-Once you're confident the Learning Contract passes the above criteria, **approve the pull request and merge it**. If the outline needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the outline or not, please be generous with your suggestions for improvement.
+Once you're confident the Learning Contract passes the above criteria, **approve the pull request and merge it**. If the contract needs to be improved on before passing, make the suggestions and do not merge it. Wether you've accepted the contract or not, please be generous with your suggestions for improvement.
 
 ## Guidelines for OSS projects
 
