@@ -84,13 +84,15 @@ We would be sorry to hear that, but of course it is your choice. You would still
 
 Learners Guild's business model depends on our learners "paying forward" their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront.
 
-**What if I don't earn more than $50,000 per year in my first job?**
 
-Income sharing only starts if you're earning a salary of more than $50k.
+**What if I'm not making more than $50,000 per year?**
+
+Income sharing only applies if your income is more than $50,000. The $50,000 includes self-employed income that you may be making as a consultant. And, in certain cases, gains from equity that you received as a result of your work for a company. Please see the Income Share Agreement for more details.
++
 
 **What if I get fired from my first job or decide to quit?**
 
-If you're unemployed, the Income Sharing Agreement is paused until you're making a salary again.
+If you're unemployed, and your income is less than $50,000, the Income Sharing Agreement is paused until you're making at least $50,000.
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
 [oak-building-hours]: ../Policies/Oakland_Building.md#hours
