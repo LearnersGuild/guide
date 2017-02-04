@@ -8,7 +8,7 @@ Use this checklist of resources and suggestions to gain momentum in your learnin
 
 ## Required Prep
 
-Before your start date, you need to make sure to have completed the required prep work. If you fail to complete it, make sure to let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 30 to 60 hours for this prep work, depending on your existing skill level.
+Before your start date, you need to make sure to have completed the required prep work. If you fail to complete it, make sure to let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 40 to 100 hours for this prep work, depending on your existing skill level.
 
 Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the following sections:
 
