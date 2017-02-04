@@ -1,12 +1,46 @@
 # The Runway
 
-You've been admitted to a Learners Guild chapter. Your cohort start date is coming up. What should you do to prepare?
+You've been admitted to a Learners Guild chapter. Your start date is coming up. What should you do to prepare?
 
 The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. The more you know and are able to do coming in, the better you'll be able to learn and collaborate with your fellow learners.
 
 Use this checklist of resources and suggestions to gain momentum in your learning before joining Learners Guild. None of these are required, but we do highly recommend doing as many as you can
 
-## Web Development Basics
+## Required Prep
+
+Before your start date, you need to make sure to have completed the required prep work. If you fail to complete it, make sure to let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 30 to 60 hours for this prep work, depending on your existing skill level.
+
+Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the following sections:
+
+- HTML5 and CSS (2-4 hours)
+- Responsive Design with Bootstrap (2-4 hours)
+- jQuery (1-2 hours)
+- Basic Front End Development Projects (10-30 hours)
+- Basic JavaScript (2-6 hours)
+- Object Oriented and Functional Programming (1-2 hours)
+- Basic Algorithm Scripting (10-30 hours)
+- JSON APIs and Ajax (1-2 hours)
+- Intermediate Front End Development Projects (10-30 hours)
+ - Build a Random Quote Machine Incomplete
+ - Show the Local Weather Incomplete
+
+
+## Strongly Recommended but not mandatory
+
+The more you put into your experience at the Guild, the more you (and others) will benefit. We **highly recommend** you take the time to complete the following FreeCodeCamp tutorials before you join:
+
+- Intermediate Front End Development Projects (10-30 hours)
+ - Build a Wikipedia Viewer Incomplete
+ - Use the Twitch.tv JSON API Incomplete
+- Intermediate Algorithm Scripting (50 hours)
+- Advanced Algorithm Scripting (50 hours)
+- Advanced Front End Development Projects (150 hours)
+
+## More Recommended Prep
+
+Done with FreeCodeCamp? Great. If you have the time and resources, double down on your prep by going through the following:
+
+#### Web Development Basics
 
 These fundamental skills are needed for nearly all web development projects:
 
