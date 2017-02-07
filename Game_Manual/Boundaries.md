@@ -39,22 +39,17 @@ A player is at risk of failing the game if their [stats][stats] show them to be 
 
 There are two stages of failing.
 
-The first stage starts when a player's stats go _in the red_. When a stat passes any of the following thresholds, it is in the red:
+The first stage starts when if a player reaches [Level 0](https://playbook.learnersguild.org/Game_Manual/Levels_and_Roles.html)
 
-- [Health: Team Play][team-play] : less than 65%
-- [Health: Culture Contribution][culture-contribution] : less than 65%
-- [XP][xp] earned per cycle : less than 17.5
-- [Estimation Accuracy][estimation-accuracy] : less than 90%
+Once a stat drops the Player into Level 0, the player has to **consistently improve** their affected stats until they are above the threshold, and back to Level 1. If you have a stat below Level 1 threshold, get whatever support you need to move the needle and get out of danger.
 
-Once a stat is in the red, the player has to **consistently improve** their affected stats until they are above the threshold. If you have a stat in the red, get whatever support you need to move the needle and get out of danger.
+This doesn't mean that every week has to be higher than the previous week for that stat. It means that every week's stats has to be higher than than _two_ weeks ago until you get above the threshold.
 
-When you have a stat in the red, you have to show continuous progress. This doesn't mean that every week has to be higher than the previous week. It means that every week's stats has to be higher than than _two_ weeks ago until you get above the threshold.
-
-> If you are in the red, and your end of cycle stats are lower than what they were two cycles ago, you get an investment re-evaluation.
+> If you are Level 0, and your end of cycle stats are lower than what they were two cycles ago, you get an investment re-evaluation.
 
 The second stage is an _investment re-evaluation_, and is entered into when a player's stats have _both_:
 
-1. been in the red for at least two weeks and
+1. been Level 0 for at least two weeks and
 1. have not shown consistent improvement
 
 During the re-evaluation, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
@@ -63,7 +58,7 @@ During the re-evaluation, the player will meet with a moderator to discuss their
 
 The point of these fail conditions is to ensure that all learners in the collective are contributing fairly to their teams.
 
-If one or more of your stats falls in the red, think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
+If one or more of your stats falls below [Level 1 thresholds](https://playbook.learnersguild.org/Game_Manual/Levels_and_Roles.html), think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
 
 You will only be asked to leave if you consistently underperform and show no signs of improvement. A thriving learning community requires the effort and engagement from everyone involved; without that, the whole collective will fail.
 

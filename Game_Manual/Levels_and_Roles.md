@@ -10,7 +10,7 @@ Levels are cumulative, so more advanced levels also include privileges of previo
 
 Every level is a voting pool. In other words, players vote on goals that are in their level with other players in their level.
 
-Advancement is not one-way: players can move backwards if they stay in the red for two weeks (same mechanic as current in-the-red piece).
+Advancement is not one-way: players can move backwards if they drop below level thresholds.
 
 ### Level Abilities
 
@@ -68,11 +68,7 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 
 Moving up a level is simple: as soon as a player has met **all** of the requirements, they automatically advance.
 
-Moving back a level is a longer process. In order for a player to move back a level, their stats have to drop below the requirement and _stay below_ for two consecutive active cycles. When a player in level N drops their stats below the level N requirement, they are "in the red" and they have 2 cycles to move their stats back into compliance with the level N requirements.
-
-For example, say Dora is a player at level 2, with an Elo of 1008, cultural health at 89% and team play at 92%. Then, at the end of cycle 4, Dora's cultural health dips to 76%. She still in level 2, but she is now "in the red".
-
-If Dora doesn't bring her cultural health back to 80% or above by the end of cycle 6, then she will move back to level 1. She will lose her level 2 abilities until her stats are once again good enough to advance to level 2.
+Moving back a level is the same process. In order for a player to move back a level, any of the their stats have to drop below the thresholds for that level.
 
 ### Why levels?
 
