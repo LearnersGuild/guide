@@ -20,9 +20,9 @@ As a collective each member takes on two objectives:
 
 ## Learning Operating System
 
-The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship. It's the framework that supports us in achieving the first objective. 
+The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship. It's the framework that supports us in achieving the first objective.
 
-The main way that learners engage with the LOS is through [Echo](http://echo.learnersguild.org).
+The main way that enrolled learners engage with the LOS is through [Echo](http://echo.learnersguild.org).
 
 To read more about the Learning OS, visit the [Game Manual](./Game_Manual/README.md) section of the playbook.
 
