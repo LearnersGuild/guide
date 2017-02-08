@@ -39,29 +39,18 @@ Advancement is not one-way: players can move backwards if they drop below level 
   - Can take on Project Lead role
   - Can earn Leadership stats (TBD)
 
-#### A note on goal types
-
-There are 5 types of goals (only 3 of which are currently active). Eventually, there will be projects for each of the 5 types. Here's what each type means:
-
-1. `foundational`: no "product" produced. Purely for focusing on fundamental skill building. Example: "Relational DB design"
-1. `practice`: one-off, toy projects. For exploring and learning in a sandboxed environment, but with a defined (albeit contrived) "product". Example: "Bookstore App"
-1. `apprentice`: a real-world, maintained project, but without any user base or production environment. No need to manage a deployed app. Example: "Trossello"
-1. `prototype`: maintained projects with at least an "alpha-level" production environment and some user base. Will involve some dev ops. Example: Goalie
-1. `production`: professional-grade projects with a live product and active users. Example (hypothetical): the LOS
-1. `core`: focused on building the key skills of a web developer. Specs are non-negotiable. If you don't know what to focus on, pick a core goal.
-
 ### Level Requirements
 
 This table shows each level starting at 0 and advancing to 5 with the criteria for advancing to that level.
 
-| Level | XP    | Elo   | Cultural | Team Play | Technical | Estimation Accuracy  | Other              |
-|:------|:------|:------|:---------|:----------|:----------|:--------------------|:-------------------|
-| 0     | -     | -     | -        | -         | -         | -                   | enrolled in LG     |
-| 1     | >=0   | >900  | >65      | >65       | -         | >90%                | joined a cohort    |
-| 2     | >150  | >990  | >80      | >80       | -         | >91%                | -                  |
-| 3     | >400  | >1020 | >85      | >85       | >80       | >92%                | -                  |
-| 4     | >600  | >1050 | >90      | >90       | >90       | >93%                | ? coach stat (TBD) |
-| 5     | >800  | >1150 | >90      | >90       | >95       | >94%                | ? coach stat (TBD) |
+| Level | XP   | Elo   | Cultural | Team Play | Technical | Estimation Accuracy | Other              |
+|:------|:-----|:------|:---------|:----------|:----------|:--------------------|:-------------------|
+| 0     | -    | -     | -        | -         | -         | -                   | enrolled in LG     |
+| 1     | >=0  | >900  | >65      | >65       | -         | >90%                | joined a cohort    |
+| 2     | >150 | >990  | >80      | >80       | -         | >91%                | -                  |
+| 3     | >400 | >1020 | >85      | >85       | >80       | >92%                | -                  |
+| 4     | >600 | >1050 | >90      | >90       | >90       | >93%                | ? coach stat (TBD) |
+| 5     | >800 | >1150 | >90      | >90       | >95       | >94%                | ? coach stat (TBD) |
 
 
 #### Moving Up and Back through Levels
