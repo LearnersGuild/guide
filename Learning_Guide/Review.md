@@ -74,7 +74,7 @@ If there are no projects to review on prrr, then find [already done reviews](htt
 
 ## Guidelines for OSS projects
 
-If you worked on an OSS project, a gist with links to the issues you worked on should be your project asset. Since every PR has been already reviewed by your project lead, you should just ping your project lead to do a /review in echo. No need to prepare review branches, and no need to use Prrrr, and you won't get two other reviews from two different coaches.
+If you worked on an OSS project, a gist with links to the issues you worked on should be your project artifact. Since every PR has been already reviewed by your project lead, you should just ping your project lead to do a /review in echo. No need to prepare review branches, and no need to use Prrrr, and you won't get two other reviews from two different coaches.
 
 
 

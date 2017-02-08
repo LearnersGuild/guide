@@ -151,7 +151,7 @@ Once you're confident the Learning Contract passes the above criteria, **approve
 
 ## Guidelines for OSS projects
 
-If you are working on an OSS project, you should spend the project kickoff getting clear on which issues from the backlog you're committing to. Create a gist with links to the issues you will be working on and set it as your project asset. No need to use Prrrr or get your issues reviewed since your Project Lead is making sure the specs are clear and they will be the ones doing the project review at the end of the cycle. 
+If you are working on an OSS project, you should spend the project kickoff getting clear on which issues from the backlog you're committing to. Create a gist with links to the issues you will be working on and set it as your project artifact. No need to use Prrrr or get your issues reviewed since your Project Lead is making sure the specs are clear and they will be the ones doing the project review at the end of the cycle. 
 
 
 ## FAQ
