@@ -82,7 +82,7 @@ We would be sorry to hear that, but of course it is your choice. You would still
 
 **What if I want to do a startup after?**
 
-Learners Guild's business model depends on our learners "paying forward" their tuition through an Income Sharing Agreement in their first 3 years employed as a software developer after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront.
+Learners Guild's business model depends on our learners "paying forward" their tuition through an Income Sharing Agreement in their first 3 years earning income after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront.
 
 
 **What if I'm not making more than $50,000 per year?**
