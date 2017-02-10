@@ -31,7 +31,6 @@ Some signs that you may not be in your ZPD:
 - You’re retreating or disengaging
 - You can’t drive the project, you’re waiting for instructions
 - You’re watching, "sous chef", instead of leading & getting assistance
-- Your technical health score is consistently low
 - Your XP is consistently low
 - Your challenge score is below 6 or above 8
 - There's no part of the project that you can tackle independently
