@@ -24,13 +24,13 @@ Less direct consequences are that your contribution will likely be lower because
 
 If you are out of integrity with your team (for example, by not informing them of absences or not taking accountability for your tasks), then you may also see a drop in your culture & team play health.
 
-##### Working more than normal hours on a project
+##### Working more than expected hours on a project
 
-If you do "overtime" and put in more hours on a project than is expected, it is likely that you will see a greater increase in XP.
+Working long hours can feel like it is more productive, but if you are not getting enough sleep and the quality of your work suffers, then it can negatively impact your stats.
 
-Be aware that if you put in more hours but are _less effective_ (i.e. if your contribution per hour goes down), then it is likely that your Elo will not go up. Working long hours can feel like it is more productive, but if you are not getting enough sleep and the quality of your work suffers, then it can negatively impact your stats.
+If you do "overtime" and put in more hours on a project than is expected, it shouldn't have a direct impact on your stats. It may, however, have an _indirect_ impact if those additional hours yield a higher perceived contribution on your part; in that case, you may see your Elo go up.
 
-Similarly, if you end up doing a lot of work and don't keep your team informed and engaged, you will likely see a drop in your team play and culture stats. It's great to be enthusiastic, but be sure to bring your team with you.
+On the other hand, if you end up doing a lot of work and don't keep your team informed and engaged, you will likely see a drop in your team play and culture stats. It's great to be enthusiastic, but be sure to bring your team with you.
 
 ##### One or more teammates don't submit a retrospective
 
@@ -39,6 +39,18 @@ As mentioned above, stats cannot be earned for a project until every team member
 If one or more of your teammates is out sick or otherwise unable to submit a retro at the end of the work week, no stats can be generated for any players in that project. Remind any absent teammates to submit their retros when they are active again.
 
 ---
+
+## Hours Contributed
+
+The number of hours you contributed is computed by taking the expected hours for a project (typically 38, but perhaps fewer if the week includes any holidays) and subtracting from that number the number of "personal time off" hours you took while working on that project.
+
+Note that, within the context of the game, it's not possible for a player to contribute _more_ hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations.
+
+##### Formula
+
+```
+projectExpectedHours - yourPersonalTimeOffHours
+```
 
 ## XP
 
@@ -62,7 +74,7 @@ sum(allTeamHours) * yourContributionPercentage
 
 In the context of the LOS, your Elo rating is a representation of your ability to contribute to projects relative to other players. It is not an _absolute_ measure of your skill, but is only meaningful in reference to other players.
 
-Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and and with whom you work on projects. Effectiveness is measured as percentage contribution to project over number of billable hours.
+Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and and with whom you work on projects. Effectiveness is measured as percentage contribution to the project divided by the number of hours contributed.
 
 It can be a little difficult to understand how Elo works in a collaborative game like this one, since it is usually applied to competitive, zero-sum games like chess or beach volleyball or hot dog eating contests. So let's dive into an example.
 
@@ -361,27 +373,6 @@ sum(recentEstimationBias) / count(recentProjects)
 ```
 
 Where `recentEstimationBias` is one project's worth of estimation bias (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for estimation bias.
-
-
-### Time on Task
-
-How much of your time is considered _productive_ time. It's computed based on how many hours you spend on a project relative to how many hours you were _expected_ to spend on a project (typically, 40). However, it can not exceed 100%. Represented as a percentage (0..100%).
-
-##### Formula (for project)
-
-```
-projectHoursLogged / expectedHoursForProject
-```
-
-Where `projectHoursLogged` is the number of hours you worked on the given project and `expectedHoursForProject` the number of hours you were expected to work on a project.
-
-##### Formula (for overall stat)
-
-```
-sum(projectTimeOnTask) / count(recentProjects)
-```
-
-Where `projectHoursLogged` is one project's worth of time on task (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for time on task.
 
 
 ### Project Reviews
