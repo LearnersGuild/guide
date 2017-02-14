@@ -12,31 +12,31 @@ The first couple of hours of a project are critical to the success of your learn
 
 Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a Learning Contract document in a `CONTRACT.md` file.
 
-In most cases, the artifact will be a GitHub repository in the account of a learner on the team that is forked from the goal repository.
+In most cases, the artifact will be a GitHub repository in the account of a learner on the team. If the goal has its own base repo, you can fork it to create this repo.
 
-- Create a repo for your project by forking the goal repository\* and make a simple first commit. Your first commit should write or update the README.md file with your project's name, team members, a link to the goal and a LICENSE file (unless it already exists).
+- Create a repo for your project (or fork the goal repository, if it exists\*) and make a simple first commit. Your first commit should write or update the README.md file with your project's name, team members, a link to the goal and a LICENSE file (unless it already exists).
 - Once you've done that, set the artifact for your project. For example: `/project set-artifact http://github.com/LearnersGuild/playbook`
 
 Make your first commit to a master branch. You should aim to have this step done **within a few minutes** of finding your team.
 
-\*Most goals should come with a goal repository, so the best way to get started is to fork that repository. In some cases, the goal won't have an associated repo, so you'll need to create a new one for your project. Some goals (like the OSS projects) have a different process for project kickoff. Read the goal for more information.
+\*Some goals come with a goal repository, so the best way to get started is to fork that repository. In some cases, the goal won't have an associated repo, so you'll need to create a new one for your project. Other goals (like the OSS projects) may have a different process for project kickoff. Read the goal for more information.
 
 ## Learning Contract
 
-Once your first commit is in, it's time to review the scope of your project by reading the Learning Contract in the `CONTRACT.md` file. The Learning Contract document defines the specifications and quality criteria for the artifact to meet.
+Once your first commit is in, it's time to review the scope of your project by creating a Learning Contract.
+
+Name it `CONTRACT.md` and copy over the contents of the goal's learning contract (which should be in the `contracts/` directory of the [web-development-js](https://github.com/GuildCrafts/web-development-js/tree/master/contracts) repo). The Learning Contract document defines the specifications and quality criteria for the artifact to meet.
 
 The goal of a Learning Contract is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
 
 1. It guides and focuses your efforts for the rest of the cycle.
 2. It defines completeness and quality for your code reviewers during the reflection phase.
-3. It is a means for you to practice **project estimation**, **spec'ing**, and **goal setting**. These are critical skill for any software developer to develop (and really difficult ones).
+3. It serves as an example of **project estimation**, **spec'ing**, and **goal setting**. Read the contract with a critical eye to see how this is done. To practice this skill (it is an important one!), consider writing your own goal!
 4. It challenges you and your team to stay in your Zone of Proximal Development (ZPD). Without a good challenge, your learning will not be optimized.
-
-Review the Learning Contract included in the goal. You may need to improve it if the specs are unclear or the quality rubric is incomplete. If so, make changes in a pull request and then submit your PR to [prrr](http://prrr.apps.learnersguild.org/).
 
 Checkout this [example of a model spec](https://github.com/GuildCrafts/model-project-specifications/blob/master/model_specs.md) and this [quality rubric library](https://github.com/GuildCrafts/model-project-specifications/blob/master/quality_rubric_library.md).
 
-If you notice that the specs for the goal are too vague or incomplete, inform the goal author and request that they update them.
+If you notice that the specs for the goal are too vague or incomplete, inform the goal author and request that they update them. Or, better yet, just submit a pull request with your improvements as changes to the source learning contract.
 
 ## Work Plan
 
@@ -60,7 +60,7 @@ Some of the things you might want to cover:
 - How do you address any pinches or misunderstandings in communication?
 - Exchange phone numbers if comfortable to do so for communication purposes.
 
-**You should plan 15 to 20 minutes for this conversation. Don't spend too much time on it, and don't skip it**
+**You should plan 15 to 20 minutes for this conversation. Don't spend too much time on it, and don't skip it.**
 
 ## Guidelines for OSS projects
 
