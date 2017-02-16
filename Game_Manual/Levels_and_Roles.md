@@ -43,14 +43,14 @@ Advancement is not one-way: players can move backwards if they drop below level 
 
 This table shows each level starting at 0 and advancing to 5 with the criteria for advancing to that level.
 
-| Level | XP   | Elo   | Cultural | Team Play | Technical | Estimation Accuracy | Other              |
-|:------|:-----|:------|:---------|:----------|:----------|:--------------------|:-------------------|
-| 0     | -    | -     | -        | -         | -         | -                   | enrolled in LG     |
-| 1     | >=0  | >900  | >65      | >65       | -         | >90%                | joined a cohort    |
-| 2     | >150 | >990  | >80      | >80       | -         | >91%                | -                  |
-| 3     | >400 | >1020 | >85      | >85       | >80       | >92%                | -                  |
-| 4     | >600 | >1050 | >90      | >90       | >90       | >93%                | ? coach stat (TBD) |
-| 5     | >800 | >1150 | >90      | >90       | >95       | >94%                | ? coach stat (TBD) |
+| Level | XP   | Elo   | Estimation Accuracy | Other              |
+|:------|:-----|:------|:--------------------|:-------------------|
+| 0     | -    | -     | -                   | enrolled in LG     |
+| 1     | >=0  | >900  | >90%                | joined a cohort    |
+| 2     | >150 | >990  | >91%                | -                  |
+| 3     | >400 | >1020 | >92%                | -                  |
+| 4     | >600 | >1050 | >93%                | ? coach stat (TBD) |
+| 5     | >800 | >1150 | >94%                | ? coach stat (TBD) |
 
 
 #### Moving Up and Back through Levels
@@ -94,7 +94,6 @@ Accountabilities:
 - Improving stats
 
 Stats:
-- Health
 - Growth
 - Estimation
 - Review

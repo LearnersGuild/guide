@@ -190,17 +190,8 @@ Each of the following stats are based on a weighted average of (up-to) 6 of your
 
 ### Health - Culture
 
-How much your team members felt you contributed positively to the team culture. Represented as a percentage (0..100%).
-
-Culture contribution is calculated by taking the results of culture contribution question from the retrospective ("Based on X's culture contribution..."), and converting the Likert-scale values (0-6) to a percent (0-100%). A "strongly agree" answer is equal to 6 Likert points. So if you received two "agrees" and a "strongly agree", your average Likert score would be 5.33 ((5 + 5 + 6) / 3), which is then converted to a percentage score of 88.88% (5.33 / 6).
-
-##### Formula
-
-```
-sum(recentCultureFeedback) / count(recentProjects)
-```
-
-Where `recentCultureFeedback` is one project's worth of culture feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for culture contribution.
+How much your team members felt you contributed positively to the team culture.
+Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
 
 #### What Culture Contribution Means
 
@@ -218,17 +209,7 @@ Use the rubric below to build your sense of what "good culture contribution" is.
 
 ### Health - Team Play
 
-How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. Represented as a percentage (0..100%).
-
-Team play scores are calculated the same as culture contribution scores, but using the team play answers from the retrospective.
-
-##### Formula
-
-```
-sum(recentTeamPlayFeedback) / count(recentProjects)
-```
-
-Where `recentTeamPlayFeedback` is one project's worth of team play feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for team play.
+How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
 
 #### What Team Play Means
 
@@ -245,17 +226,7 @@ Use the rubric below to build your sense of what "good team play" is.
 
 ### Health - Technical
 
-How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. Represented as a percentage (0..100%).
-
-Technical health scores are calculated the same as culture contribution scores, but using the technical health answers from the retrospective.
-
-##### Formula
-
-```
-sum(recentTechnicalFeedback) / count(recentProjects)
-```
-
-Where `recentTechnicalFeedback` is one project's worth of technical feedback (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for technical feedback.
+How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
 
 #### What Technical Skill Means
 
@@ -263,18 +234,17 @@ It is important to understand what it means to contribute technically, both so t
 
 Use the rubric below to build your sense of what "good technical skill" is.
 
-| Value               | Evidence                                                                                                                                   |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| Code Quality            | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc. |
-| Code Completeness       | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time. |
-| Technical Communication | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
-| Technical Knowledge     | They had pre-existing technical knowledge and experience with the technologies we were working with. |
-| Technical Confidence    | They were confident in facing the unknown. They stayed with the challenges, and faced them head on. |
-| Research                | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases. |
-| Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order. |
-| Debugging               | They were adept at identifying, isolating, recreating, and fixing bugs. |
-| Testing                 | They wrote good, solid tests, and used testing to drive a better product. |
-
+| Value                         | Evidence                                                                                                                                                         |
+|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Code Quality                  | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc.                            |
+| Code Completeness             | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time.                                     |
+| Technical Communication       | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
+| Technical Knowledge           | They had pre-existing technical knowledge and experience with the technologies we were working with.                                                             |
+| Technical Confidence          | They were confident in facing the unknown. They stayed with the challenges, and faced them head on.                                                              |
+| Research                      | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases.                        |
+| Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order.                                                        |
+| Debugging                     | They were adept at identifying, isolating, recreating, and fixing bugs.                                                                                          |
+| Testing                       | They wrote good, solid tests, and used testing to drive a better product.                                                                                        |
 
 
 ### Challenge
