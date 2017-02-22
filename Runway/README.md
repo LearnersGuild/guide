@@ -4,7 +4,7 @@ You've been admitted to a Learners Guild chapter. Your start date is coming up. 
 
 The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. The more you know and are able to do coming in, the better you'll be able to learn and collaborate with your fellow learners.
 
-Use this checklist of resources and suggestions to gain momentum in your learning before joining Learners Guild. None of these are required, but we do highly recommend doing as many as you can
+Use this checklist of resources and suggestions to gain momentum in your learning before joining Learners Guild. 
 
 ## Required Prep
 
