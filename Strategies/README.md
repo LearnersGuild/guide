@@ -4,6 +4,8 @@ Learning strategies for [individuals](Individual.md), [teams](Team.md), and [com
 
 These categories do not have strict boundaries between them: they are all complimentary and overlap in many places. We just use separate files to make it easier to find and reference them.
 
+We also made a [nice picture!](Strategies/Manifesto.md)
+
 ## Why Strategies
 
 At Learners Guild, we are co-building an environment that is highly conducive to learning and growth.

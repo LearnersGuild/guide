@@ -36,5 +36,6 @@
   * [Community](Strategies/Community.md)
   * [Individual](Strategies/Individual.md)
   * [Team](Strategies/Team.md)
+  * [Learners Manifesto](Strategies/Manifesto.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [GLOSSARY](GLOSSARY.md)
