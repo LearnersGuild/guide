@@ -99,10 +99,5 @@ If these laws are broken, the moderator will step in to rectify and issue a warn
 
 
 [stats]: ./Stats.md
-[time-dedication]: ./Stats#time-dedication-per-cycle
-[xp]: ./Stats#xp
-[team-play]: ./Stats#health-team-play
-[culture-contribution]: ./Stats#health-culture
-[estimation-accuracy]: ./Stats#estimation-accuracy
 
 [cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
