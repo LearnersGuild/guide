@@ -1,1 +1,2 @@
-<img src="/LearnersManifesto.jpg"/>
+[![Learners Manifesto](/LearnersManifesto.jpg)](images/LearnersManifesto.jpg)
+
