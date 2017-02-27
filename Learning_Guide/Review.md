@@ -2,7 +2,9 @@
 
 ## Preparing your project for final review
 
-**Step 1:** You first need to find out the commit hash for the first commit in the repository, which you can do with:
+**Step 1:** You first need to find out the commit hash for the first commit in the repository.
+
+**If you are _NOT_ working on a forked repo**
 
 ```
 $ git rev-list --all | tail -1
@@ -10,6 +12,18 @@ ec2287e5837386c54fbd082021530aa18c0dcf18
 ```
 
 In the example above the hash is ```ec2287e5837386c54fbd082021530aa18c0dcf18```, but this will be different for you.
+
+**If you are working from a forked repository**
+
+1. In your forked repository
+2. Click the number of commits in your repository
+![Step 2 - Commits](/images/forked_repo_step2.png)
+3. Look for the last commit made by the original repository owner
+4. Click the commit number on the right
+![Step 3 & 4](/images/forked_repo_step3and4.png)
+5. Copy the commit number in the upper right hand corner
+![Step 5](/images/forked_repo_step5.png)
+
 
 **Step 2:** Create an empty branch containing only that commit:
 
