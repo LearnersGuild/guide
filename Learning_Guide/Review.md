@@ -5,7 +5,7 @@
 **Step 1:** You first need to find out the commit hash for the first commit in the repository, which you can do with:
 
 ```
-$ git rev-list --all | tail -1
+$ git rev-list --all --author YOUR-GITHUB-USERNAME | tail -1
 ec2287e5837386c54fbd082021530aa18c0dcf18
 ```
 
