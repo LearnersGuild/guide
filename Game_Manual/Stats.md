@@ -345,14 +345,66 @@ sum(recentEstimationBias) / count(recentProjects)
 Where `recentEstimationBias` is one project's worth of estimation bias (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for estimation bias.
 
 
-### Project Reviews
+## Project Review Stats
 
-The number of projects you've reviewed the completeness and quality of. Represented as an integer.
+The following stats all relate to the activity of reviewing projects after they have been completed.
 
-##### Formula
+### External Project Review Count
+
+The number of _other players'_ projects you've reviewed the completeness and quality of. Represented as an integer.
+
+### Internal Project Review Count
+
+The number of your own projects you've reviewed the completeness and quality of. Represented as an integer.
+
+### Review Accuracy
+
+Review accuracy is a measure of how good a player is at evaluating the completeness and quality of projects (both their own as well as others') as compared to players who have more review experience (higher RXP).
+
+It is a composite stat that is impacted by:
+
+* Delta between completeness score of my reviews (both internal and external) and other players with better RXP
+* Delta between quality score of my reviews (both internal and external) and other players with better RXP
+
+It expressed as a number between 0 and 100. With 100 meaning that review accuracy is flawless.
+
+#### Formula
 
 ```
-count(projectReviewsCompleted)
+// per-project stats
+for each project that a player reviewed (internal or external review)
+  skip if player was the top reviewer (reviewer with the highest RXP)
+  topCompletenessScore = (top reviewer's completeness assessment)
+  absoluteCompletenessDelta = abs(topCompletenessScore - playerCompletenessScore)
+  topQualityScore = (top reviewer's quality assessment)
+  absoluteQualityDelta = abs(topQualityScore - playerQualityScore)
+  reviewDelta = (absoluteCompletenessDelta + absoluteQualityDelta) / 2
+  projectReviewAccuracy = 100 - reviewDelta
+
+// overall stat
+reviewAccuracy = projectReviewCount < 7 ? null : mean(20 most recent projectReviewAccuracy scores)
+```
+
+We don't start computing accuracy for a player until that player has passed a threshold of 7 reviews. With fewer reviews that that we really don't have enough information to judge their accuracy.
+
+### Review Experience (RXP)
+
+RXP is a function of Review Accuracy of a player combined with how much experience the player has. The higher the RXP, the better this player is at assessing completeness and quality scores of another player.
+
+It is a composite stat that is impacted by:
+
+* Review Accuracy
+* External Project Review Count
+
+For example:
+
+Two players with the same review accuracy, but Player A has done twice as many reviews as Player B. This means Player A has a higher RXP.
+Two players who have done the same number of reviews, but Player A has more review accuracy. This means that Player A has a higher RXP.
+
+#### Formula
+
+```
+(externalProjectReviewCount / 20)  + reviewAccuracy
 ```
 
 ## Project Contribution
