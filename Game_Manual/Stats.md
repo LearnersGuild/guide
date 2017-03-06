@@ -382,10 +382,10 @@ for each project that a player reviewed (internal or external review)
   projectReviewAccuracy = 100 - reviewDelta
 
 // overall stat
-reviewAccuracy = projectReviewCount < 7 ? null : mean(20 most recent projectReviewAccuracy scores)
+reviewAccuracy = projectReviewCount < 8 ? null : mean(20 most recent projectReviewAccuracy scores)
 ```
 
-We don't start computing accuracy for a player until that player has passed a threshold of 7 reviews. With fewer reviews that that we really don't have enough information to judge their accuracy.
+We don't start computing accuracy for a player until that player has passed a threshold of 8 reviews. With fewer reviews that that we really don't have enough information to judge their accuracy.
 
 ### Review Experience (RXP)
 
