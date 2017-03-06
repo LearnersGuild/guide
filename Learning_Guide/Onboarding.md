@@ -24,9 +24,9 @@ We use these Trello boards to centralize important guild-wide information. Join 
 
 1. [**Space Roles**](https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles): a place where we capture and fill roles needed to share collective responsibility for keeping our space running smoothly. A different house will "host" the space by occupying the core space roles each month. This doesn’t mean you shouldn’t do your part to keep our shared space clean! This responsibility is shared by all of us.
 
-2. [**Space Agreements**](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements): read more about these in the pinned post in the \#space channel: 
+2. [**Space Agreements**](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements): agreements for how we co-exist in shared space. read more about these in the pinned post in the \#space channel.
 
-3. [**Suggestion Box**](https://trello.com/invite/b/cDkOdyQf/edce94713af040e7816780e470aae8ea/lg-suggestion-box): a place to make requests, mainly items that may require resources on the part of LG to supply \(if you think we need to purchase something for the space\): 
+3. [**Suggestion Box**](https://trello.com/invite/b/cDkOdyQf/edce94713af040e7816780e470aae8ea/lg-suggestion-box\): a place to make requests, mainly items that may require resources on the part of LG to supply \(if you think we need to purchase something for the space\): a place to make requests, mainly items that may require resources on the part of LG to supply \(if you think we need to purchase something for the space\).
 
 ## Set up direct deposit for your living stipend
 
