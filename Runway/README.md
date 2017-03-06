@@ -4,11 +4,13 @@ You've been admitted to a Learners Guild chapter. Your start date is coming up. 
 
 The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. The more you know and are able to do coming in, the better you'll be able to learn and collaborate with your fellow learners.
 
-Use this checklist of resources and suggestions to gain momentum in your learning before joining Learners Guild. None of these are required, but we do highly recommend doing as many as you can
+Use this checklist of resources to gain momentum in your learning before joining Learners Guild. Please note that the **Required Prep** below must be completed 1 week before your start date.
 
 ## Required Prep
 
-Before your start date, you need to make sure to have completed the required prep work. If you fail to complete it, make sure to let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 40 to 100 hours for this prep work, depending on your existing skill level.
+You need to make sure to have completed the required prep work below 1 week before your start date. If you fail to complete it, you must let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 40 to 100 hours for this prep work, depending on your existing experience and skill level.
+
+**Technical Prep**
 
 Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the following sections:
 
@@ -23,6 +25,14 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 - Intermediate Front End Development Projects (10-30 hours)
  - Build a Random Quote Machine Incomplete
  - Show the Local Weather Incomplete
+ 
+**Other Prep**
+
+- Read these sections of the [COS Guide](https://cos.learnersguild.org/):
+ - [Introduction](https://cos.learnersguild.org/)
+ - [Overview](https://cos.learnersguild.org/COS_Overview/)(including the sections on Player Support Group & Practices)
+ - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/)(including individual sections for each tension)
+- Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)(1 hour)
 
 
 ## Strongly Recommended but not mandatory
