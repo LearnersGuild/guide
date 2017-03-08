@@ -2,7 +2,33 @@
 
 These statistics (stats) are meant to reflect your progress towards the [game objectives][game-objectives], as well as your overall "health" in the game.
 
-### How to Earn Stats
+<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
+- [How to Earn Stats](#how-to-earn-stats)
+- [Hours Contributed](#hours-contributed)
+- [XP](#xp)
+- [Elo Rating](#elo-rating)
+- [Average Project Completeness](#average-project-completeness)
+- [Average Project Quality](#average-project-quality)
+- [Weighted Average Stats](#weighted-average-stats)
+  - [Health - Culture](#health-culture)
+  - [Health - Team Play](#health-team-play)
+  - [Health - Technical](#health-technical)
+  - [Challenge](#challenge)
+  - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
+- [Project Review Stats](#project-review-stats)
+  - [External Project Review Count](#external-project-review-count)
+  - [Internal Project Review Count](#internal-project-review-count)
+  - [Review Accuracy](#review-accuracy)
+  - [Review Experience (RXP)](#review-experience-rxp)
+- [Project Contribution](#project-contribution)
+  - [Actual Contribution](#actual-contribution)
+  - [Expected Contribution](#expected-contribution)
+  - [Contribution Gap](#contribution-gap)
+
+<!-- /TOC -->
+
+## How to Earn Stats
 
 At the end of every project, the data gathered in the retrospectives are used to calculate and update your player stats, as well as the stats for the project itself.
 
@@ -411,22 +437,7 @@ Two players who have done the same number of reviews, but Player A has more revi
 
 The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
 
-It can be hard to determine what constitutes _contribution_. Quantity of work produced? What about ideas? Hours engaged?
-
-Whenever you start working on a project, you should spend a little time with your team defining what contribution means and how you plan to measure it. Here are some guidelines to get you started:
-
-**What contribution is:**
-
-- Designing and planning project features
-- Actively building a critical feature of the project
-- Assisting other team members in completing project features
-- Resolving bugs and conflicts in the code
-
-**What contribution is NOT:**
-
-- Exploring tangential topics and ideas
-- Developing non-critical features of the project
-- Passively pairing / being an observer
+It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution) in the [Guide to Retrospectives](../Learning_Guide/Retrospectives.md).
 
 Within a given project, you have **actual** and **expected** contributions, as well as a **contribution gap**.
 
