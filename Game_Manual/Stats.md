@@ -411,22 +411,7 @@ Two players who have done the same number of reviews, but Player A has more revi
 
 The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
 
-It can be hard to determine what constitutes _contribution_. Quantity of work produced? What about ideas? Hours engaged?
-
-Whenever you start working on a project, you should spend a little time with your team defining what contribution means and how you plan to measure it. Here are some guidelines to get you started:
-
-**What contribution is:**
-
-- Designing and planning project features
-- Actively building a critical feature of the project
-- Assisting other team members in completing project features
-- Resolving bugs and conflicts in the code
-
-**What contribution is NOT:**
-
-- Exploring tangential topics and ideas
-- Developing non-critical features of the project
-- Passively pairing / being an observer
+It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution) in the [Guide to Retrospectives](../Learning_Guide/Retrospectives.md).
 
 Within a given project, you have **actual** and **expected** contributions, as well as a **contribution gap**.
 
