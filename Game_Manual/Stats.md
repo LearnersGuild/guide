@@ -2,7 +2,33 @@
 
 These statistics (stats) are meant to reflect your progress towards the [game objectives][game-objectives], as well as your overall "health" in the game.
 
-### How to Earn Stats
+<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
+- [How to Earn Stats](#how-to-earn-stats)
+- [Hours Contributed](#hours-contributed)
+- [XP](#xp)
+- [Elo Rating](#elo-rating)
+- [Average Project Completeness](#average-project-completeness)
+- [Average Project Quality](#average-project-quality)
+- [Weighted Average Stats](#weighted-average-stats)
+  - [Health - Culture](#health-culture)
+  - [Health - Team Play](#health-team-play)
+  - [Health - Technical](#health-technical)
+  - [Challenge](#challenge)
+  - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
+- [Project Review Stats](#project-review-stats)
+  - [External Project Review Count](#external-project-review-count)
+  - [Internal Project Review Count](#internal-project-review-count)
+  - [Review Accuracy](#review-accuracy)
+  - [Review Experience (RXP)](#review-experience-rxp)
+- [Project Contribution](#project-contribution)
+  - [Actual Contribution](#actual-contribution)
+  - [Expected Contribution](#expected-contribution)
+  - [Contribution Gap](#contribution-gap)
+
+<!-- /TOC -->
+
+## How to Earn Stats
 
 At the end of every project, the data gathered in the retrospectives are used to calculate and update your player stats, as well as the stats for the project itself.
 
