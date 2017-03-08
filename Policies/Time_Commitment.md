@@ -14,6 +14,23 @@ When/if you decide to take a personal day, email [timeoff@learnersguild.org][ema
 
 **During the last 8 weeks of your time at the Guild, you may need to be absent for on-site interviews. Hours spent at on-site interviews do not count towards your 8 personal days. You should still notify your team and house before you miss time for an interview, but do not need to notify "[timeoff@learnersguild.org][email-timeoff]"**
 
+## Professional Development Days
+
+You can take Professional Development (PD) days to support you in your growth as a web developer. Every learner has 3 days.
+
+PD days are distinct from Personal Days. One is for expanding your learning at a conference or workshop. The other is for, well, other stuff (doctor's appointments, weddings, mental health day, etc.).
+
+The protocol for reporting a Professional Development Day is the same as reporting a personal day - email us and let us know. The key difference is this: _learners attending a PD event must come back to the Guild with something to share with us about what you learned. You can choose the format in which you'd like to share - you might write a blog, give a roundtable talk at lunch, etc. - but we do want to learn from your learning._ DM any of the moderators if you have questions.
+
+Summary:
+
+- You have 3 PD days to use during your time at the Guild.
+- Vote on a team size 1 goal for a week that you use PD days.
+- Bring something back to share with the Guild from your PD (for example, you may write a blog).
+- Let people know what you're bringing back and by when.
+
+## Common Questions
+
 #### What happens if I show up late? What if I have to leave early?
 
 Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
