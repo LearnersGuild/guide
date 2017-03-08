@@ -2,6 +2,19 @@
 
 While our ambition is to be able to invest in anyone and everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege to be able to show up at the office reliably, every weekday \(except [national holidays](../General/Holiday_List.md)\) from **8:30 AM to 6:00 PM**.
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:2 orderedList:0 -->
+
+- [Personal Days](#personal-days)
+- [Professional Development Days](#professional-development-days)
+- [Common Questions](#common-questions)
+  - [What happens if I show up late? What if I have to leave early?](#what-happens-if-i-show-up-late-what-if-i-have-to-leave-early)
+  - [What if I get sick?](#what-if-i-get-sick)
+  - [Can I stay late and work at the office on weekends?](#can-i-stay-late-and-work-at-the-office-on-weekends)
+  - [Let people know](#let-people-know)
+  - [Can I take a leave of absence?](#can-i-take-a-leave-of-absence)
+
+<!-- /TOC -->
+
 ## Personal Days
 
 Life happens to all of us, so we make an allowance of **8 personal days** over the course of the 40 weeks.
@@ -31,7 +44,7 @@ Summary:
 
 ## Common Questions
 
-#### What happens if I show up late? What if I have to leave early?
+### What happens if I show up late? What if I have to leave early?
 
 Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
 
@@ -41,11 +54,11 @@ You also need to inform your player support group \(via chat\) so that facilitat
 
 Letting your project team and PSG know when you are unable to be present is part of our integrity agreement to respect each others' and our communal time. If you are late or absent and do not inform your team and PSG, it is a serious matter and is escalated to the moderator by the team.
 
-#### What if I get sick?
+### What if I get sick?
 
 Inform your team and/or moderator, log a personal day by emailing [timeoff@learnersguild.org][email-timeoff] and make sure to make up anything you missed. Stay in integrity.
 
-#### Can I stay late and work at the office on weekends?
+### Can I stay late and work at the office on weekends?
 
 Yes. You can use the space during [open hours](../Oakland_Building.md#hours). No staff will be on-site outside of regular hours.
 
@@ -53,11 +66,11 @@ That being said, we strongly recommend that you get rest, exercise, and otherwis
 
 If you do end up staying late to work on your project, be sure to update your team the next day. Nobody is expected to stay longer than regular hours, so it's on you to make sure that your team is caught up with any extra work you put in.
 
-#### Let people know
+### Let people know
 
 If you are going to be late please notify your teammates, and house. If you are going to be absent for half a day \(4 hours\) or a full day, please notify your teammates, your house, and email [timeoff@learnersguild.org][email-timeoff]. In either case, it's your responsibility to notify the appropriate parties as soon as you know you will be late or absent. Teams hold each other accountable and communicating via houses allows facilitators to know if you're going to miss an event or activity.
 
-#### Can I take a leave of absence?
+### Can I take a leave of absence?
 
 Under extenuating circumstances \(e.g. illness, family emergency\), learners may be allowed to take a leave of absence from the program. Upon your return, you would likely join the cohort closest to the point in the program when you had to leave. Leaves of absence will be evaluated on a case-by-case basis. Talk to a learning facilitator to initiate this process.
 
