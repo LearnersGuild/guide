@@ -1,2 +1,1 @@
-[![Learners Manifesto](/LearnersManifesto.jpg)](../images/LearnersManifesto.jpg)
-
+![Learners Manifesto](../images/LearnersManifesto.jpg)
