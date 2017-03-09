@@ -46,7 +46,7 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 | Level | XP   | Elo   | Estimation Accuracy | Other              |
 |:------|:-----|:------|:--------------------|:-------------------|
 | 0     | -    | -     | -                   | enrolled in LG     |
-| 1     | >=0  | >900  | >90%                | joined a cohort    |
+| 1     | >=0  | >900  | >70%                | began on-boarding  |
 | 2     | >150 | >990  | >91%                | -                  |
 | 3     | >400 | >1020 | >92%                | -                  |
 | 4     | >600 | >1050 | >93%                | ? coach stat (TBD) |
