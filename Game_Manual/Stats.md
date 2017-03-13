@@ -100,7 +100,7 @@ sum(allTeamHours) * yourContributionPercentage
 
 In the context of the LOS, your Elo rating is a representation of your ability to contribute to projects relative to other players. It is not an _absolute_ measure of your skill, but is only meaningful in reference to other players.
 
-Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and and with whom you work on projects. Effectiveness is measured as percentage contribution to the project divided by the number of hours contributed.
+Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and with whom you work on projects. Effectiveness is measured as percentage contribution to the project divided by the number of hours contributed.
 
 It can be a little difficult to understand how Elo works in a collaborative game like this one, since it is usually applied to competitive, zero-sum games like chess or beach volleyball or hot dog eating contests. So let's dive into an example.
 
