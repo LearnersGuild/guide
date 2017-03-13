@@ -47,7 +47,4 @@ For example: "My partner was checked out for a couple of days **while I contribu
 
 ## Billable Hours
 
-Total number of hours you spent (pairing or solo) **engaging in a technical activity related to a core feature.**
-
-Working on a stretch goal doesn't count as a billable hour.
-Working on the weekend counts as billable hour only if you're working on a core feature.
+All hours spend on a project are billable _except_ professional development (PD) & Personal days.
