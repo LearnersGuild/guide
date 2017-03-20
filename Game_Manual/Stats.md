@@ -187,7 +187,7 @@ function updateEloRatings(playerStats) {
 }
 ```
 
-Checkout this pELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model Elo Changes. Use a K-factor of 20.
+Checkout this [ELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model Elo Changes. Use a K-factor of 20.
 
 
 ## Average Project Completeness
