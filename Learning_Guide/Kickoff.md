@@ -10,7 +10,7 @@ The first couple of hours of a project are critical to the success of your learn
 
 ## First Commit
 
-Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a Learning Contract document in a `CONTRACT.md` file.
+Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project.
 
 In most cases, the artifact will be a GitHub repository in the account of a learner on the team. If the goal has its own base repo, you can fork it to create this repo.
 
@@ -21,29 +21,13 @@ Make your first commit to a master branch. You should aim to have this step done
 
 \*Some goals come with a goal repository, so the best way to get started is to fork that repository. In some cases, the goal won't have an associated repo, so you'll need to create a new one for your project. Other goals (like the OSS projects) may have a different process for project kickoff. Read the goal for more information.
 
-## Learning Contract
-
-Once your first commit is in, it's time to review the scope of your project by creating a Learning Contract.
-
-Name it `CONTRACT.md` and copy over the contents of the goal's learning contract (which should be in the `contracts/` directory of the [web-development-js](https://github.com/GuildCrafts/web-development-js/tree/master/contracts) repo). The Learning Contract document defines the specifications and quality criteria for the artifact to meet.
-
-The goal of a Learning Contract is to guide your team's effort for the rest of the project. It is a **learning contract** that you make with yourselves and has many purposes:
-
-1. It guides and focuses your efforts for the rest of the cycle.
-2. It defines completeness and quality for your code reviewers during the reflection phase.
-3. It serves as an example of **project estimation**, **spec'ing**, and **goal setting**. Read the contract with a critical eye to see how this is done. To practice this skill (it is an important one!), consider writing your own goal!
-4. It challenges you and your team to stay in your Zone of Proximal Development (ZPD). Without a good challenge, your learning will not be optimized.
-
-Checkout this [example of a model spec](https://github.com/GuildCrafts/model-project-specifications/blob/master/model_specs.md) and this [quality rubric library](https://github.com/GuildCrafts/model-project-specifications/blob/master/quality_rubric_library.md).
-
-If you notice that the specs for the goal are too vague or incomplete, inform the goal author and request that they update them. Or, better yet, just submit a pull request with your improvements as changes to the source learning contract.
-
 ## Work Plan
 
 Next up: time to checkin with your team and plan how you'll work together.
 
 Some of the things you might want to cover:
 
+- What are the specs for this goal?
 - What goal did you work on last week?
 - What are you hoping to achieve from the goal this week?
 - Have you worked on this goal before?
@@ -74,10 +58,6 @@ If you are working on an OSS project, you should spend the project kickoff getti
 The more skilled partner should not sacrifice the work being delivered to slow down. They should also not leave their partner(s) in the dust and work on their own. The challenge is to move at the speed and skill of the more advanced pair **and stay in team**. How can you leave every project saying "We built as much as (or more) than I would have by myself". If one partner is way more advanced than the other, then they can spend the entire week in a [cognitive apprenticeship](/Game_Manual/Cognitive_Apprenticeship.md) (and should).
 
 Fidelity should be shipping high quality, complete code, on time, based on agreed on specs on day one. There will always be a tension between "going fast alone, or going far together". Part of the art of software development is working on teams with varied skills, and figuring out ways to ship code, learn, and accommodate the difference in skill all at the same time.
-
-**Q: What if a team is working on a project without a real deliverable, yet one teammate must add individual specs with a deliverable to be challenged?**
-
-You should really avoid this scenario. this is why project planning on Monday is so important. Make sure specs are clear, and deliverable is clear, and there's a good, solid, learning contract, and then spend the rest of the week executing it. Don't get into the habit of changing the scope of your work as you go along.
 
 **Q: I feel some frustration that these guidelines sometimes seem to be asking people to sacrifice their learning for project completion.**
 

@@ -68,35 +68,11 @@ A **project** is formed from a goal and is assigned a **team** of learners.
 
 The purpose of a project is for the team to achieve the goal through practicing their craft, learning through collaboration and engagement with relevant and challenging tasks.
 
-#### Artifact and Learning Contract
-
-Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact** and write a **Learning Contract** document within it.
-
-The artifact is the output of a project. It is the thing produced by a team to complete a project. All artifacts need a URL and a Learning Contract document. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
-
-The Learning Contract document defines the specifications and quality criteria for the artifact to meet. To create a Learning Contract, copy the text of the goal into a `README.md` file within your artifact.
-
-#### Specifications and Quality Criteria
-
-After creating the Learning Contract, the team must edit the document to define the scope of features and quality criteria for their project.
-
-The scope of features is determined by the set of specifications for the project. It is used to measure _completeness_.
-
-The quality criteria are rules that govern how the artifact should be produced. They are used to measure _quality_.
-
-To define the scope, add, edit, or remove specifications from the list. The team is accountable for producing an artifact that satisfies _all_ of the specifications, so be realistic.
-
-Discuss the specs with your team, and adjust them as you see fit to get to a scope that will provide an appropriate level of difficulty and "stretch".
-
-To set quality criteria, choose 2 or 3 rules or guidelines that, as a team, you agree to follow to ensure a quality artifact. Add these to the Learning Contract.
-
-For example, a quality criteria might be "Follow object-oriented principles in all program design" or "Write good commit messages using these rules: http://chris.beams.io/posts/git-commit/".
-
-Once a proper Learning Contract document has been written, it's time to **practice**.
+Once projects have been formed, the first thing the team needs to do is to create a container for the **artifact**. The artifact is the output of a project. It is the thing produced by a team to complete a project. In most cases, the artifact will be a GitHub repository in the account of a learner on the team.
 
 ### Practice
 
-Most of the cycle is spent in the **practice** stage. This is the time for engaged collaboration, research, study, and experimentation.
+Most of the cycle is spent in the **practice** stage, where the team works to complete the goal according to its specifications. This is the time for engaged collaboration, research, study, and experimentation.
 
 What happens in practice is entirely up to the team and the project at hand. It is the learners prerogative to decide _how_ to spend their time to best achieve the goal.
 
@@ -110,7 +86,7 @@ When practice is done, the cycle enters its final stage: **reflection**.
 
 In the **reflection** stage, learners reflect on both the _process_ of their learning and team collaboration as well as on the _product_ of their own and others' projects.
 
-There are two parts to this stage: a **retrospective**, for reflecting on and giving feedback about the team process and individual learning; and a **review**, for evaluating and critiquing the artifacts produced during the cycle.
+There are two parts to this stage: a **retrospective**, for reflecting on and giving feedback about the team process and individual learning; and a **review**, for evaluating and critiquing the artifact produced during the cycle.
 
 The moderator will set aside time at the end of the cycle for reflection. During this time, learners reflect on their own. It is a quiet, contemplative time for harvesting the insights and learnings of the past cycle.
 
