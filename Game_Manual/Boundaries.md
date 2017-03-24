@@ -51,10 +51,11 @@ Our second objective is to co-create a learning culture that brings out the best
 
 Moderator will look at these indicators to determine if a learner is consistently breaking agreements with the guild and/or other members:
 
-- Number and nature of infractions logged by staff (an infraction is a broken agreement that a staff person noticed, and told the learner about)
+- Number and nature of broken agreements logged by staff (a broken agreement that a staff person noticed, and told the learner about)
 - Number of retrospectives missed, project reviews missed...etc.
 - Number of personal days taken v.s. number of weeks left
 - Number of no show, no call
+- Copying code from previous solutions
 
 ### What will NOT be used to kick off an Investment Re-Evaluation
 
@@ -86,13 +87,13 @@ You will only be asked to leave if you consistently underperform and show no sig
 
 ## The Laws of Integrity and of No Collusion
 
-For the most part, the rules of the game are dictated by stats: the better a player's stats are, the better they are doing in the game.
+For the most part, the progression of the learner is reflected by stats: the better a someone's stats are, the better they are doing.
 
-In order for this to work, however, all players must follow two laws: the Law of Integrity and the Law of No Collusion.
+In order for this to work, however, everyone must follow two laws: the Law of Integrity and the Law of No Collusion.
 
 The Law of Integrity is as follows:
 
-> Players must be as honest and truthful as possible when reporting data to the game.
+> Players must be as honest and truthful as possible when reporting data.
 
 For example, a player would be breaking the Law of Integrity if they report that they worked 40 hours on a project when they know that they only worked 20.
 
@@ -100,7 +101,7 @@ Much of the data requested is subjective, which is why the law only says "as tru
 
 The Law of No Collusion take the Law of Integrity to the group level:
 
-> Players must not conspire with other players to sabotage game procedures.
+> Players must not conspire with other players to sabotage procedures.
 
 For example, a player would be breaking this law if they made a pact with other players to vote for or against a particular goal.
 
