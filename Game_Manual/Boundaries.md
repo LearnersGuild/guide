@@ -1,66 +1,85 @@
-# Game Boundaries
+# Guild Membership Boundaries
 
+## Objectives
 
-## Basic requirements
+The Guild is designed to support members in tracking and achieving two objectives:
 
-The Learners Guild program structure requires the learner to have the ability to…
+1. To become a world class beginner in their craft (Full Stack Javascript Web Development)
+1. To co-create a culture of collective learning
 
-- work in open floor plan arrangement with large group of people
+## Basic Expectations
+
+The Guild expects the learner to have the ability to…
+
 - work on projects collaboratively in-person 8:30-6:00pm Monday – Friday
 - work in teams of 2 or more on collaborative projects
 - participate fully in the learning operating system (submit retros, vote on projects, review projects, work collaboratively...etc.)
 - abide by all policies, space agreements, and culture agreements
+- work in open floor plan arrangement with large group of people
 - demonstrate responsiveness to feedback about social skills (from staff and from peer evaluations)
 
-## Additional Boundaries
+## Additional Expectations
 
-In addition to the above basic requirements, players need to stay within the boundaries of the game.
+In addition to the above basic requirements, learners are expected to show progress through their stats (gaining XP and leveling up).
+It is important to note that progress is _not_ zero-sum: one learner gaining does not always mean another loses.
 
-The boundaries of the game define its edges: what the objective is, and how a player succeeds or fails.
+## Terminating Membership
 
-It is important to note that the game is _not_ zero-sum: one player winning does not mean another loses. It is a multiplayer cooperative game where each player's success is interconnected to and supported by other players' successes.
+The Moderator (shereef) will start an Investment Re-Evaluation with a Guild Member in one of three cases:
 
-## Objectives
+### 1. Poor Learning model fit:
 
-The game is designed to support players in tracking and achieving two objectives:
+Indicators that the way the guild is structured is not supporting their learning and they are not progressing (Objective 1):
 
-1. To become a world class beginner in their craft
-1. To co-create a culture of collective learning
+- Data about their progress (and pace) as web developers
+  - Quality and Completeness of the projects they were on
+  - Relative contribution to the projects they were on
+  - Qualitative and quantitative feedback from the retros
+  - Estimation Accuracy/Bias, Review Accuracy
+- The learners self reports that they don't think the Guild is working for them, and a learner facilitator agrees
 
-## Success Conditions
+### 2. Poor Culture fit:
 
-A player succeeds when they (a) meet the above objectives and (b) fulfill the obligations in their contract.
+Indicators that the learners is not able to constructively work with others, and co-create a culture that brings out the best in themselves and each other (Objective 2):
 
-At this point, they are ready to pursue their craft as a practitioner and no longer need the support and scaffolding the game provides.
+- Data about their team and culture play from retrospectives
 
-## Fail Conditions
+### 3. Learner is out of integrity
 
-A player is at risk of failing the game if their [stats][stats] show them to be consistently underperforming.
+Indicators that a learner is consistently breaking agreements with the guild and/or other members:
 
-There are two stages of failing.
+- Number and nature of infractions logged by staff (an infraction is a broken agreement that a staff person noticed, and told the learner about)
+- Number of retrospectives missed, project reviews missed...etc.
+- Number of personal days taken v.s. number of weeks left
+- Number of no show, no call
 
-The first stage starts when if a player reaches [Level 0](https://playbook.learnersguild.org/Game_Manual/Levels_and_Roles.html)
+### What will NOT be used to kick off an Investment Re-Evaluation
 
-Once a stat drops the Player into Level 0, the player has to **consistently improve** their affected stats until they are above the threshold, and back to Level 1. If you have a stat below Level 1 threshold, get whatever support you need to move the needle and get out of danger.
+- Feedback from Learning Facilitators or SEPs
+- Feedback from other learners
+- Any information/data from the therapist
 
-This doesn't mean that every week has to be higher than the previous week for that stat. It means that every week's stats has to be higher than than _two_ weeks ago until you get above the threshold.
+## Investment Re-Evaluation
 
-> If you are Level 0, and your end of cycle stats are lower than what they were two cycles ago, you get an investment re-evaluation.
+The purpose of the investment re-evaluation is for **the Moderator to decide on wether or not the Guild is still a good fit for the learner, and wether or not it should continue to invest in them**.
 
-The second stage is an _investment re-evaluation_, and is entered into when a player's stats have _both_:
+Once a re-evaluation has been kicked off, the moderator will ask SEPs and Learning Facilitators for feedback to help inform their decision. In addition, they will use the following sources of information to inform their decision (in this order):
 
-1. been Level 0 for at least two weeks and
-1. have not shown consistent improvement
+- An in depth conversation with the learner about what expectations weren't met and why
+- Data about their progress (and pace) as web developers
+- Data about their team and culture play from retrospectives
+- Data about broken agreements
 
-During the re-evaluation, the player will meet with a moderator to discuss their performance and whether or not they can continue in the game.
 
-### A note about fail conditions
+After the Investment Re-Evaluation, the moderator may decide to ask the learner to leave, or come to an agreed course of action that corrects the missed expectations and schedule another Investment Re-Evaluation a few weeks out.
 
-The point of these fail conditions is to ensure that all learners in the collective are contributing fairly to their teams.
 
-If one or more of your stats falls below [Level 1 thresholds](https://playbook.learnersguild.org/Game_Manual/Levels_and_Roles.html), think of it as a useful warning to help you get back on track. Then figure out how to improve your stats (hint: you may want to get support and/or more feedback).
+### A note about Investment Re-Evaluations
+
+The point of these evaluations is to ensure that all learners in the collective are contributing fairly to their teams.
 
 You will only be asked to leave if you consistently underperform and show no signs of improvement. A thriving learning community requires the effort and engagement from everyone involved; without that, the whole collective will fail.
+
 
 ## The Laws of Integrity and of No Collusion
 
@@ -93,9 +112,9 @@ The Law of Collusion forbids players from discussing **actual numbers**. For exa
 - "I'm thinking I did about a third of this project? What do you guys think?"
 - "It seems to me that our project quality is at 80%. That's what I'm going to say in my review."
 
-If these laws are upheld, then the game maintains its integrity; it is not corrupted.
+If these laws are upheld, then the stats maintains their integrity; and are not corrupted.
 
-If these laws are broken, the moderator will step in to rectify and issue a warning. If a player repeatedly breaks them by even after being warned, they may be asked to leave.
+If these laws are broken, that will lead to an investor re-evaluation.
 
 
 [stats]: ./Stats.md
