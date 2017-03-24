@@ -1,4 +1,4 @@
-# Guild Membership Boundaries
+# Guild Boundaries
 
 ## Objectives
 
