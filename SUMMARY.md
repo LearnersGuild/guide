@@ -37,5 +37,7 @@
   * [Individual](Strategies/Individual.md)
   * [Team](Strategies/Team.md)
   * [Learners Manifesto](Strategies/Manifesto.md)
+- [Change Log]
+  * [2017 Q2](Log/q2.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [GLOSSARY](GLOSSARY.md)
