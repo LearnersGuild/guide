@@ -13,40 +13,43 @@ The Guild expects the learner to have the ability to…
 
 - work on projects collaboratively in-person 8:30-6:00pm Monday – Friday
 - work in teams of 2 or more on collaborative projects
-- participate fully in the learning operating system (submit retros, vote on projects, review projects, work collaboratively...etc.)
+- participate fully in the structures of the learning operating system and cultural operating system, which consist of:
+  - Voting on weekly projects
+  - Working collaboratively to complete weekly projects
+  - Submitting weekly retrospectives
+  - Reviewing projects (when appropriate for their level)
+  - Attending COS Foundations Workshops
+  - Attending weekly Learner Support Group (LSG) meetings
 - abide by all policies, space agreements, and culture agreements
-- work in open floor plan arrangement with large group of people
+- work in open floor plan arrangement with large group of people and varying noise levels
 - demonstrate responsiveness to feedback about social skills (from staff and from peer evaluations)
 
-## Additional Expectations
-
-In addition to the above basic requirements, learners are expected to show progress through their stats (gaining XP and leveling up).
-It is important to note that progress is _not_ zero-sum: one learner gaining does not always mean another loses.
+In addition to the above basic requirements, learners are expected to progress at a certain pace. This will be reflected through their stats (gaining XP and leveling up).
 
 ## Terminating Membership
 
-The Moderator (shereef) will start an Investment Re-Evaluation with a Guild Member in one of three cases:
+**The Learning Operating System and Cultural Operating System will not work for all learners. In cases where there are indicators that the structures and systems at the Guild may not be working for a member, the moderator will initiate an Investment Re-Evaluation.** The Moderator (shereef) will start an Investment Re-Evaluation with a Guild Member in one of three cases:
 
-### 1. Poor Learning model fit:
+### 1. Poor Learning model fit (Objective 1):
 
-Indicators that the way the guild is structured is not supporting their learning and they are not progressing (Objective 1):
+The learning model at the Guild may not support everyone in their learning. Moderator will be looking out for the following indicators that a learner is not making progress through the structures and learning model at the Guild:
 
 - Data about their progress (and pace) as web developers
-  - Quality and Completeness of the projects they were on
-  - Relative contribution to the projects they were on
-  - Qualitative and quantitative feedback from the retros
-  - Estimation Accuracy/Bias, Review Accuracy
-- The learners self reports that they don't think the Guild is working for them, and a learner facilitator agrees
+- Quality and Completeness of the projects they were on
+- Relative contribution to the projects they were on
+- Qualitative and quantitative feedback from the retros
+- Estimation Accuracy/Bias, Review Accuracy
+- The learner's own self reports that the Guild isn't working for them and a learner facilitator agrees.
 
-### 2. Poor Culture fit:
+### 2. Poor Culture fit (Objective 2):
 
-Indicators that the learners is not able to constructively work with others, and co-create a culture that brings out the best in themselves and each other (Objective 2):
+Our second objective is to co-create a learning culture that brings out the best in ourselves and each other. Moderator will look at the following indicators to determine whether a learner is unable to constructively work with others and co-create the Guild learning culture:
 
 - Data about their team and culture play from retrospectives
 
 ### 3. Learner is out of integrity
 
-Indicators that a learner is consistently breaking agreements with the guild and/or other members:
+Moderator will look at these indicators to determine if a learner is consistently breaking agreements with the guild and/or other members:
 
 - Number and nature of infractions logged by staff (an infraction is a broken agreement that a staff person noticed, and told the learner about)
 - Number of retrospectives missed, project reviews missed...etc.
