@@ -80,10 +80,9 @@ After the Investment Re-Evaluation, the moderator may decide to ask the learner 
 
 ### A note about Investment Re-Evaluations
 
-The point of these evaluations is to ensure that all learners in the collective are contributing fairly to their teams.
+The point of these evaluations is *to determine whether the learning model and culture at the Guild are enabling a learner to make meaningful progress towards their goal of becoming a web developer, while supporting others in doing the same*
 
 You will only be asked to leave if you consistently underperform and show no signs of improvement. A thriving learning community requires the effort and engagement from everyone involved; without that, the whole collective will fail.
-
 
 ## The Laws of Integrity and of No Collusion
 
