@@ -22,11 +22,11 @@ The 3rd zone—between easy and overwhelming—is your "Goldilocks" spot, your Z
 So how do you find it? If you are working on a goal or task, these are a few signs indicating the feeling of "being in your ZPD":
 
 - You can't do it by yourself. You need support.
-- It slightly scares you.
+- It slightly indimidates you, but in an exciting way.
 - It has your full attention.
 - You're not totally sure that you can complete it in time.
 
-Another way to think of your ZPD is as your ["flow state"][wikipedia-flow]: that state of mind where you are so engaged in the task that the rest of the world seems to fade away. It can be a lot of fun, although you will often feel discomfort. Learning is a change process, and we are wired to feel unease with the new and unfamiliar.
+Your ZPD can be a lot of fun, although you will often feel discomfort. Learning is a change process, and we are wired to feel unease with the new and unfamiliar.
 
 ### Example
 
