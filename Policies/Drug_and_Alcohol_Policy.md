@@ -2,7 +2,7 @@
 
 Our priority at Learners Guild is to create a safe, comfortable, and productive environment for everyone. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some members, even as it can foster camaraderie and friendship among others.
 
-Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make learning at Learners Guild feel safe.
+Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make learning at Learners Guild safe.
 
 **It is the responsibility of every member to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.**
 
@@ -10,5 +10,6 @@ Alcohol in the form of beer or wine may occasionally be brought into the office 
 
 Illegal drugs should not be used, bought, sold, or distributed, either in the office or outside of the office while representing Learners Guild.
 
-Members who violate this policy may face disciplinary action, up to and including termination.
+Legal drugs (and Alcohol) may be used off premises during Guild hours, as long as their effect is not noticeable, and they do not impair ability to work or interact socially and professionally.
 
+Members who violate this policy may be asked to leave.
