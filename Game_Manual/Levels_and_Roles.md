@@ -50,7 +50,7 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 | 2     | >200 | >990  | >91%                | begin OSS projects                 |
 | 3     | >450 | >1020 | >92%                | begin coaching                  |
 | 4     | >700 | >1050 | >93%                | begin apprenticeship |
-| 5     | >900 | >1070 | >94%                | begin being a project lead |
+| 5     | >950 | >1070 | >94%                | begin being a project lead |
 
 
 #### Moving Up and Back through Levels
