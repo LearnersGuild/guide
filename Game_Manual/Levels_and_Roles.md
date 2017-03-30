@@ -45,12 +45,12 @@ This table shows each level starting at 0 and advancing to 5 with the criteria f
 
 | Level | XP   | Elo   | Estimation Accuracy | Other              |
 |:------|:-----|:------|:--------------------|:-------------------|
-| 0     | -    | -     | -                   | enrolled in LG     |
-| 1     | >=0  | >900  | >70%                | began on-boarding  |
-| 2     | >150 | >990  | >91%                | -                  |
-| 3     | >400 | >1020 | >92%                | -                  |
-| 4     | >600 | >1050 | >93%                | ? coach stat (TBD) |
-| 5     | >800 | >1150 | >94%                | ? coach stat (TBD) |
+| 0     | -    | -     | -                   | enrolled and on-boarded   |
+| 1     | >100  | >900  | >80%                | got some experience, worked on some team goals  |
+| 2     | >300 | >990  | >91%                | begin OSS projects                 |
+| 3     | >450 | >1020 | >92%                | begin coaching                  |
+| 4     | >600 | >1050 | >93%                | begin apprenticeship |
+| 5     | >800 | >1070 | >94%                | begin being a project lead |
 
 
 #### Moving Up and Back through Levels
