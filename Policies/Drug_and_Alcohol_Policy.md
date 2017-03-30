@@ -10,6 +10,6 @@ Alcohol in the form of beer or wine may occasionally be brought into the office 
 
 Illegal drugs should not be used, bought, sold, or distributed, either in the office or outside of the office while representing Learners Guild.
 
-Legal drugs (and Alcohol) may be used off premises during Guild hours, as long as their effect is not noticeable, and they do not impair ability to work or interact socially and professionally.
+Guild members must not be noticeably affected by by alcohol or drug use (legal or illegal) during guild hours.
 
 Members who violate this policy may be asked to leave.
