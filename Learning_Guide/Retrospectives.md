@@ -5,9 +5,9 @@
 
 **Technical Activities**
 
-Technical contribution is a result of *successfully* moving the project forward to completion and quality by doing one of the following activities:
+Technical contribution is a result of *successfully* moving the project forward to completion by doing one of the following activities:
 
-- Writing specs and/or quality rubric for the project
+- Writing specs for the project
 - Designing and planning project features
 - Making, and communicating architecture decisions
 - Actively building a core feature of the project (**core feature = defined in the spec**)

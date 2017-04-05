@@ -35,7 +35,7 @@ In addition to the above basic requirements, learners are expected to progress a
 The learning model at the Guild may not support everyone in their learning. Moderator will be looking out for the following indicators that a learner is not making progress through the structures and learning model at the Guild:
 
 - Data about their progress (and pace) as web developers
-- Quality and Completeness of the projects they were on
+- Completeness of the projects they were on
 - Relative contribution to the projects they were on
 - Qualitative and quantitative feedback from the retros
 - Estimation Accuracy/Bias, Review Accuracy
@@ -107,13 +107,12 @@ For example, a player would be breaking this law if they made a pact with other 
 Players can try to persuade and influence each other in game procedures like voting and project reviews, but they may not collude to ensure a particular outcome.
 
 It's fine (even encouraged) for players to discuss and debate the meaning of the stats:
-- "How do we define measure project quality?"
 - "What matters to you when determining culture contribution?"
 - "What do you take into account when determining percentage contribution?"
 
 The Law of Collusion forbids players from discussing **actual numbers**. For example:
 - "I'm thinking I did about a third of this project? What do you guys think?"
-- "It seems to me that our project quality is at 80%. That's what I'm going to say in my review."
+- "It seems to me that our project completeness is at 80%. That's what I'm going to say in my review."
 
 If these laws are upheld, then the stats maintains their integrity; and are not corrupted.
 

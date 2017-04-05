@@ -67,14 +67,13 @@ When you are reviewing a project, you are practicing reading, understanding and 
 There are a few steps that you should take to make sure that your review is useful and thorough.
 
 - Project specs are clear, and completeness is well defined
-- Quality rubric is clear, and quality is well defined
 - Git ignore file
 - README.MD file
 - License file
 - Clone, and run project locally and verify all features are complete
 - Run test suite locally
 - Find Pull Request from "Empty" branch and review code quality
-- Log quality and completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
+- Log completeness in Echo. 1. Be rigorous. Don't give people the benefit of the doubt. If a spec is incomplete or unfulfilled, don't count it as complete. Give honest feedback. It's the only way we learn.
 - Once the review is complete, you can just close the pull request (without merging), and keep the empty branch for future reviews.
 - Check [prrr](http://prrr.apps.learnersguild.org) for more pending reviews and claim them. **You should aim to claim and complete two thorough reviews per review period**
 
@@ -82,7 +81,7 @@ There are a few steps that you should take to make sure that your review is usef
 
 If there are no projects to review on prrr, then find [already done reviews](http://prrr.apps.learnersguild.org/all) and review them.
 
-**Once your done with a project code review, use `/review #team -c -q` in echo to review completeness and quality.**
+**Once you're done with a project code review, use `/review #team <completenessScore>` in echo to submit your completeness rating for the project.**
 
 ## Guidelines for OSS projects
 
@@ -100,5 +99,5 @@ For the first half hour or so of the review period, there won't be any reviews t
 For the rest of the review period **focus your efforts on reviewing the reviews:**
 
 - Go through the list of project reviews and give the reviewers feedback on their comments.
-- Make sure to add your completeness and quality review for the project, even if you're reviewing the review. **In the future, we'll use coach's review scores to give other reviewers feedback about their review accuracy.**
+- Make sure to add your completeness review for the project, even if you're reviewing the review. **In the future, we'll use coach's review scores to give other reviewers feedback about their review accuracy.**
 - Use echo (or a google spreadsheet) to co-ordinate with other coaches about which review you're reviewing, so that the effort is spread across as many reviews as possible and we don't end up in a situation where one review is reviewed by multiple coaches while others are ignored.

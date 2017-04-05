@@ -9,7 +9,6 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 - [XP](#xp)
 - [Elo Rating](#elo-rating)
 - [Average Project Completeness](#average-project-completeness)
-- [Average Project Quality](#average-project-quality)
 - [Weighted Average Stats](#weighted-average-stats)
   - [Health - Culture](#health-culture)
   - [Health - Team Play](#health-team-play)
@@ -34,7 +33,7 @@ At the end of every project, the data gathered in the retrospectives are used to
 
 In order to earn stats from a project, _every member of the team must have completed the project retrospective_. Stats can only be calculated and awarded from a project once all retros have been submitted.
 
-Other stats, like average project completion and quality (both for projects and for players), will change over time as more reviews are submitted.
+Other stats, like average project completion, will change over time as more reviews are submitted.
 
 #### Example Situations that Impact Stats
 
@@ -200,16 +199,6 @@ The average % completeness of all reviews for the given project.
 sum(allProjectCompletenessReviews) / count(reviews)
 ```
 
-## Average Project Quality
-
-The average % quality of all reviews for the given project.
-
-##### Formula
-
-```
-sum(allProjectQualityReviews) / count(reviews)
-```
-
 ## Weighted Average Stats
 
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
@@ -262,7 +251,6 @@ Use the rubric below to build your sense of what "good technical skill" is.
 
 | Value                         | Evidence                                                                                                                                                         |
 |:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Code Quality                  | They were committed to quality. They practiced good code organization, source control, naming, syntax, indentation, modularity...etc.                            |
 | Code Completeness             | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time.                                     |
 | Technical Communication       | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
 | Technical Knowledge           | They had pre-existing technical knowledge and experience with the technologies we were working with.                                                             |
@@ -377,20 +365,17 @@ The following stats all relate to the activity of reviewing projects after they 
 
 ### External Project Review Count
 
-The number of _other players'_ projects you've reviewed the completeness and quality of. Represented as an integer.
+The number of _other players'_ projects you've reviewed the completeness of. Represented as an integer.
 
 ### Internal Project Review Count
 
-The number of your own projects you've reviewed the completeness and quality of. Represented as an integer.
+The number of your own projects you've reviewed the completeness of. Represented as an integer.
 
 ### Review Accuracy
 
-Review accuracy is a measure of how good a player is at evaluating the completeness and quality of projects (both their own as well as others') as compared to players who have more review experience (higher RXP).
+Review accuracy is a measure of how good a player is at evaluating the completeness of projects (both their own as well as others') as compared to players who have more review experience (higher RXP).
 
-It is a composite stat that is impacted by:
-
-* Delta between completeness score of my reviews (both internal and external) and other players with better RXP
-* Delta between quality score of my reviews (both internal and external) and other players with better RXP
+It is impacted by the Delta between the completeness score of the player's reviews (both internal and external) and reviews by other players with better RXP.
 
 It expressed as a number between 0 and 100. With 100 meaning that review accuracy is flawless.
 
@@ -401,10 +386,7 @@ It expressed as a number between 0 and 100. With 100 meaning that review accurac
 for each project that a player reviewed (internal or external review)
   skip if player was the top reviewer (reviewer with the highest RXP)
   topCompletenessScore = (top reviewer's completeness assessment)
-  absoluteCompletenessDelta = abs(topCompletenessScore - playerCompletenessScore)
-  topQualityScore = (top reviewer's quality assessment)
-  absoluteQualityDelta = abs(topQualityScore - playerQualityScore)
-  reviewDelta = (absoluteCompletenessDelta + absoluteQualityDelta) / 2
+  reviewDelta = abs(topCompletenessScore - playerCompletenessScore)
   projectReviewAccuracy = 100 - reviewDelta
 
 // overall stat
@@ -415,7 +397,7 @@ We don't start computing accuracy for a player until that player has passed a th
 
 ### Review Experience (RXP)
 
-RXP is a function of Review Accuracy of a player combined with how much experience the player has. The higher the RXP, the better this player is at assessing completeness and quality scores of another player.
+RXP is a function of Review Accuracy of a player combined with how much experience the player has. The higher the RXP, the better this player is at assessing completeness scores of another player.
 
 It is a composite stat that is impacted by:
 
