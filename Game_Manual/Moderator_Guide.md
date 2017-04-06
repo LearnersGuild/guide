@@ -75,11 +75,11 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - Source goal
   - Team
   - Artifact
-  - Completeness & quality criteria
+  - Completeness criteria
 1. Starting a project
   - Move to channel
   - Create artifact
-  - Define specs & quality rubric
+  - Define specs
 
 ## Practicing
 
@@ -92,7 +92,6 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - Balancing challenge, support, and progress
   - Refresh of how to earn stats
 1. Keep track of (for reflection period)
-  - Quality
   - Completeness
   - Relative contribution (yours and others)
   - Team culture and contribution to it (yours and others)
@@ -119,13 +118,12 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - No collusion
     - Ruins the data (wisdom of the crowds v.s. tyranny of the persuasive)
     - Bad feedback = Garbage in, Garbage out
-    - Don't discuss relative contribution, quality, or completeness numbers
+    - Don't discuss relative contribution or completeness numbers
 1. Retrospective questions
   - Walkthrough of the retro process
   - Question types, what they mean, how they are used
 1. Reviewing projects
   - How to measure completeness
-  - How to measure quality
 1. Invite people to blog/journal for their own personal reflection
 
 
@@ -162,7 +160,7 @@ At the beginning of the cycle we all propose goals for the weeks. Then we vote o
 
 1. Reflect on the team. Harvest all the interpersonal and procedural learning of the week. Also a time for self reflection. Without reflection there's really no learning.
 
-2. Review: Review the code that was produced. Both your own project and others: two rubrics: quality and completeness
+2. Review: Review the code that was produced. The completeness of both your own project and others as defined in the specs.
 
 Don't expect to have homework.
 
