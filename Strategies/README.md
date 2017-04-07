@@ -1,6 +1,6 @@
 # Strategies
 
-Learning strategies for [individuals](Individual.md), [teams](Team.md), and [communities](Community.md).
+Learning strategies for [individuals](Individual.md), [teams](Team.md), [communities](Community.md), and [solo reflection](Reflection.md).
 
 These categories do not have strict boundaries between them: they are all complimentary and overlap in many places. We just use separate files to make it easier to find and reference them.
 
