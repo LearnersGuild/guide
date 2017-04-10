@@ -475,7 +475,7 @@ In the above dataset, the player's contribution gap for the `#big-bees` project 
 
 
 
-[game-objectives]: ./Boundaries.md#objectives
+[game-objectives]: ./Basic_Gameplay.md#objectives
 [absolute-values]: http://www.coolmath.com/algebra/18-absolute-value-equations-inequalities/01-absolute-values-01
 [elo-rating-wiki]: https://en.wikipedia.org/wiki/Elo_rating_system
 [elo-rank-github]: https://github.com/dmamills/elo-rank

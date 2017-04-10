@@ -1,6 +1,11 @@
 # Basic Gameplay
 
-There are two objectives of the game: to learn, and to contribute to others' learning.
+## Objectives
+
+The Guild is designed to support members in tracking and achieving two objectives:
+
+1. To become a world class beginner in their craft (Full Stack Javascript Web Development)
+1. To co-create a culture of collective learning
 
 Focus on these two activities and you will succeed.
 
