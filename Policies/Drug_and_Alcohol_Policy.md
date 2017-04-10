@@ -10,6 +10,6 @@ Alcohol in the form of beer or wine may occasionally be brought into the office 
 
 Illegal drugs should not be used, bought, sold, or distributed, either in the office or outside of the office while representing Learners Guild.
 
-Guild members must not be noticeably affected by by alcohol or drug use (legal or illegal) during guild hours.
+Guild members must not be noticeably affected by alcohol or drug use (legal or illegal) during guild hours.
 
 Members who violate this policy may be asked to leave.
