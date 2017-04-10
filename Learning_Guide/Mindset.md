@@ -21,7 +21,7 @@ Our challenge, is to shift the paradigm together, from a restaurant with a fixed
 ## Shift 2: From Student to Learner
 
 **Traditional School v.s. Guild**
-Traditional schooling, robs us of our power and authority. Ever since we were kids, the locus of authority and control is taken from us. We are taught that an *expert* has the knowledge. They tell us what to learn, when to learn it, they test us and then tell us wether or not we have learned it. Many of us had little or no agency over our learning environment. We even had to ask permission to go pee!
+Traditional schooling robs us of our power and authority. Ever since we were kids, the locus of authority and control is taken from us. We are taught that an *expert* has the knowledge. They tell us what to learn, when to learn it, they test us and then tell us wether or not we have learned it. Many of us had little or no agency over our learning environment. We even had to ask permission to go pee!
 
 The Guild isn’t school. It’s a hands-on learning environment designed for those with an inner drive to succeed. So we give feedback not grades. We’re about skills not certificates. And we favor collaboration over competition. No teachers here, just mentors. No instruction, just a side-by-side apprenticeship. There's also no fixed curriculum. Knowledge is always evolving, and the name of the game is getting good at researching, acquiring and synthesizing knowledge, not consuming a preset, stale, curriculum. It’s not about what you know, it’s about what you can figure out. Any fixed knowledge today is worth nothing a few years from now.
 
@@ -41,10 +41,10 @@ A system with decentralized, distributed authority, means that each member has m
 
 The extra responsibilities are more stressful, and more demanding than a traditional learning environment. The hope is that they help you in developing life-long learning and leadership skills that support you in your career.
 
-**Interesting face: Schools are made my same architecture firms that make prisons**
+**Interesting fact: schools are made my same architecture firms that make prisons.**
 
 ## Shift 3: From Individual to Collective
 
 It takes a team, full of diverse perspectives and experiences to create the software tools the world needs. Individuals and companies that forget this simple truth risk becoming obsolete. Those who embrace it are the future of technology. That's why our program puts you on a team and in collaboration from day one.
 
-Ever since day one at first grade, most of us have been trained to do it alone. Turning around and helping someone else was seen as cheating. At the Guild, learning is a deeply social activity, and coding is a team sport. Shifting the orientation from "how do I succeed" to "how do we succeed" creates a learning environment that works better for you, and prepares you for a life long career of collaboration. 
+Ever since day one at first grade, most of us have been trained to do it alone. Turning around and helping someone else was seen as cheating. At the Guild, learning is a deeply social activity, and coding is a team sport. Shifting the orientation from "how do I succeed" to "how do we succeed" creates a learning environment that works better for you, and prepares you for a life long career of collaboration.
