@@ -6,7 +6,7 @@ As a learner at the Guild, here are the basic set of things expected of you. Rep
 1. **Vote on projects** during voting window that are in your ZPD
   - **Aim** for 1:3 ratio of solo to team projects
 1. **Set artifacts** for projects
-1. **Complete 50% of the project**
+1. **Your team should complete at least 50% of the project**
 1. **Submit retros** for your projects
   - Accurately estimate your [contribution](/Learning_Guide/Retrospectives.md) **(Estimation Accuracy over 85)**
   - Accurately review your project completeness _(Difference between your completeness review, and your coach/SEP should not be more than 20%)_
