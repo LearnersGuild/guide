@@ -8,7 +8,6 @@
   * [Levels And Roles](Game_Manual/Levels_and_Roles.md)
   * [Membership Expectations](Game_Manual/Membership_Expectations.md)
   * [Membership Review](Game_Manual/Membership_Review.md)
-  * [Moderator Guide](Game_Manual/Moderator_Guide.md)
   * [Stats](Game_Manual/Stats.md)
 - [General](General/README.md)
   * [FAQ](General/FAQ.md)
