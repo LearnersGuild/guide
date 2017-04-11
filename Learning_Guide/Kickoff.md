@@ -78,3 +78,5 @@ Any Learning Facilitator, Professional Coach, or Software Engineering Lead may c
 
 - Two solo projects, want to change goals and work together on a pair project that's team size 2
 - A team size that's different than the recommended team size wants to break up in order to work on goals with the recommended team size
+
+**If you need to change teams or goals for other reasons/situations, you'll need to ask the Moderator**
