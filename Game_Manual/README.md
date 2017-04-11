@@ -1,4 +1,4 @@
-# Game Manual
+# Learning Operating System
 
 The Learning Operating System (LOS, for short) is a game-enhanced learning environment for engaging in cognitive apprenticeship.
 
@@ -15,7 +15,7 @@ You'll learn a lot about how the game works just by asking questions in Echo and
 - To find out how your stats are calculated, read [Stats][stats].
 - To understand what is expected of all members and how membership can be cancelled when these expectations are not met, read [Membership Expectations][member-expectations] and [Membership Review][member-review].
 
-We've designed this game to help you learn through cognitive apprenticeship as best as possible. It is by no means a finished product and is currently under active development.
+We've designed this game to help you learn as a collective as best as possible. It is by no means a finished product and is currently under active development.
 
 If you notice something that could be better, or you encounter a bug, please log them in the [LOS repo][los-repo]. We want your feedback. Together we can build a more perfect Learning Operating System.
 
