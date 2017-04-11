@@ -16,7 +16,7 @@ _Lost and found items will be placed on top of the LG library, which is located 
 
 ## Hours
 
-The office opens at 7am and closes at 10pm. However, staff will only be on-site from 8:30am to 6pm during weekdays.
+The office opens at 7am and closes at 10pm. However, staff will only be on-site from 9:00am to 6pm during weekdays.
 
 Staff will not be available on weekends, but the office is open to those who wish to use it. The same hours apply (7am-10pm).
 

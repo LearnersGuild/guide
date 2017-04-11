@@ -1,6 +1,6 @@
 # Time Commitment
 
-While our ambition is to be able to invest in anyone and everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege to be able to show up at the office reliably, every weekday \(except [national holidays](../General/Holiday_List.md)\) from **8:30 AM to 6:00 PM**.
+While our ambition is to be able to invest in anyone and everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege to be able to show up at the office reliably, every weekday \(except [national holidays](../General/Holiday_List.md)\) from **9:00 AM to 6:00 PM**.
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:2 orderedList:0 -->
 
@@ -46,7 +46,7 @@ Summary:
 
 ### What happens if I show up late? What if I have to leave early?
 
-Your commitment is to show up and build software between 8:30am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9.5 hours to _support your team and your project_.
+Your commitment is to show up and build software between 9:00am to 6pm. Anything non-critical to your lives should be scheduled outside these hours. Beyond that, you're free to do whatever you need during these 9 hours to _support your team and your project_.
 
 If you are going to be late and/or miss a day, you need to let your team know as far in advance as possible. Teams hold each other accountable.
 
