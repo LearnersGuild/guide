@@ -2,9 +2,9 @@
 
 ## Preparing your project for final review
 
-- Merge everything into master
-- Set your artifact
-- Submit your retrospective
+If you forked an initial GitHub repository [click here](/Learning_Guide/Review/forked-repo.md).
+
+If you created your own GitHub repository [click here](/Learning_Guide/Review/initial-repo.md).
 
 ## How to Review a Project's Completeness
 
