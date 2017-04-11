@@ -11,11 +11,6 @@ Focus on these two activities and you will succeed.
 
 ## Components
 
-### Levels
-
-All players advance through a sequence of levels in the game.
-
-Learn more about levels in [Levels & Roles][levels-roles].
 
 ### Roles
 
@@ -83,29 +78,14 @@ When practice is done, the cycle enters its final stage: **reflection**.
 
 In the **reflection** stage, learners reflect on both the _process_ of their learning and team collaboration as well as on the _product_ of their own and others' projects.
 
-There are two parts to this stage: a **retrospective**, for reflecting on and giving feedback about the team process and individual learning; and a **review**, for evaluating and critiquing the artifact produced during the cycle.
+There are two parts to this stage: a [**retrospective**](Learning_Guide/Retrospectives.md), for reflecting on and giving feedback about the team process and individual learning; and a [**review**](Learning_Guide/Review.md), for evaluating and critiquing the artifact produced during the cycle.
 
 The moderator will set aside time at the end of the cycle for reflection. During this time, learners reflect on their own. It is a quiet, contemplative time for harvesting the insights and learnings of the past cycle.
 
 Once the reflection stage is over, the cycle is finished, and it is time to begin a new one!
 
-#### Retrospective
+As your project is reviewed by coaches, you will gain different [stats](stats), and based on your stats, you can [level up][levels-roles]
 
-The retrospective consists of a series of questions and prompts for learners to give feedback to themselves and their team.
-
-Use the `/retro` command to view questions and log answers.
-
-Dig deeper into [filling out a retrospective](Learning_Guide/Retrospectives.md)
-
-#### Review
-
-The project review is a time for exploring an artifact and determining to what extent it satisfies the project's specifications and quality criteria.
-
-Learners can review as many projects as they like. At the very least, learners should review their own projects and one other project completed during the cycle.
-
-Use the `/review` command to capture a project review.
-
-Dig deeper into [reviewing a project](Learning_Guide/Review.md)
 
 
 [guildcrafts]: http://github.com/GuildCrafts
