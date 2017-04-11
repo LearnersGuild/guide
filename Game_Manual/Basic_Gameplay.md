@@ -23,12 +23,6 @@ There are four roles: Player, Technical Coach, Project Lead, and Moderator.
 
 Learn more about roles in [Levels & Roles][levels-roles].
 
-### Goals
-
-Goals serve as templates for projects.
-
-Goals live in a goal library which all learners contribute to.
-
 ### Projects
 
 Projects are how the work of learning is organized and made meaningful.
@@ -47,13 +41,9 @@ Learners complete cycles on their journey to achieving dignified livelihood.
 
 ### Goal Selection
 
-The first stage of a cycle is called **goal selection**.
+The first stage of a cycle is called **goal selection**. Goals serve as templates for projects, and live in the [goal library](http://jsdev.learnersguild.org/). _Any learner can add goals to the library, just follow the template and instructions in the goal repository._
 
-During this stage, learners vote on goals from the goal library for their particular craft. The goal library for your craft is located in the appropriate craft repo under the [GuildCrafts][guildcrafts] organization.
-
-Any learner can add goals to the library, just follow the template and instructions in the goal repository.
-
-Each learner chooses their top two goals from the list. It's best to choose goals that are both _relevant_ to the skills you wish to acquire and appropriately _challenging_ given your current skill level.
+During Goal Selection each learner chooses their top two goals from the library. It's best to choose goals that are both _relevant_ to the skills you wish to acquire and appropriately [_challenging_](Challenge.md) given your current skill level.
 
 Use the `/vote` command to vote on goals.
 
@@ -61,9 +51,11 @@ After all learners have voted, the votes are tallied and the most popular goals 
 
 #### Forming Project from Goals
 
-Forming projects from votes is a relatively complex process. To ensure that project teams have the right number of learners with the right balance of experience levels, more than just votes have to be factored into the equation.
+Projects are how the work of learning is organized and made meaningful.
 
-For example, to make **cognitive apprenticeship** work, every team needs one learner who has significantly more experience so that they can take on the most difficult tasks and share their skills and knowledge with the rest of the team. So if one advanced learner votes differently from four beginner learners, then the advanced learner may get assigned to the more popular project to ensure that their experience is put to best use.
+Projects are defined by goals. They have clear outcomes and context, which helps learners know both _what success looks like_ as well as _how this project will help them learn their craft_.
+
+Forming projects from votes is a relatively complex process. To make sure that project teams have the right number of learners with the right balance of experience levels, more than just votes have to be factored into the equation.
 
 To accomplish this, there is an automated process that will generate projects using many different parameters to try and achieve the best result. This means that voting on a goal is not a _guarantee_ that the goal will be chosen or that you will be assigned to the project.
 
@@ -81,7 +73,7 @@ Most of the cycle is spent in the **practice** stage, where the team works to co
 
 What happens in practice is entirely up to the team and the project at hand. It is the learners prerogative to decide _how_ to spend their time to best achieve the goal.
 
-The most important piece about practice is that learners should be appropriately challenged. Practice that isn't sufficiently challenging (or is overwhelmingly difficult) will not result in learning. Practice should stretch a learner just beyond the edge of their knowledge and skill, but not too far past it.
+The most important piece about practice is that learners should be appropriately [challenged](challenge.md). Practice that isn't sufficiently challenging (or is overwhelmingly difficult) will not result in learning. Practice should stretch a learner just beyond the edge of their knowledge and skill, but not too far past it.
 
 Seek advice from more experienced learners on how to engage in good, deliberate practice.
 
