@@ -6,7 +6,7 @@ In other words, it's a **game** for **learning** a **craft**.
 
 The primary interface for engaging with the LOS is through [Echo][echo]. Here learners can communicate, collaborate, and [run commands][commands] to interact with the game.
 
-You'll learn a lot about how the game works just by asking questions in Echo and talking with your fellow learners. Use this manual as a reference and a guide to the game.
+You'll learn a lot about how the game works just by asking questions in Slack and talking with your fellow learners. Use this manual as a reference and a guide to the game.
 
 - To get your bearings, read about [Basic Gameplay][basic-gameplay].
 - To learn how to find the right level of challenge for your learning, read [Challenge][challenge].

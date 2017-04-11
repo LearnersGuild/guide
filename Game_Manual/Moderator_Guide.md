@@ -20,7 +20,8 @@ Orienting learners to the systems, structures, and processes of the game is usua
   - Stats as a model (and all models are wrong)
   - How to earn stats
 1. User interface walkthrough
-  - Navigating Echo
+  - Navigating Slack
+  - Navigating the projects / stats UI
   - Navigating the craft repo
   - Using commands
 1. Continuous improvement
@@ -184,7 +185,7 @@ Feedback:
 
 ----
 
-Introduce echo.
+Introduce echo and Slack.
 Introduce github and craft repo.
 - Show contributing.md Encourage people to contributing to it.
 - Show people the goals. The templates for the projects you're going to be working on it.
