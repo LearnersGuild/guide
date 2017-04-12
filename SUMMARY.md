@@ -22,6 +22,9 @@
   * [Onboarding](Learning_Guide/Onboarding.md)
   * [Retrospectives](Learning_Guide/Retrospectives.md)
   * [Review](Learning_Guide/Review.md)
+  * [Goals](Learning_Guide/Goals.md)
+    * [Clarity on specs](/Learning_Guide/Goals/Clarity_on_specs.md)
+    * [Improvement](/Learning_Guide/Goals/Improvement.md)
 - Log
   * [Q 2](Log/q2.md)
 - [Policies](Policies/README.md)
