@@ -13,7 +13,7 @@ As a learner at the Guild, here are the basic set of things expected of you. Rep
   - Don't collude _(Discuss retro numbers **after submitting them**, not before)_
   - Give honest feedback to your team mates
 1. **Coach** (once you're on level 3 or higher)
-  - Run standups with your teams
+  - Run [standups](https://www.youtube.com/watch?v=YBKuYzqvZmI) with your teams
   - Be available for support, code reviews, and cog apps and escalate when needed
   - Review all your teams' projects _(Difference between your completeness review, and your SEP should not be more than 10%)_
 
