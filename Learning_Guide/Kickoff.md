@@ -66,3 +66,17 @@ Shipping quality code on time is the most important thing to learn. Completing p
 The assumption is that for every project, there will be at least one member of the team who didn't understand everything that happened. It is a [spiral approach](https://en.wikipedia.org/wiki/Spiral_approach) to learning. The idea is to trust that the details you didn't pick up for this project, you'll pick up on the next.
 
 Learning to learn this way may be frustrating or difficult at first, but over time you'll get used to it. And, more importantly, it's critical for you to become adept at learning this way because **being dragged on a team of people more skilled than you, and learning in a context where you don't know all the details is what the first few years of your career are going to be like**.
+
+**Q: I want to change my team members and/or the goal we're working on**
+
+Any Learning Facilitator, Professional Coach, or Software Engineering Lead may change the goals for a team provided:
+
+- All team members agree that they want to change their goal
+- Non of the team members have been aggressively "persuaded" to change their goal
+
+Any Learning Facilitator, Professional Coach, or Software Engineering Lead may change the membership for a team provided:
+
+- Two solo projects, want to change goals and work together on a pair project that's team size 2
+- A team size that's different than the recommended team size wants to break up in order to work on goals with the recommended team size
+
+**If you need to change teams or goals for other reasons/situations, you'll need to ask the Moderator**
