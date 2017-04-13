@@ -1,4 +1,4 @@
-# Goal Improvewment
+# Goal Improvement
 
 
 ## Submitting a PR against a Goal
