@@ -1,7 +1,6 @@
 # Goal Improvement
 
-
-## Submitting a PR against a Goal
+## Submitting a Pull Request (PR) against a Goal
 
 0. Go [here](https://github.com/GuildCrafts/web-development-js/tree/master/_goals)
 0. Find your goal and click on it
@@ -11,4 +10,4 @@
 0. Click `Propose file change`
 
 
-_Note: It can take as much as a few weeks for your change requests to be addressed. Please be patient_
+_Note: We try to address your PRs as quickly as possible. Usually this is within a day, but it may take longer. Please be patient, and check your [GitHub notifications](https://github.com/notifications) to stay involved with the PR conversation._
