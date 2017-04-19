@@ -15,7 +15,7 @@ When you are reviewing a project for completeness, you are holding the project t
   - clone and run project locally to verify all specs are met
   - run the test suite locally
 - If the specs aren't clear, and it's difficult to determine completeness from them, [write a PR against the spec](/Learning_Guide/Goals/Improvement.md) asking a goal librarian to clarify the specs.
-  - Feel free to suggest the changes you think would the specs more clear next time.
+  - Feel free to suggest the changes you think would make the specs more clear
 - Determining the completeness score:
   - If the specs are weighted:
     - completeness score = the sum of the weights for each spec they met
