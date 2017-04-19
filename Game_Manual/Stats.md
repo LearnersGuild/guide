@@ -50,7 +50,7 @@ Each of the following stats are based on a weighted average of (up-to) 6 of your
 
 ### XP/Week
 
-Your accomplishments, aggregated and condensed to a number.
+The moving average of the XP you gained for your last 6 projects is the XP/Week.
 
 Each goal you and your team attempt to complete, has XP attached to it.
 
@@ -66,7 +66,7 @@ Next, if you and your team complete more than 70% of the project, **each member 
 goalBonusXP * min((projectCompleteness - 70),0)
 ```
 
-The moving average of the XP you gained for your last 6 projects is the XP/Week
+All XP a player receives for the past 6 weeks is adjusted for short weeks (and personal time off) and averaged to calculate XP/Week.
 
 If you want to dig deeper into how this all works, check out [these examples](https://docs.google.com/spreadsheets/d/10g9F9XKmHodyyQ5AxLmrSAibehTrS7wdi-h4tj3Rfa0/edit#gid=0)
 
