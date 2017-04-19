@@ -9,5 +9,5 @@ If you need help with this [click here](https://www.google.com/webhp?sourceid=ch
 **Step 2**: Set your artifact url in echo
 
 ```
-/project set-artifact #your-team-name https://github.com/pllearns/core-algorithms
+/project set-artifact hedonistic-badger https://github.com/pllearns/core-algorithms
 ```

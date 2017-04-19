@@ -27,6 +27,7 @@
   * [Review](Learning_Guide/Review.md)
     * [Forked Repo](Learning_Guide/Review/Forked_Repo.md)
     * [Initial Repo](Learning_Guide/Review/Initial_Repo.md)
+    * [Completeness](Learning_Guide/Review/Completeness.md)
 - [Runway](Runway/README.md)
 - [Strategies](Strategies/README.md)
   * [Community](Strategies/Community.md)

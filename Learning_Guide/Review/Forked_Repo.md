@@ -17,5 +17,5 @@ If did not fork a repo [click here](/Learning_Guide/Review/initial-repo.md)
 **Step 2**: Set your artifact url in echo
 
 ```
-/project set-artifact #your-team-name https://github.com/pllearns/core-algorithms/pull/12
+/project set-artifact hedonistic-badger https://github.com/pllearns/core-algorithms/pull/12
 ```
