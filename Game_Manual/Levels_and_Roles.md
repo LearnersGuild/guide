@@ -10,14 +10,14 @@ Levels are cumulative, so more advanced levels also include privileges of previo
 Advancement is not one-way: learners can move backwards if they drop below level thresholds.
 
 
-| Level | XP   | Elo   | Estimation Accuracy | Other              |
-|:------|:-----|:------|:--------------------|:-------------------|
-| 0     | -    | -     | -                   | enrolled and on-boarded   |
-| 1     | >100  | >900  | >80%                | got some experience, worked on some team goals  |
-| 2     | >200 | >990  | >91%                | begin OSS projects                 |
-| 3     | >450 | >1020 | >92%                | begin coaching, mock interviewing                  |
-| 4     | >700 | >1050 | >93%                | begin apprenticeship |
-| 5     | >950 | >1070 | >94%                | begin being a project lead |
+| Level | XP/Week | Estimation Accuracy | Other              |
+|:------|:-----|:--------------------|:-------------------|
+| 0     | -    | -                   | enrolled and on-boarded   |
+| 1     | >30  | >80%                | got some experience, worked on some team goals  |
+| 2     | >55  | >91%                | begin OSS projects                 |
+| 3     | >110  | >92%                | begin coaching, mock interviewing                  |
+| 4     | >165  | >93%                | begin apprenticeship |
+| 5     | >220  | >94%                | begin being a project lead |
 
 
 ## Roles
