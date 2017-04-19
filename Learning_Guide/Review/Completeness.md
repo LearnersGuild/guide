@@ -8,6 +8,9 @@ When you are reviewing a project for completeness, you are holding the project t
 - Go to https://game.learnersguild.org to get the artifact for the project
 - If there is no artifact, the completeness score should be 0
   - If you think this is an error, feel free to DM the team and ask them to set it
+- Ensure they committed their specs on Monday
+- Ensure those specs did not change mid-week
+- Ensure they made multiple commits each day throughout the week
 - Verify each spec is complete one by one
   - __Be rigorous & do not give people the benefit of the doubt__. If a spec is incomplete or unfulfilled __DO NOT__ count it as complete and __DO NOT__ give them partial credit
   - Ask clarifying questions of the author(s) if you're unsure about something
