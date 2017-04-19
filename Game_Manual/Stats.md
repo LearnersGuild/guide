@@ -42,29 +42,34 @@ The amount that you contribute to a project determines a series of other stats, 
 
 It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution)
 
-## XP
-
-Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience.
-
-XP is calculated and awarded in three steps for each project.
-
-First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
-
-Then, the gross project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 40 XP (100 x 0.40).
-
-##### Formula
-
-```
-sum(allTeamHours) * yourContributionPercentage
-```
-
 
 ## Weighted Average Stats
 
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
 
 
-### XP/Week (6 week moving average)
+### XP/Week
+
+Your accomplishments, aggregated and condensed to a number.
+
+Each goal you and your team attempt to complete, has XP attached to it.
+
+**The base XP related to a goal gets divided** based on how much of the goal you've completed, and what your personal contribution is to the project:
+
+```
+goalBaseXP * projectCompleteness * yourContributionPercentage
+```
+
+Next, if you and your team complete more than 70% of the project, **each member of the team gets the same amount of bonus XP**. The bonus XP depends on how much over 70% your team accomplished.
+
+```
+goalBonusXP * min((projectCompleteness - 70),0)
+```
+
+The moving average of the XP you gained for your last 6 projects is the XP/Week
+
+If you want to dig deeper into how this all works, check out [these examples](https://docs.google.com/spreadsheets/d/10g9F9XKmHodyyQ5AxLmrSAibehTrS7wdi-h4tj3Rfa0/edit#gid=0)
+
 
 ### Estimation Accuracy and Bias
 
