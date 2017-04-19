@@ -5,10 +5,7 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [How to Earn Stats](#how-to-earn-stats)
-- [Hours Contributed](#hours-contributed)
 - [XP](#xp)
-- [Elo Rating](#elo-rating)
-- [Average Project Completeness](#average-project-completeness)
 - [Weighted Average Stats](#weighted-average-stats)
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
 - [Project Review Stats](#project-review-stats)
@@ -31,35 +28,6 @@ In order to earn stats from a project, _every member of the team must have compl
 
 Other stats, like average project completion, will change over time as more reviews are submitted.
 
-#### Example Situations that Impact Stats
-
-To understand how stats work, it's helpful to know how certain scenarios will impact your stats. These are just a few examples - there are many more ways that stats can be impacted, and not enough room to cover them all here.
-
-##### Missing project work time
-
-If you are unable to work on your project during active hours and thus put in fewer hours than normal, there are a few consequences for your stats.
-
-The most direct consequence is that you will log fewer hours for that project, which will in turn lower your XP.
-
-Less direct consequences are that your contribution will likely be lower because you will have had less time than your teammates to contribute to the project.
-
-If you are out of integrity with your team (for example, by not informing them of absences or not taking accountability for your tasks), then you may also see a drop in your culture & team play health.
-
-##### Working more than expected hours on a project
-
-Working long hours can feel like it is more productive, but if you are not getting enough sleep and the quality of your work suffers, then it can negatively impact your stats.
-
-If you do "overtime" and put in more hours on a project than is expected, it shouldn't have a direct impact on your stats. It may, however, have an _indirect_ impact if those additional hours yield a higher perceived contribution on your part; in that case, you may see your Elo go up.
-
-On the other hand, if you end up doing a lot of work and don't keep your team informed and engaged, you will likely see a drop in your team play and culture stats. It's great to be enthusiastic, but be sure to bring your team with you.
-
-##### One or more teammates don't submit a retrospective
-
-As mentioned above, stats cannot be earned for a project until every team member has submitted a retrospective.
-
-If one or more of your teammates is out sick or otherwise unable to submit a retro at the end of the work week, no stats can be generated for any players in that project. Remind any absent teammates to submit their retros when they are active again.
-
----
 
 ## Hours Contributed
 
@@ -67,11 +35,12 @@ The number of hours you contributed is computed by taking the expected hours for
 
 Note that, within the context of the game, it's not possible for a player to contribute _more_ hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations.
 
-##### Formula
 
-```
-projectExpectedHours - yourPersonalTimeOffHours
-```
+## Project Contribution
+
+The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
+
+It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution)
 
 ## XP
 
@@ -90,21 +59,12 @@ sum(allTeamHours) * yourContributionPercentage
 ```
 
 
-
-## Average Project Completeness
-
-The average % completeness of all reviews for the given project.
-
-##### Formula
-
-```
-sum(allProjectCompletenessReviews) / count(reviews)
-```
-
 ## Weighted Average Stats
 
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
 
+
+### XP/Week (6 week moving average)
 
 ### Estimation Accuracy and Bias
 
@@ -239,65 +199,6 @@ Two players who have done the same number of reviews, but Player A has more revi
 ```
 (externalProjectReviewCount / 20)  + reviewAccuracy
 ```
-
-## Project Contribution
-
-The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
-
-It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution) in the [Guide to Retrospectives](../Learning_Guide/Retrospectives.md).
-
-Within a given project, you have **actual** and **expected** contributions, as well as a **contribution gap**.
-
-To demonstrate how the various contribution stats are calculated, we'll use the following dataset in examples.
-
-#### Example Project Contribution Estimations
-
-| Project      | Team size | Self estimate | Team estimates | Self accuracy | Team accuracies | Your Hours | Total Hours |
-|:-------------|:----------|:--------------|:---------------|:--------------|:----------------|:-----------|:------------|
-| #big-bees    | 3         | 50%           | 42%, 48%       | 88            | 88, 88          | 30         | 80          |
-| #red-rabbits | 4         | 29%           | 27%, 35%, 28%  | 91            | 92, 89, 96      | 25         | 120         |
-| #tiny-tigers | 2         | 20%           | 30%            | 96            | 94              | 40         | 75          |
-
-### Actual Contribution
-
-Your actual contribution is the determined by taking the contribution estimate from the player on your team who has the highest [estimation accuracy](#estimation-accuracy). Represented as a percentage (0..100%).
-
-If it is not possible to determine which player has the highest estimation accuracy, then contribution is determined by taking the average of your team's estimates of what percentage of the project you contributed to. Such cases include:
-- any or all players on the team have no estimation accuracy stat yet
-- all players have the same estimation accuracy
-
-When averaging the team estimates, your own actual contribution _does_ include your own estimate of your contribution.
-
-In the above dataset, the player's actual contribution for the `#big-bees` project (since everyone on the team has the same estimation accuracy) is the average of _all_ the estimates, so it would be equal to 46.67% ( (50% + 42% + 48%) / 3 ).
-
-However, the player's actual contribution for the `#red-rabbits` project would be 28%, because the player who reported 28% has the highest estimation accuracy (96%).
-
-##### Formula
-
-For a team where it is possible to determine which player has the highest estimation accuracy:
-
-```
-projectContribution  // (from player with highest estimation accuracy)
-```
-
-For a team where it is _not_ possible to determine which player has the highest estimation accuracy:
-
-```
-sum(projectContributionFeedbackFromTeam) / teamSize
-```
-
-### Expected Contribution
-
-Your expected contribution is how much you are expected to contribute to the project based on how many hours you contribute relative to the total hours of all players. Represented as a percentage (0..100%).
-
-In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 37.5% ( 30 / 80 ) because they contributed 30 out of a total 80 hours that players spent on this project.
-
-### Contribution Gap
-
-The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a +/- percentage (-100%..100%).
-
-In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed +9.17% _more_ to the project than what is expected based on how many hours they worked on it.
-
 
 
 [game-objectives]: ./Basic_Gameplay.md#objectives
