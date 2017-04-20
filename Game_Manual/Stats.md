@@ -5,15 +5,9 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [How to Earn Stats](#how-to-earn-stats)
-- [Hours Contributed](#hours-contributed)
 - [XP](#xp)
-- [Elo Rating](#elo-rating)
-- [Average Project Completeness](#average-project-completeness)
 - [Weighted Average Stats](#weighted-average-stats)
-  - [Health - Culture](#health-culture)
-  - [Health - Team Play](#health-team-play)
-  - [Health - Technical](#health-technical)
-  - [Challenge](#challenge)
+  - [XP/Week](#xp-per-week)
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
 - [Project Review Stats](#project-review-stats)
   - [External Project Review Count](#external-project-review-count)
@@ -31,255 +25,48 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 
 At the end of every project, the data gathered in the retrospectives are used to calculate and update your player stats, as well as the stats for the project itself.
 
-In order to earn stats from a project, _every member of the team must have completed the project retrospective_. Stats can only be calculated and awarded from a project once all retros have been submitted.
-
-Other stats, like average project completion, will change over time as more reviews are submitted.
-
-#### Example Situations that Impact Stats
-
-To understand how stats work, it's helpful to know how certain scenarios will impact your stats. These are just a few examples - there are many more ways that stats can be impacted, and not enough room to cover them all here.
-
-##### Missing project work time
-
-If you are unable to work on your project during active hours and thus put in fewer hours than normal, there are a few consequences for your stats.
-
-The most direct consequence is that you will log fewer hours for that project, which will in turn lower your XP.
-
-Less direct consequences are that your contribution will likely be lower because you will have had less time than your teammates to contribute to the project.
-
-If you are out of integrity with your team (for example, by not informing them of absences or not taking accountability for your tasks), then you may also see a drop in your culture & team play health.
-
-##### Working more than expected hours on a project
-
-Working long hours can feel like it is more productive, but if you are not getting enough sleep and the quality of your work suffers, then it can negatively impact your stats.
-
-If you do "overtime" and put in more hours on a project than is expected, it shouldn't have a direct impact on your stats. It may, however, have an _indirect_ impact if those additional hours yield a higher perceived contribution on your part; in that case, you may see your Elo go up.
-
-On the other hand, if you end up doing a lot of work and don't keep your team informed and engaged, you will likely see a drop in your team play and culture stats. It's great to be enthusiastic, but be sure to bring your team with you.
-
-##### One or more teammates don't submit a retrospective
-
-As mentioned above, stats cannot be earned for a project until every team member has submitted a retrospective.
-
-If one or more of your teammates is out sick or otherwise unable to submit a retro at the end of the work week, no stats can be generated for any players in that project. Remind any absent teammates to submit their retros when they are active again.
-
----
+In order to earn stats from a project, _every member of the team must have completed the project retrospective, and one external project review should be done_.
 
 ## Hours Contributed
 
 The number of hours you contributed is computed by taking the expected hours for a project (typically 38, but perhaps fewer if the week includes any holidays) and subtracting from that number the number of "personal time off" hours you took while working on that project.
 
-Note that, within the context of the game, it's not possible for a player to contribute _more_ hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations.
-
-##### Formula
-
-```
-projectExpectedHours - yourPersonalTimeOffHours
-```
-
-## XP
-
-Your experience, aggregated and condensed to a number. XP always grows; the larger the number, the higher your experience.
-
-XP is calculated and awarded in three steps for each project.
-
-First, the gross project XP is calculated by adding all of the hours each team member contributed to the project. So a project where the players contributed 35, 30, and 35 hours would have a total of 100 hours.
-
-Then, the gross project XP is divvied up to each player according to their actual contribution to the project. So if your actual contribution to the project is 40%, you would get 40 XP (100 x 0.40).
-
-##### Formula
-
-```
-sum(allTeamHours) * yourContributionPercentage
-```
-
-## Elo Rating
-
-[Elo][elo-rating-wiki] is a system for determining the relative skill of players. It is used by many different games and sports for organizing play within a league. Represented as a positive integer, which shows your relative skill as compared to other players.
-
-In the context of the LOS, your Elo rating is a representation of your ability to contribute to projects relative to other players. It is not an _absolute_ measure of your skill, but is only meaningful in reference to other players.
-
-Unlike XP, Elo moves up and down depending on your Effectiveness at contributing to a project, and with whom you work on projects. Effectiveness is measured as percentage contribution to the project divided by the number of hours contributed.
-
-It can be a little difficult to understand how Elo works in a collaborative game like this one, since it is usually applied to competitive, zero-sum games like chess or beach volleyball or hot dog eating contests. So let's dive into an example.
-
-Imagine that you're a professional jigsaw puzzle solver. You work with other puzzlers to collaboratively solve jigsaw puzzles. Your Elo rating in the Professional Jigsaw League is 1200.
-
-Let's say that you solve a puzzle with three other puzzlers of the _exact same_ Elo rating (1200). If you solve 1/2 of the puzzle (by placing 1/2 of the pieces) *in the same time as the three remaining puzzlers*, then your Elo rating would _go up_ after the game because you performed _much better_ than you were expected based on your Elo. On a team of four puzzlers of the same skill (Elo), who all put in the same time, you'd be expected to solve 1/4 of the puzzle.
-
-If, on the other hand, you only solved 1/5 of the puzzle, your Elo rating would _go down_, because you performed worse than was expected of you.
-
-The interesting thing about Elo is that the ratings take into account the relative skill _before_ the game, so you can play more advanced players, perform worse (in terms of efficiency), and _still go up_ in your Elo rating. It all depends on how much better or worse you performed relative to what is expected of you.
-
-Checkout the [wikipedia](https://en.wikipedia.org/wiki/Elo_rating_system) article for background on Elo rating.
-
-#### Formula
-
-Elo is (currently) calculated using the [elo-rank][elo-rank-github] library with a K-Factor of 20 and an initial Elo for all players of 1000.
-
-Below is a rough summary of what happens in our production codebase for the calculation, with all key components for calculating Elo (except for what's taken care of by the library).
-
-```javascript
-import elo from 'elo-rank'
-
-function eloRatings([playerA, playerB]) {
-  const {rating: ratingA, score: scoreA} = playerA
-  const {rating: ratingB, score: scoreB} = playerB
-  const kFactor = 20
-
-  const eloA = elo(kFactor)
-  const eloB = elo(kFactor)
-
-  const expectedMarginA = eloA.getExpected(ratingA, ratingB)
-  const expectedMarginB = eloB.getExpected(ratingB, ratingA)
-
-  const [actualMarginA, actualMarginB] = scoreMargins([scoreA, scoreB])
-
-  const newRatingA = eloA.updateRating(expectedMarginA, actualMarginA, ratingA)
-  const newRatingB = eloB.updateRating(expectedMarginB, actualMarginB, ratingB)
-
-  return [newRatingA, newRatingB]
-}
-
-function updateEloRatings(playerStats) {
-  // playerStats is an object keyed on playerId
-  // with a value of that player's stats
-  const scoreboard = playerStats
-    .reduce((result, {playerId, ...stats}) => {
-      const {elo = {}} = stats
-      result.set(playerId, {
-        id: playerId,
-        rating: elo.rating || INITIAL_RATINGS.DEFAULT,
-        matches: elo.matches || 0,
-        score: stats.relativeContributionPerHour, // a.k.a., "effectiveness"
-      })
-      return result
-    }, new Map())
-
-  // sorted by elo (descending) solely for the sake of being deterministic
-  const sortedPlayerIds = Array.from(scoreboard.values())
-                            .sort((a, b) => a.rating - b.rating)
-                            .map(item => item.id)
-
-  // pair every team player up to run "matches"
-  const matches = toPairs(sortedPlayerIds)
-
-  // for each team player pair, update ratings based on relative effectiveness
-  matches.forEach(([playerIdA, playerIdB]) => {
-    const playerA = scoreboard.get(playerIdA)
-    const playerB = scoreboard.get(playerIdB)
-    const [playerRatingA, playerRatingB] = eloRatings([playerA, playerB])
-
-    playerA.rating = playerRatingA
-    playerA.matches++
-    playerA.kFactor = _kFactor(playerA.matches)
-
-    playerB.rating = playerRatingB
-    playerB.matches++
-    playerB.kFactor = _kFactor(playerB.matches)
-  })
-
-  // ...
-  // save updated scores to players' stats in database for each player in
-  // scoreboard
-  // ...
-}
-```
-
-Checkout this [ELO caclulator](http://www.3dkingdoms.com/chess/elo.htm) to model Elo Changes. Use a K-factor of 20.
+_Note: It's not possible for a player to contribute more hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations._
 
 
-## Average Project Completeness
+## Project Contribution
 
-The average % completeness of all reviews for the given project.
+The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
 
-##### Formula
+It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution)
 
-```
-sum(allProjectCompletenessReviews) / count(reviews)
-```
 
 ## Weighted Average Stats
 
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
 
-### Health - Culture
 
-How much your team members felt you contributed positively to the team culture.
-Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
+### XP per Week
 
-#### What Culture Contribution Means
+The moving average of the XP you gained for your last 6 projects is the XP/Week.
 
-Culture contribution can be a difficult thing to assess. It is important to understand what it means, both so that you can effectively evaluate your teammates and interpret your own stats.
+Each goal you and your team attempt to complete, has XP attached to it.
 
-Use the rubric below to build your sense of what "good culture contribution" is. These are mirrored by the [dynamic tensions][cos-dynam-tensions] in the COS.
-
-| Value     | Evidence                                                                                                                                                                                                                                                               |
-|:----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Belonging | They were authentic and real. They were being themselves which inspired us to be ourselves.<br> They were in relationship with me. They cared for the quality of our working relationship, and paid attention to it.                                                   |
-| Efficacy  | They honored their own and others' autonomy. They practiced and supported free, creative work.<br> They acted in integrity. They helped to create and maintain clear accountabilities. They stood firm in their domain and power, and respected the domains of others. |
-| Trust     | They told the truth. They said what was true for them, and chose truth over comfort.<br> They were safe to work with. They didn't judge, criticize, or stonewall. They supported our team culture to be free from standards, judgements, and personal attacks.         |
-| Growth    | They challenged themselves and others. They sought out growth for themselves, and helped everyone extend their potential.<br> They were generous in their support. They were responsive to requests for help, and offered guidance and mentorship.                     |
-| Flow      | They were engaged. Their focus, dedication and motivation supported our team in staying on task.<br> They enjoyed the work. They created more fun and enjoyment for us.                                                                                                |
-
-### Health - Team Play
-
-How well your team members felt that you collaborated on team efforts, independent of your technical skill, mentorship, or cultural contribution. Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
-
-#### What Team Play Means
-
-It is important to understand what it means to be a good team player, both so that you can effectively evaluate your teammates and interpret your own stats.
-
-Use the rubric below to build your sense of what "good team play" is.
-
-| Value               | Evidence                                                                                                                                   |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| Receptiveness       | They were open to feedback, and received it gracefully without becoming defensive or dismissive. They separated their ego from their work. |
-| Results Focus       | They focused on the best outcomes for the team. They were dedicated to and persevered in achieving shared goals.                           |
-| Flexible Leadership | They stepped into leadership roles when needed, and supported others to step into leading roles.                                           |
-| Friction Reduction  | They were constantly looking for ways to improve team process, and to help everyone play to their full potential.                          |
-
-### Health - Technical
-
-How well you are able to contribute to a project based on your technical skills, independent of your team play or cultural contribution. Not a part of your stats, but it is part of the retrospective and is used to help with the Project Formation Algorithm (PFA).
-
-#### What Technical Skill Means
-
-It is important to understand what it means to contribute technically, both so that you can effectively evaluate your teammates and interpret your own stats.
-
-Use the rubric below to build your sense of what "good technical skill" is.
-
-| Value                         | Evidence                                                                                                                                                         |
-|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Code Completeness             | They were committed to completeness. They practiced good estimation, good time management, and drove us to shipping on time.                                     |
-| Technical Communication       | They were able to professionally discuss, debate and relay technical ideas. They were succinct, precise, clear and proficient in their thinking & communication. |
-| Technical Knowledge           | They had pre-existing technical knowledge and experience with the technologies we were working with.                                                             |
-| Technical Confidence          | They were confident in facing the unknown. They stayed with the challenges, and faced them head on.                                                              |
-| Research                      | They were skilled in asking the right questions, googling, spiking, reading docs, and pulling in existing resources/solutions/code bases.                        |
-| Problem Decomposition/Solving | They were good at breaking down large problems into smaller pieces, and tackling them in the right order.                                                        |
-| Debugging                     | They were adept at identifying, isolating, recreating, and fixing bugs.                                                                                          |
-| Testing                       | They wrote good, solid tests, and used testing to drive a better product.                                                                                        |
-
-
-### Challenge
-
-The challenge stat is a reflection of how well you are able to find work that puts you into your zone of proximal development (ZPD). Represented as a number between 1 and 10, with 7 representing your ZPD. This mapping is used to give meaning to the other numbers:
-
-- 1 = Extremely bored
-- 4 = Confident and comfortable
-- 6 = Stretched but still capable
-- 7 = In flow and pushed just beyond capacity
-- 8 = Slightly more challenged than is fun
-- 10 = Completely overwhelmed
-
-##### Formula
+**The base XP related to a goal gets divided** based on how much of the goal you've completed, and what your personal contribution is to the project:
 
 ```
-sum(recentChallengeStatsForProjects) / count(recentProjects)
+goalBaseXP * projectCompleteness * yourContributionPercentage
 ```
 
-Where `recentChallengeStatsForProjects` one project's challenge score (that gets summed with up-to 5 other projects), and `recentProjects` is up to 6 recent projects that contain a stat value for challenge.
+Next, if you and your team complete more than 70% of the project, **each member of the team gets the same amount of bonus XP**. The bonus XP depends on how much over 70% your team accomplished.
 
+```
+goalBonusXP * min((projectCompleteness - 70),0)
+```
+
+If you want to dig deeper into how this all works, check out [these examples](https://docs.google.com/spreadsheets/d/10g9F9XKmHodyyQ5AxLmrSAibehTrS7wdi-h4tj3Rfa0/edit#gid=0)
+
+_Note: Completeness for projects is auto-adjusted for short weeks (and personal time off)_
 
 ### Estimation Accuracy and Bias
 
@@ -414,65 +201,6 @@ Two players who have done the same number of reviews, but Player A has more revi
 ```
 (externalProjectReviewCount / 20)  + reviewAccuracy
 ```
-
-## Project Contribution
-
-The amount that you contribute to a project determines a series of other stats, and also contains several sub-stats within.
-
-It can be hard to determine what constitutes _contribution_. If you are unclear, review the section on [Technical Contribution](../Learning_Guide/Retrospectives.md#technical-contribution) in the [Guide to Retrospectives](../Learning_Guide/Retrospectives.md).
-
-Within a given project, you have **actual** and **expected** contributions, as well as a **contribution gap**.
-
-To demonstrate how the various contribution stats are calculated, we'll use the following dataset in examples.
-
-#### Example Project Contribution Estimations
-
-| Project      | Team size | Self estimate | Team estimates | Self accuracy | Team accuracies | Your Hours | Total Hours |
-|:-------------|:----------|:--------------|:---------------|:--------------|:----------------|:-----------|:------------|
-| #big-bees    | 3         | 50%           | 42%, 48%       | 88            | 88, 88          | 30         | 80          |
-| #red-rabbits | 4         | 29%           | 27%, 35%, 28%  | 91            | 92, 89, 96      | 25         | 120         |
-| #tiny-tigers | 2         | 20%           | 30%            | 96            | 94              | 40         | 75          |
-
-### Actual Contribution
-
-Your actual contribution is the determined by taking the contribution estimate from the player on your team who has the highest [estimation accuracy](#estimation-accuracy). Represented as a percentage (0..100%).
-
-If it is not possible to determine which player has the highest estimation accuracy, then contribution is determined by taking the average of your team's estimates of what percentage of the project you contributed to. Such cases include:
-- any or all players on the team have no estimation accuracy stat yet
-- all players have the same estimation accuracy
-
-When averaging the team estimates, your own actual contribution _does_ include your own estimate of your contribution.
-
-In the above dataset, the player's actual contribution for the `#big-bees` project (since everyone on the team has the same estimation accuracy) is the average of _all_ the estimates, so it would be equal to 46.67% ( (50% + 42% + 48%) / 3 ).
-
-However, the player's actual contribution for the `#red-rabbits` project would be 28%, because the player who reported 28% has the highest estimation accuracy (96%).
-
-##### Formula
-
-For a team where it is possible to determine which player has the highest estimation accuracy:
-
-```
-projectContribution  // (from player with highest estimation accuracy)
-```
-
-For a team where it is _not_ possible to determine which player has the highest estimation accuracy:
-
-```
-sum(projectContributionFeedbackFromTeam) / teamSize
-```
-
-### Expected Contribution
-
-Your expected contribution is how much you are expected to contribute to the project based on how many hours you contribute relative to the total hours of all players. Represented as a percentage (0..100%).
-
-In the above dataset, the player's expected contribution for the `#big-bees` project is equal to 37.5% ( 30 / 80 ) because they contributed 30 out of a total 80 hours that players spent on this project.
-
-### Contribution Gap
-
-The contribution gap is the difference between actual and expected contribution. It demonstrates whether a player contributed _more_ or _less_ than is expected of them, based on the size of their team. Represented as a +/- percentage (-100%..100%).
-
-In the above dataset, the player's contribution gap for the `#big-bees` project is equal to 9.17% ( 46.67% - 37.5% ). In other words, they contributed +9.17% _more_ to the project than what is expected based on how many hours they worked on it.
-
 
 
 [game-objectives]: ./Basic_Gameplay.md#objectives

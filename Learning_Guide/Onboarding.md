@@ -14,7 +14,7 @@ These documents contain the latest and greatest information about our Learning O
 
 * [Echo](https://echo.learnersguild.org/): You'll receive a special link to sign into Echo ~1 week before your start date. Browse the available channels and join any you want to follow. **Review the in-depth guidelines for using Echo **[**here**](https://playbook.learnersguild.org/Game_Manual/Echo.html)**.**
 * [Prrr](http://prrr.apps.learnersguild.org/): Our internal pull review request system. Get your code reviewed by coaches and practitioners on a regular basis - aim for at least one PR per day!
-* [Coach Que](https://coach-que.apps.learnersguild.org/): Pronounced "coach queue", our internal system for booking coaching sessions with more advanced learners. You'll need to be logged into Echo before you can start using Coach Que.
+* [Coach Que](https://coach-queue.apps.learnersguild.org/): Pronounced "coach queue", our internal system for booking coaching sessions with more advanced learners. You'll need to be logged into Echo before you can start using Coach Que.
 
 Fun fact: Prrr and Coach-Que were built and are maintained by current Guild members.
 
