@@ -7,6 +7,7 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 - [How to Earn Stats](#how-to-earn-stats)
 - [XP](#xp)
 - [Weighted Average Stats](#weighted-average-stats)
+  - [XP/Week](#xp-per-week)
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
 - [Project Review Stats](#project-review-stats)
   - [External Project Review Count](#external-project-review-count)
@@ -24,16 +25,13 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 
 At the end of every project, the data gathered in the retrospectives are used to calculate and update your player stats, as well as the stats for the project itself.
 
-In order to earn stats from a project, _every member of the team must have completed the project retrospective_. Stats can only be calculated and awarded from a project once all retros have been submitted.
-
-Other stats, like average project completion, will change over time as more reviews are submitted.
-
+In order to earn stats from a project, _every member of the team must have completed the project retrospective, and one external project review should be done_.
 
 ## Hours Contributed
 
 The number of hours you contributed is computed by taking the expected hours for a project (typically 38, but perhaps fewer if the week includes any holidays) and subtracting from that number the number of "personal time off" hours you took while working on that project.
 
-Note that, within the context of the game, it's not possible for a player to contribute _more_ hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations.
+_Note: It's not possible for a player to contribute more hours than the number of expected hours for the project. This is by design, since we don't want the game to be unfairly balanced toward people who have fewer outside obligations._
 
 
 ## Project Contribution
@@ -48,7 +46,7 @@ It can be hard to determine what constitutes _contribution_. If you are unclear,
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
 
 
-### XP/Week
+### XP per Week
 
 The moving average of the XP you gained for your last 6 projects is the XP/Week.
 
@@ -66,10 +64,9 @@ Next, if you and your team complete more than 70% of the project, **each member 
 goalBonusXP * min((projectCompleteness - 70),0)
 ```
 
-All XP a player receives for the past 6 weeks is adjusted for short weeks (and personal time off) and averaged to calculate XP/Week.
-
 If you want to dig deeper into how this all works, check out [these examples](https://docs.google.com/spreadsheets/d/10g9F9XKmHodyyQ5AxLmrSAibehTrS7wdi-h4tj3Rfa0/edit#gid=0)
 
+_Note: Completeness for projects is auto-adjusted for short weeks (and personal time off)_
 
 ### Estimation Accuracy and Bias
 
