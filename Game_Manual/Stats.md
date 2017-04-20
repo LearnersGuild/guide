@@ -5,7 +5,6 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [How to Earn Stats](#how-to-earn-stats)
-- [XP](#xp)
 - [Weighted Average Stats](#weighted-average-stats)
   - [XP/Week](#xp-per-week)
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
