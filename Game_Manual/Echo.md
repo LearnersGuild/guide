@@ -52,7 +52,7 @@ Guidance for managing the volume of posts and notifications you are fielding and
 
 #### **Use an @channel notification for these types of messages**:
 
-* \#oakland: `@channel` pools are broken, and being fixed. Ignore them right now, and let's meet at the light side for coach-que presentation _\(Necessary to coordinate the whole group in real-time, ok to post mid-day\)_
+* \#oakland: `@channel` pools are broken, and being fixed. Ignore them right now, and let's meet at the light side for coach-queue presentation _\(Necessary to coordinate the whole group in real-time, ok to post mid-day\)_
 * \#oakland: `@channel` I got a phone call late last night from Tish, head of our Old Oakland security team, who informed me that she found one of the front doors left ajar around 11:30pm. Please be conscious of making sure the doors are fully closed behind you, especially if you are leaving after 6:30pm. _\(Impacts everyone in the Guild, but not urgent - should be posted before 9:00am or after 5:30pm\)_
 
 #### **Do NOT use an @channel notification for these types of messages**:

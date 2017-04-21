@@ -35,7 +35,7 @@ Some of the things you might want to cover:
 - What do you think are your strengths and weaknesses that you bring to this goal?
 - How can we offer mutual learning support around this goal? And both stay in our ZPD?
 - How often do you want to pair? What pairing style should we use?
-- At what point do you feel the need to ask for help (via coach-que, etc.)?
+- At what point do you feel the need to ask for help (via coach-queue, etc.)?
 - How long does it take until you feel frustrated, tired, zoned out, etc., and need to take a break?
 - What feedback did you get last project that you want to work on this week?
 - Is there anything going on this week that will constrain on your time commitment to the guild and our team? (Note player support group times, appts., lunchtime activities, etc.)

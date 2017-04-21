@@ -16,7 +16,7 @@ These documents contain the latest and greatest information about our Learning O
 * [Prrr](http://prrr.apps.learnersguild.org/): Our internal pull review request system. Get your code reviewed by coaches and practitioners on a regular basis - aim for at least one PR per day!
 * [Coach Que](https://coach-queue.apps.learnersguild.org/): Pronounced "coach queue", our internal system for booking coaching sessions with more advanced learners. You'll need to be logged into Echo before you can start using Coach Que.
 
-Fun fact: Prrr and Coach-Que were built and are maintained by current Guild members.
+Fun fact: Prrr and Coach-Queue were built and are maintained by current Guild members.
 
 ## Join these Trello boards
 
