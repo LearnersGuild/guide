@@ -10,13 +10,7 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
 - [Project Review Stats](#project-review-stats)
   - [External Project Review Count](#external-project-review-count)
-  - [Internal Project Review Count](#internal-project-review-count)
   - [Review Accuracy](#review-accuracy)
-  - [Review Experience (RXP)](#review-experience-rxp)
-- [Project Contribution](#project-contribution)
-  - [Actual Contribution](#actual-contribution)
-  - [Expected Contribution](#expected-contribution)
-  - [Contribution Gap](#contribution-gap)
 
 <!-- /TOC -->
 
@@ -153,10 +147,6 @@ The following stats all relate to the activity of reviewing projects after they 
 
 The number of _other players'_ projects you've reviewed the completeness of. Represented as an integer.
 
-### Internal Project Review Count
-
-The number of your own projects you've reviewed the completeness of. Represented as an integer.
-
 ### Review Accuracy
 
 Review accuracy is a measure of how good a player is at evaluating the completeness of projects (both their own as well as others') as compared to players who have more review experience (higher RXP).
@@ -181,25 +171,6 @@ reviewAccuracy = projectReviewCount < 8 ? null : mean(20 most recent projectRevi
 
 We don't start computing accuracy for a player until that player has passed a threshold of 8 reviews. With fewer reviews that that we really don't have enough information to judge their accuracy.
 
-### Review Experience (RXP)
-
-RXP is a function of Review Accuracy of a player combined with how much experience the player has. The higher the RXP, the better this player is at assessing completeness scores of another player.
-
-It is a composite stat that is impacted by:
-
-* Review Accuracy
-* External Project Review Count
-
-For example:
-
-Two players with the same review accuracy, but Player A has done twice as many reviews as Player B. This means Player A has a higher RXP.
-Two players who have done the same number of reviews, but Player A has more review accuracy. This means that Player A has a higher RXP.
-
-#### Formula
-
-```
-(externalProjectReviewCount / 20)  + reviewAccuracy
-```
 
 
 [game-objectives]: ./Basic_Gameplay.md#objectives
