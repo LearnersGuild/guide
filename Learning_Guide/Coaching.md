@@ -1,14 +1,14 @@
 ## Coaching Guide
 
-_Original author: Diana Vashti_.
+_Original author: Diana Vashti. Thanks Di!_
 
-As a coach, the feel of the week is a lot different than working on goals. You have no specs, no codebase, and instead of a team of 1 or 2, you are working with the whole guild. You may have back-to-back “coach-queue” appointments or most of an afternoon doing code reviews off “Prrr”. With the change of pace and scenery comes a new set of skills that are ideal for sharpening during a week of coaching.
+As a coach, the feel of the week is a lot different than working on goals. You have no specs, no codebase, and instead of a team of 1 or 2, you are working with the whole guild. You may have back-to-back “coach-queue” appointments. With the change of pace and scenery comes a new set of skills that are ideal for sharpening during a week of coaching.
 
 ## How do I know if I am coaching?
 
-Once you make it to level 3 you will become eligible to coach. If it’s your first week at level 3 you will likely coach that week.
+You know you're coaching if the coaching coordinator tells you you're coaching. You'll be asked to vote for [goal 135](http://jsdev.learnersguild.org/goals/135-Coaching.html).
 
-It is important that you do not vote for a goal if you are coaching so check with the coach team lead each week you are level 3 or above to determine if you are on coach-duty or not.
+Once you make it to level 3 you will become eligible to coach. If it’s your first week at level 3 you will likely coach that week.
 
 ## What does coaching entail?
 
@@ -19,14 +19,16 @@ Check out the [Technical Coach](../Game_Manual/Levels_and_Roles.md#technical-coa
 As a coach you have 3 main responsibilities:
 
 1. **Maintain available hours for coach-queue appointments**. These are half-hour blocks learners can schedule through the coach-queue app when they are feeling blocked. Your google calendar will be the source of your availability so make sure you block off time you do not have available for appointments there.
-1. **Complete code reviews from the Prrr app**. Make yourself available to answer questions learners may have regarding your review of their code/project.
+1. **Join morning stand-ups**.
 1. **Escalating code blocks and issues to SEPs if you are unable to resolve the learners block during your appointment** (ideally, if after 15 minutes you do not feel you are on a solid path to debugging the issue, a coach should find an available SEP to bring in.)
 
 **Tip**: It is a good practice to block off time at the end and beginning of each day to focus on code reviews, and to keep as much middle-of-the-day time as possible available for coach-queue appointments.
 
 ## What relevant skills does coaching teach me?
 
-A software engineer should be able to communicate clearly, ask great questions, help others ask better questions, and find poor code/logic quickly. During a week of coaching, you should focus on the following:
+A software engineer should be able to communicate clearly, ask great questions, help others ask better questions, and find poor code/logic quickly.
+
+During a week of coaching, you should focus on the following:
 
 ### Context: Coach-queue appointments
 
@@ -36,15 +38,6 @@ A software engineer should be able to communicate clearly, ask great questions, 
 - How quickly can I determine if I am not able to help in a given situation and how do I respond?
 - Can I communicate with teams who may be having both intrapersonal and technical blocks, and am I able to help coach both programming concepts and better team patterns?
 
-### Context: Code reviews
-
-- Are the comments I leave actionable, specific, and kind?
-- Do I feel comfortable reviewing code when I don’t know 100% of what it is doing?
-- Am I missing common pitfalls when reviewing (i.e. poor indentation, confusing variable naming, not seeing when code could be easily refactored for readability)
-- Am I building confidence in my ability to analyze code that is not mine?
-- Are there major gaps in my own learning that are preventing me from giving a high-quality review and am I tracking those gaps as they are brought to my attention?
-- When I am skilled at a concept am I able to leave refactoring suggestions that consider optimization as well as readability?
-
 ### Context: Escalation
 
 - Was I able to identify within 15 minutes if I needed to escalate?
@@ -53,9 +46,6 @@ A software engineer should be able to communicate clearly, ask great questions, 
 
 ## Additional Tips
 
-- **Always prioritize participating in coaching sessions when you have escalated to an SEP**. This is one of the best opportunities to learn you may encounter. You attempted to solve a problem, and when you could not you get to immediately see how someone with a ton of experience solves the issue. If you have another appointment scheduled move it back so that you get to learn from the SEP.
+- **You must stay with the SEP when escalating so you too can learn the solution to the problem**. This is one of the best opportunities to learn you may encounter. You attempted to solve a problem, and when you could not you get to immediately see how someone with a ton of experience solves the issue. If you have another appointment scheduled move it back so that you get to learn from the SEP.
 - **If a team does not know how to explain the situation to a degree you need to be helpful, focus on coaching them towards breaking down the problem into a more manageable chunk where they can describe the issue**. Three questions to consider are: What do you think the issue is? What have you tried so far? What would you expect if it worked?
-- **If you know you will need your regular afternoon coffee break, schedule it ahead of time, you can get booked up quickly.**
-- **Ask for SEPs or other coaches to review your code reviews.**
-- **Review code reviews, see what other folks are catching that you may not be.**
-- **If you know right away you cannot un-block a block in 30 minutes, escalate ASAP and make sure to watch the SEP unblock the learner/team.**
+- **Take breaks when you can. Coaching is full-time work, so make sure to pace yourself.**

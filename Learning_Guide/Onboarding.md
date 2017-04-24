@@ -10,13 +10,12 @@ These documents contain the latest and greatest information about our Learning O
 
 2. Culture Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
 
-## Join and start using Echo, Prrr, and Coach Que
+## Join and start using Echo and Coach Que
 
 * [Echo](https://echo.learnersguild.org/): You'll receive a special link to sign into Echo ~1 week before your start date. Browse the available channels and join any you want to follow. **Review the in-depth guidelines for using Echo **[**here**](https://playbook.learnersguild.org/Game_Manual/Echo.html)**.**
-* [Prrr](http://prrr.apps.learnersguild.org/): Our internal pull review request system. Get your code reviewed by coaches and practitioners on a regular basis - aim for at least one PR per day!
 * [Coach Que](https://coach-queue.apps.learnersguild.org/): Pronounced "coach queue", our internal system for booking coaching sessions with more advanced learners. You'll need to be logged into Echo before you can start using Coach Que.
 
-Fun fact: Prrr and Coach-Queue were built and are maintained by current Guild members.
+Fun fact: Coach-Queue was built and is maintained by current Guild members.
 
 ## Join these Trello boards
 
@@ -85,4 +84,3 @@ Use these links to book time with a Learning Facilitator or Pro Player:
 3. If you don’t have one, [create a LinkedIn profile](https://www.linkedin.com/), update your title to "Learner" at Learners Guild, [follow Learners Guild](https://www.linkedin.com/company/learners-guild), and start friending other Learners.
 
 Have questions? Just ask. Welcome to Learners Guild.
-
