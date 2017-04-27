@@ -16,6 +16,7 @@
   * [Purpose](General/Purpose.md)
   * [Resource Links](General/Resource_Links.md)
 - [Learning Guide](Learning_Guide/README.md)
+  * [Coaching](Learning_Guide/Coaching.md)
   * [First Week](Learning_Guide/First_Week.md)
   * [Kickoff](Learning_Guide/Kickoff.md)
   * [Mindset](Learning_Guide/Mindset.md)
