@@ -6,7 +6,7 @@ These statistics (stats) are meant to reflect your progress towards the [game ob
 
 - [How to Earn Stats](#how-to-earn-stats)
 - [Weighted Average Stats](#weighted-average-stats)
-  - [XP/Week](#xp-per-week)
+  - [XP Pace](#xp-pace)
   - [Estimation Accuracy and Bias](#estimation-accuracy-and-bias)
 - [Project Review Stats](#project-review-stats)
   - [External Project Review Count](#external-project-review-count)
@@ -39,9 +39,9 @@ It can be hard to determine what constitutes _contribution_. If you are unclear,
 Each of the following stats are based on a weighted average of (up-to) 6 of your most recent projects for which the given stat was available, since not all stats are applicable for all projects. For example, if you work on a project by yourself, there won't be any team-related feedback collected in the retrospective, and as such, there won't be any team-related stats. In all of the formulas below, that's what is meant by `recentProjects`.
 
 
-### XP per Week
+### XP Pace
 
-The moving average of the XP you gained for your last 6 projects is the XP/Week.
+The moving average of the XP you gained for your last 6 projects is the XP Pace.
 
 Each goal you and your team attempt to complete, has XP attached to it.
 
