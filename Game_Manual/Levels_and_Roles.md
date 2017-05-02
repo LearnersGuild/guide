@@ -10,7 +10,7 @@ Levels are cumulative, so more advanced levels also include privileges of previo
 Advancement is not one-way: learners can move backwards if they drop below level thresholds.
 
 
-| Level | XP/Week | Other              |
+| Level | XP Pace | Other              |
 |:------|:-----|:-------------------|
 | 0     | -    | enrolled and on-boarded   |
 | 1     | >30  | got some experience, worked on some team goals  |
