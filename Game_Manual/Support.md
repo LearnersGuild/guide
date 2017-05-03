@@ -3,7 +3,7 @@
 
 ## Non-urgent Support
 
-If you need non-urgent support please [create a GitHub issue on the LOS repo](https://github.com/LearnersGuild/los/issues).
+If you need non-urgent support please [create a GitHub issue on the LOS repo](https://github.com/LearnersGuild/los/issues/new).
 
 ### Examples
 
