@@ -2,6 +2,8 @@
 
 These statistics (stats) are meant to reflect your progress towards the [game objectives][game-objectives], as well as your overall "health" in the game.
 
+You can view your stats in the game UI: [game.learnersguild.org](https://game.learnersguild.org/).
+
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [How to Earn Stats](#how-to-earn-stats)
