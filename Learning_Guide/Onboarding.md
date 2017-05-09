@@ -28,7 +28,7 @@ You'll get a link to join Learners Guild Slack about a week before your start da
 
 We use these Trello boards to centralize important guild-wide information. Join by clicking on the links below:
 
-1. **Space Roles**: a place where we capture and fill roles needed to share collective responsibility for keeping our space running smoothly. More senior learners will occupy all space roles for your first five to seven weeks here so you can focus on getting situated. This doesn’t mean you shouldn’t pitch in to keep our shared space clean! This responsibility is shared by all of us: [https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles](https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles)
+1. **Space Roles**: a place where we capture and fill roles needed to keep our space running smoothly. One house will own the "core space roles" each month. This doesn’t mean you shouldn’t pitch in to keep our shared space clean! This responsibility is shared by all of us: [https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles](https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles)
 
 2. **Space Agreements**: read more about these in the pinned post in the \#space channel: [https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements)
 
