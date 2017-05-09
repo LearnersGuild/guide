@@ -24,7 +24,7 @@ You'll get a link to join Learners Guild Slack about a week before your start da
 
 **Please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
 
-# Join these Trello Boards
+## Join these Trello Boards
 
 We use these Trello boards to centralize important guild-wide information. Join by clicking on the links below:
 
@@ -78,9 +78,9 @@ Use these links to book time with a Learning Facilitator \(LF\) or Software Engi
 
 ## Join the Guild community
 
-1. If you haven’t yet, [Like us](https://www.facebook.com/LearnersGuild/\) on Facebook, [join the LG Facebook group]\(https://www.facebook.com/groups/LearnersGuild/), and engage in conversations with prospective learners.
+1. If you haven’t yet, [Like us](https://www.facebook.com/LearnersGuild/%29 on Facebook, [join the LG Facebook group]%28https://www.facebook.com/groups/LearnersGuild/), and engage in conversations with prospective learners.
 
-2. Follow us on [Twitter](https://twitter.com/learnersguildus\): @LearnersGuildUS / and on [Instagram]\(https://www.instagram.com/learnersguild/)
+2. Follow us on [Twitter](https://twitter.com/learnersguildus%29: @LearnersGuildUS / and on [Instagram]%28https://www.instagram.com/learnersguild/)
 
 3. If you don’t have one, [create a LinkedIn profile](https://www.linkedin.com/), update your title to "Learner" at Learners Guild, [follow Learners Guild](https://www.linkedin.com/company/learners-guild), and start friending other Learners.
 
