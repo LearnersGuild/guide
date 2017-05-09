@@ -28,11 +28,12 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
  
 **Other Prep**
 
+- Re-read the Playbook guide on [Cognitive Apprenticeship](https://playbook.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
 - Read these sections of the [COS Guide](https://cos.learnersguild.org/):
  - [Introduction](https://cos.learnersguild.org/)
- - [Overview](https://cos.learnersguild.org/COS_Overview/)(including the sections on Player Support Group & Practices)
- - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/)(including individual sections for each tension)
-- Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)(1 hour)
+ - [Overview](https://cos.learnersguild.org/COS_Overview/) (including the sections on Player Support Group & Practices)
+ - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) (including individual sections for each tension)
+- Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#) (1 hour)
 
 
 ## Strongly Recommended but not mandatory
@@ -93,6 +94,10 @@ Your focus should be on developing the above skills. The below tasks are good pl
 - Boost your typing speed to at least 50 WPM for regular English typing (any typing program will do, but this one is free: [keybr][keybr])
 - Boost your typing speed to at least 25 WPM for programming language typing using [typing.io][typing-io]
 - Practice shortcuts using [Shortcut Foo][shortcut-foo], especially the Atom, Command Line, Git, GitHub, Chrome Dev Tools, and JavaScipt Programming Dojos
+
+#### Apprenticeship Mindset
+
+[Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html): Guidance for the Aspiring Software Craftsman
 
 #### Other Useful Resources
 
