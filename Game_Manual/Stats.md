@@ -43,6 +43,8 @@ Each of the following stats are based on a weighted average of (up-to) 6 of your
 
 ### XP Pace
 
+XP = Experience Points. It is your experience, aggregated and condensed to a number.
+
 The moving average of the XP you gained for your last 6 projects is the XP Pace.
 
 Each goal you and your team attempt to complete, has XP attached to it.
