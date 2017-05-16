@@ -26,6 +26,7 @@
   * [Goals](Learning_Guide/Goals.md)
     * [Clarity on specs](Learning_Guide/Goals/Clarity_on_specs.md)
     * [Improvement](Learning_Guide/Goals/Improvement.md)
+    * [Benchmark Goals](Learning_Guide/Goals/Benchmark_Goals.md)
   * [Review](Learning_Guide/Review.md)
     * [Forked Repo](Learning_Guide/Review/Forked_Repo.md)
     * [Initial Repo](Learning_Guide/Review/Initial_Repo.md)
