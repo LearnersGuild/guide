@@ -70,16 +70,15 @@ Role Accountabilities:
 #### Moderator
 
 Purpose:
-- Learning Operating System is Superbly moderated
+- Learning Operating System is superbly moderated
 
 Role Accountabilities:
 - Moderating LOS
-- Setting up and maintaining Craft Repo
-- Defining, communicating, and enforcing game over conditions for learners
 - Defining game play hours
-- Defining stats thresholds to optimize for learners who are a bad fit for the guild leaving as early as possible
-- Administering Echo users and teams
-- Selecting coaches / maintaining coach rotation schedule
+- Deactivating users who leave the Guild
+- Supporting learners with requests to change data (e.g., reopen past retro, project / goal reassignment)
+- Editing, updating, and maintainint moderation-related parts of the playbook
+- Managing the rollout of LOS and COS changes to learners
 
 ### Why levels?
 
