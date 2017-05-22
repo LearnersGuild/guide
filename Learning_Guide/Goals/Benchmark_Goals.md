@@ -54,5 +54,13 @@ During this phase of the evaluation, the evaluator is trying to answer the follo
 - Does the learner understand the code? Can they explain how it works?
 - Is the learner aware of their own skill and knowledge boundaries?
 
+To prepare for this assessment, consider the following questions. These may or may not be things the assessor will ask about. You should be prepared to answer any of them.
+
+- How are the project files organized? What does each file do?
+- What is the role of this function or subroutine?
+- How will the computer read this code?
+- Why did you make this design decision?
+- What are the inputs and outputs?
+- How did you arrive at your solution? Walk through your commit history to show how your solution grew.
 
 [initiation-integration-benchmark]: http://jsdev.learnersguild.org/goals/312
