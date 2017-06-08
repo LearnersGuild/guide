@@ -1,5 +1,7 @@
 # Phase Assessments
 
+This document explains how
+
 <!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Schedule & Pacing](#schedule-pacing)
@@ -8,6 +10,7 @@
 	- [Evaluation / Interview](#evaluation-interview)
 		- [Artifact Evaluation](#artifact-evaluation)
 		- [Technical Interview](#technical-interview)
+	- [Membership Review](#membership-review)
 
 <!-- /TOC -->
 
@@ -85,3 +88,14 @@ To prepare for this assessment, learners should consider the following questions
 - Why did you make this design decision?
 - What are the inputs and outputs?
 - How did you arrive at your solution? Walk through your commit history to show how your solution grew.
+
+### Membership Review
+
+After the evaluation & interview are completed, Membership will make a decision and inform the learner.
+
+In most cases, the decision will be either one of these two options:
+
+- **Pass**: learner continues on to the next phase
+- **Fail**: learner begins membership exit process
+
+If, however, the learner completes and fails the assessment _early_ (i.e. before the 8th week of their phase), then they can re-take the assessment again on or before the 8th week of their phase. Learners can only re-take an assessment once.
