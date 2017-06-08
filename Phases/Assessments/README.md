@@ -14,6 +14,7 @@ Note that there is no assessment for phases 4 or 5.
 
 - [Schedule & Pacing](#schedule-pacing)
 - [The Process](#the-process)
+	- [Requesting an Early Assessment](#requesting-an-early-assessment)
 - [Preparing for the Assessment](#preparing-for-the-assessment)
 - [Getting Support](#getting-support)
 - [Evaluation / Interview](#evaluation-interview)
@@ -43,6 +44,10 @@ The Moderator will send Learners the link to their assessment challenge on Monda
 Evaluations and interviews start after lunch on Wednesday and continue until they are done, ideally before 6pm on Friday.
 
 After the evaluation and interviews have been completed, the results will be sent to Membership to make a decision and inform the learner whether they passed.
+
+### Requesting an Early Assessment
+
+If you would like to take the assessment _before_ the 8th week of your phase, you can request an early assessment from the Moderator. The Moderator will attempt to respond to these requests as best they can, but there is no guarantee that every request will be immediately met.
 
 ## Preparing for the Assessment
 
