@@ -1,15 +1,15 @@
 # Phase 1 Assessment
 
-The Phase 1 assessment will test your ability to write basic JavaScript programs for the Node.js platform as well as your fundamental SQL knowledge.
+The phase 1 assessment will test your ability to write basic JavaScript programs for the Node.js platform as well as your fundamental SQL knowledge.
 
-You will not be assessed on your HTML, CSS, or other web-specific skills.
+You will _not_ be assessed on your HTML, CSS, or other web-specific skills.
 
 ## Skills Assessed
 
 - Programming (Beginner Level)
 - JavaScript (Beginner Level)
 - Node.js (Beginner Level)
-- Testing in Node.js (Beginner Level)
+- Testing (Beginner Level)
 - SQL (Beginner Level)
 
 Some examples of specific things you _may_ be required to do as part of the assessment (this is **not** an exhaustive list):
