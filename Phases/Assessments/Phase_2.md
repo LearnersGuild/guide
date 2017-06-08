@@ -7,7 +7,7 @@ You will _not_ be assessed on your ability to build full-stack web apps. You wil
 ## Skills Assessed
 
 - HTML & CSS (Beginner Level)
-- HTTP / Web Applications (Beginner Level)
+- HTTP Applications (Beginner Level)
 - HTTP (Beginner Level)
 - Asynchronous Programming (Beginner Level)
 - Node.js (Intermediate Level)

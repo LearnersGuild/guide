@@ -6,16 +6,7 @@ Note that the phase 3 assessment differs significantly from the previous assessm
 
 ## Skills Assessed
 
-How to combine all of your HTML and CSS, HTTP Server and Browser skills together
-More JavaScript design patterns
-Full Web Application Architecture
-How Authentication works on most of the web
-Persisting web application state in a SQL database
-More advances asynchronous patters in JavaScript
-How to use Git and GitHub on a team
-How to render dynamically generated HTML
-
-- HTTP / Web Applications (Intermediate Level)
+- HTTP Applications (Intermediate Level)
 - HTML & CSS (Intermediate Level)
 - HTTP (Intermediate Level)
 - SQL (Intermediate Level)
