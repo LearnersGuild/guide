@@ -1,4 +1,4 @@
-# Playbook
+# Learner Guide
 
 - [Game Manual](Game_Manual/README.md)
   * [Basic Gameplay](Game_Manual/Basic_Gameplay.md)

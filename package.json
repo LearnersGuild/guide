@@ -1,5 +1,5 @@
 {
-  "name": "playbook",
+  "name": "guide",
   "version": "0.0.1",
   "description": "Guide for Learners",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LearnersGuild/playbook.git"
+    "url": "git+https://github.com/LearnersGuild/guide.git"
   },
   "author": "Shereef Bishay <shereef@learnersguild.org>",
   "license": "CC-BY-NC-4.0",
   "bugs": {
-    "url": "https://github.com/LearnersGuild/playbook/issues"
+    "url": "https://github.com/LearnersGuild/guide/issues"
   },
-  "homepage": "https://github.com/LearnersGuild/playbook#readme",
+  "homepage": "https://github.com/LearnersGuild/guide#readme",
   "devDependencies": {
     "gitbook": "^3.1.1",
     "gitbook-cli": "^2.3.0",
