@@ -16,7 +16,7 @@ Make sure to read the interview overview pages. This is where you'll find the mo
 
 In addition, we recommended that you take following steps to lessen the effects of test anxiety.
 
-- Before the interview...
+- Before the coding challenge...
 
   - Study the relevant skills and take notes for yourself.
 
@@ -24,7 +24,7 @@ In addition, we recommended that you take following steps to lessen the effects 
 
   - Get plenty of sleep. Exercise. Eat well. Take care of yourself. :)
 
-- During the interview...
+- During the coding challenge...
 
   - Make sure to read the instructions very closely.
 

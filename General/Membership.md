@@ -10,7 +10,7 @@ This means that we are selective about who gets to become a Learner at the Guild
 
 3. **Log time off if you will miss more than one hour of the day**. Email [timeoff@learnersguild.org](mailto:timeoff@learnersguild.org) to log a half (1-4 hours) or full (4+ hours) personal or professional development day. Don't exceed 8 personal days, or 3 professional development days.
 
-4. Comply with our [code of conduct](https://playbook.learnersguild.org/Policies/Code_of_Conduct.html), [drug & alcohol policy](https://playbook.learnersguild.org/Policies/Drug_and_Alcohol_Policy.html) and [building policies](https://playbook.learnersguild.org/Policies/Oakland_Building.html).
+4. Comply with our [code of conduct](/Policies/Code_of_Conduct.md), [drug & alcohol policy](/Policies/Drug_and_Alcohol_Policy.md) and [building policies](/Policies/Oakland_Building.md).
 
 5. **Respond to feedback with best intentions, and demonstrate an interest in constant improvement.**
 

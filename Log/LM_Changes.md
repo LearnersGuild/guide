@@ -22,17 +22,17 @@ This document outlines the planned changes from a high level. More details to fo
 
 #### New stuff
 
-*- Phases (5 of them, designed to be completed in sequence)*
+- Phases (5 of them, designed to be completed in sequence)
 
-*- Phase Interviews*
+- Phase Interviews
 
-*- Increased technical support (appropriately structured for each phase)*
+- Increased technical support (appropriately structured for each phase)
 
-*- New membership review process based on interviews*
+- New membership review process based on interviews
 
-*- Increased structure and guidance in earlier phases (a self-paced, linear curriculum)*
+- Increased structure and guidance in earlier phases (a self-paced, linear curriculum)
 
-*- More career prep support in final phase*
+- More career prep support in final phase
 
 #### Where to find more information
 
@@ -50,11 +50,9 @@ By 6pm on Friday June 16, 2017, learners must choose whichever interview that th
 
 **Review the phase interviews to learn what it will entail so that you can properly choose and prepare.**
 
-* **LINK TO PHASE 2 INTERVIEW**
-
-* **LINK TO PHASE 3 INTERVIEW**
-
-* **LINK TO PHASE 4 INTERVIEW**
+- [Phase 2 Interview](/Phases/Interviews/Phase_2.md)
+- [Phase 3 Interview](/Phases/Interviews/Phase_3.md)
+- [Phase 4 Interview](/Phases/Interviews/Phase_4.md)
 
 ##### Sorting Interview Process
 
