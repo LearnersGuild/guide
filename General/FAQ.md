@@ -33,7 +33,7 @@ With other learners, you collectively choose the projects you work on - no speci
 - you complete the weekly retrospective
 - you attend daily standups, weekly Player Support Group meetings (and weekly COS Workshops, in your first five weeks)
 - you serve as a coach when it's your turn to do so
-- you observe and adhere to the policies outlined in the Playbook
+- you observe and adhere to the policies outlined in the Learner Guide
 
 Similar to the projects you choose to work on, you may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
 

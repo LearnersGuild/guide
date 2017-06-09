@@ -77,7 +77,7 @@ Role Accountabilities:
 - Defining game play hours
 - Deactivating users who leave the Guild
 - Supporting learners with requests to change data (e.g., reopen past retro, project / goal reassignment)
-- Editing, updating, and maintaining moderation-related parts of the playbook
+- Editing, updating, and maintaining moderation-related parts of the guide
 - Managing the rollout of LOS and COS changes to learners
 
 ### Why levels?

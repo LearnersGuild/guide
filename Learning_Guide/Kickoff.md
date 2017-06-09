@@ -15,7 +15,7 @@ Once projects have been formed, the first thing the team needs to do is to creat
 In most cases, the artifact will be a GitHub repository in the account of a learner on the team. If the goal has its own base repo, you can fork it to create this repo.
 
 - Create a repo for your project (or fork the goal repository, if it exists\*) and make a simple first commit. Your first commit should write or update the README.md file with your project's name, team members, a link to the goal and a LICENSE file (unless it already exists).
-- Once you've done that, set the artifact for your project. For example: `/project set-artifact #team-name http://github.com/LearnersGuild/playbook`
+- Once you've done that, set the artifact for your project. For example: `/project set-artifact #team-name http://github.com/LearnersGuild/guide`
 
 Make your first commit to a master branch. You should aim to have this step done **within a few minutes** of finding your team.
 

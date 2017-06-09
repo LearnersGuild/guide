@@ -25,10 +25,10 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 - Intermediate Front End Development Projects (10-30 hours)
  - Build a Random Quote Machine Incomplete
  - Show the Local Weather Incomplete
- 
+
 **Other Prep**
 
-- Re-read the Playbook guide on [Cognitive Apprenticeship](https://playbook.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
+- Re-read the Learner Guide section on [Cognitive Apprenticeship](https://guide.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
 - Read these sections of the [COS Guide](https://cos.learnersguild.org/):
  - [Introduction](https://cos.learnersguild.org/)
  - [Overview](https://cos.learnersguild.org/COS_Overview/) (including the sections on Player Support Group & Practices)

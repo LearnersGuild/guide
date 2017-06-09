@@ -6,7 +6,7 @@ Welcome to Learners Guild! This guide was developed to help you get settled and 
 
 These documents contain the latest and greatest information about our Learning Operating System \(LOS\) and Culture Operating System \(COS\). Almost anything you want to know about how things work at Learners Guild is contained in one of these documents:
 
-1. Learning Operating System: Playbook: [https://playbook.learnersguild.org/](https://playbook.learnersguild.org/)
+1. Learning Operating System: Learner Guide: [https://guide.learnersguild.org/](https://guide.learnersguild.org/)
 
 2. Culture Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
 
