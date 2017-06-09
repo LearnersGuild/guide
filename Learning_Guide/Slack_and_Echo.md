@@ -1,10 +1,10 @@
-# Echo
+# Slack & Echo
 
 Echo is the persona that represents the LOS system. We use [Slack](https://learnersguild.slack.com/) as our primary system for communication at the Guild, and you'll occasionally see messages from [Echo](https://learnersguild.slack.com/messages/@echo/) in slack. You can sign-in to Slack at [https://learnersguild.slack.com](https://learnersguild.slack.com). You can also check out your stats at [https://game.learnersguild.org/](https://game.learnersguild.org/).
 
 Echo and the LOS are under active development. If you notice something that could be better, or you encounter a bug, please [create a GitHub issue on the LOS repo](https://github.com/LearnersGuild/los/issues/new). We want your feedback. Together we can build a more perfect Learning Operating System.
 
-## Commands
+## Slack Commands
 
 Echo supports a variety of commands for interacting with the game right from Slack.
 

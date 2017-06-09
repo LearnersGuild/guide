@@ -1,7 +1,5 @@
 # Cognitive Apprenticeship
 
-The Learning Operating System (LOS, for short) at Learners Guild uses a mechanic called cognitive apprenticeship.
-
 Cognitive Apprenticeship is a method for transferring knowledge and skills from one person to another. It is based on the simple idea that humans learn from observing each other, imitating each other, and then trying to innovate or improve on what they see others doing.
 
 ## How to Use this Guide
@@ -42,7 +40,7 @@ Cognitive Apprenticeship can be practiced by moving sequentially and repeatedly 
 
 ### Preparation
 
-Both experienced practitioners and learners must prepare to do work together. At Learners Guild, the preparation phase of Cognitive Apprenticeship occurs during Goal Creation, Goal Selection, Project Formation, and the Project Kickoff. The goal of the preparation phase is for both practitioner and learner to make themselves ready for the work that will be performed on the chosen project.
+Both experienced practitioners and learners must prepare to do work together. The goal of the preparation phase is for both practitioner and learner to make themselves ready for the work that will be performed on the chosen project.
 
 _Questions to answer during the preparation phase_
 

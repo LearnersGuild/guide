@@ -1,4 +1,4 @@
-# First Week Guide
+# First 2 Weeks Guide
 
 ### First Monday
 
@@ -16,37 +16,27 @@
 
 **10.15am**
 
-- Find your project team
-- [Project Kickoff](Kickoff.md)
+- Find your phase lead, they'll get you set up
 
 **5:30pm to 6:00pm**
 
-- Meet with learning facilitators and other noobs for a checkout
+- Meet with learning facilitators and other new learners for a checkout
 
 ### First Tuesday through Friday
 
-- Checkin with your on boarding mentor every morning and evening
+- Checkin with your onboarding mentor every morning and evening
 
 ### First Friday
-
-**4:30pm to 5:00pm**
-
-- Retrospective walkthrough with all noobs, onboarding mentors and learning facilitators
-
-**5:00pm to 5:45pm**
-
-- Fill out written [retrospective](Retrospectives.md)
-- Have in-person retrospective with your team/pair
 
 **5:45pm to 6:00pm**
 
 - Checkout with your onboarding mentor and say thanks and goodbye
 
 
-### Second week
+### Second Week
 
 - Schedule a 1:1 with learning facilitator for your house
 
-### Second Tuesday:
+### Second Tuesday
 
 - [Player Support Group](https://cos.learnersguild.org/COS_Overview/Player_Support_Group.html): A short welcome ceremony for you

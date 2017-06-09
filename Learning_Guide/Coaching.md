@@ -4,17 +4,7 @@ _Original author: Diana Vashti. Thanks Di!_
 
 As a coach, the feel of the week is a lot different than working on goals. You have no specs, no codebase, and instead of a team of 1 or 2, you are working with the whole guild. You may have back-to-back "coach-queue" requests. With the change of pace and scenery comes a new set of skills that are ideal for sharpening during a week of coaching.
 
-## How do I know if I am coaching?
-
-You know you're coaching if the coaching coordinator tells you you're coaching. You'll be asked to vote for [goal 135](http://jsdev.learnersguild.org/goals/135-Coaching.html).
-
-Once you make it to level 3 you will become eligible to coach. If it’s your first week at level 3 you will likely coach that week.
-
-## What does coaching entail?
-
-Check out the [Technical Coach](../Game_Manual/Levels_and_Roles.md#technical-coach) outline in [Levels and Roles](../Game_Manual/Levels_and_Roles.md).
-
-### Okay, but what does my day actually look like?
+### What does my day actually look like?
 
 As a coach you have 3 main responsibilities:
 
