@@ -6,8 +6,6 @@
   * [Cognitive Apprenticeship](Game_Manual/Cognitive_Apprenticeship.md)
   * [Echo](Game_Manual/Echo.md)
   * [Levels And Roles](Game_Manual/Levels_and_Roles.md)
-  * [Membership Expectations](Game_Manual/Membership_Expectations.md)
-  * [Membership Review](Game_Manual/Membership_Review.md)
   * [Stats](Game_Manual/Stats.md)
   * [Support](Game_Manual/Support.md)
 - [General](General/README.md)
