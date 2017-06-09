@@ -6,7 +6,7 @@ To start phases 2, 3, and 4, learners must pass an interview (interviews include
 
 ### Pacing
 
-Each phase is designed to contain curriculum that should be able to be completed in 6 weeks, but *must* be completed within 8 weeks. This pacing requirement *includes* the 1 week that will be necessary to pass the phase interview (which includes a coding challenge as well as a technical interview).
+Each phase is designed to contain curriculum that should be able to be completed in 5 weeks, with the expectation that learners take the phase interview in their 6th week. Phases 1-3 *must* be completed within 8 weeks, so the latest a learner can take a phase interview is in week 8.
 
 Learners may choose to complete a phase interview at any time during the phase, but, there are two rules:
 
@@ -24,7 +24,7 @@ Here you’ll develop fundamental skills so that you can begin to take on more a
 
 #### P2: Foundations 2
 
-Foundations 2 delves deeper into foundational topics introduced in F1, while also introducing new material like how to create static HTML and CSS pages and use the latest version of JavaScript.
+Foundations 2 delves deeper into foundational topics introduced in F1, while also introducing new material like how to create static HTML and CSS pages, build HTTP servers, and use the latest version of JavaScript to write asynchronous code.
 
 To start Phase 2, you must pass the [Phase 2 interview](./Interviews/Phase_2.md).
 

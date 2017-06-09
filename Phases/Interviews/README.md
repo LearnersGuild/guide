@@ -1,7 +1,5 @@
 # Phase Interviews
 
-This document explains how phase interviews will work.
-
 To learn what each phase interview will cover and how to prepare, see the phase-specific interview pages:
 
 - [Phase 2](./Phase_2.md)
@@ -11,18 +9,6 @@ To learn what each phase interview will cover and how to prepare, see the phase-
 - [Phase 4](./Phase_4.md)
 
 Note that there is no interview for phases 1 or 5.
-
-### The Process
-
-**Note:** This process is identical *regardless* of which phase interview is being attempted.
-
-When a learner feels ready to attempt an interview, a facilitator will assign them to a phase interview. SEPs will be available to support for the phase interview coding challenge, and learners should have few or no meetings to attend during that week.
-
-A facilitator will send learners the link to their interview challenge on Monday morning. Learners will then have **2.5 days** to work on the coding challenge for the interview and complete as much as they can. Learners _must submit_ their solution/artifact by **1pm on Wednesday**.
-
-Evaluations and interviews start after lunch on Wednesday and continue until they are done, ideally before 6pm on Friday.
-
-After the evaluation and interviews have been completed, the results will be sent to Membership to make a decision and inform the learner whether they passed.
 
 ### Preparing for the Interview Coding Challenge
 
@@ -72,7 +58,7 @@ On a typical project, code evolves over time. Lines, modules, and functions are 
 
 As an extreme example, if there was only one commit, with all of the final code included in working form, that would look suspicious.
 
-If a learner follows good git hygiene (commit often, write clear commit messages, and push at least three times daily), this part of the evaluation should be straight-forward and not raise any flags.
+If a learner follows good git hygiene (commit and push often, write clear commit messages, etc.), this part of the evaluation should be straight-forward and not raise any flags.
 
 **How complete is the code relative to the specifications?**
 
@@ -90,7 +76,7 @@ When evaluating completeness, the evaluator will:
 
 #### Technical Interview
 
-During the technical interview, an interviewer will meet (via video chat) with the learner, in a 1:1 setting. Together (for about 30 minutes), they will dig in to various parts of the code that was submitted.
+During the technical interview, an interviewer will meet (via video chat) with the learner, in a 1:1 setting. Together (for about 30 minutes), they will dig into various parts of the code that was submitted.
 
 The interviewer is trying to answer the following questions:
 
