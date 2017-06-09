@@ -1,8 +1,8 @@
 # Membership
 
-### Learners Guild is proud to create a pathway to a dignified livelihood and to make that pathway accessible through the idea of *investment*. Learners Guild invests in your potential and aligns our incentives with yours, instead of burdening you with fee-for-service debt that is disconnected from your outcomes. We don’t want to take your money and you not get a job. No thanks.
+Learners Guild is proud to create a pathway to a dignified livelihood and to make that pathway accessible through the idea of *investment*. Learners Guild invests in your potential and aligns our incentives with yours, instead of burdening you with fee-for-service debt that is disconnected from your outcomes. We don’t want to take your money and you not get a job. No thanks.
 
-### This means that we are selective about who gets to become a Learner at the Guild, and who* *we invest in. It also means that we hold high standards for how each Learner participates in our growing community. If you’re learning with us at the Guild, we are in good faith providing resources to you upfront in hopes that you will succeed in the near future. In order to secure our investment, we have the following expectations you:
+This means that we are selective about who gets to become a Learner at the Guild, and who we invest in. It also means that we hold high standards for how each Learner participates in our growing community. If you’re learning with us at the Guild, we are in good faith providing resources to you upfront in hopes that you will succeed in the near future. In order to secure our investment, we have the following expectations you:
 
 1. **Show up from 9 to 6.** Post in your house and project channels if you're running late or leaving early.
 
