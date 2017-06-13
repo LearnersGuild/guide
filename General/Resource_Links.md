@@ -2,7 +2,7 @@
 
 ### LOS
 - [Learner Guide](https://guide.learnersguild.org/)
-- [Stats](https://game.learnersguild.org)
+- [Stats](https://echo.learnersguild.org)
 - [Stats explanation in Learner Guide](https://guide.learnersguild.org/Game_Manual/Stats.html)
 - [Filing an issue with LOS](https://github.com/LearnersGuild/los/issues/new)
 - [Calendly for Deonna](https://calendly.com/deonna)
