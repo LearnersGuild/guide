@@ -23,7 +23,7 @@ A software engineer should be able to communicate clearly, ask great questions, 
 
 During a week of coaching, you should focus on the following:
 
-### Context: Coach-queue sessions
+### Context: Coaching sessions
 
 - Am I asking high-quality questions? Was I able to communicate without words like: thing, stuff, and this/that/those.
 - Can I quickly establish what I need from the learner to start helping them, and ask for it in a clear way?
