@@ -2,16 +2,11 @@
 
 ### LOS
 - [Learner Guide](https://guide.learnersguild.org/)
-- [Stats](https://echo.learnersguild.org)
-- [Stats explanation in Learner Guide](https://guide.learnersguild.org/Game_Manual/Stats.html)
+- [Echo](echo.learnersguild.org)
 - [Filing an issue with LOS](https://github.com/LearnersGuild/los/issues/new)
-- [Calendly for Deonna](https://calendly.com/deonna)
 - [Calendly for Jared](https://calendly.com/lg-jared)
 - [Calendly for Jrob](https://calendly.com/jrob-lg)
 - [Calendly for Punit](https://calendly.com/punitrathore)
-- [Prrr (request a review of your pull request)](http://prrr.apps.learnersguild.org)
-- [Coach Queue (request help from a coach)](https://coach-queue.apps.learnersguild.org)
-- [Echo](echo.learnersguild.org)
 
 ### COS
 - [COS Guide](https://cos.learnersguild.org/)
