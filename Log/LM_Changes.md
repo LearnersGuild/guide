@@ -64,8 +64,12 @@ A facilitator will send learners the link to their interview challenge on Monday
 
 Evaluations and interviews start after lunch on Wednesday and continue until they are done, ideally before 6pm on Friday (6/23).
 
-If learners pass the phase interview they take, they are placed into the next phase. Furthermore, if a learner passes the P4 interview, and has been here more than 32 weeks, they will be allowed to choose whether they’d like to be in P4 or P5.
+Here's how the process will work:
 
-If learners do not pass the phase interview they choose, they are placed into the previous phase. In this case, they will have one more attempt to pass the interview.
+- Interview for the most difficult phase you think you can get into.
+- After the interview you’ll either be accepted into the phase you interviewed for (e.g. if you selected the Phase 3 interview, you’d be placed in Phase 3), or
+- If you are not accepted, you’ll be placed in the phase below (e.g if you selected the Phase 3 interview, you’d be placed in Phase 2).
+- In some cases, your interviewer may recommend you move to an earlier phase - you can decide whether to take their recommendation.
+- No matter which phase you land in, or your original start date at the Guild, _you’ll have up to 8 weeks and 2 interview attempts_ to move into the next phase.
 
-If you don’t pass the Phase Interview you select, the amount of time you have to re-interview for that phase will vary by phase and start date.
+These changes should encourage you to aim high - there’s no additional risk to interviewing for a later phase.
