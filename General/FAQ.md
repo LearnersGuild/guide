@@ -12,7 +12,7 @@ See the [Time Commitment][time-commitment] page
 
 Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process][cos-conflict-resolution-process]. Usually, this is because they have consistently violated our shared agreements.
 
-**Can I re-join a later if it turns out the timing isn't good for me?**
+**Can I re-join a later cohort if it turns out the timing isn't good for me?**
 
 We make selections carefully and cannot guarantee you a spot at another time. Please make sure that you've considered all scheduling challenges ahead of time so that you can commit to your assigned start date.
 
@@ -28,22 +28,17 @@ By signing this contract, you're letting us know that you are certain about your
 
 During the fourth week of the program, you'll have an opportunity to reflect on your first three weeks at Learners Guild and on the path ahead. If for some reason you've decided that becoming a software engineer is not the path you want to pursue, or that you don't wish to continue pursuing that path with Learners Guild, you'll have an opportunity to leave the program and pay only a $250 cancellation fee. Past that point, you are financially committed and obligated to the full Income Share Agreement with Learners Guild.
 
-**What's required? What's optional? (Projects, Player Support Group, COS Workshops)**
+**What's required? What's optional?**
 
-With other learners, you collectively choose the projects you work on - no specific project is required, many things may be offered or suggested by a Practitioner or Learning Facilitator. What is required is that you participate fully in the structure of the program:
+What is required is that you participate fully in the structure of the program:
 
-- you vote on choosing a goal and join a project to work towards each week
-- you dedicate yourself to it for the week
-- you complete the weekly retrospective
+- you work on the curriculum for the phase you're in
+- you dedicate yourself to your work and your team (if you have one) for the week
+- you complete any retrospectives or feedback
 - you attend daily standups, weekly Player Support Group meetings (and weekly COS Workshops, in your first five weeks)
-- you serve as a coach when it's your turn to do so
-- you observe and adhere to the policies outlined in the Learner Guide
+- you observe and adhere to the [policies](/Policies/) outlined in the Learner Guide
 
-Similar to the projects you choose to work on, you may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
-
-**What if I start a project and don't want to keep working on it?**
-
-Talk to your team and see if you can come to a compromise. Ultimately, the choice is yours, but abandoning your team will have consequences for your stats (not to mention your social standing among your peers). The same rules apply as in a workplace: you are responsible for your own productivity, and if you're not happy on a project, you should tell your team and work together to find a way forward.
+You may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
 
 **Can I choose who I want to work with?**
 
