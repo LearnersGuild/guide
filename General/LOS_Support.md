@@ -7,7 +7,6 @@ If you need non-urgent support please [create a GitHub issue on the LOS repo](ht
 
 ### Examples
 
-- A completeness review value needs to be changed
 - I cannot upload an avatar image
 
 ## Urgent Support
@@ -17,4 +16,4 @@ If you need urgent support please ask for it in the [los-support slack channel](
 ### Examples
 
 - I am on the wrong team
-- I am on the wrong goal
+- I am in the wrong phase
