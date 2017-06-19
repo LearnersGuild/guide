@@ -24,5 +24,8 @@
     "gitbook-cli": "^2.3.0",
     "gitbook-summary": "^1.1.0",
     "rimraf": "^2.4.3"
+  },
+  "dependencies": {
+    "gitbook-plugin-embed-pdf": "^1.0.1"
   }
 }

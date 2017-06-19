@@ -1,6 +1,6 @@
 # Learning Model Changes
 
-_To see FAQs about the changes that happened in the summer of 2017, check out the [pretty PDF](/images/FAQ-Summer-2017-Upgrade.pdf)._
+_To see FAQs about the changes that happened in the summer of 2017, check out the [pretty PDF](/General/FAQ_Summer_2017_Upgrade.md)._
 
 ---
 

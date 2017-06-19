@@ -1,6 +1,7 @@
 # Learner Guide
 
 - [General](General/README.md)
+  * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
   * [First Weeks](General/First_Weeks.md)
   * [Guidelines](General/Guidelines.md)
