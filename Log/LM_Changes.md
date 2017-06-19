@@ -1,5 +1,9 @@
 # Learning Model Changes
 
+_To see FAQs about the changes that happened in the summer of 2017, check out the [pretty PDF](/images/FAQ-Summer-2017-Upgrade.pdf)._
+
+---
+
 Based on your feedback and what we’ve observed over the past few months, we're making some significant changes to the learning model that will go into effect starting June 19, 2017.
 
 This document outlines the planned changes from a high level. More details to follow.

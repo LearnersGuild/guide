@@ -1,5 +1,9 @@
 ## Frequently Asked Questions
 
+_To see FAQs about the changes that happened in the summer of 2017, check out the [pretty PDF](/images/FAQ-Summer-2017-Upgrade.pdf)._
+
+---
+
 **What is the time commitment?**
 
 See the [Time Commitment][time-commitment] page
