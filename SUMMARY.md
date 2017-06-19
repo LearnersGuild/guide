@@ -7,7 +7,6 @@
   * [Guidelines](General/Guidelines.md)
   * [Holiday List](General/Holiday_List.md)
   * [LOS Support](General/LOS_Support.md)
-  * [Membership Reviews](General/Membership_Reviews.md)
   * [Membership](General/Membership.md)
   * [Onboarding](General/Onboarding.md)
   * [Purpose](General/Purpose.md)
