@@ -4,38 +4,39 @@
 
 Welcome!
 
-Learners Guild's purpose is a dignified livelihood for everyone. Our mission is to  create the opportunity  for anyone who is willing and able to become a software developer to do so.
+Learners Guild's mission is to make pathways to tech jobs more accessible for anyone who is willing and able to become a web developer by investing in their potential, inviting them to participate in, and contribute to, a thriving learning culture, and providing learning supports along the way.
 
-We are working to build a purpose driven organization, and a thriving learning culture. That's an easy thing to want and say, but it's difficult to practice. It takes active effort to articulate our guiding principles, and our values, and to live them day to day.
+This Guide is the official repository for all of our agreements, policies, operating models, values and guiding principles. It is meant to orient you to how learning happens at the Guild by offering an overview of the learning model and how you progress through it, as well as resources and strategies for learning. The Guide also shares Guild policies and the terms of Guild membership.
 
-This repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be a living and dynamic support of the way we are working and learning together. As a learning organization, we anticipate changes will be made to this guide in the future and reserve the right to amend, revise and/or withdraw parts of it. All feedback and suggestions (especially in the form of [pull requests](https://help.github.com/articles/creating-a-pull-request/) to the [guide repo](https://github.com/LearnersGuild/guide)) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
+As a living and dynamic support for the way we work and learn together, the Guide is subject to change, as such we reserve the right to amend, revise and/or withdraw parts of it. Feedback and suggestions \(especially in the form of pull requests to the guide repo\) are very appreciated.
 
 Each learner is responsible for reading, understanding, and complying with this guide. Our goal is to work together towards a learning environment that is constructive and supports both personal and professional growth.
 
-As a collective each member takes on two objectives:
+As a Learners Guild Member, each learner takes on two objectives:
 
-- **Objective 1:** Create and sustain a dignified livelihood as a software developer.
-- **Objective 2:** Cultivate a learning collective that supports me and others in achieving Objective 1.
-
+* **Objective 1:** Work diligently to create and sustain a career as a web developer.
+* **Objective 2: **Collaborate with others in building a learning culture that brings out the best in us and supports us in achieving the first objective.
 
 ## Learning Operating System
 
-The LOS is a game-enhanced learning environment for engaging in cognitive apprenticeship. It's the framework that supports us in achieving the first objective.
+The LOS is a sequenced web development training platform that aids learners in building solid programming fundamentals and meta-learning skills in the early phases of the program and scaffolds towards  self-directed, project-based learning later.
 
-The main way that enrolled learners engage with the LOS is through [Echo](http://echo.learnersguild.org).
+In other words, it's the framework that supports us in achieving the first objective. The main way enrolled learners engage with the LOS is through [Echo](https://echo.learnersguild.org/) and our [Guild Curriculum](https://curriculum.learnersguild.org/) web app.
 
-To read more about the Learning OS, visit the [Game Manual](./Game_Manual/README.md) section of the guide.
+To read more about the LOS, visit [Learning Phases](/Phases/README.md) section of the Guide.
 
 ## Culture Operating System
 
-Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
+We believe a powerful, inclusive culture is the strongest, most pervasive support structure a learning community can have. At the Guild, Learners rely on each other daily for coding and personal support, effectively building strong professional relationships and friendships that extend beyond their time at the Guild. 
 
-While this guide provides a framework by which we learn together, the [Culture Operating System](http://cos.learnersguild.org) enables us to participate in co-creating a culture that draws out the best in us.
+While LOS provides a framework by which we learn together, the [Cultural Operating System](https://cos.learnersguild.org/), or COS, defines the components of our shared culture and the processes by which members of the learning community can shape it. In short, The COS  is the framework that supports us in achieving the second objective of building a learning culture that brings out the best in us and supports us in achieving the first objective.
 
-The Cultural OS defines the components of our shared culture and the processes by which members of the learning collective  can shape it. It's the framework that supports us in achieving the second objective.
+
+
+
 
 ---
 
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
