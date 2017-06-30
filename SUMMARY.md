@@ -2,9 +2,13 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
+
   * [Membership Cancellation](General/Membership/membership-cancellation.md)
 
   * [Runway/README.md](/Runway/README.md)
+
+  * [Onboarding](/General/Onboarding.md)
+
 * [General](General/README.md)
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
