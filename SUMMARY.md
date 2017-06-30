@@ -1,6 +1,6 @@
 # Learner Guide
 
-* [Membership](/General/Membership.md)
+* [Guild Membership](/General/Membership.md)
 
   * Membership Cancellation
 
@@ -34,10 +34,12 @@
   * [Q 2](Log/q2.md)
 
 * [Phases](Phases/README.md)
+
   * [Interviews](Phases/Interviews/README.md)
     * [Phase 2](Phases/Interviews/Phase_2.md)
     * [Phase 3](Phases/Interviews/Phase_3.md)
     * [Phase 4](Phases/Interviews/Phase_4.md)
+
 * [Policies](Policies/README.md)
   * [Code Of Conduct](Policies/Code_of_Conduct.md)
   * [Complaint Policy](Policies/Complaint_Policy.md)
