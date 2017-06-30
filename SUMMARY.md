@@ -4,6 +4,7 @@
 * [Guild Membership](/General/Membership.md)
   * [Membership Cancellation](General/Membership/membership-cancellation.md)
   * [Guild Policies Overview](General/Membership/guild-policies-overview.md)
+  * [Runway](#)
 * [General](General/README.md)
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
@@ -36,7 +37,7 @@
   * [Member Privacy](Policies/Member_Privacy.md)
   * [Oakland Building](Policies/Oakland_Building.md)
   * [Time Commitment](Policies/Time_Commitment.md)
-* [Runway](Runway/README.md)
+
 * [Strategies](Strategies/README.md)
   * [Community](Strategies/Community.md)
   * [Individual](Strategies/Individual.md)
@@ -45,4 +46,6 @@
   * [Team](Strategies/Team.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [GLOSSARY](GLOSSARY.md)
+
+
 
