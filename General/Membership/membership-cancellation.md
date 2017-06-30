@@ -2,7 +2,7 @@
 
 The terms of your membership at the Guild are specified in your Enrollment Agreement. The terms of your financial agreement with the Guild is specified in your ISA contract. If at some point in your time at the Guild you decide to withdraw from the program, you may begin that process by contacting your Learning Facilitator. All financial obligations as specified in the ISA will apply.
 
-There are a few scenarios in which your membership can be cancelled by the Guild.
+**There are a few scenarios in which your membership can be cancelled by the Guild:**
 
 * Failure to meet the six Membership Expectations outlined above results in the termination of our investment and cancellation of your membership.
 
@@ -12,11 +12,9 @@ There are a few scenarios in which your membership can be cancelled by the Guild
 
 * Noncompliance with Guild policies results in membership cancellation.
 
-
+#### 
 
 #### **Guild Policies Overview**
 
-We a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Guild members must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [Guild Policies Section](/Policies/README.md).
-
-
+We have a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Guild members must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [Guild Policies Section](/Policies/README.md).
 
