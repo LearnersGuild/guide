@@ -6,7 +6,7 @@ The Guild reserves the right to terminate your membership in the Guild as set fo
 
 * Failure to meet the six Membership Expectations outlined above results in the termination of our investment and cancellation of your membership.
 
-  * _**In particular, and without exception, failure to be accepted into a new phase by week \(8\) eight of the current phase results in membership cancellation.**_
+  * _**In particular, failure to be accepted into a new phase by week \(8\) eight of the current phase results in membership cancellation.**_
 
 * Failure to uphold Guild culture.
 
