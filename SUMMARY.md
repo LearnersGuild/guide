@@ -3,13 +3,14 @@
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
 
-  * [Membership Cancellation](General/Membership/membership-cancellation.md)
+  * [Membership Termination ](General/Membership/membership-cancellation.md)
 
   * [Runway/README.md](/Runway/README.md)
 
   * [Onboarding](/General/Onboarding.md)
 
 * [General](General/README.md)
+
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
   * [First Weeks](General/First_Weeks.md)
@@ -19,6 +20,7 @@
   * [Onboarding](General/Onboarding.md)
   * [Resource Links](General/Resource_Links.md)
   * [Slack And Echo](General/Slack_and_Echo.md)
+
 * [Learning](Learning/README.md)
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
