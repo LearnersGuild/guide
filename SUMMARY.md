@@ -13,14 +13,16 @@
 
   * [Slack And Echo](/General/Slack_and_Echo.md)
 
-  * [First Weeks](/First_Weeks.md)
+  * [First Weeks](/General/First_Weeks.md)
 
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
 
   * [FAQ](General/FAQ.md)
 
   * [Guidelines](General/Guidelines.md)
+
   * [Holiday List](General/Holiday_List.md)
+
   * [LOS Support](General/LOS_Support.md)
 
   * [Resource Links](General/Resource_Links.md)
