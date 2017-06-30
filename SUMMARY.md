@@ -2,8 +2,6 @@
 
 * [Membership](/General/Membership.md)
 
-  * Membership Expectations
-
   * Membership Cancellation
 
   * Guild Policies Overview
@@ -24,13 +22,17 @@
   * [Slack And Echo](General/Slack_and_Echo.md)
 
 * [Learning](Learning/README.md)
+
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
+
 * Log
+
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
+
 * [Phases](Phases/README.md)
   * [Interviews](Phases/Interviews/README.md)
     * [Phase 2](Phases/Interviews/Phase_2.md)
