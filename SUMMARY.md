@@ -17,15 +17,17 @@
   * [Guidelines](General/Guidelines.md)
   * [Holiday List](General/Holiday_List.md)
   * [LOS Support](General/LOS_Support.md)
-  * [Onboarding](General/Onboarding.md)
+
   * [Resource Links](General/Resource_Links.md)
   * [Slack And Echo](General/Slack_and_Echo.md)
 
 * [Learning](Learning/README.md)
+
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
+
 * Log
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
