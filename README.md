@@ -25,7 +25,7 @@ In other words, it's the framework that supports us in achieving the first objec
 
 To read more about the LOS, visit [Learning Phases](/Phases/README.md) section of the Guide.
 
-## Culture Operating System
+## Cultural Operating System
 
 We believe a powerful, inclusive culture is the strongest, most pervasive support structure a learning community can have. At the Guild, Learners rely on each other daily for coding and personal support, effectively building strong professional relationships and friendships that extend beyond their time at the Guild.
 
@@ -47,19 +47,15 @@ While LOS provides a framework by which we learn together, the [Cultural Operati
 >
 > ~Hafiz
 
-As a learning community, our shared purpose is to cooperatively build a learning environment that brings out the best in all of us and enables us reach the first objective: creating and sustaining careers in web development. 
+As a learning community, our shared purpose is to cooperatively build a learning environment that brings out the best in all of us and enables us reach the first objective: creating and sustaining careers in web development.
 
-There are a couple things in place to support learners in building a strong community. 
+There are a couple things in place to support learners in building a strong community.
 
 * **The House System:** All learners belong to one of the six houses. A house is comprised of learners at various points in their time at the Guild. Houses meet twice monthly, giving learners dedicated time to offer and receive support, mentorship and encouragement.
 
 * **Onboarding Mentors:** Every new learner is paired with an existing learner - their Onboarding Mentor - who helps them settle in and navigate Guild systems and resources during their first few weeks.
 
-* **Affinity Groups:** Learner formed groups organized around shared identities, or interests. 
-
-
-
-
+* **Affinity Groups:** Learner formed groups organized around shared identities, or interests.
 
 ---
 

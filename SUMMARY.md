@@ -1,17 +1,28 @@
 # Learner Guide
 
+* [Membership](/General/Membership.md)
+
+  * Membership Expectations
+
+  * Membership Cancellation
+
+  * Guild Policies Overview
+
 * [General](General/README.md)
+
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
   * [First Weeks](General/First_Weeks.md)
   * [Guidelines](General/Guidelines.md)
   * [Holiday List](General/Holiday_List.md)
   * [LOS Support](General/LOS_Support.md)
-  * [Membership](General/Membership.md)
+
   * [Onboarding](General/Onboarding.md)
 
   * [Resource Links](General/Resource_Links.md)
+
   * [Slack And Echo](General/Slack_and_Echo.md)
+
 * [Learning](Learning/README.md)
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
