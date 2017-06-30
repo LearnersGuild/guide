@@ -1,23 +1,44 @@
 # Learner Onboarding
 
-Welcome to Learners Guild! This guide was developed to help you get settled and up to speed on our shared systems and space protocols. Got questions? Ask another learner who has been around!
+Prep work completed? Check.
+
+Start day coming up? Check.
+
+Curious about what your first week at the Guild will be like? Great!
+
+This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer questions you may have and to help you navigate the Guild once you arrive.
 
 ## Read the Guides
 
-These documents contain the latest and greatest information about our Learning Operating System \(LOS\) and Culture Operating System \(COS\). Almost anything you want to know about how things work at Learners Guild is contained in one of these documents:
+The Learner Guide \(referred to as The Guide\) and the COS Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to submit an issue to this repo, or to hang tight until the final edits are updated.
 
 1. Learning Operating System: Learner Guide: [https://guide.learnersguild.org/](https://guide.learnersguild.org/)
 
-2. Culture Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
+2. Cultural Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
+
+## Setup Direct Deposit for your Stipend
+
+If you are receiving a stipend through the **Learner Living Fund**, your first disbursement will arrive at the end of the second week of the program.
+
+1. Set up direct deposit for your stipend disbursements by calling \(813\) 724-3411 x102. Setting up direct deposit during your first week ensures that you’ll receive your first stipend disbursement electronically rather than a paper check. You’ll need the following information:
+
+   1. Bank Name
+
+   2. Bank Account Number
+
+   3. Bank Account Type \(checking or savings\)
+
+   4. ABA Routing Number
 
 ## Join and start using Slack
 
-You'll get a link to join Learners Guild Slack about a week before your start date. Browse the available channels and join any you want to follow. Please join the following channels, at a minimum:
+We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you want to follow. All new Learners are required to join the following channels:
 
+* \#phase 1
 * \#general
 * \#help
 * \#los-support
-* \#moderation
+* \#guild-announcements
 * \#oakland
 * \#onboarding
 * \#space
@@ -32,49 +53,43 @@ We use these Trello boards to centralize important guild-wide information. Join 
 
 2. **Space Agreements**: read more about these in the pinned post in the \#space channel: [https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements)
 
-## Setup Direct Deposit for your Living Stipend
-
-If you are receiving a living stipend, your first disbursement will arrive at the end of the second week of the program.
-
-1. Set up direct deposit for your stipend disbursements by calling \(813\) 724-3411 x102. Setting up direct deposit during your first week ensures that you’ll receive your first stipend disbursement electronically rather than a paper check. You’ll need the following information:
-
-   1. Bank Name
-
-   2. Bank Account Number
-
-   3. Bank Account Type \(checking or savings\)
-
-   4. ABA Routing Number
-
 ## Join the Oakland Events Calendar
 
 We use the Oakland Guild Events calendar to schedule guild-related events that we should all be aware of. Reach out to fellow learner, ZeZe \(@zezecodez on Slack\), to be added to the calendar.
 
 ## Know the door code & hours
 
-1. Ask your onboarding mentor for the door code - please keep this code confidential and do not share with anyone outside of Learners Guild.
+1. Ask your Onboarding Mentor for the door code - please keep this code confidential and do not share with anyone outside of Learners Guild.
 
 2. The space is open from 7:00am to 10:00pm, Monday through Friday, and 10:00am - 10:00pm on Saturday and Sunday - you may only be in the space between these hours.
 
 3. The doors are "unfrozen" between 8:30am and 6:00pm - this means your code will **not** work outside these hours. If you arrive before 8:30am, enter through the main building using the elevator and rear doors. If you stay past 6:00pm, you must ring the doorbell to be let back into the building. **Never prop front or rear doors open.**
 
-## Help keep the kitchen & fridge clean
+## Getting Support
 
-1. Wash all dishes as soon as you use them - loading them into the dishwasher is fine, do not leave them in the sink. If you see a stray dish, go ahead and take care of it - let’s help each other keep our shared spaces clean.
+You may need support for range of different reasons while you're at the Guild.
 
-2. Fridges are cleaned out of unmarked food on Wednesday and Friday. Mark your food, only eat what’s yours, and clear it out frequently!
+**Software Engineering Practitioners \(SEPs\) **are on staff to support your technical growth as a developer. An SEP is assigned to each Learning Phase and will be your primary point of contact during that Phase. Check the calendar for your Phase to see the specific supports available to you. You can also communicate directly with your Phase SEP in Slack. For more information, see the on Learning Supports section below.
 
-3. Use a bin or cubby to keep dry goods at the Guild during the week - because of limited fridge space, we ask that you only bring and refrigerate food that you are planning to eat that day - please do not plan to store food in the refrigerators for the entire week \(or longer\)
+**Learning Facilitators \(LFs\)** are on staff to support you with the nontechnical aspects of learning and any interpersonal, or personal issues that may come up while you are here. The LFs are available for 1:1 meetings, and facilitate workshops on a range of topics that support you in personal and  professional growth. Every learner is is assigned a primary Learning Facilitator, but you're always welcome to reach out to either of the LFs. Again, if you need to chat with the LFs, drop them a note in Slack, or find them around the office.
 
-## Get Support
+**The Guild Counselor **is available for scheduled sessions every Wednesday and Thursday. You may meet with the Counselor at no cost to you, for confidential therapeutic support while you're in the program. The Counselor also hosts an ongoing Stress and Anxiety Managment Group to support learners in managing mindstates and behaviors that may get in the way of their success. You can schedule an appointment with the Counselor by using this link: [https://calendly.com/carolyn-9. ](https://calendly.com/carolyn-9)
 
-Use these links to book time with a Learning Facilitator \(LF\) or Software Engineering Practitioner \(SEP\):
+## Help keep the Guild clean
 
-1. Carla \(LF\): [https://calendly.com/carlabagdonas](https://calendly.com/carlabagdonas)
-2. NeEddra \(LF\): [https://calendly.com/needdra](https://calendly.com/needdra)
-3. Jrob \(SEP\): [https://calendly.com/jrob-lg](https://calendly.com/jrob-lg)
-4. Jared \(SEP\): [https://calendly.com/lg-jared](https://calendly.com/lg-jared)
-5. Punit \(SEP\): [https://calendly.com/punitrathore](https://calendly.com/punitrathore)
+As a shared working space, it's important that the Guild is comfortable and operational. We all work together to make this possible by taking responsibility for ourselves and our space. Here are a couple tips that will help you ease into the Guild's space culture.
+
+1. **End of day mini-reset:** Do a basic workstation clean up at the end of your day: Push in your chair; put mugs or cups in the dishwasher, put trash in the garbage or recycling. 
+
+2. **Leave it better than you found it: **tread lightly on our space so everyone can enjoy it and always clean up after yourself. if you eat lunch on the front couch, make sure your coffee mugs, soda cans and food plates are cleaned up so the next person can use the space without having to clean up after you.
+
+   1. Wash all dishes as soon as you use them - loading them into the dishwasher is fine, do not leave them in the sink. If you see a stray dish, go ahead and take care of it - let’s help each other keep our shared spaces clean.
+
+   2. Fridges are cleaned out of unmarked food on Wednesday and Friday. Mark your food, only eat what’s yours, and clear it out frequently.
+
+   3. Use a bin or cubby to keep dry goods at the Guild during the week - because of limited fridge space, we ask that you only bring and refrigerate food that you are planning to eat that day - please do not plan to store food in the refrigerators for the entire week \(or longer\).
+
+   Visit the [Oakland Building](/Policies/Oakland_Building.md) section to read additional information about the space and other building policies.
 
 ## Join the Guild community
 
