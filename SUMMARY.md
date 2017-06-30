@@ -11,6 +11,8 @@
 
 * [Learning at the Guild](General/README.md)
 
+  * [Slack And Echo](#)
+
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
   * [First Weeks](General/First_Weeks.md)
@@ -19,8 +21,6 @@
   * [LOS Support](General/LOS_Support.md)
 
   * [Resource Links](General/Resource_Links.md)
-
-  * [Slack And Echo](General/Slack_and_Echo.md)
 
 * [Learning](Learning/README.md)
 
@@ -35,10 +35,12 @@
   * [Q 2](Log/q2.md)
 
 * [Phases](Phases/README.md)
+
   * [Interviews](Phases/Interviews/README.md)
     * [Phase 2](Phases/Interviews/Phase_2.md)
     * [Phase 3](Phases/Interviews/Phase_3.md)
     * [Phase 4](Phases/Interviews/Phase_4.md)
+
 * [Policies](Policies/README.md)
 
   * [Code Of Conduct](Policies/Code_of_Conduct.md)
