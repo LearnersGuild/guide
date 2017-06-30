@@ -11,9 +11,10 @@
 
 * [Learning at the Guild](General/README.md)
 
-  * [Slack And Echo](#)
+  * [Slack And Echo](/General/Slack_and_Echo.md)
 
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
+
   * [FAQ](General/FAQ.md)
   * [First Weeks](General/First_Weeks.md)
   * [Guidelines](General/Guidelines.md)
