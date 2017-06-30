@@ -2,9 +2,7 @@
 
 You've been admitted to a Learners Guild chapter. Your start date is coming up. What should you do to prepare?
 
-The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. The more you know and are able to do coming in, the better you'll be able to learn and collaborate with your fellow learners.
-
-Use this checklist of resources to gain momentum in your learning before joining Learners Guild. Please note that the **Required Prep** below must be completed 1 week before your start date.
+The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. Use this checklist of resources to gain momentum in your learning before joining Learners Guild. Please note that the **Required Prep** below must be completed 1 week before your start date.
 
 ## Required Prep
 
@@ -26,14 +24,17 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
  - Build a Random Quote Machine Incomplete
  - Show the Local Weather Incomplete
 
-**Other Prep**
 
-- Re-read the Learner Guide section on [Cognitive Apprenticeship](https://guide.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
-- Read these sections of the [COS Guide](https://cos.learnersguild.org/):
+**Additional Prep Reading & Videos**
+
+- Read the Learner Guide section on [Cognitive Apprenticeship](https://guide.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
+
+**Read the following sections of the [COS Guide](https://cos.learnersguild.org/)**:
  - [Introduction](https://cos.learnersguild.org/)
- - [Overview](https://cos.learnersguild.org/COS_Overview/) (including the sections on Player Support Group & Practices)
- - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) (including individual sections for each tension)
-- Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#) (1 hour)
+ - [Overview](https://cos.learnersguild.org/COS_Overview/) 
+ - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) 
+
+** Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)** (1 hour)
 
 
 ## Strongly Recommended but not mandatory
