@@ -9,7 +9,7 @@
 
   * [Onboarding](/General/Onboarding.md)
 
-* [General](General/README.md)
+* [Learning at the Guild](General/README.md)
 
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
@@ -19,6 +19,7 @@
   * [LOS Support](General/LOS_Support.md)
 
   * [Resource Links](General/Resource_Links.md)
+
   * [Slack And Echo](General/Slack_and_Echo.md)
 
 * [Learning](Learning/README.md)
@@ -29,8 +30,10 @@
   * [Goals](Learning/Goals.md)
 
 * Log
+
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
+
 * [Phases](Phases/README.md)
   * [Interviews](Phases/Interviews/README.md)
     * [Phase 2](Phases/Interviews/Phase_2.md)
