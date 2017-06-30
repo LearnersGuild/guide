@@ -1,23 +1,30 @@
 # Learner Onboarding
 
-Welcome to Learners Guild! This guide was developed to help you get settled and up to speed on our shared systems and space protocols. Got questions? Ask another learner who has been around!
+Prep work completed? Check.
+
+Start day coming up? Check. 
+
+Curious about what your first week at the Guild will be like? Great! 
+
+This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer questions you may have and to help you navigate the Guild once you arrive.
 
 ## Read the Guides
 
-These documents contain the latest and greatest information about our Learning Operating System \(LOS\) and Culture Operating System \(COS\). Almost anything you want to know about how things work at Learners Guild is contained in one of these documents:
+The Learner Guide \(referred to as The Guide\) and the COS Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to submit an issue, or to hang tight until the final edits are updated. 
 
 1. Learning Operating System: Learner Guide: [https://guide.learnersguild.org/](https://guide.learnersguild.org/)
 
-2. Culture Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
+2. Cultural Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
 
 ## Join and start using Slack
 
-You'll get a link to join Learners Guild Slack about a week before your start date. Browse the available channels and join any you want to follow. Please join the following channels, at a minimum:
+We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you want to follow. All new Learners are required to join the following channels:
 
+* \#phase 1
 * \#general
 * \#help
 * \#los-support
-* \#moderation
+* \#guild-announcements
 * \#oakland
 * \#onboarding
 * \#space
@@ -52,7 +59,7 @@ We use the Oakland Guild Events calendar to schedule guild-related events that w
 
 ## Know the door code & hours
 
-1. Ask your onboarding mentor for the door code - please keep this code confidential and do not share with anyone outside of Learners Guild.
+1. Ask your Onboarding Mentor for the door code - please keep this code confidential and do not share with anyone outside of Learners Guild.
 
 2. The space is open from 7:00am to 10:00pm, Monday through Friday, and 10:00am - 10:00pm on Saturday and Sunday - you may only be in the space between these hours.
 
@@ -68,12 +75,17 @@ We use the Oakland Guild Events calendar to schedule guild-related events that w
 
 ## Get Support
 
-Use these links to book time with a Learning Facilitator \(LF\) or Software Engineering Practitioner \(SEP\):
+You may need support for range of different reasons while you're at the Guild. 
+
+Software Engineering Practitioners \(SEPs\) are on staff to support your technical growth as a developer. An SEP is assigned to each Learning Phase and will be your primary point of contact during that Phase. Check the calendar for your Phase to see the specific supports available to you. You can also send your Phase SEP a direct message in Slack to communicate with them. For more information on learning supports
+
+Learning Facilitators \(LFs\) are on staff to support you with the nontechnical aspects of learning and any interpersonal, or personal issues that may come up while you are here.
+
+  Use these links to book time with a Learning Facilitator \(LF\) or Software Engineering Practitioner \(SEP\):
 
 1. Carla \(LF\): [https://calendly.com/carlabagdonas](https://calendly.com/carlabagdonas)
 2. NeEddra \(LF\): [https://calendly.com/needdra](https://calendly.com/needdra)
-3. Jrob \(SEP\): [https://calendly.com/jrob-lg](https://calendly.com/jrob-lg)
-4. Jared \(SEP\): [https://calendly.com/lg-jared](https://calendly.com/lg-jared)
+3. 4. Jared \(SEP\): [https://calendly.com/lg-jared](https://calendly.com/lg-jared)
 5. Punit \(SEP\): [https://calendly.com/punitrathore](https://calendly.com/punitrathore)
 
 ## Join the Guild community
