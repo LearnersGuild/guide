@@ -18,6 +18,7 @@
 
 * [Learning Supports](Learning/README.md)
 
+  * Phase Specific Supports
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
@@ -26,11 +27,13 @@
   * [Resource Links](/General/Resource_Links.md)
 
 * [Learning Strategies](/Strategies/README.md)
+
   * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
+
 * [Guild Policies](/Policies/README.md)
 
   * [Oakland Building](/Policies/Oakland_Building.md)
