@@ -67,15 +67,13 @@ We use the Oakland Guild Events calendar to schedule guild-related events that w
 
 3. The doors are "unfrozen" between 8:30am and 6:00pm - this means your code will **not** work outside these hours. If you arrive before 8:30am, enter through the main building using the elevator and rear doors. If you stay past 6:00pm, you must ring the doorbell to be let back into the building. **Never prop front or rear doors open.**
 
-
-
 ### Help keep the Guild clean
 
 As a shared working space, it's important that the Guild is comfortable and operational. We all work together to make this possible by taking responsibility for ourselves and our space. Here are a couple tips that will help you ease into the Guild's space culture.
 
 1. **End of day mini-reset:** Do a basic workstation clean up at the end of your day: Push in your chair; put mugs or cups in the dishwasher, put trash in the garbage or recycling.
 
-2. **Leave it better than you found it: **tread lightly on our space so everyone can enjoy it and always clean up after yourself. if you eat lunch on the front couch, make sure your coffee mugs, soda cans and food plates are cleaned up so the next person can use the space without having to clean up after you.
+2. **Leave it better than you found it: **tread lightly on our space so everyone can enjoy it and always clean up after yourself. If you eat lunch on the front couch, make sure your coffee mugs, soda cans and food plates are cleaned up so the next person can use the space without having to clean up after you.
 
    1. Wash all dishes as soon as you use them - loading them into the dishwasher is fine, do not leave them in the sink. If you see a stray dish, go ahead and take care of it - let’s help each other keep our shared spaces clean.
 

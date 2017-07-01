@@ -1,10 +1,10 @@
-## Learner Onboarding
+## Learner Onboarding 
 
-Getting our bearings in a new environment can take some time.We strongly encourage you to lean on your Onboarding Mentor - ask as many questions as you can! That's what they're here for! 
+Getting our bearings in a new environment can take some time.We strongly encourage you to lean on your Onboarding Mentor - ask as many questions as you can! That's what they're here for!
 
 Below is a general overview of what you can expect over your first two weeks at the Guild.
 
-We've also included a brief overview of the three staff supports available to you while you're at the Guild. 
+We've also included a brief overview of the three staff supports available to you while you're at the Guild.
 
 ### First Week at the Guild
 
