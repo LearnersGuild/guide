@@ -2,23 +2,17 @@
 
 ### First Week at the Guild
 
-### First Monday
+### Monday
 
-**8:00am to 8:30am**
+**8:30am to 9:00am**
 
-* Arrive and meet with your onboarding mentor.
-* Receive / set up laptop
-* Get goal library coaching and be prepared to vote
+* Orientation with Learning Facilitators and your onboarding mentor
 
-**10:00am to 10:15am**
+**9:00am **
 
-* Monday Standup
-* Introduce yourself to everyone at the guild
-* Get assigned a house and meet your house members
+* * Phase Announcements / Standup
 
-**10.15am**
-
-* Find your phase lead, they'll get you set up
+* Find a workstation and pick your first module to work on
 
 **5:30pm to 6:00pm**
 
