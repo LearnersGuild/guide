@@ -8,7 +8,7 @@ Curious about what your first week at the Guild will be like? Great!
 
 This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer questions you may have and to help you navigate the Guild once you arrive.
 
-## Read the Guides
+### Read the Guides
 
 The Learner Guide \(referred to as The Guide\) and the COS Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to submit an issue to this repo, or to hang tight until the final edits are updated.
 
@@ -16,7 +16,7 @@ The Learner Guide \(referred to as The Guide\) and the COS Guide contain just ab
 
 2. Cultural Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
 
-## Setup Direct Deposit for your Stipend
+### Setup Direct Deposit for your Stipend
 
 If you are receiving a stipend through the **Learner Living Fund**, your first disbursement will arrive at the end of the second week of the program.
 
@@ -30,7 +30,7 @@ If you are receiving a stipend through the **Learner Living Fund**, your first d
 
    4. ABA Routing Number
 
-## Join and start using Slack
+### Join and start using Slack
 
 We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you want to follow. All new Learners are required to join the following channels:
 
@@ -45,7 +45,7 @@ We use Slack as our primary communication tool. You'll receive a link to join Le
 
 **Please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
 
-## Join these Trello Boards
+### Join these Trello Boards
 
 We use these Trello boards to centralize important guild-wide information. Join by clicking on the links below:
 
@@ -53,11 +53,11 @@ We use these Trello boards to centralize important guild-wide information. Join 
 
 2. **Space Agreements**: read more about these in the pinned post in the \#space channel: [https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements)
 
-## Join the Oakland Events Calendar
+### Join the Oakland Events Calendar
 
 We use the Oakland Guild Events calendar to schedule guild-related events that we should all be aware of. Reach out to fellow learner, ZeZe \(@zezecodez on Slack\), to be added to the calendar.
 
-## Know the door code & hours
+### Door Code & Guild Hours
 
 1. Ask your Onboarding Mentor for the door code - please keep this code confidential and do not share with anyone outside of Learners Guild.
 
@@ -65,7 +65,7 @@ We use the Oakland Guild Events calendar to schedule guild-related events that w
 
 3. The doors are "unfrozen" between 8:30am and 6:00pm - this means your code will **not** work outside these hours. If you arrive before 8:30am, enter through the main building using the elevator and rear doors. If you stay past 6:00pm, you must ring the doorbell to be let back into the building. **Never prop front or rear doors open.**
 
-## Getting Support
+### Getting Support
 
 You may need support for range of different reasons while you're at the Guild.
 
@@ -75,11 +75,11 @@ You may need support for range of different reasons while you're at the Guild.
 
 **The Guild Counselor **is available for scheduled sessions every Wednesday and Thursday. You may meet with the Counselor at no cost to you, for confidential therapeutic support while you're in the program. The Counselor also hosts an ongoing Stress and Anxiety Managment Group to support learners in managing mindstates and behaviors that may get in the way of their success. You can schedule an appointment with the Counselor by using this link: [https://calendly.com/carolyn-9. ](https://calendly.com/carolyn-9)
 
-## Help keep the Guild clean
+### Help keep the Guild clean
 
 As a shared working space, it's important that the Guild is comfortable and operational. We all work together to make this possible by taking responsibility for ourselves and our space. Here are a couple tips that will help you ease into the Guild's space culture.
 
-1. **End of day mini-reset:** Do a basic workstation clean up at the end of your day: Push in your chair; put mugs or cups in the dishwasher, put trash in the garbage or recycling. 
+1. **End of day mini-reset:** Do a basic workstation clean up at the end of your day: Push in your chair; put mugs or cups in the dishwasher, put trash in the garbage or recycling.
 
 2. **Leave it better than you found it: **tread lightly on our space so everyone can enjoy it and always clean up after yourself. if you eat lunch on the front couch, make sure your coffee mugs, soda cans and food plates are cleaned up so the next person can use the space without having to clean up after you.
 
@@ -91,7 +91,7 @@ As a shared working space, it's important that the Guild is comfortable and oper
 
    Visit the [Oakland Building](/Policies/Oakland_Building.md) section to read additional information about the space and other building policies.
 
-## Join the Guild community
+### Join the Guild community
 
 1. If you haven’t yet, [Like us](https://www.facebook.com/LearnersGuild/%29 on Facebook, [join the LG Facebook group]%28https://www.facebook.com/groups/LearnersGuild/), and engage in conversations with prospective learners.
 
