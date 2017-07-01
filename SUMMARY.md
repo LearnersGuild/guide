@@ -14,16 +14,12 @@
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 * [Learning Supports](Learning/README.md)
-
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
   * [Challenge](Learning/Challenge.md)
-
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
-
   * [Goals](Learning/Goals.md)
   * [LOS Support](/General/LOS_Support.md)
   * [Resource Links](/General/Resource_Links.md)
-
 * [Learning Strategies](/Strategies/README.md)
   * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
