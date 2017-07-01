@@ -21,7 +21,7 @@ If you have questions or need additional phase-specific support, get in touch wi
 
 #### P1: Foundations 1
 
-Foundations 1 is all about the fundamentals. It covers things like learning how to use the terminal, basic coding concepts, how to test code, and using basic SQL.
+Foundations 1 is all about the fundamentals. It covers things like learning how to use the terminal, basic coding concepts, how to test code, and using basic SQL. 
 
 Here you’ll develop fundamental skills so that you can begin to take on more advanced topics and projects.
 
@@ -45,7 +45,7 @@ Review the [Phase 3 curriculum](https://github.com/GuildCrafts/curriculum/tree/m
 
 #### P4: Apprenticeship
 
-The Apprenticeship phase introduces real-world OSS and Guild projects to which learners can contribute. This phase simulates a dev-team environment and gets learners used to working on large code-bases.
+In the Apprenticeship phase, SEPs and learners will collaborate on contributions to OSS projects and possibly on live, production systems like the LOS apps \(echo, idm, etc.\). SEPs will select projects and work with learners to identify appropriate issues to work on, and learners will be expected to submit pull requests to project maintainers.
 
 To start Phase 4, you must pass the [Phase 4 interview](./Interviews/Phase_4.md).
 
