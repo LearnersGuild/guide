@@ -8,26 +8,29 @@
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
+
   * [Phases](/Phases/README.md)
   * [Interviews](/Phases/Interviews/README.md)
+
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
-  * [Guidelines](General/Guidelines.md)
-  * [Holiday List](General/Holiday_List.md)
-  * [LOS Support](General/LOS_Support.md)
-  * [Resource Links](General/Resource_Links.md)
+
 * [Learning Supports](Learning/README.md)
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
+  * [LOS Support](/General/LOS_Support.md)
+  * [Resource Links](/General/Resource_Links.md)
 * [Learning Strategies](/Strategies/README.md)
+  * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
 * [Guild Policies](/Policies/README.md)
+
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
   * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -41,13 +44,18 @@
   * [Disabilities](/Policies/Disabilities.md)
 
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
+
 * [Log](log.md)
+
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
   * [FAQv1](/General/FAQ.md)
 
+* [Holiday List](/General/Holiday_List.md)
+
 * [CONTRIBUTING](CONTRIBUTING.md)
+
 * [GLOSSARY](GLOSSARY.md)
 
 
