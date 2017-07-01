@@ -1,45 +1,22 @@
 ## Learner Onboarding
 
+Getting our bearings in a new environment can take some time. Below is a general overview of what you can expect over your first two weeks at the Guild.
+
 ### First Week at the Guild
 
-#### Monday
+| **Monday** | **Tuesday - Friday** | **Friday** |
+| :--- | :--- | :--- |
+| **8:30a - 9a: **Cohort orientation with theLearning Facilitators | **AM: **Check-in with your onboarding    mentor | **5:45p - 6p:** Checkout with your            onboarding mentor - say thanks and  goodbye |
+| **9am: **Guild All Hands Sync-up + New   Learner House Induction | **PM: **Checkout with your onboarding   mentor |  |
+| **9:30a:** Find a workstation, pick your    first module to work on |  |  |
+| **5:30p - 6p: **Checkout with Learning     Facilitators |  |  |
 
-**8:30am to 9:00am**
+### Second Week at the Guild
 
-* Orientation with Learning Facilitators and your onboarding mentor
-
-**9:00am **
-
-* Guild All Hands / House Induction
-
-* Phase Announcements / Standup
-
-* Find a workstation and pick your first module to work on
-
-**5:30pm to 6:00pm**
-
-* Meet with learning facilitators and other new learners for a checkout
-
-#### Daily
-
-* Checkin with your onboarding mentor every morning and evening
-* Connect with your house members over lunch and in Slack 
-
-#### First Friday
-
-**5:45pm to 6:00pm**
-
-* Checkout with your onboarding mentor and say thanks and goodbye
-
-### Second Week
-
-* Schedule a 1:1 with learning facilitator for your house
-
-### Second Tuesday
-
-* [Learner Support Group](https://cos.learnersguild.org/COS_Overview/Player_Support_Group.html)
-
----
+| **Monday** | **Tuesday** |
+| :--- | :--- |
+| Schedule a 1:1 with your Learning Facilitator | [Learner Support Group](https://cos.learnersguild.org/COS_Overview/Player_Support_Group.html) |
+| Schedule a 1:1 with your Phase SEP |  |
 
 ### Getting Support
 
@@ -51,7 +28,7 @@ You may need support for range of different reasons while you're at the Guild.
 
 **The Guild Counselor **is available for scheduled sessions every Wednesday and Thursday. You may meet with the Counselor at no cost to you, for confidential therapeutic support while you're in the program. The Counselor also hosts an ongoing Stress and Anxiety Managment Group to support learners in managing mindstates and behaviors that may get in the way of their success. You can schedule an appointment with the Counselor by using this link: [https://calendly.com/carolyn-9. ](https://calendly.com/carolyn-9)
 
-##### **For a detailed overview of the Learning Supports the Guild offers, see the Learning Supports section.** 
+##### **For a detailed overview of the Learning Supports the Guild offers, see the Learning Supports section.**
 
 
 
