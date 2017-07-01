@@ -9,7 +9,7 @@
   * [Slack and Echo](/General/Slack_and_Echo.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
-  * [First Weeks](/General/First_Weeks.md)
+
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
   * [FAQ](General/FAQ.md)
   * [Guidelines](General/Guidelines.md)
