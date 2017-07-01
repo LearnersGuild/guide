@@ -10,8 +10,9 @@
 
 **9:00am **
 
-* * Phase Announcements / Standup
+* Guild All Hands
 
+* Phase Announcements / Standup
 * Find a workstation and pick your first module to work on
 
 **5:30pm to 6:00pm**
