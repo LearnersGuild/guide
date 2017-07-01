@@ -35,7 +35,7 @@
 
   * [Resource Links](General/Resource_Links.md)
 
-* [Learning](Learning/README.md)
+* [Learning Supports](Learning/README.md) 
 
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
@@ -59,11 +59,13 @@
   * [Time Commitment](Policies/Time_Commitment.md)
 
 * [Strategies](Strategies/README.md)
+
   * [Community](Strategies/Community.md)
   * [Individual](Strategies/Individual.md)
   * [Manifesto](Strategies/Manifesto.md)
   * [Reflection](Strategies/Reflection.md)
   * [Team](Strategies/Team.md)
+
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [GLOSSARY](GLOSSARY.md)
 
