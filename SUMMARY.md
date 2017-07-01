@@ -2,13 +2,15 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
+
   * [Membership Termination ](General/Membership/membership-cancellation.md)
   * [Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
 
   * [Onboarding](/General/Onboarding.md)
+
   * [First Week](General/Membership/onboarding.md)
-  * 
+
 * [Learning at the Guild](General/README.md)
 
   * [Phases](/Phases/README.md)
@@ -26,6 +28,7 @@
   * [FAQ](General/FAQ.md)
 
   * [Guidelines](General/Guidelines.md)
+
   * [Holiday List](General/Holiday_List.md)
   * [LOS Support](General/LOS_Support.md)
   * [Resource Links](General/Resource_Links.md)
@@ -38,8 +41,10 @@
   * [Goals](Learning/Goals.md)
 
 * Log
+
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
+
 * [Phases](Phases/README.md)
   * [Interviews](Phases/Interviews/README.md)
     * [Phase 2](Phases/Interviews/Phase_2.md)
