@@ -13,6 +13,8 @@
 
 * [Learning at the Guild](General/README.md)
 
+  * [Phases](/Phases/README.md)
+
   * [First Weeks](/General/First_Weeks.md)
 
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
