@@ -1,4 +1,4 @@
-## Learner Onboarding 
+## Learner Onboarding
 
 Getting our bearings in a new environment can take some time.We strongly encourage you to lean on your Onboarding Mentor - ask as many questions as you can! That's what they're here for!
 
@@ -10,16 +10,17 @@ We've also included a brief overview of the three staff supports available to yo
 
 | **Monday** | **Tuesday - Friday** | **Friday** |
 | :--- | :--- | :--- |
-| **8:30a - 9a: **Cohort orientation with theLearning Facilitators | **AM: **Check-in with your onboarding    mentor | **5:45p - 6p:** Checkout with your            onboarding mentor - say thanks and  goodbye |
-| **9am: **Guild All Hands Sync-up + New   Learner House Induction | **PM: **Checkout with your onboarding   mentor |  |
+| **8:30a - 9a: **Cohort orientation with theLearning Facilitators | **AM: **Check-in with your onboarding    mentor |  |
+| **9am: **Guild All Hands Sync-up + New   Learner House Induction | **9am:** Guild All Hands Sync-up + New   Learner House Induction | **9am:** Guild All Hands Sync-up + New   Learner House Induction |
 | **9:30a:** Find a workstation, pick your    first module to work on |  |  |
-| **5:30p - 6p: **Checkout with Learning     Facilitators |  |  |
+| **5:30p - 6p: **Checkout with Learning     Facilitators | **PM: **Checkout with your onboarding   mentor | **5:45 - 6p:** Checkout with your               onboarding mentor   |
 
 ### Second Week at the Guild
 
 | **Monday** | **Tuesday** |
 | :--- | :--- |
 | Schedule a 1:1 with your Learning Facilitator | [Learner Support Group](https://cos.learnersguild.org/COS_Overview/Player_Support_Group.html) |
+| **9am:** Guild All Hands Sync-up + New   Learner House Induction |  |
 | Schedule a 1:1 with your Phase SEP |  |
 
 ### Getting Support
@@ -32,7 +33,7 @@ You may need support for range of different reasons while you're at the Guild.
 
 **The Guild Counselor **is available for scheduled sessions every Wednesday and Thursday. You may meet with the Counselor at no cost to you, for confidential therapeutic support while you're in the program. The Counselor also hosts an ongoing Stress and Anxiety Managment Group to support learners in managing mindstates and behaviors that may get in the way of their success. You can schedule an appointment with the Counselor by using this link: [https://calendly.com/carolyn-9. ](https://calendly.com/carolyn-9)
 
-##### **For a detailed overview of the Learning Supports the Guild offers, see the Learning Supports section.**
+##### **For a detailed overview of the Learning Supports the Guild offers, see the **[**Learning Supports**](/Learning/README.md)** section.**
 
 
 
