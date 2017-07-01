@@ -1,5 +1,5 @@
 {
-  "bookname": "Learner Guide",
+  "bookname": "Guide",
   "gitbook": "3.x.x",
   "ignores": ["_book", "node_modules"],
   "plugins": ["embed-pdf"]
