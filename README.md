@@ -1,3 +1,9 @@
+##### The Learner Guide is undergoing edits to reflect recent upgrades at the Guild. You may find a few inconsistencies, broken links or outdated references below until the final revisions are complete.
+
+~ Learners Guild
+
+---
+
 > "An idea that is not dangerous is unworthy of being called an idea at all." ~ Oscar Wilde
 
 # Learner Guide

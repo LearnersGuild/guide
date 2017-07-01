@@ -1,6 +1,8 @@
-# General guidelines and Strategies
+#_Things we like to keep in mind..._
 
-Advice from ourselves to ourselves for when we forget
+
+
+
 
 ## Slow down to speed up
 
