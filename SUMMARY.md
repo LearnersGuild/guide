@@ -9,9 +9,9 @@
 
   * [Onboarding](/General/Onboarding.md)
 
-* [Learning at the Guild](General/README.md)
+  * [Slack and Echo](/General/Slack_and_Echo.md)
 
-  * [Slack And Echo](/General/Slack_and_Echo.md)
+* [Learning at the Guild](General/README.md)
 
   * [First Weeks](/General/First_Weeks.md)
 
