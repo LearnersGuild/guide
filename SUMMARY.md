@@ -8,14 +8,25 @@
   * [First Week](General/Membership/onboarding.md)
   * [Slack and Echo](/General/Slack_and_Echo.md)
 * [Learning at the Guild](General/README.md)
+
   * [Phases](/Phases/README.md)
 
+  * [Interviews](/Phases/Interviews/README.md)
+
+    * [Phase 2](/Phases/Interviews/Phase_2.md)
+
+    * [Phase 3](/Phases/Interviews/Phase_3.md)
+
+    * [Phase 4](/Phases/Interviews/Phase_4.md)
+
   * [FAQ Summer 2017 Upgrade](General/FAQ_Summer_2017_Upgrade.md)
+
   * [FAQ](General/FAQ.md)
   * [Guidelines](General/Guidelines.md)
   * [Holiday List](General/Holiday_List.md)
   * [LOS Support](General/LOS_Support.md)
   * [Resource Links](General/Resource_Links.md)
+
 * [Learning](Learning/README.md)
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
