@@ -13,7 +13,7 @@ We've also included a brief overview of the three staff supports available to yo
 | **8:30a - 9a: **Cohort orientation with theLearning Facilitators | **AM: **Check-in with your onboarding    mentor |  |
 | **9am: **Guild All Hands Sync-up + New   Learner House Induction | **9am:** Guild All Hands Sync-up + New   Learner House Induction | **9am:** Guild All Hands Sync-up + New   Learner House Induction |
 | **9:30a:** Find a workstation, pick your    first module to work on |  |  |
-| **5:30p - 6p: **Checkout with Learning     Facilitators | **PM: **Checkout with your onboarding   mentor | **5:45 - 6p:** Checkout with your               onboarding mentor   |
+| **5:30p - 6p: **Checkout with Learning     Facilitators | **PM: **Checkout with your onboarding   mentor | **5:45 - 6p:** Checkout with your               onboarding mentor |
 
 ### Second Week at the Guild
 
@@ -27,9 +27,9 @@ We've also included a brief overview of the three staff supports available to yo
 
 You may need support for range of different reasons while you're at the Guild.
 
-**Software Engineering Practitioners \(SEPs\) **are on staff to support your technical growth as a developer. An SEP is assigned to each Learning Phase and will be your primary point of contact during that Phase. Check the calendar for your Phase to see the specific supports available to you. You can also communicate directly with your Phase SEP in Slack. For more information, see the on Learning Supports section below.
+[**Software Engineering Practitioners \(SEPs\)**](//GLOSSARY.md)** **are on staff to support your technical growth as a developer. An SEP is assigned to each Learning Phase and will be your primary point of contact during that Phase. Check the calendar for your Phase to see the specific supports available to you. You can also communicate directly with your Phase SEP in Slack. For more information, see the on Learning Supports section below.
 
-**Learning Facilitators \(LFs\)** are on staff to support you with the nontechnical aspects of learning and any interpersonal, or personal issues that may come up while you are here. The LFs are available for 1:1 meetings, and facilitate workshops on a range of topics that support you in personal and  professional growth. Every learner is is assigned a primary Learning Facilitator, but you're always welcome to reach out to either of the LFs. Again, if you need to chat with the LFs, drop them a note in Slack, or find them around the office.
+[**Learning Facilitators \(LFs\)**](//GLOSSARY.md) are on staff to support you with the nontechnical aspects of learning and any interpersonal, or personal issues that may come up while you are here. The LFs are available for 1:1 meetings, and facilitate workshops on a range of topics that support you in personal and  professional growth. Every learner is is assigned a primary Learning Facilitator, but you're always welcome to reach out to either of the LFs. Again, if you need to chat with the LFs, drop them a note in Slack, or find them around the office.
 
 **The Guild Counselor **is available for scheduled sessions every Wednesday and Thursday. You may meet with the Counselor at no cost to you, for confidential therapeutic support while you're in the program. The Counselor also hosts an ongoing Stress and Anxiety Managment Group to support learners in managing mindstates and behaviors that may get in the way of their success. You can schedule an appointment with the Counselor by using this link: [https://calendly.com/carolyn-9. ](https://calendly.com/carolyn-9)
 
