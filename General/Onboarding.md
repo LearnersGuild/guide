@@ -8,6 +8,8 @@ Curious about what your first week at the Guild will be like? Great!
 
 This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer questions you may have and to help you navigate the Guild once you arrive.
 
+### GENERAL INFORMATION
+
 ### Read the Guides
 
 The Learner Guide \(referred to as The Guide\) and the COS Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to submit an issue to this repo, or to hang tight until the final edits are updated.
