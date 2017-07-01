@@ -10,19 +10,21 @@
 * [Learning at the Guild](General/README.md)
 
   * [Phases](/Phases/README.md)
-  * [Interviews](/Phases/Interviews/README.md)
+  * [Phase Interviews](/Phases/Interviews/README.md)
 
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 
 * [Learning Supports](Learning/README.md)
+
   * [Challenge](Learning/Challenge.md)
   * [Coaching](Learning/Coaching.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
   * [LOS Support](/General/LOS_Support.md)
   * [Resource Links](/General/Resource_Links.md)
+
 * [Learning Strategies](/Strategies/README.md)
   * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
