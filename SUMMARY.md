@@ -4,7 +4,7 @@
 * [Guild Membership](/General/Membership.md)
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination ](General/Membership/membership-cancellation.md)
-* [Preparing for the Guild: The Runway](/Runway/README.md)
+* Preparing for the Guild
   * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
@@ -45,4 +45,6 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
 
