@@ -4,9 +4,9 @@ The terms of your membership in the Guild are governed by your Enrollment Agreem
 
 The Guild reserves the right to terminate your membership in the Guild as set forth in your Enrollment Agreement, including under the following scenarios:
 
-* Failure to meet the six Membership Expectations outlined above results in the termination of our investment and cancellation of your membership.
+* Failure to meet the six Membership Expectations outlined above can result in the termination of our investment and cancellation of your membership.
 
-  * _**In particular, failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase results in membership cancellation.**_
+  * _**In particular, failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.**_
 
 * Failure to uphold Guild culture.
 
