@@ -1,9 +1,12 @@
+# Preparing for the Guild
+
 You've been admitted to a Learners Guild chapter. Your start date is coming up. What should you do to prepare?
 
-  
+The answer is unsurprising: **practice, practice, practice**. But not just any old practice, you should be engaging in [deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) and study. \(If you didn't just follow that &lt;--- link, stop reading and click on the link. After you geek out on deliberate practice and how great of a developer it will make you, come back and keep reading this section.\) 
 
+In this section you'll find a checklist of technical resources to support you in gaining momentum before joining Learners Guild. Please note that the **Required Prep **below must be completed 1 week before your start date.
 
-The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in
+You'll also find an overview of how to login and get set up for Slack and Echo - two major tools we use daily at the Guild. 
 
-\[deliberate practice\]\[wiki-delib-practice\] and study. Use this checklist of resources to gain momentum in your learning before joining Learners Guild. Please note that the\*\*Required Prep\*\* below must be completed 1 week before your start date.
+Lastly, you'll find all the details you need for a smooth onboarding process during your first two weeks at the Guild.
 
