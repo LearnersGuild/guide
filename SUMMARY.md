@@ -3,11 +3,12 @@
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
   * Membership Expectations
-* * [Membership Termination ](General/Membership/membership-cancellation.md)
-  * [Runway](/Runway/README.md)
-  * [Slack and Echo](//General/Slack_and_Echo.md)
-  * [Onboarding](/General/Onboarding.md)
-    * [First Week](General/Membership/onboarding.md)
+  * [Membership Termination ](General/Membership/membership-cancellation.md)
+
+  [Runway](/Runway/README.md)
+  [Slack and Echo](//General/Slack_and_Echo.md)
+  [Onboarding](/General/Onboarding.md)
+  * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
