@@ -8,10 +8,13 @@
 
 * [Preparing for the Guild: The Runway](/Runway/README.md)
 
-* [Slack and Echo](//General/Slack_and_Echo.md)
-* [Onboarding](/General/Onboarding.md)
+  * [The Runway](/Runway/README.md)
 
-  * [First Week](General/Membership/onboarding.md)
+  * [Slack and Echo](//General/Slack_and_Echo.md)
+
+  * [Onboarding](/General/Onboarding.md)
+
+    * [First Week](General/Membership/onboarding.md)
 
 * [Learning at the Guild](General/README.md)
 
@@ -22,12 +25,14 @@
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 
 * [Learning Supports](Learning/README.md)
+
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
   * [Challenge](Learning/Challenge.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
   * [LOS Support](/General/LOS_Support.md)
   * [Resource Links](/General/Resource_Links.md)
+
 * [Learning Strategies](/Strategies/README.md)
   * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
