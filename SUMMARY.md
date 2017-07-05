@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
-  * [Membership Termination ](General/Membership/membership-cancellation.md)
+  * Membership Expectations
+* * [Membership Termination ](General/Membership/membership-cancellation.md)
   * [Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)

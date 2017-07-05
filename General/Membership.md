@@ -1,12 +1,12 @@
 # Guild Membership
 
-#### Membership Expectations
-
 We carry out our mission to make pathways to tech jobs more accessible through the idea of investment. We invest time, money and resources in high potential, aspiring web developers from all backgrounds who we believe will succeed in a rigorous, accelerated learning environment and develop the skills and mindsets necessary for a career in web development by the end of their time at the Guild.
 
 By investing in your potential we align our incentives with yours instead of burdening you with fee-for-service debt that is disconnected from your outcomes. We don’t want to take your money if you don’t get a job. No thanks.
 
 This means that we are selective about who we invest in and invite into our learning community.  It also means that we hold high standards for how each Learner participates in our growing community. If you’re learning with us at the Guild, we are in good faith providing up-front resources to you in hopes that you will succeed in the near future. In order to secure our investment, we have the following, _**non-negotiable membership expectations**_.
+
+#### Membership Expectations
 
 1. **Time Commitment: **Show up from **9a to 6p daily**. If you're running late or leaving early, you’re required to alert your house and phase group in the appropriate slack  channels. 
 2. **Time Off: **Each learner has 8 personal days, and 3 professional development days to use during their 40 weeks. You are required to log all time off with the Guild by emailing timeoff@learnersguild.org as soon as you know you will be out. If you will miss more than an hour of the day you must log a half day \(1-4 hours\), and if you will miss more than four \(4\) hours, you must log a full day. To maintain membership at the Guild you must not exceed 8 personal days, and 3 professional development days.
