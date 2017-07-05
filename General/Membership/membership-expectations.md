@@ -1,6 +1,6 @@
 # Membership Expectations
 
-#### The Guild expects all enrolled learners to meet the following expectations.
+#### All enrolled learners are required to meet the following expectations:
 
 1. **Time Commitment: **Show up from **9a to 6p daily**. If you're running late or leaving early, you’re required to alert your house and phase group in the appropriate slack  channels. 
 2. **Time Off: **Each learner has 8 personal days, and 3 professional development days to use during their 40 weeks. You are required to log all time off with the Guild by emailing timeoff@learnersguild.org as soon as you know you will be out. If you will miss more than an hour of the day you must log a half day \(1-4 hours\), and if you will miss more than four \(4\) hours, you must log a full day. To maintain membership at the Guild you must not exceed 8 personal days, and 3 professional development days.
