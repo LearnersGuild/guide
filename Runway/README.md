@@ -1,9 +1,5 @@
-# The Runway
-You've been admitted to a Learners Guild chapter. Your start date is coming up. What should you do to prepare?
+# Required Prep
 
-The answer is unsurprising: practice, practice, practice. But not just any old practice, you should be engaging in [deliberate practice][wiki-delib-practice] and study. Use this checklist of resources to gain momentum in your learning before joining Learners Guild. Please note that the **Required Prep** below must be completed 1 week before your start date.
-
-## Required Prep
 
 You need to make sure to have completed the required prep work below 1 week before your start date. If you fail to complete it, you must let us know, and we will withdraw your enrollment from the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. You should set aside 40 to 100 hours for this prep work, depending on your existing experience and skill level.
 
