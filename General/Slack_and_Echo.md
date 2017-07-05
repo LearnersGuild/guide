@@ -8,7 +8,7 @@ Echo and the LOS are under active development. If you notice something that coul
 
 Echo supports a variety of commands for interacting with the LOS right from Slack. For example, if you're in Phase 3 you'd use the `vote` command for voting on goals .
 
-To issue a command, type a forward slash `/` followed by the command name in the chat window of Slack. You can type commands from any channel.
+To issue a command, type a forward slash `/` followed by the command name in the Slack chat window. You can type commands from any channel.
 
 When you type `/`, Slack will show a menu of the available commands and some hints as to their usage. Make sure to scroll down to see command options for Slack, Echo and other integrations.
 
@@ -16,13 +16,9 @@ For many commands, passing the `-h` or `--help` flag will show you a helpful mes
 
 For example, to get help with the `/review` command, type `/review --help`.
 
+### Slack Guidelines
 
-
-**Slack is the primary means by which we communicate with each other** - we don't send email at Learners Guild. Because we have so many people communicating on a public platform, it's important to observe some shared Guidelines:
-
-### Guidelines
-
-These guidelines are to support us in making the most of this tool while minimizing distractions and maximizing learning:
+**Slack is the primary means by which we communicate with each other.** Since we have so many people communicating on a public platform, it's important to observe some shared Guidelines. These guidelines are to support us in making the most of this tool while minimizing distractions and maximizing learning:
 
 #### Managing **OUTPUT**:
 
