@@ -8,5 +8,21 @@ Learners may choose to complete a phase interview at any time during the phase, 
 2. A learner must _complete and pass_ the phase interview no later than the 8th week after they begin the phase.
 3. Review the outline for each phase below, and follow the links to read the phase-specific curriculum. Note that the curriculum is a living system, and will be shifting and improving over time.
 
+If you have questions or need additional phase-specific support, get in touch with the Software Engineering Practitioner \(SEP\) or pro-coach assigned to your phase.
+
+Review the outline for each phase below, and follow the links to read the phase-specific curriculum. Note that the curriculum is a living system, and will be shifting and improving over time.
+
+
+
+[Phase 1 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/1)
+
+[Phase 2 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/2)
+
+[Phase 3 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/3)
+
+[Phase 4 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/4).
+
+[Phase 5 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/5).
+
 
 
