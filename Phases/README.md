@@ -1,12 +1,14 @@
 # Phases
 
-There are 5 sequential phases that learners move through.
+There are 5 sequential learning phases in our web development program. A phase is an eight \(8\) week period of time in which learners tackle a new a set of web dev skills, put skills into practice or are working on getting hired. 
 
-To start phases 2, 3, and 4, learners must pass an interview \(interviews include a coding challenge\). See more details in the [Interviews](./Interviews) section.
+To start phases 2, 3, and 4, Learners must successfully complete a phase interview which includes a coding challenge and technical comprehension interview. See more details in the [Interviews](./Interviews) section.
 
 ### Pacing
 
-Each phase is designed to contain curriculum that should be able to be completed in 5 weeks, with the expectation that learners take the phase interview in their 6th week. Phases 1-3 _must_ be completed within 8 weeks, so the latest a learner can take a phase interview is in week 8.
+Learners should aim to move through the beginning of the program as quickly as possible without compromising their learning. The first three phases contain curriculum that should be able to be completed in 5 weeks. It should take a learner six \(6\) weeks, including phase interview, to complete any of the first three phases. Eight \(8\) weeks is the maximum amount of time a learner can spend in phases 1, 2 or 3, respectively. 
+
+ with the expectation that learners take the phase interview in their 6th week. Phases 1-3 _must_ be completed within 8 weeks, so the latest a learner can take a phase interview is in week 8.
 
 Learners may choose to complete a phase interview at any time during the phase, but, there are two rules:
 
@@ -21,7 +23,7 @@ If you have questions or need additional phase-specific support, get in touch wi
 
 #### P1: Foundations 1
 
-Foundations 1 is all about the fundamentals. It covers things like learning how to use the terminal, basic coding concepts, how to test code, and using basic SQL. 
+Foundations 1 is all about the fundamentals. It covers things like learning how to use the terminal, basic coding concepts, how to test code, and using basic SQL.
 
 Here you’ll develop fundamental skills so that you can begin to take on more advanced topics and projects.
 
