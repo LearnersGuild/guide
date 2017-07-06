@@ -18,7 +18,7 @@ For example, to get help with the `/review` command, type `/review --help`.
 
 ### Slack Guidelines
 
-**Slack is the primary means by which we communicate with each other.** Since we have so many people communicating on a public platform, it's important to observe some shared Guidelines. These guidelines are to support us in making the most of this tool while minimizing distractions and maximizing learning:
+**Slack is our primary communication tool.** Since we have so many people communicating on a public platform, it's important to observe some shared Guidelines. These guidelines are to support us in making the most of this tool while minimizing distractions and maximizing learning:
 
 #### Managing **OUTPUT**:
 
@@ -36,9 +36,9 @@ Guidance for managing the volume of posts and notifications we generate:
 
 Guidance for managing the volume of posts and notifications you are fielding and suggestions for protecting your attention throughout the day:
 
-1. **Choose your channels wisely**. Only join channels that you wish to stay up to date with. To ensure smooth Guild-wide communication, please commit to joining and monitoring the following channels, at a minimum: \#Oakland, \#YouHouseChannel, \#YourCohortChannel, \#significant-updates, and your project team channel for the current week. Choose your other channels carefully, hide or leave channels you're done with. Keep it clean.
+1. **Choose your channels wisely**. Only join channels that you wish to stay up to date with. To ensure smooth Guild-wide communication, please commit to joining and monitoring the following channels, at a minimum: \#Oakland, \#YouHouseChannel, \#YourPhaseChannel, \#Onboarding, \#guild-announcements, and the \#space channel. Choose your other channels carefully, hide or leave channels you're done with. Keep it clean.
 
-2. **Make Slack a "pull", not "push" experience**. Decide whether you'd like to turn desktop notifications for Slack off during the day. Schedule set times that you'll catch up on messages - e.g. before standup, over lunch, and right before you leave. Make Slack work for you, don't work for Slack.
+2. **Make Slack a "pull", not "push" experience**. Decide whether you'd like to turn desktop notifications for Slack off during the day. Schedule set times that you'll catch up on messages - e.g. before standup, over lunch, and right before you leave. Make Slack work for you, don't work for Slack. \(Or actually, _working for Slack_ is a great aspiration. Just make sure their app isn't distracting you during the day.\)
 
 ### Special drill down on @channel notifications:
 
