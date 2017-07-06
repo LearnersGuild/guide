@@ -6,13 +6,13 @@ Start day coming up? Check.
 
 Curious about what your first week at the Guild will be like? Great!
 
-This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer questions you may have and to help you navigate the Guild once you arrive.
+This section of the Guide is designed to help you get settled and up to speed on our shared systems and space protocols. You will be assigned an Onboarding Mentor a week or two before your start date. They are available via email and Slack to answer your questions and help you navigate the Guild once you arrive.
 
 ### GENERAL INFORMATION
 
 ### Read the Guides
 
-The Learner Guide \(referred to as The Guide\) and the COS Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to submit an issue to this repo, or to hang tight until the final edits are updated.
+The Learner Guide \(referred to as The Guide\) and the Cultural Operating System \(COS\) Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to [submit an issue to this repo](https://github.com/LearnersGuild/guide/issues), or to hang tight until the final edits are updated.
 
 1. Learning Operating System: Learner Guide: [https://guide.learnersguild.org/](https://guide.learnersguild.org/)
 
@@ -34,24 +34,13 @@ If you are receiving a stipend through the **Learner Living Fund**, your first d
 
 ### Join and start using Slack
 
-We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you want to follow. All new Learners are required to join the following channels:
-
-* \#phase 1
-* \#general
-* \#help
-* \#los-support
-* \#guild-announcements
-* \#oakland
-* \#onboarding
-* \#space
-
-**Please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
+We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you both need and want to follow. Visit the [Slack and Echo](/General/Slack_and_Echo.md) section for an overview of the channels you're required to join. **And remember, please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
 
 ### Join these Trello Boards
 
 We use these Trello boards to centralize important guild-wide information. Join by clicking on the links below:
 
-1. **Space Roles**: a place where we capture and fill roles needed to keep our space running smoothly. One house will own the "core space roles" each month. This doesn’t mean you shouldn’t pitch in to keep our shared space clean! This responsibility is shared by all of us: [https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles](https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles)
+1. **Space Roles**: a place where we capture and fill roles needed to keep our space clean and running smoothly. Every month a different house is responsible for taking care of the "core space roles." That doesn’t mean you shouldn’t pitch in to keep our shared space clean though - keeping the Guild clean is a shared responsibility: [https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles](https://trello.com/invite/b/P6NuDGZH/f8dd29da8c1632d53ce4cdd5fcdb1ad8/lg-space-roles)
 
 2. **Space Agreements**: read more about these in the pinned post in the \#space channel: [https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements](https://trello.com/invite/b/KlCe030a/e568feb3c017b11ba8cfa08c471e12b2/lg-spaceagreements)
 

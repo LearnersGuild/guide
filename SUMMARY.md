@@ -2,13 +2,16 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
+  * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination ](General/Membership/membership-cancellation.md)
-  * [Runway](/Runway/README.md)
+* [Preparing for the Guild](preparing-for-the-guild.md)
+  * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
+    * [Pacing](Phases/pacing.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
@@ -43,6 +46,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
