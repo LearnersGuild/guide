@@ -36,7 +36,21 @@ Guidance for managing the volume of posts and notifications we generate:
 
 Guidance for managing the volume of posts and notifications you are fielding and suggestions for protecting your attention throughout the day:
 
-1. **Choose your channels wisely**. Only join channels that you wish to stay up to date with. To ensure smooth Guild-wide communication, please commit to joining and monitoring the following channels, at a minimum: \#Oakland, \#YouHouseChannel, \#YourPhaseChannel, \#Onboarding, \#guild-announcements, and the \#space channel. Choose your other channels carefully, hide or leave channels you're done with. Keep it clean.
+1. **Choose your channels wisely**. Only join channels that you wish to stay up to date with. To ensure smooth Guild-wide communication, please commit to joining and monitoring the following channels, at a minimum: 
+
+   1. \#Oakland 
+
+   2. \#YouHouseChannel 
+
+   3. \#YourPhaseChannel 
+
+   4. \#Onboarding 
+
+   5. \#Guild-announcements 
+
+   6. \#Space 
+
+   Choose your other channels carefully, hide or leave channels you're done with. Keep it clean.
 
 2. **Make Slack a "pull", not "push" experience**. Decide whether you'd like to turn desktop notifications for Slack off during the day. Schedule set times that you'll catch up on messages - e.g. before standup, over lunch, and right before you leave. Make Slack work for you, don't work for Slack. \(Or actually, _working for Slack_ is a great aspiration. Just make sure their app isn't distracting you during the day.\)
 
