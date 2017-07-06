@@ -8,6 +8,8 @@ The Guild reserves the right to terminate your membership in the Guild as set fo
 
   * _**In particular, failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.**_
 
+* Five consecutive days of non-participation in the program without communicating with the staff \("no-call, no-show"\).
+
 * Failure to uphold Guild culture.
 
 * Noncompliance with Guild policies.
