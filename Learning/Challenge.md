@@ -8,7 +8,7 @@ To find the contexts and activities for optimal learning, you'll also need to kn
 
 ## Finding your ZPD
 
-**\[REWRITE\]** There are four rough categories of relative difficulty for any goal: the goal can be \(1\) so easy for you that it borders on tedium; or \(2\)  within your competency level, so that you can do it without assistance; or \(3\) challenging and novel, and far enough outside of your current competency that you need some assistance to complete it; or \(4\) so difficult that it overwhelms you and leaves you disoriented and confused.
+There are four rough categories of relative difficulty for any goal: the goal can be \(1\) so easy for you that it borders on tedium; or \(2\)  within your competency level, so that you can do it without assistance; or \(3\) challenging and novel, and far enough outside of your current competency that you need some assistance to complete it; or \(4\) so difficult that it overwhelms you and leaves you disoriented and confused.
 
 If you rank a task or goal on a scale of increasing difficulty as measured by how it feels to complete it, it would look something like this:
 

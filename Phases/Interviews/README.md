@@ -1,12 +1,12 @@
 # Phase Interviews
 
-To learn what each phase interview will cover and how to prepare, see the phase-specific interview pages:
+To learn what each phase interview covers and how to prepare, see the phase-specific interview pages:
 
-- [Phase 2](./Phase_2.md)
+* [Phase 2](./Phase_2.md)
 
-- [Phase 3](./Phase_3.md)
+* [Phase 3](./Phase_3.md)
 
-- [Phase 4](./Phase_4.md)
+* [Phase 4](./Phase_4.md)
 
 Note that there is no interview for phases 1 or 5.
 
@@ -16,23 +16,23 @@ Make sure to read the interview overview pages. This is where you'll find the mo
 
 In addition, we recommended that you take following steps to lessen the effects of test anxiety.
 
-- Before the coding challenge...
+* Before the coding challenge...
 
-  - Study the relevant skills and take notes for yourself.
+  * Study the relevant skills and take notes for yourself.
 
-  - Organize the code you've written for easy reference (the interview is open-book).
+  * Organize the code you've written for easy reference \(the interview is open-book\).
 
-  - Get plenty of sleep. Exercise. Eat well. Take care of yourself. :)
+  * Get plenty of sleep. Exercise. Eat well. Take care of yourself. :\)
 
-- During the coding challenge...
+* During the coding challenge...
 
-  - Make sure to read the instructions very closely.
+  * Make sure to read the instructions very closely.
 
-  - Don't expect to complete everything, just do as much as you can.
+  * Don't expect to complete everything, just do as much as you can.
 
-  - Focus on the areas that play to your strengths first, then do the hard stuff. Feel free to jump around.
+  * Focus on the areas that play to your strengths first, then do the hard stuff. Feel free to jump around.
 
-  - Take frequent, short breaks to rest your brain.
+  * Take frequent, short breaks to rest your brain.
 
 ### Getting Support
 
@@ -46,7 +46,7 @@ Starting sometime after 1pm on the Wednesday of the interview week, and once the
 
 1. **Challenge Evaluation**: private review, by an evaluator, of the code submitted for the interview challenge
 
-2. **Technical Interview**: a 30-45 minute, face-to-face technical interview (via video-chat) between an interviewer and the learner
+2. **Technical Interview**: a 30-45 minute, face-to-face technical interview \(via video-chat\) between an interviewer and the learner
 
 #### Challenge Evaluation
 
@@ -58,44 +58,47 @@ On a typical project, code evolves over time. Lines, modules, and functions are 
 
 As an extreme example, if there was only one commit, with all of the final code included in working form, that would look suspicious.
 
-If a learner follows good git hygiene (commit and push often, write clear commit messages, etc.), this part of the evaluation should be straight-forward and not raise any flags.
+If a learner follows good git hygiene \(commit and push often, write clear commit messages, etc.\), this part of the evaluation should be straight-forward and not raise any flags.
 
 **How complete is the code relative to the specifications?**
 
 When evaluating completeness, the evaluator will:
 
-- award full points for requirements that are definitively met by the artifact
+* award full points for requirements that are definitively met by the artifact
 
-- award partial or zero points for requirements that are partially or not at all met by the artifact
+* award partial or zero points for requirements that are partially or not at all met by the artifact
 
-- count the number of "completed" requirement points
+* count the number of "completed" requirement points
 
-- divide the number of "completed" points by the total number of points
+* divide the number of "completed" points by the total number of points
 
-- convert this number to a percentage (0-100%)
+* convert this number to a percentage \(0-100%\)
 
 #### Technical Interview
 
-During the technical interview, an interviewer will meet (via video chat) with the learner, in a 1:1 setting. Together (for about 30 minutes), they will dig into various parts of the code that was submitted.
+During the technical interview, an interviewer will meet \(via video chat\) with the learner, in a 1:1 setting. Together \(for about 30 minutes\), they will dig into various parts of the code that was submitted.
 
 The interviewer is trying to answer the following questions:
 
-- Did the learner write this code themselves, or does it seem like it was blindly cut-and-pasted?
+* Did the learner write this code themselves, or does it seem like it was blindly cut-and-pasted?
 
-- Does the learner understand the code? Can they explain how it works?
+* Does the learner understand the code? Can they explain how it works?
 
-- Is the learner aware of their own skill and knowledge boundaries?
+* Is the learner aware of their own skill and knowledge boundaries?
 
 To prepare, learners should consider the following questions. These may or may not be things the interviewer will ask about. Learners should be prepared to answer any of them.
 
-- How are the project files organized? What does each file do?
+* How are the project files organized? What does each file do?
 
-- What is the role of this function or subroutine?
+* What is the role of this function or subroutine?
 
-- How will the computer read this code?
+* How will the computer read this code?
 
-- Why did you make this design decision?
+* Why did you make this design decision?
 
-- What are the inputs and outputs?
+* What are the inputs and outputs?
 
-- How did you arrive at your solution? Walk through your commit history to show how your solution grew.
+* How did you arrive at your solution? Walk through your commit history to show how your solution grew.
+
+
+
