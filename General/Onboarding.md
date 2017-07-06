@@ -34,18 +34,7 @@ If you are receiving a stipend through the **Learner Living Fund**, your first d
 
 ### Join and start using Slack
 
-We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you want to follow. All new Learners are required to join the following channels:
-
-* \#phase 1
-* \#general
-* \#help
-* \#los-support
-* \#guild-announcements
-* \#oakland
-* \#onboarding
-* \#space
-
-**Please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
+We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you both need and want to follow. Visit the [Slack and Echo](/General/Slack_and_Echo.md) section for an overview of the channels you're required to join. **And remember, please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
 
 ### Join these Trello Boards
 
