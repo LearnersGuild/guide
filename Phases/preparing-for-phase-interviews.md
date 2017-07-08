@@ -2,7 +2,7 @@
 
 ### Part one: The Coding Challenge
 
-Make sure to read the interview overview pages to find the most relevant information about the interview and to guide your preparation. In addition, we recommended that you take following steps to lessen the effects of test anxiety.
+Make sure to read the interview overview pages to find the most relevant information about the interview and to guide your preparation. In addition, we recommend that you take following steps to lessen the effects of test anxiety.
 
 * Before the coding challenge:
 

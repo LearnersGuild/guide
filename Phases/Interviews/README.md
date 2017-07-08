@@ -5,21 +5,21 @@ Phase Interviews enable you to move from one phase to another. As mentioned in t
 1. A Phase Interview may only be attempted _twice_.
 2. You must _complete and pass_ the phase interview no later than the 8th week after you begin the phase.
 
-**All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm.** 
+**All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm.**
 
 Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, face-to-face technical interview \(via video-chat\) with you.
 
-##### Phase Interviews have two parts: a coding challenge and a technical comprehension interview. 
+##### Phase Interviews have two parts: a coding challenge and a technical comprehension interview.
 
-The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application. 
+The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
 
-The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. 
+The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code.
 
 Phase Interview outcomes are shared with you via email on the Friday afternoon of the week you took the interview.
 
 ### How to request a Phase Interview
 
-1. You must notify staff - your current SEP, your Learning Facilitator, and the SEP for the new phase - in a group DM no later than 5pm on Thursday if they wish to take a Phase Interview in the upcoming week.
+1. You must notify staff - your current SEP, your Learning Facilitator, and the SEP for the new phase - in a group DM no later than 5pm on Thursday if you wish to take a Phase Interview in the upcoming week.
 2. Your DM can be as simple as: "“Hi \_\_, I’d like to interview for Phase X during week X”
 3. On the Monday of your interview week, you will receive a link to the coding challenge and instructions for submission.
 
