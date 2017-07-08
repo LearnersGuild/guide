@@ -7,11 +7,15 @@ Phase Interviews enable you to move from one phase to another. As mentioned in t
 
 All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm. Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, face-to-face technical interview \(via video-chat\) with you.
 
-**Phase Interviews have two parts:** **a coding challenge and a technical comprehension interview.** **The section below:**
+**Phase Interviews have two parts:** **a coding challenge and a technical comprehension interview.** 
+
+**The section below:**
 
 * Provides tips for preparing for the Phase Interview
 * Provides instructions for requesting and submitting your Phase Interview
 * Provides an overview of the supports available to you while you work on the Interview ** **
+
+---
 
 ### Preparing for part one: The Coding Challenge
 
@@ -54,9 +58,13 @@ Note that there is no interview for phases 1 or 5.
 After you've submitted your code, an evaluator will privately review the submitted code. They are primarily looking for two things:
 
 * **Does the commit history "tell a story?"**
-  * On a typical project, code evolves over time. Lines, modules, and functions are added over time, then later changed, or sometimes even removed. The commit history tells a story of how the person who wrote the code went about figuring out and solving the particular problem. As an extreme example, if there was only one commit, with all of the final code included in working form, that would look suspicious. If a learner follows good git hygiene \(commit and push often, write clear commit messages, etc.\), this part of the evaluation should be straight-forward and not raise any flags.
+
+  * On a typical project, code evolves over time. Lines, modules, and functions are added over time, then later changed, or sometimes even removed. The commit history tells a story of how the person who wrote the code went about figuring out and solving the particular problem. 
+  * As an extreme example, if there was only one commit, with all of the final code included in working form, that would look suspicious. 
+  * If a Learner follows good git hygiene \(commit and push often, write clear commit messages, etc.\), this part of the evaluation should be straight-forward and not raise any flags.
 
 * **How complete is the code relative to the specifications?**
+
   * When evaluating completeness, the evaluator will:
     * award full points for requirements that are definitively met by the artifact 
     * award partial or zero points for requirements that are partially or not at all met by the artifact 
@@ -66,9 +74,9 @@ After you've submitted your code, an evaluator will privately review the submitt
 
 #### Technical Interview
 
-During the technical interview, an interviewer will meet \(via video chat\) with the learner, in a 1:1 setting. Together \(for about 30 minutes\), they will dig into various parts of the code that was submitted.
+During the technical interview, an interviewer will meet \(via video chat\) with you in a 1:1 setting. Together \(for about 30 minutes\), they will dig into various parts of the code you submitted.
 
-The interviewer is trying to answer the following questions:
+**The interviewer is trying to answer the following questions:**
 
 * Did the learner write this code themselves, or does it seem like it was blindly cut-and-pasted?
 
@@ -76,7 +84,7 @@ The interviewer is trying to answer the following questions:
 
 * Is the learner aware of their own skill and knowledge boundaries?
 
-To prepare, learners should consider the following questions. These may or may not be things the interviewer will ask about. Learners should be prepared to answer any of them.
+**To prepare, you should consider the following questions. **\(These may or may not be things the interviewer will ask about, but you should be prepared to answer any of them.\)
 
 * How are the project files organized? What does each file do?
 
@@ -92,19 +100,19 @@ To prepare, learners should consider the following questions. These may or may n
 
 
 
----
-
 ### How to request a Phase Interview
 
 \[INSERT FINAL PROCESS HERE\]
 
 #### How to submit your coding challenge
 
+\[INSERT FINAL PROCESS HERE\]
+
 ### Getting Support
 
-The kind of support SEPs offer as you are working on the interview challenge is limited to clarifying questions about the goal or its specs, or may need help debugging strange environment or git issues.
+The kind of support SEPs provide while you're working on the Phase Interview is limited to clarifying questions about the goal, its specs, or debugging strange environment or git issues.
 
-They should not expect, however, the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with them or do any kind of "cognitive apprenticeship". In most cases, the SEP will not even touch the learner's keyboard.
+You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the learner's keyboard.
 
 ### 
 
