@@ -40,11 +40,25 @@ Yes, your membership may be terminated as a result of two unsuccessful attempts 
 
 #### How do learners access the curriculum for each phase?
 
-Visit the curriculum repo: [https://github.com/GuildCrafts/curriculum](https://github.com/GuildCrafts/curriculum. ). 
+Visit the curriculum repo: [https://github.com/GuildCrafts/curriculum](https://github.com/GuildCrafts/curriculum. ).
 
 #### Are all learners required to submit a retrospective at the end of the week?
 
-Only Learners in Phases 3 and 4 are required submit weekly retrospectives. 
+Only Learners in Phases 3 and 4 are required submit weekly retrospectives.
+
+#### How do I get help?
+
+You can request help in your phase channel by typing:
+
+@phase-1-help
+
+@phase-2-help
+
+@phase-3-help
+
+@phase-4-help
+
+@phase-5-help 
 
 
 
