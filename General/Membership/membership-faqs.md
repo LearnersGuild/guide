@@ -73,6 +73,10 @@ Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Lea
 
 Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
 
+#### What if I have a conflict with someone that I can't resolve on my own?
+
+Conflicts happen. It's natural. And in most cases working through conflicts with our colleagues only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others by using the interpersonal tools we share in the COS. If the conflict is tenacious, there is a formal conflict resolution process in place \(in the COS\) to support you in resolving it.
+
 #### Is there a dress code?
 
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but consider leaving the pj's at home.
