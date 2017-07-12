@@ -17,7 +17,7 @@ While our ambition is to be able to invest in anyone and everyone who aspires to
 
 ## Personal Days
 
-Life happens to all of us, so we make an allowance of **8 personal days** over the course of the 40 weeks.
+Life happens to all of us, so we make an allowance of **10 personal days** over the course of the 40 weeks.
 
 You can use personal days at your discretion. Use them for physical/mental health days, emergency errands, major life events \(birth/death/weddings\) or anything else you think is important enough to warrant your absence.
 
