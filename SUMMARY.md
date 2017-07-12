@@ -12,12 +12,14 @@
     * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
-    * [Pacing](Phases/pacing.md)
+  * [Pacing](Phases/pacing.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
   * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
+  * Program FAQs
+
 * [Learning Supports](Learning/README.md)
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
   * [Challenge](Learning/Challenge.md)
@@ -48,4 +50,6 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
 
