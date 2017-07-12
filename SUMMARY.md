@@ -18,8 +18,7 @@
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
-  * Program FAQs
-
+  * [Program FAQs](Phases/program-faqs.md)
 * [Learning Supports](Learning/README.md)
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
   * [Challenge](Learning/Challenge.md)
@@ -50,6 +49,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 

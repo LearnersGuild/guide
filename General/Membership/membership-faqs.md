@@ -6,7 +6,7 @@ A learner maintains membership in the Guild by successfully advancing through th
 
 #### Is there a cancellation period?
 
-Yes. Your first five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week five all new Learners are required to take a coding challenge and technical interview - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **We will cancel your membership if the outcome of your coding challenge indicates the Guild is not the right learning environment for you.** 
+Yes. Your first five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week five all new Learners are required to take a coding challenge and technical interview - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **We will cancel your membership if the outcome of your coding challenge indicates the Guild is not the right learning environment for you.**
 
 #### **Can I leave and join a later cohort if the timing isn't good for me?**
 
@@ -64,6 +64,22 @@ If you're unemployed, and your income is less than $50,000, the Income Sharing A
 #### When do I have to start repaying my ISA?
 
 Learners are afforded a three-month grace period after they complete or withdraw from the Guild before payments are required.
+
+#### Do I need my own computer?
+
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. 
+
+#### I don't have a Mac laptop. What should I do?
+
+\[WAIT ON FDR FEEDBACK\]
+
+#### Can I use the loaner laptop for personal use? Are there any limits to what I can install on this laptop or what I can use it for?
+
+Yes, you can use it for personal activities. However, you will need to wipe the hard drive and perform a clean OS install before giving it back to us at the end of the loaner period. It is an expensive piece of machinery, so please take good care of it and leave it in good condition for the next learner who inherits it. You can install anything on the laptop, so long as it is legal.
+
+#### What platforms and operating systems does Learners Guild use?
+
+Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.
 
 #### Is there a dress code?
 
