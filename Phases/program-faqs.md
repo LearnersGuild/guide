@@ -1,7 +1,5 @@
 # Learning Model FAQs
 
-### Learning Phases
-
 #### How long should it take a learner to complete a phase?
 
 Learners should aim to move through the beginning of the program as quickly as possible without compromising their learning. It should take a learner six \(6\) weeks, including phase interview, to complete any of the first three phases. Eight \(8\) weeks is the maximum amount of time a learner can spend in phases 1, 2 or 3, respectively. We strongly recommend requesting a Phase Interview as soon as a learner feels ready. See Phase Interviews for more information.
@@ -58,7 +56,5 @@ You can request help in your phase channel by typing:
 
 @phase-4-help
 
-@phase-5-help 
-
-
+@phase-5-help
 
