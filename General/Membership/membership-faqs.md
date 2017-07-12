@@ -10,7 +10,7 @@ See the [Time Commitment](../Policies/Time_Commitment.md) page.
 
 #### Do we get time off?
 
-Yes, we observe all national holidays. Check the [Holiday List](//General/Holiday_List.md) for Guild closure dates. We also take one week off for the winter holiday season/new year's, and another week off during the summer. Depending on when you're at the Guild, you may have one, or both of those weeks off. Every Learner also has ten \(10\) personal days to use as they wish, and those days may be used as a full day, or a half day  and 3  
+Yes, we observe all national holidays. Check the [Holiday List](//General/Holiday_List.md) for Guild closure dates. We also take one week off for the winter holiday season/new year's, and another week off during the summer. Depending on when you're at the Guild, you may have one, or both of those weeks off. Every Learner also has ten \(10\) personal days and three \(3\) professional development days to use over the course of their 40 weeks. See the [Time Commitment ](//Policies/Time_Commitment.md)section for more details. 
 
 #### What happens to my ISAs if my membership is terminated or if I choose to leave the Guild?
 
@@ -55,7 +55,7 @@ Our business model depends on our learners "paying it forward" - in other words,
 
 #### What if I'm not making more than $50,000 per year?
 
-Income sharing only applies if your income is more than $50,000 annually, including income from self-employment or consulting work. In certain cases, gains from equity that you received as a result of your work for a company also counts as 'income'. Please see the Income Share Agreement for more details. 
+Income sharing only applies if your income is more than $50,000 annually, including income from self-employment or consulting work. In certain cases, gains from equity that you received as a result of your work for a company also counts as 'income'. Please see the Income Share Agreement for more details.
 
 #### What if I get fired from my first job or decide to quit?
 
@@ -68,6 +68,4 @@ Learners are afforded a three-month grace period after they complete or withdraw
 #### Is there a dress code?
 
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but consider leaving the pj's at home.
-
-
 
