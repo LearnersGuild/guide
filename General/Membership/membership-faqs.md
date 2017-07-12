@@ -75,7 +75,7 @@ Apple computers running the latest Mac OS. If you are used to a Windows or Linux
 
 #### What if I have a conflict with someone that I can't resolve on my own?
 
-Conflicts happen. It's natural. And in most cases working through conflicts with our colleagues only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others by using the interpersonal tools we share in the COS. If the conflict is tenacious, there is a formal conflict resolution process in place \(in the COS\) to support you in resolving it.
+Conflicts happen. It's natural. And in most cases working through conflicts with our colleagues only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others by using the interpersonal tools we share in the [COS](https://cos.learnersguild.org/Practice_Tending_Relationship/Requests.html). If the conflict is tenacious, there is a [formal conflict resolution ](https://cos.learnersguild.org/Practice_Tending_Relationship/Conflict.html)process in place to support you in resolving it.
 
 #### Is there a dress code?
 

@@ -41,7 +41,7 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
-* Log
+* [Log](log.md)
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
@@ -49,6 +49,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
