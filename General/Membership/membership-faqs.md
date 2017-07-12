@@ -67,15 +67,7 @@ Learners are afforded a three-month grace period after they complete or withdraw
 
 #### Do I need my own computer?
 
-Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. 
-
-#### I don't have a Mac laptop. What should I do?
-
-\[WAIT ON FDR FEEDBACK\]
-
-#### Can I use the loaner laptop for personal use? Are there any limits to what I can install on this laptop or what I can use it for?
-
-Yes, you can use it for personal activities. However, you will need to wipe the hard drive and perform a clean OS install before giving it back to us at the end of the loaner period. It is an expensive piece of machinery, so please take good care of it and leave it in good condition for the next learner who inherits it. You can install anything on the laptop, so long as it is legal.
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff.
 
 #### What platforms and operating systems does Learners Guild use?
 
