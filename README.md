@@ -61,7 +61,7 @@ There are a couple things in place to support learners in building a strong comm
 
 * **Onboarding Mentors:** Every new learner is paired with an existing learner - their Onboarding Mentor - who helps them settle in and navigate Guild systems and resources during their first few weeks.
 
-* **Affinity Groups:** Learner formed groups organized around shared identities, or interests.
+* **Affinity Groups:** Learner formed groups organized around shared identities.
 
 ---
 

@@ -13,11 +13,9 @@
 | **Direct Collaboration** |  |  |  | **x** |  |
 | **Mock interviews** |  |  |  |  | **x** |
 
-
-
 ## Getting Help
 
-If you are working on a module or a project and run into a problem, you can request help from the pro-coaches and SEPs for your phase by typing the following in your phase channel: 
+If you are working on a module or a project and run into a problem, you can request help from the pro-coaches and SEPs for your phase by typing the following in your phase channel:
 
 @phase-1-help
 
@@ -28,6 +26,10 @@ If you are working on a module or a project and run into a problem, you can requ
 @phase-4-help
 
 @phase-5-help
+
+## Recorded Lectures & Office Hour Talks
+
+You can access SEP lectures and office hours on our [YouTube channel. ](https://www.youtube.com/channel/UC599lkzf-2haPTzDAMGEgLg)
 
 
 
