@@ -7,7 +7,7 @@
   * [Membership FAQs](General/Membership/membership-faqs.md)
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * Qualified Laptop
-* * [The Runway](/Runway/README.md)
+  * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
