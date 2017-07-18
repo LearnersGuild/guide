@@ -67,7 +67,7 @@ Learners are afforded a three-month grace period after they complete or withdraw
 
 #### Do I need my own computer?
 
-Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff.
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [Qualified Laptop](/Runway/qualified-laptop.md) page for more information. 
 
 #### What platforms and operating systems does Learners Guild use?
 
