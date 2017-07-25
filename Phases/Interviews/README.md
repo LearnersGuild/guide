@@ -19,7 +19,7 @@ Phase Interview outcomes are shared with you via email on the Friday afternoon o
 
 ### How to request a Phase Interview
 
-1. Notify the SEP for the phase you are interviewing into via Slack direct message DM no later than 5pm on the Thursday prior to the week you'd like to interview. So, if you wish to take a Phase Interview in the upcoming week, you'd notify the SEP for the phase you want to enter no later than 5pm on the Thursday of the current week.
+1. Notify the SEP for the phase you are interviewing into via Slack direct message \(DM\) no later than 5pm on the Thursday prior to the week you'd like to interview. So, if you wish to take a Phase Interview in the upcoming week, you'd notify the SEP for the phase you want to enter no later than 5pm on the Thursday of the current week.
 2. Your DM can be as simple as: "“Hi \_\_, I’d like to interview for Phase X during week X”
 3. On the Monday of your interview week, you will receive a link to the coding challenge and instructions for submission.
 
