@@ -15,13 +15,13 @@ Review the outline for each phase below, and follow the links to read the phase-
 
 ### Phase Curriculum
 
-[Phase 1 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/1)
+[Phase 1 curriculum](https://curriculum.learnersguild.org/phases/1/)
 
-[Phase 2 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/2)
+[Phase 2 curriculum](https://curriculum.learnersguild.org/phases/2/)
 
-[Phase 3 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/3)
+[Phase 3 curriculum](https://curriculum.learnersguild.org/phases/3/)
 
-[Phase 4 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/4)
+[Phase 4 curriculum](https://curriculum.learnersguild.org/phases/4/)
 
-[Phase 5 curriculum](https://github.com/GuildCrafts/curriculum/tree/master/phases/5)
+[Phase 5 curriculum](https://curriculum.learnersguild.org/phases/5/)
 
