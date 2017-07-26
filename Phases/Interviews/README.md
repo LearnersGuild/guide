@@ -3,7 +3,9 @@
 Phase Interviews enable you to move from one phase to another. As mentioned in the [Pacing](/Phases/pacing.md) section, it should take you six \(6\) weeks, including phase interview, to complete any of the first three phases. Eight \(8\) weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase, but, there are two rules:
 
 1. A Phase Interview may only be attempted _twice_.
-2. You must _complete and pass_ the phase interview no later than the 8th week after you begin the phase.
+2. ```
+   You must complete and pass the phase interview no later than the 8th week after you begin the phase.
+   ```
 
 **All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm.**
 
@@ -29,7 +31,18 @@ The kind of support SEPs provide while you're working on the Phase Interview is 
 
 You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the learner's keyboard.
 
-### 
+### How to submit the Coding Challenge 
+
+**The coding challenge is due no later than 12pm on the Wednesday of your Interview week.** 
+
+Once you've completed the coding challenge portion of the Phase Interview you must submit your code for review. Use the following steps to successfully submit your work: 
+
+* Open Slack to any channel
+* Use the` /project set-artifact <repo url>` command to submit your code. 
+
+
+
+
 
 
 
