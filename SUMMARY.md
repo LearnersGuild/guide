@@ -13,7 +13,7 @@
     * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
-  * Getting Help
+  * [Getting Help](Phases/getting-help.md)
   * [Pacing](Phases/pacing.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
   * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
@@ -51,6 +51,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
