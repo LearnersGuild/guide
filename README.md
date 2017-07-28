@@ -20,8 +20,8 @@ Each learner is responsible for reading, understanding, and complying with this 
 
 As a Learners Guild Member, each learner takes on two objectives:
 
-* **Objective 1:** Work diligently to create and sustain a career as a web developer.
-* **Objective 2: **Collaborate with others in building a learning culture that brings out the best in us and supports us in achieving the first objective.
+* **Objective 1:** Create and sustain a meaningful career as a web developer.
+* **Objective 2: **Co-create a learning culture that empowers us to reach our goals at the Guild and beyond. 
 
 ## Learning Operating System
 
