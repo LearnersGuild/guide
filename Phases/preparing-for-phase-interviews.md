@@ -81,5 +81,7 @@ During the technical interview, an interviewer will meet \(via video chat\) with
 
 * How did you arrive at your solution? Walk through your commit history to show how your solution grew.
 
+#### Wondering what counts as a successful Phase Interview?
 
+Learners who complete, understand and can clearly explain 80% or more of the content covered in their phase interview will be accepted into the phase for which they’re interviewing.
 
