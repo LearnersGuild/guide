@@ -26,7 +26,7 @@ No, not exactly. If a learner moves into phases 2, 3, or 4 early, the weeks they
 
 #### What counts as a successful Phase Interview?
 
-Learners who complete and understand 80% or more of the content covered in their phase interview will be accepted into the phase for which they’re interviewing.
+Learners who complete, understand, and clearly explain 80% or more of the content covered in their phase interview will be accepted into the phase for which they’re interviewing.
 
 #### How many times can a learner take a Phase Interview?
 
