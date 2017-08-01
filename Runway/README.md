@@ -12,14 +12,15 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 - HTML5 and CSS
 - Basic JavaScript
 - Object Oriented and Functional Programming
-- Basic Algorithm Scripting (try to get through about half)
+- Basic Algorithm Scripting
 
 #### Development Environment and Tooling
 
 - Download and install the [Atom][atom] editor
 - Read chapters 1 and 2 of the [Atom Flight Manual][atom-flight-manual]
-- Go through Codecademy's [Learn the Command Line][codecademy-cli] course
+- Complete Codecademy's [Learn the Command Line][codecademy-cli] course
 - Complete the [Try Git][cs-try-git] course
+- Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
 
 #### Non-technical Prep
 
@@ -33,9 +34,7 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 
 ## More Recommended Prep
 
-Done with all the required prep? Great. If you have the time and resources,
-keep going! These fundamental skills are needed for nearly all web development
-projects:
+Done with all the required prep? Great! But don't stop there! Continuous learning is a core part of being a developer. Keep practicing by building these fundamental web development skills:
 
 - Reading and writing HTML and CSS
 - Reading and writing JavaScript
@@ -58,7 +57,6 @@ Your focus should be on developing the above skills. The below tasks are good pl
 
 #### Version Control and Project Management
 
-- Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
 - Read and practice the [Mastering Issues][gh-issues-guide] and [Forking Projects][gh-forking-guide] guides
 - Read [Mastering Markdown][gh-md-guide] and practice writing Markdown wherever you can
 
@@ -76,8 +74,8 @@ Check out these other useful [FreeCodeCamp](https://www.freecodecamp.com/) secti
 - Basic Front End Development Projects (10-30 hours)
 - JSON APIs and Ajax (1-2 hours)
 - Intermediate Front End Development Projects (10-30 hours)
- - Build a Random Quote Machine Incomplete
- - Show the Local Weather Incomplete
+ - Build a Random Quote Machine
+ - Show the Local Weather
 - Intermediate Algorithm Scripting (50 hours)
 - Advanced Algorithm Scripting (50 hours)
 
