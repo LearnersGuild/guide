@@ -2,11 +2,14 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
+
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
+
     * [New Learner Check-in & Cancelation Period](General/Membership/new-learner-check-in-and-cancelation-period.md)
 
   * [Membership FAQs](General/Membership/membership-faqs.md)
+
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
@@ -45,6 +48,8 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
+* Guild Culture Operating System
+  * Community Agreements
 * [Log](log.md)
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
