@@ -11,11 +11,13 @@
   * [Membership FAQs](General/Membership/membership-faqs.md)
 
 * [Preparing for the Guild](preparing-for-the-guild.md)
+
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
+
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
   * [Getting Help](Phases/getting-help.md)
@@ -39,6 +41,8 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
+* Guild Culture Operating System
+  * Community Agreements
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
@@ -48,8 +52,7 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
-* Guild Culture Operating System
-  * Community Agreements
+
 * [Log](log.md)
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
