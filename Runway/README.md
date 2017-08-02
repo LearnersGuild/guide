@@ -11,7 +11,6 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 
 - HTML5 and CSS
 - Basic JavaScript
-- Object Oriented and Functional Programming
 - Basic Algorithm Scripting
 
 #### Development Environment and Tooling
@@ -26,11 +25,11 @@ Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the follo
 
 - Read the Learner Guide section on [Cognitive Apprenticeship](https://guide.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
 - Read the following sections of the [COS Guide](https://cos.learnersguild.org/):
- - [Introduction](https://cos.learnersguild.org/)
- - [Overview](https://cos.learnersguild.org/COS_Overview/) 
- - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) 
+  - [Introduction](https://cos.learnersguild.org/)
+  - [Overview](https://cos.learnersguild.org/COS_Overview/) 
+  - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) 
 
-** Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)** (1 hour)
+**Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)** (1 hour)
 
 ## More Recommended Prep
 
