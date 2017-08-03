@@ -4,6 +4,7 @@
 * [Guild Membership](/General/Membership.md)
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
+    * Guild Initiated Membership Termination
     * [New Learner Progress Check](General/Membership/new-learner-check-in-and-cancelation-period.md)
     * [Learner Initiated Membership Cancelation Period](General/Membership/learner-initiated-membership-cancelation-period.md)
   * [Membership FAQs](General/Membership/membership-faqs.md)
