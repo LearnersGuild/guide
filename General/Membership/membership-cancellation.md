@@ -4,19 +4,15 @@ The terms of your membership in the Guild are governed by your Enrollment Agreem
 
 **Learners Guild reserves the right to terminate your membership in the Guild as set forth in your Enrollment Agreement, and including under the following cimcumstances:**
 
-* Failure to meet the seven [**Membership Expectations**](/General/Membership/membership-expectations.md)** **outlined above can result in the termination of our investment and cancellation of your membership.
+* Failure to meet the [**Membership Expectations**](/General/Membership/membership-expectations.md)** **outlined above can result in the termination of our investment and cancellation of your membership.
 
   * _**In particular, failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.**_
 
-* 5 consecutive days of non-participation in the program without communicating with the staff. See the **No call, No Show Policy** in the [**Time Commitment**](//Policies/Time_Commitment.md) section of this Guide.
+* 5 consecutive days of non-participation in the program without communicating with the staff. See the **No call, No Show **section of the [**Time Commitment**](//Policies/Time_Commitment.md) policy in the Guide.
 
-* Failure to uphold Guild culture. In particular,
+* Failure to uphold Learners Guild's culture. In particular,
 
-  * Being out of integrity with non-technical membership expectations as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide.
-
-  * Repeated failure and/or unwillingness to uphold and abide by our community agreements as set forth in the **Community Agreements** section of this Guide.
-
-* Noncompliance with Guild Policies as set forth in the Guild Policies section of this Guide.
+  * Being out of integrity with the non-technical membership expectations \(Attendance and Community Expectations\) as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide.
 
 For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
 
