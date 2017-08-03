@@ -17,7 +17,7 @@
 #### Community Expectations
 
 1. **Guild Policy Compliance:** You are required to read, understand and comply with all published [**Guild Policies**](//Policies/README.md)** **and those that may be added in the future. Make sure to thoroughly read the policies included at the end of this Guide. 
-2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our published **Community Agreements **those that may be added in the future. Please read the agreements thoroughly and check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions. 
+2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our published [**Community Agreements**](/community-agreements.md)** **those that may be added in the future. Please read the agreements thoroughly and check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions. 
 
 
 

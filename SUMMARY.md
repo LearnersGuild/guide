@@ -2,24 +2,17 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
-
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
-
     * [New Learner Check-in & Cancelation Period](General/Membership/new-learner-check-in-and-cancelation-period.md)
-
   * [Membership FAQs](General/Membership/membership-faqs.md)
-
 * [Preparing for the Guild](preparing-for-the-guild.md)
-
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
-
 * [Learning at the Guild](General/README.md)
-
   * [Phases](/Phases/README.md)
   * [Getting Help](Phases/getting-help.md)
   * [Pacing](Phases/pacing.md)
@@ -29,7 +22,6 @@
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
   * [Program FAQs](Phases/program-faqs.md)
-
 * [Learning Supports](Learning/README.md)
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
   * [Challenge](Learning/Challenge.md)
@@ -43,10 +35,9 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
-* Guild Culture Operating System
-  * Community Agreements
+* [Guild Culture Operating System](guild-culture-operating-system.md)
+  * [Community Agreements](community-agreements.md)
 * [Guild Policies](/Policies/README.md)
-
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
   * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -55,17 +46,12 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
-
 * [Log](log.md)
-
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
   * [FAQv1](/General/FAQ.md)
-
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
