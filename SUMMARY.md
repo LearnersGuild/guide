@@ -5,7 +5,7 @@
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
     * [New Learner Progress Check](General/Membership/new-learner-check-in-and-cancelation-period.md)
-    * Learner Initiated Membership Cancelation Period
+    * [Learner Initiated Membership Cancelation Period](General/Membership/learner-initiated-membership-cancelation-period.md)
   * [Membership FAQs](General/Membership/membership-faqs.md)
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Qualified Laptop](Runway/qualified-laptop.md)
@@ -55,6 +55,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
