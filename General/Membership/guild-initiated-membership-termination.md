@@ -7,11 +7,8 @@ The terms of your membership in the Guild are governed by your Enrollment Agreem
 * Failure to meet the [**Membership Expectations**](/General/Membership/membership-expectations.md)** **previously** **outlined can result in the withdrawal of our investment and termination of your membership. In particular:
 
   * Failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.
-  * 5 consecutive days of non-participation in the program without communicating with the staff . See the **No call, No Show **section of the [**Time Commitment**](//Policies/Time_Commitment.md) policy in the Guide.
 
-* Failure to uphold Learners Guild's culture. In particular,
-
-  * Being out of integrity with the non-technical membership expectations \(Attendance and Community Expectations\) as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide.
+  * Failure to uphold Learners Guild's culture, or more specifically, being out of integrity with the non-technical membership expectations \(Attendance and Community Expectations\) as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide. 
 
 For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
 
