@@ -16,7 +16,19 @@ By the time you land in Career Prep \(P5\) you’re turning your attention speci
 
 ![](/assets/Screen Shot 2017-07-26 at 4.10.53 PM.png)
 
-## 
+Review the outline for each phase below, and follow the links to read the phase-specific curriculum. Note that the curriculum is a living system, and will be shifting and improving over time.
+
+### Phase Curriculum
+
+[Phase 1 curriculum](https://curriculum.learnersguild.org/phases/1/)
+
+[Phase 2 curriculum](https://curriculum.learnersguild.org/phases/2/)
+
+[Phase 3 curriculum](https://curriculum.learnersguild.org/phases/3/)
+
+[Phase 4 curriculum](https://curriculum.learnersguild.org/phases/4/)
+
+[Phase 5 curriculum](https://curriculum.learnersguild.org/phases/5/)
 
 
 

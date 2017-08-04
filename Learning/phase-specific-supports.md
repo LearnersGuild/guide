@@ -1,6 +1,6 @@
 # Got Help?
 
-Everyone needs a little help sometimes. In addition to SEP support, there are also Procoaches available to answer questions and help you get unstuck. We recommend reaching out for help in the following order:
+Everyone needs a little help sometimes. In addition to SEP support, there are also Procoaches available to answer questions and help you get unstuck as you go about your daily work. We recommend reaching out for help in the following order:
 
 * Google it - no really, google it and google it again.
 * Post a question in the \#Help channel.
