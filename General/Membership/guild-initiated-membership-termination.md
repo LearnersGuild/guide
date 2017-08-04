@@ -8,7 +8,7 @@ The terms of your membership in the Guild are governed by your Enrollment Agreem
 
   * Failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.
 
-  * Failure to uphold Learners Guild's culture by being out of integrity with the non-technical membership expectations around Attendance and Community Expectations as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide may immediately result in membership termination.
+  * Failure to uphold Learners Guild's culture by being out of integrity with the non-technical membership expectations around Attendance and Community Expectations as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide may immediately result in membership termination. Membership termination under these particular circumstances may be initiated by Learning Facilitators. 
 
 For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
 
