@@ -23,7 +23,7 @@ As a Learners Guild Member, each learner takes on two objectives:
 * **Objective 1:** Create and sustain a meaningful career as a web developer.
 * **Objective 2: **Co-create a learning culture that empowers us to reach our goals at the Guild and beyond. 
 
-## Learning Operating System
+## Echo & Guild Curriculum - Learning Operating System
 
 The LOS is a sequenced web development training platform that aids learners in building solid programming fundamentals and meta-learning skills in the early phases of the program and scaffolds towards  self-directed, project-based learning later.
 

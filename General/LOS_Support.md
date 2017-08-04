@@ -1,6 +1,6 @@
-# LOS Support
+# ECHO & Curriculum Support
 
-You may periodically run into a bug in the LOS or need support navigating with some aspect of the LOS itself, rather than your specific learning challenge. In such a case, you can reach out to the LOS team via Slack and Github. Before reaching out, make sure to identify the kind of support you need: 
+You may periodically run into a bug in Echo, our learning platform, or need support navigating with some aspect Echo or the Curriculum site, rather than your specific learning challenge. In such a case, you can reach out to the LOS team via Slack and Github. Before reaching out, make sure to identify the kind of support you need:
 
 ## Non-urgent Support
 
