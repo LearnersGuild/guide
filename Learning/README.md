@@ -6,3 +6,9 @@ As Learners move from one phase to another, different supports are needed. Early
 
 Each phase has an assigned [SEP](//GLOSSARY.md) serving as the technical “point person” for the duration of a learner’s time in the phase. The earlier phases also have assigned pro-coaches.
 
+## Phase Specific Supports
+
+**Check the Phase Calendar for your phase for lecture and office hour times.**
+
+![](/assets/Screen Shot 2017-08-04 at 12.57.08 AM.png)
+

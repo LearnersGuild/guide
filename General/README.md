@@ -1,10 +1,12 @@
-# Learning at the Guild:
+# Learning at the Guild
 
-## Phases \| Supports \| Strategies
+Learning at the Guild happens in a range of contexts and formats. This section of the Guide is meant to orient you to the Guild's learning model and the 'why' of it's structure, direct you towards the program curriculum, and to give you the resources and tools you need to make the most of your time and effort.
 
-Learning at the Guild happens in a range of contexts and formats. The three learning sections of the Guide are meant to orient you to the Guild's learning model and to give you the resources and tools you need to make the most of your time and effort.
+#### Key links -- bookmark these: 
 
-Our web development program is organized into five distinct learning phases, with the learning focus shifting slightly as you progress from one phase to another.
+* [**Learners Guild Curriculum**](https://curriculum.learnersguild.org/)
 
-![](/assets/Screen Shot 2017-07-01 at 12.43.25 PM.png)
+* [**Echo - Learner Data Platform**](https://echo.learnersguild.org/users)
+
+
 

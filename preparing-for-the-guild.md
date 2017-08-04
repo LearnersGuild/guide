@@ -4,7 +4,7 @@ You've been admitted to a Learners Guild chapter. Your start date is coming up. 
 
 In this section you'll find recommended laptop specs if you're in the market for a new computer and a checklist of technical resources and exercises to support you in gaining momentum before joining Learners Guild.
 
-Please note that the **Required Prep **below must be completed one** **week before your start date.
+Please note that the [**Required Prep**](//Runway/README.md)** **below must be completed one** **week before your start date.
 
 You'll also find an overview of how to login and get set up for Slack and Echo - two major tools we use at the Guild daily.
 

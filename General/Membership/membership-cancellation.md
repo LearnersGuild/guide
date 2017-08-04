@@ -1,24 +1,6 @@
 # **Membership Termination**
 
-The terms of your membership in the Guild are governed by your Enrollment Agreement, which incorporates this guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable. If at some point in your time at the Guild you decide to withdraw from the program, you may begin that process by contacting your Learning Facilitator. All financial obligations as specified in the ISA will apply.
+Sometimes things just don't work out the way we planned. As such, there are a couple of ways Learners leave the Guild. In this section you will find information on [**Guild-Initiated Membership Termination**](/General/Membership/guild-initiated-membership-termination.md) and the conditions under which the Guild may ask a Learner to leave.
 
-The Guild reserves the right to terminate your membership in the Guild as set forth in your Enrollment Agreement, including under the following scenarios:
-
-* Failure to meet the six Membership Expectations outlined above can result in the termination of our investment and cancellation of your membership.
-
-  * _**In particular, failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.**_
-
-* Five consecutive days of non-participation in the program without communicating with the staff \("no-call, no-show"\).
-
-* Failure to uphold Guild culture.
-
-* Noncompliance with Guild policies.
-
-For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
-
-## 
-
-## **Guild Policies Overview**
-
-We have a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Guild members must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [Guild Policies Section](/Policies/README.md).
+You will also find information on [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **both during the official cancellation period, and after that period has passed.
 

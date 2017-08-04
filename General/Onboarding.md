@@ -78,7 +78,7 @@ As a shared working space, it's important that the Guild is comfortable and oper
 
 2. Follow us on [Twitter](https://twitter.com/learnersguildus%29: @LearnersGuildUS / and on [Instagram]%28https://www.instagram.com/learnersguild/)
 
-3. If you don’t have one, [create a LinkedIn profile](https://www.linkedin.com/), update your title to "Learner" at Learners Guild, [follow Learners Guild](https://www.linkedin.com/company/learners-guild), and start friending other Learners.
+3. If you don’t have one, [create a LinkedIn profile](https://www.linkedin.com/), update your title to "Apprentice Web Developer" at Learners Guild, [follow Learners Guild](https://www.linkedin.com/company/learners-guild), and start friending other Learners.
 
 Have questions? Just ask. Welcome to Learners Guild.
 
