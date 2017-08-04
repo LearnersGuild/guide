@@ -8,7 +8,7 @@ You may periodically run into a bug in Echo, our learning platform, or need supp
 
 ## Urgent Support
 
-* If you need urgent support please ask for it in the [LOS-support Slack channel](https://learnersguild.slack.com/messages/C4X8T7UBT/). For example: if your Echo profile lists the wrong phase \(you're really in Phase 3, but it says Phase 2\), or if you were assigned to the wrong team. We count anything as 'urgent' that blocks your learning progress for the day. 
+* If you need urgent support please ask for it in the [Echo-support Slack channel](https://learnersguild.slack.com/messages/C4X8T7UBT/). For example: if your Echo profile lists the wrong phase \(you're really in Phase 3, but it says Phase 2\), or if you were assigned to the wrong team. We count anything as 'urgent' that blocks your learning progress for the day. 
 
 
 
