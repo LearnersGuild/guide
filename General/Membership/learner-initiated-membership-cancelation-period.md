@@ -37,6 +37,7 @@ Once you leave the Guild VEMO is your point of contact for questions about your 
 ##### Preparing to Leave:
 
 1. Return all Guild property to the Office Manager **no later than your second to last day at the Guild**.
+   1. If you are in possession of a Learners Guild Loaner Laptop, you must return it to Guild Staff in accordance with the Learners Guild Laptop Lending Agreement.
 2. Determine how you'd like to inform the Guild Community of your plans to leave. This looks different for different people. Some Learners may choose to send a Slack message, others may choose to share in their House Meeting first, and then share with the rest of the Guild. There's no right or wrong way to say goodbye, we just encourage you to let people know you're leaving. We're sure you'll be missed. 
 3. Collect all of your personal belongings from the space - including food items in the refrigerator and cubbies, travel mugs, water bottles, Darth Vader figurines, games, juggling balls, and anything else you may have brought to make the Guild feel like home. 
 
