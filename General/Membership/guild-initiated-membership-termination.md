@@ -12,7 +12,7 @@ The terms of your membership in the Guild are governed by your Enrollment Agreem
 
 For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
 
-### **Guild Policies Overview**
+#### **Guild Policies Overview**
 
 We have a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Guild members must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [**Guild Policies Section**](/Policies/README.md)**.**
 
@@ -25,4 +25,8 @@ Joining the Guild is a two-way street. You're making a commitment to a 10 month 
 The technical evaluation will cover modules you've completed during your first 3 weeks in Phase 1. We'll also explore how you're faring in the Guild's culture - are you maintaining Guild community agreements? Keeping up with your accountabilities? Using the interpersonal tools we've shared to maintain good relationships in the community, etc?
 
 We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and you may be asked to leave the guild. Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your membership without any finanical obligation to the Guild. See How to Leave the Guild for more information.
+
+### Leaving the Guild
+
+Should Learners Guild terminate your membership we request that you consult the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section of this guide, specifically the **Steps for Leaving the Guild:** "Preparing to Leave" and the "Last Day at the Guild." Please make an effort to follow those steps to ensure a smooth transition.
 
