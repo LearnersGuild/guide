@@ -18,9 +18,10 @@
 
   * [Phases](/Phases/README.md)
   * [Learning Supports](/Learning/README.md)
-  * [Phase Specific Supports](/Learning/phase-specific-supports.md)
+  * [Got Help?](/Learning/phase-specific-supports.md)
 
   * [Pacing](Phases/pacing.md)
+
   * [Phase Interviews](/Phases/Interviews/README.md)
   * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
     * [Phase 2](/Phases/Interviews/Phase_2.md)
@@ -30,6 +31,7 @@
 * [Finding Your ZPD](Learning/Challenge.md)
 
 * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
+
 * [Goals](Learning/Goals.md)
 * [LOS Support](/General/LOS_Support.md)
 * [Resource Links](/General/Resource_Links.md)
@@ -64,6 +66,7 @@
 * [Holiday List](/General/Holiday_List.md)
 
 * [GLOSSARY](/GLOSSARY.md)
+
 * [CONTRIBUTING](CONTRIBUTING.md)
 
 
