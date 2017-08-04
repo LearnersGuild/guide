@@ -10,6 +10,20 @@ Let's say it's week 13 and your life circumstances change, or you find that the 
 
 Please note that you will be invoiced for any Learners Guild property in your possession that is not returned to the Guild prior to your last day of attendance. See your Enrollment Agreement for more information.
 
+### **Money Stuff**
+
+If you choose to leave the Guild after the cancellation period your adjusted Living Fund ISA will reflect the actual amount of stipend you've received so far. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well. You'll receive confirmation of your final ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
+
+Once you leave the Guild VEMO is your point of contact for questions about your ISAs.
+
+* VEMO's customer service number is **813-724-3411.**
+
+* Their hours of operation are **8am - 8pm EST Monday-Friday**.
+
+* You can chat with them online at [http://vemo.com/](http://vemo.com/)\(where you access your account\) or you can email them at [answers@vemo.com](mailto:answers@vemo.com).
+
+* You can also text them at the same customer service number listed above.
+
 ### Steps for Leaving the Guild
 
 ##### Getting Started:

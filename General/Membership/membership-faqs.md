@@ -73,6 +73,10 @@ Learners are afforded a three-month grace period after they complete or withdraw
 
 Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [Qualified Laptop](/Runway/qualified-laptop.md) page for more information.
 
+#### What if I can't get a new Mac laptop by my start date? What should I do?
+
+You can elect to borrow a laptop from the Guild for use through Phase 2 of the program. Make sure to select this option on your Enrollment Agreement. 
+
 #### What platforms and operating systems does Learners Guild use?
 
 Apple computers running the latest Mac OS. If you are used to a Windows or Linux environment, there will be a learning curve, but it is worth it. Being able to use a Mac well is a useful skill in this field.

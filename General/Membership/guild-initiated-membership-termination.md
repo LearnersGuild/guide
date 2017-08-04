@@ -1,6 +1,6 @@
 # Guild Initiated Membership Termination
 
-The terms of your membership in the Guild are governed by your Enrollment Agreement, which incorporates this guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable. If you decide to withdraw from the program after the stated cancellation period, you may begin that process by contacting your Learning Facilitator. See the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information on post-cancellation period withdrawals. All financial obligations as specified in the ISA will apply.
+The terms of your membership in the Guild are governed by your Enrollment Agreement, which incorporates this guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable. If you decide to withdraw from the program after the stated cancellation period, you may begin that process by contacting your Learning Facilitator. See the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information on post-cancellation period withdrawals. All financial obligations as specified in the Enrollment Agreement and ISA, if applicable, will apply.
 
 #### Learners Guild reserves the right to terminate your membership in the Guild as set forth in your Enrollment Agreement, including under the following cimcumstances:
 
@@ -26,7 +26,7 @@ The technical evaluation will cover modules you've completed during your first 3
 
 We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and you may be asked to leave the guild. Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your membership without any finanical obligation to the Guild. See How to Leave the Guild for more information.
 
-### Leaving the Guild
+## Leaving the Guild
 
-Should Learners Guild terminate your membership we request that you consult the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section of this guide, specifically the **Steps for Leaving the Guild:** "Preparing to Leave" and the "Last Day at the Guild." Please make an effort to follow those steps to ensure a smooth transition.
+Should Learners Guild terminate your membership as an active Learner in the program you will become a member of our extended Learners Guild Community.  
 
