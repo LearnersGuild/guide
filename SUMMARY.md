@@ -16,6 +16,8 @@
     * [First Week](General/Membership/onboarding.md)
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
+  * [Learning Supports](/Learning/README.md)
+  * [Phase Specific Supports](/Learning/phase-specific-supports.md)
   * [Getting Help](Phases/getting-help.md)
   * [Pacing](Phases/pacing.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
@@ -23,14 +25,14 @@
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
-  * [Program FAQs](Phases/program-faqs.md)
-* [Learning Supports](Learning/README.md)
-  * [Phase Specific Supports](Learning/phase-specific-supports.md)
-  * [Finding Your ZPD](Learning/Challenge.md)
-  * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
-  * [Goals](Learning/Goals.md)
-  * [LOS Support](/General/LOS_Support.md)
-  * [Resource Links](/General/Resource_Links.md)
+
+* [Finding Your ZPD](Learning/Challenge.md)
+* [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
+* [Goals](Learning/Goals.md)
+* [LOS Support](/General/LOS_Support.md)
+* [Resource Links](/General/Resource_Links.md)
+* [Program FAQs](/Phases/program-faqs.md)
+
 * [Learning Strategies](/Strategies/README.md)
 
   * [Learning Mindsets ](/General/Guidelines.md)
@@ -51,10 +53,12 @@
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
 
 * [Log](log.md)
+
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)
   * [Q 2](Log/q2.md)
   * [FAQv1](/General/FAQ.md)
+
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
