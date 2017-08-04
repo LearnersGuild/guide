@@ -37,8 +37,8 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
-* [Guild Culture Operating System](guild-culture-operating-system.md)
-  * [Community Agreements](community-agreements.md)
+* Guild Culture Operating System
+  * Community Agreements
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
