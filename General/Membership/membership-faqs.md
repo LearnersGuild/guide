@@ -6,11 +6,15 @@ A learner maintains membership in the Guild by successfully advancing through th
 
 #### Is there a cancellation period?
 
-Yes. Your first five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week five all new Learners are required to take a coding challenge and technical interview - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **We will cancel your membership if the outcome of your coding challenge indicates the Guild is not the right learning environment for you.**
+Yes. Your first four to five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week four all new Learners are required to take a coding challenge and technical interview - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **We will cancel your membership if the outcome of your coding challenge indicates the Guild is not the right learning environment for you.  **
 
 #### **Can I leave and join a later cohort if the timing isn't good for me?**
 
 We make selections carefully and cannot guarantee you a spot at another time. If you withdraw from the Guild you must reapply to be considered for an upcoming cohort.
+
+#### What if I realize the Guild isn't right for me after the cancellation period is over?
+
+You can withdraw from the program at anytime after the cancellation period has passed. The only difference is that you will be financially obligated under the terms of your Enrollment Agreement and ISA, if applicable. See the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information.
 
 #### What happens to my ISAs if my membership is terminated or if I choose to leave the Guild?
 
@@ -47,7 +51,7 @@ Yes, we observe all national holidays. Check the [Holiday List](//General/Holida
 
 #### What if I can't get hired after the Guild?
 
-Keep learning, studying, building software and applying for jobs. All Guild graduates have access to online Guild resources and may take advantage of Phase 5 Career Prep resources for 36 months following graduation.
+Keep learning, studying, building software and applying for jobs. All Guild graduates have access to online Guild resources and may take advantage of Phase 5 Career Prep resources for 36 months following graduation. See the [**Resources for Guild Alumni and Community Members**](/General/Membership/resources-for-guild-alumni-and-community-members.md) section for more information.
 
 #### What if I want to found a startup after I finish at the Guild?
 
@@ -67,7 +71,7 @@ Learners are afforded a three-month grace period after they complete or withdraw
 
 #### Do I need my own computer?
 
-Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [Qualified Laptop](/Runway/qualified-laptop.md) page for more information. 
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [Qualified Laptop](/Runway/qualified-laptop.md) page for more information.
 
 #### What platforms and operating systems does Learners Guild use?
 

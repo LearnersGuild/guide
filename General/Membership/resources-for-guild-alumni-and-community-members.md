@@ -12,7 +12,7 @@ A Guild Community Member is any learner who attends a portion of the program and
 
 ### Resources available to Guild Alums & Community Members
 
-As alumni and community members you have access to most of the same resources. You are, however, responsible for making sure that your use of resources _does not limit access for currently active learners. _Please note the slight differences between Alumni and Community Member access to the physical space.
+As alumni and community members you have access to most of the same resources. You are, however, responsible for making sure that your use of resources _does not limit access for currently active learners_. Please note the slight differences between Alumni and Community Member access to the physical space.
 
 #### Examples of Available Resources
 
@@ -22,6 +22,9 @@ As alumni and community members you have access to most of the same resources. Y
 * **Videos of lectures, live coding, cog-apps: **All recorded sessions are accessible on the Learners Guild YouTube channel.
 * **Join in on live video lectures:** You can join scheduled lectures via video chat, but please be prioritize currently active learners' questions and learning.
 * **Alumni Use of office space: **Guild Alums are welcome to work out of the Learners Guild office. If you intend to periodically use the Guild as a co-working space, you must inform the Office Manager during your off-boarding process. \(It'd be a bummer to travel all the way to the office and not be able to get in because we changed the door codes!\) While you are here, please respect the space and always ensure that you're not disrupting or blocking currently active learners from their work \(e.g. keep the noise level down, don't take up workstation space if it is limited, be helpful and courteous\). 
+* **Alumni Career Support:** As an alum you will continue to receive career support for up to 36 months after leaving the Guild. That includes:
+  * Access to career prep workshops.
+  * Limited access to the outbound recruiter. 
 
 #### Examples of Unavailable/Restricted Resources
 
