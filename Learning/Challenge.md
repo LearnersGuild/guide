@@ -1,14 +1,12 @@
 # Finding your ZPD
 
-You'll hear ask this often: Are you in you ZPD? Are you challenged by the task at hand just enough to be uncomfortable, stretched and learning something new with the proper supports? We firmly believe that deep learning happens in our ZPD. But, what is it exactly? 
+You'll hear ask this often: Are you in you ZPD? Are you challenged by the task at hand just enough to be uncomfortable, challenged, stretched and learning something new with the proper supports? We firmly believe that deep learning happens in our ZPD. But, what is it exactly?
 
 ZPD refers to our  [zone of proximal development \(ZPD\)](https://en.wikipedia.org/wiki/Zone_of_proximal_development), a theory of learning that suggests we grow most when we take on activities that we couldn't manage on our own, but can accomplish with the help of someone more skilled than we are.
 
 So, how do you know when you're in your ZPD? [What does your ZPD feel like?](#finding-your-zpd)
 
-To find the contexts and activities for optimal learning, you'll also need to know [how to choose an activity](#choosing-activities-for-challenge).
-
-There are four rough categories of relative difficulty for any goal: the goal can be \(1\) so easy for you that it borders on tedium; or \(2\)  within your competency level, so that you can do it without assistance; or \(3\) challenging and novel, and far enough outside of your current competency that you need some assistance to complete it; or \(4\) so difficult that it overwhelms you and leaves you disoriented and confused.
+There are four rough categories of relative difficulty for any programming problem: the problem can be \(1\) so easy for you that it borders on tedium; or \(2\)  within your competency level, so that you can do it without assistance; or \(3\) challenging and novel, and far enough outside of your current competency that you need some assistance to complete it; or \(4\) so difficult that it overwhelms you and leaves you disoriented and confused.
 
 If you rank a task or goal on a scale of increasing difficulty as measured by how it feels to complete it, it would look something like this:
 
@@ -44,11 +42,11 @@ If Pilar were given the goal of "build a racing bicycle", it would likely be **o
 
 ## Choosing Activities for Challenge
 
-When you are choosing what to work on, you should be considering whether or not the learning activity will put you into your ZPD.
+When you are choosing what to work on, you should be considering whether or not the module or project will put you into your ZPD.
 
 This is a form of prediction, and prediction is hard. Learning to pick activities that at the right level of challenge is a skill in itself, and one you'll have to practice over time.
 
-To help you get started, and to scaffold your thinking about this, consider the following questions when choosing an activity or goal:
+To help you get started, and to scaffold your thinking about this, consider the following questions when choosing an activity or project:
 
 1. Have you completed a similar task before?
    * \(A\) Yes

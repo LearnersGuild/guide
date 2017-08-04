@@ -1,14 +1,12 @@
-# Phase 3: Integrated Practice Goals
+# Phase 3: Full Stack Projects
 
-##### \[phase three description; link to jsdev; \]
-
-## How do I get clarity on specs that are unclear?
+### How do I get clarity on specs that are unclear?
 
 First ask your teammates. If they cannot help you get the clarity you need then escalate your question to the SEP assigned to your phase.
 
 Once you have the clarification you need. Please suggest a change to improve the goal. Make a pull request either clarifying the specs or asking the goal librarians to clarify them.
 
-## Submitting a Pull Request \(PR\) against a Goal
+### Submitting a Pull Request \(PR\) against a Goal
 
 1. Go [here](https://github.com/GuildCrafts/web-development-js/tree/master/_goals)
 2. Find your goal and click on it
