@@ -2,12 +2,18 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
+
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
+
     * [Guild Initiated Membership Termination](General/Membership/guild-initiated-membership-termination.md)
 
     * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
+
+    * Resources for Guild Alumni and Community Members
+
   * [Membership FAQs](General/Membership/membership-faqs.md)
+
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
