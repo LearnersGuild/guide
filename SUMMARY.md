@@ -10,16 +10,18 @@
 
     * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
 
-    * Resources for Guild Alumni and Community Members
+  * Resources for Guild Alumni and Community Members
 
   * [Membership FAQs](General/Membership/membership-faqs.md)
 
 * [Preparing for the Guild](preparing-for-the-guild.md)
+
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
+
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
   * [Getting Help](Phases/getting-help.md)
