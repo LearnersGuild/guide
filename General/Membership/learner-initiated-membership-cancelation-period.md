@@ -8,7 +8,7 @@ Like we said earlier, joining the Guild is a two-way street. During your first f
 
 Let's say it's week 13 and your life circumstances change, or you find that the Guild isn't a good fit for you after all and you'd like to withdraw from the program. You may initiate the withdrawal process by following the steps below. Unlike Membership Cancellation, Withdrawing from the Guild _after_ the five week cancellation period obligates you to repayment as specified in your Enrollment Agreement and ISA agreement, if applicable. Again, consult your Enrollment Agreement to understand the full financial implications of leaving the program after the cancellation period.
 
-Please note that you will be invoiced for any Learners Guild property in your possession that is not returned to the Guild prior to your last day of attendance. See your Enrollment Agreement for more information. 
+Please note that you will be invoiced for any Learners Guild property in your possession that is not returned to the Guild prior to your last day of attendance. See your Enrollment Agreement for more information.
 
 ### Steps for Leaving the Guild
 
@@ -26,9 +26,10 @@ Please note that you will be invoiced for any Learners Guild property in your po
 2. Determine how you'd like to inform the Guild Community of your plans to leave. This looks different for different people. Some Learners may choose to send a Slack message, others may choose to share in their House Meeting first, and then share with the rest of the Guild. There's no right or wrong way to say goodbye, we just encourage you to let people know you're leaving. We're sure you'll be missed. 
 3. Collect all of your personal belongings from the space - including food items in the refrigerator and cubbies, travel mugs, water bottles, Darth Vader figurines, games, juggling balls, and anything else you may have brought to make the Guild feel like home. 
 
-##### Your Last Day at the Guild: 
+##### Your Last Day at the Guild:
 
-1. Connect with your Learning Facilitator one last time and make sure you understand the resources available to you after leaving the Guild. You can also consult the Resources for Guild Alumni and Community Members section of this guide for more information.
+1. Connect with your Learning Facilitator one last time and make sure you understand the resources available to you after leaving the Guild. You can also consult the [**Resources for Guild Alumni and Community Members**](/General/Membership/resources-for-guild-alumni-and-community-members.md) section of this guide for more information.
+2. Get hugs \(if you're into that sort of thing\) and contact information from your friends to stay in touch.
 
 
 

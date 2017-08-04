@@ -2,26 +2,18 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
-
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
-
     * [Guild Initiated Membership Termination](General/Membership/guild-initiated-membership-termination.md)
-
     * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
-
-  * Resources for Guild Alumni and Community Members
-
+  * [Resources for Guild Alumni and Community Members](General/Membership/resources-for-guild-alumni-and-community-members.md)
   * [Membership FAQs](General/Membership/membership-faqs.md)
-
 * [Preparing for the Guild](preparing-for-the-guild.md)
-
   * [Qualified Laptop](Runway/qualified-laptop.md)
   * [The Runway](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
-
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
   * [Getting Help](Phases/getting-help.md)
@@ -64,6 +56,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 
