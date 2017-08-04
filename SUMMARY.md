@@ -27,7 +27,7 @@
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 * [Finding Your ZPD](Learning/Challenge.md)
 * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
-* [Goals](Learning/Goals.md)
+
 * [LOS Support](/General/LOS_Support.md)
 * [Resource Links](/General/Resource_Links.md)
 * [Program FAQs](/Phases/program-faqs.md)
@@ -54,4 +54,6 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
 
