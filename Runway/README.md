@@ -1,58 +1,38 @@
 # Required Prep
 
-
-
 We said it before, and we'll say it again: you must complete all required prep work 1 week before your start date. Failure to complete prep work is grounds for potential withdrawal of your enrollment at the Guild. If you're withdrawn we will do our best to find you a future start date once you've completed the Required Prep, but can't guarantee it. 
 
 You should set aside 40 to 100 hours for this prep work, depending on your existing experience and skill level.
 
-**Technical Prep**
+#### Javascript and HTML
 
 Sign up for [FreeCodeCamp](https://www.freecodecamp.com/) and complete the following sections:
 
-- HTML5 and CSS (2-4 hours)
-- Responsive Design with Bootstrap (2-4 hours)
-- jQuery (1-2 hours)
-- Basic Front End Development Projects (10-30 hours)
-- Basic JavaScript (2-6 hours)
-- Object Oriented and Functional Programming (1-2 hours)
-- Basic Algorithm Scripting (10-30 hours)
-- JSON APIs and Ajax (1-2 hours)
-- Intermediate Front End Development Projects (10-30 hours)
- - Build a Random Quote Machine Incomplete
- - Show the Local Weather Incomplete
+- HTML5 and CSS
+- Basic JavaScript
+- Basic Algorithm Scripting
 
+#### Development Environment and Tooling
 
-**Additional Prep Reading & Videos**
+- Download and install the [Atom][atom] editor
+- Read chapters 1 and 2 of the [Atom Flight Manual][atom-flight-manual]
+- Complete Codecademy's [Learn the Command Line][codecademy-cli] course
+- Complete the [Try Git][cs-try-git] course
+- Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
+
+#### Non-technical Prep
 
 - Read the Learner Guide section on [Cognitive Apprenticeship](https://guide.learnersguild.org/Game_Manual/Cognitive_Apprenticeship.html), including watching this [demonstration session](https://shereef.wistia.com/medias/dbknami46w)
+- Read the following sections of the [COS Guide](https://cos.learnersguild.org/):
+  - [Introduction](https://cos.learnersguild.org/)
+  - [Overview](https://cos.learnersguild.org/COS_Overview/) 
+  - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) 
 
-**Read the following sections of the [COS Guide](https://cos.learnersguild.org/)**:
- - [Introduction](https://cos.learnersguild.org/)
- - [Overview](https://cos.learnersguild.org/COS_Overview/) 
- - [Dynamic Tensions](https://cos.learnersguild.org/Dynamic_Tensions/) 
-
-** Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)** (1 hour)
-
-
-## Strongly Recommended but not mandatory
-
-The more you put into your experience at the Guild, the more you (and others) will benefit. We **highly recommend** you take the time to complete the following FreeCodeCamp tutorials before you join:
-
-- Intermediate Front End Development Projects (10-30 hours)
- - Build a Wikipedia Viewer Incomplete
- - Use the Twitch.tv JSON API Incomplete
-- Intermediate Algorithm Scripting (50 hours)
-- Advanced Algorithm Scripting (50 hours)
-- Advanced Front End Development Projects (150 hours)
+**Watch Karim Bishay's [presentation on Feedback](https://shereef.wistia.com/medias/8wx7n2fs65#)** (1 hour)
 
 ## More Recommended Prep
 
-Done with FreeCodeCamp? Great. If you have the time and resources, double down on your prep by going through the following:
-
-#### Web Development Basics
-
-These fundamental skills are needed for nearly all web development projects:
+Done with all the required prep? Great! But don't stop there! Continuous learning is a core part of being a developer. Keep practicing by building these fundamental web development skills:
 
 - Reading and writing HTML and CSS
 - Reading and writing JavaScript
@@ -65,14 +45,6 @@ These fundamental skills are needed for nearly all web development projects:
 
 Your focus should be on developing the above skills. The below tasks are good place to start, but you should by no means consider this an exhaustive list. Always be on the lookout for other resources and places to practice and grow.
 
-#### Development Environment and Tooling
-
-- Download and install the [Atom][atom] editor
-- Read chapters 1 and 2 of the [Atom Flight Manual][atom-flight-manual]
-- Read this [introduction to the Mac OS command line][intro-cli] and try out the commands
-- Go through the [Command Line Crash Course][cli-crash-course] and/or Codecademy's [Learn the Command Line][codecademy-cli] course
-- Sign up for a free account on a cloud development environment service (like [Nitrous][nitrous] or [Cloud 9][c9]) and play with the features
-
 #### Making Websites: HTML, CSS, and JavaScript
 
 - Read [20 Things I Learned About Browsers and the Web][20-things]
@@ -83,8 +55,6 @@ Your focus should be on developing the above skills. The below tasks are good pl
 
 #### Version Control and Project Management
 
-- Get oriented to GitHub with [Hello World][gh-hello-guide], [Understanding the GitHub Flow][gh-flow-guide]
-- Complete the [Try Git][cs-try-git] course
 - Read and practice the [Mastering Issues][gh-issues-guide] and [Forking Projects][gh-forking-guide] guides
 - Read [Mastering Markdown][gh-md-guide] and practice writing Markdown wherever you can
 
@@ -93,6 +63,19 @@ Your focus should be on developing the above skills. The below tasks are good pl
 - Boost your typing speed to at least 50 WPM for regular English typing (any typing program will do, but this one is free: [keybr][keybr])
 - Boost your typing speed to at least 25 WPM for programming language typing using [typing.io][typing-io]
 - Practice shortcuts using [Shortcut Foo][shortcut-foo], especially the Atom, Command Line, Git, GitHub, Chrome Dev Tools, and JavaScipt Programming Dojos
+
+#### More FreeCodecamp!
+
+Check out these other useful [FreeCodeCamp](https://www.freecodecamp.com/) sections:
+
+- Responsive Design with Bootstrap (2-4 hours)
+- Basic Front End Development Projects (10-30 hours)
+- JSON APIs and Ajax (1-2 hours)
+- Intermediate Front End Development Projects (10-30 hours)
+ - Build a Random Quote Machine
+ - Show the Local Weather
+- Intermediate Algorithm Scripting (50 hours)
+- Advanced Algorithm Scripting (50 hours)
 
 #### Apprenticeship Mindset
 

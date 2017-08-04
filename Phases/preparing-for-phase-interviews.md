@@ -26,11 +26,11 @@ Make sure to read the interview overview pages to find the most relevant informa
 
 To learn what each phase interview covers and how to prepare, see the phase-specific interview pages:
 
-* [Phase 2](./Phase_2.md)
+* [Phase 2](/Phases/Interviews/Phase_2.md)
 
-* [Phase 3](./Phase_3.md)
+* [Phase 3](/Phases/Interviews/Phase_3.md)
 
-* [Phase 4](./Phase_4.md)
+* [Phase 4](/Phases/Interviews/Phase_4.md)
 
 Note that there is no interview for phases 1 or 5.
 

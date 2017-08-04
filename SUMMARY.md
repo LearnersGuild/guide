@@ -25,7 +25,6 @@
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
-
 * [Learning Strategies](/Strategies/README.md)
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
