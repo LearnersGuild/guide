@@ -10,7 +10,7 @@
   * [Membership FAQs](General/Membership/membership-faqs.md)
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Qualified Laptop](Runway/qualified-laptop.md)
-  * [The Runway](/Runway/README.md)
+  * [Required Prep](/Runway/README.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
@@ -56,4 +56,6 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
 
