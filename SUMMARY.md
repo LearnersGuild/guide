@@ -26,12 +26,13 @@
   * [Program FAQs](Phases/program-faqs.md)
 * [Learning Supports](Learning/README.md)
   * [Phase Specific Supports](Learning/phase-specific-supports.md)
-  * [Challenge](Learning/Challenge.md)
+  * [Finding Your ZPD](Learning/Challenge.md)
   * [Cognitive Apprenticeship](Learning/Cognitive_Apprenticeship.md)
   * [Goals](Learning/Goals.md)
   * [LOS Support](/General/LOS_Support.md)
   * [Resource Links](/General/Resource_Links.md)
 * [Learning Strategies](/Strategies/README.md)
+
   * [Learning Mindsets ](/General/Guidelines.md)
   * [Community](/Strategies/Community.md)
   * [Individual](/Strategies/Individual.md)
@@ -39,6 +40,7 @@
   * [Manifesto](/Strategies/Manifesto.md)
 
 * [Guild Policies](/Policies/README.md)
+
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
   * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -47,6 +49,7 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
+
 * [Log](log.md)
   * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
   * [LM Changes](Log/LM_Changes.md)

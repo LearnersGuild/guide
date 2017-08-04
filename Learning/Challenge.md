@@ -1,12 +1,12 @@
-# Challenge
+# Finding your ZPD
 
-A key component of the game is to create an environment where learners can find _challenge_. This is based on a theory of learning which says that learners should seek activities that place them in their [zone of proximal development \(ZPD\)](https://en.wikipedia.org/wiki/Zone_of_proximal_development).
+You'll hear ask this often: Are you in you ZPD? Are you challenged by the task at hand just enough to be uncomfortable, stretched and learning something new with the proper supports? We firmly believe that deep learning happens in our ZPD. But, what is it exactly? 
 
-To do this effectively, you'll need to know [what your ZPD is and how it feels](#finding-your-zpd) when you're in it.
+ZPD refers to our  [zone of proximal development \(ZPD\)](https://en.wikipedia.org/wiki/Zone_of_proximal_development), a theory of learning that suggests we grow most when we take on activities that we couldn't manage on our own, but can accomplish with the help of someone more skilled than we are.
+
+So, how do you know when you're in your ZPD? [What does your ZPD feel like?](#finding-your-zpd)
 
 To find the contexts and activities for optimal learning, you'll also need to know [how to choose an activity](#choosing-activities-for-challenge).
-
-## Finding your ZPD
 
 There are four rough categories of relative difficulty for any goal: the goal can be \(1\) so easy for you that it borders on tedium; or \(2\)  within your competency level, so that you can do it without assistance; or \(3\) challenging and novel, and far enough outside of your current competency that you need some assistance to complete it; or \(4\) so difficult that it overwhelms you and leaves you disoriented and confused.
 
