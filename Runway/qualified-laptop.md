@@ -18,7 +18,11 @@ Finally, we suggest shopping for a laptop that has the minimum specs below:
 * 13"+ screen
 * USB & HDMI ports 
 
-### 
+### Loaner Laptops
 
+In the event that you don't have a Mac, you can borrow one from us through Phase 1 of the program. When completing your Enrollment Agreement, make sure to select this option. Please be advised that borrowing a laptop requires a separate Lending Agreement and may require a security deposit.
 
+#### Returning Loaner Laptops
+
+Your loaner laptop must be returned to Learners Guild Staff the Monday you begin Phase 2, consistent with the terms of the Laptop Lending Agreement signed at the time of borrowing. Most likely, you'll return your laptop to the Office Manager. 
 

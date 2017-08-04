@@ -75,7 +75,7 @@ Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Lea
 
 #### What if I can't get a new Mac laptop by my start date? What should I do?
 
-You can elect to borrow a laptop from the Guild for use through Phase 2 of the program. Make sure to select this option on your Enrollment Agreement. 
+You can elect to borrow a laptop from the Guild for use through Phase 1 of the program. Make sure to select this option on your Enrollment Agreement. It will require a separate Loaner Agreement. 
 
 #### What platforms and operating systems does Learners Guild use?
 
