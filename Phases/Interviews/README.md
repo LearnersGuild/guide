@@ -17,6 +17,8 @@ The technical comprehension interview is a 1-on-1 conversation with an SEP desig
 
 Phase Interview outcomes are shared with you via email on the Friday afternoon of the week you took the interview.
 
+Should you have a successful Phase Interview you will be required to begin the new phase the following Monday. If, for example you interview out of Phase 2 in your 5th week of the phase you may not stay in Phase 2 for an additional three weeks and then move on to Phase 3. You must begin Phase 3 the Monday after being accepted into the phase. 
+
 ### How to request a Phase Interview
 
 1. You must notify staff - your current SEP, your Learning Facilitator, and the SEP for the new phase - in a group DM no later than 5pm on Thursday if you wish to take a Phase Interview in the upcoming week.

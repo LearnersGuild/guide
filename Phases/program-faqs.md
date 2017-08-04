@@ -20,6 +20,10 @@ The Guild requires learners to participate in a coding challenge and technical c
 
 No. If a learner successfully interviews into the next phase, they cannot return to a previous phase.
 
+#### If I interview out of my phase early, can I stay for the rest of the weeks I have in that phase and keep learning?
+
+We love learning, you know that. But no, you cannot stay in a phase you've successfully interviewed out of simply because you interviewed out prior to your 8th week in the phase. We strongly encourage you to move as quickly as you can through the first three phases - without compromising your learning - so you can spend more time in Phases 4 and 5. 
+
 #### Are unused weeks in a phase rolled over if a learner interviews out of a phase early?
 
 No, not exactly. If a learner moves into phases 2, 3, or 4 early, the weeks they did not spend in the previous phase may be added to their time in the Apprenticeship and Career Prep phases, rather than added to the phase they’re entering. Ultimately, you will still have up to 40 weeks in the program, however, the distribution of weeks per phase depends upon whether a learner uses 8 full weeks to advance through each of the first three phases \(totaling 24 weeks\).
