@@ -32,6 +32,24 @@ No, not exactly. If a learner moves into phases 2, 3, or 4 early, the weeks they
 
 Learners who complete, understand, and clearly explain 80% or more of the content covered in their phase interview will be accepted into the phase for which they’re interviewing.
 
+#### What am I expected to be able to explain in a comprehension interview?
+
+In your phase interview the interviewer is going to try and get a sense of your comprehension of the code you submitted, so they will be asking you to explain parts of it. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you *will* be expected to be able to explain the code you wrote and how it works on a basic level.
+
+Here's a non-technical analogy.
+
+Imagine you were learning to speak a foreign language instead of Javascript, say Romanian. We give you a take home exam and one of the questions is,
+
+> “How do you say, ‘I’m very hungry’ in Romanian?”
+
+and you write down the correct answer:
+
+> “Mi-e foarte foame.”
+
+In the comprehension interview you wouldn't be asked the etymology of the word “foarte” or to give a primer in verb conjugation in romance languages. What you would be expected to be able to answer are questions like “What does the word ‘foarte’ mean?“. 
+
+That’s pretty much the type of understanding we're looking for in the Phase interviews. If you submit a 10 line function you may be asked something like, “What does line 5 do?“. So you should know roughly what each line of your code does and be able to explain it.
+
 #### How many times can a learner take a Phase Interview?
 
 Learners may attempt a phase interview twice within the eight-week time period.

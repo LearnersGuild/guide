@@ -13,7 +13,7 @@ Following submission, the evaluating SEP \(also referred to as the "evaluator"\)
 
 The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
 
-The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code.
+The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you *will* be expected to be able to explain the code you wrote and how it works on a basic level. See [this FAQ](../program-faqs.md#what-am-i-expected-to-be-able-to-explain-in-a-comprehension-interview) for more detail.
 
 Phase Interview outcomes are shared with you via email on the Friday afternoon of the week you took the interview.
 
