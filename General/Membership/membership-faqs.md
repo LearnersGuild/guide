@@ -2,11 +2,11 @@
 
 #### How is Guild Membership determined?
 
-A learner maintains membership in the Guild by successfully advancing through the learning phases on time and staying in compliance with overall membership expectations and policies. Failure to advance to the next learning phase on time results in membership cancellation. Failure to comply with membership expectations and policies can also result in potential membership cancellation.
+A learner maintains membership in the Guild by successfully advancing through the learning phases on time and staying in compliance with overall membership expectations and policies. Ongoing program participation is therefore dependent upon successfuly advancing to the next learning phase within the specified [pacing requirements](/Phases/pacing.md). Failure to do so may result in membership termination. Failure to comply with membership expectations and policies can also result in potential membership termination.
 
 #### Is there a cancellation period?
 
-Yes. Your first four to five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week four all new Learners are required to take a coding challenge and technical interview - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **We will cancel your membership if the outcome of your coding challenge indicates the Guild is not the right learning environment for you.  **
+Yes. Your first four to five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week four all new Learners are required to take the New Learner Progress  Check - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **Ongoing membership is dependent upon a successful Progress Check. See the **[**New Learner Progress Check**](/General/Membership/new-learner-progress-check.md)** section for  more information. **
 
 #### **Can I leave and join a later cohort if the timing isn't good for me?**
 
@@ -75,7 +75,7 @@ Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Lea
 
 #### What if I can't get a new Mac laptop by my start date? What should I do?
 
-You can elect to borrow a laptop from the Guild for use through Phase 1 of the program. Make sure to select this option on your Enrollment Agreement. It will require a separate Loaner Agreement. 
+You can elect to borrow a laptop from the Guild for use through Phase 1 of the program. Make sure to select this option on your Enrollment Agreement. It will require a separate Loaner Agreement.
 
 #### What platforms and operating systems does Learners Guild use?
 
