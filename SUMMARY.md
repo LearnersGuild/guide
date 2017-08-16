@@ -5,7 +5,7 @@
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Membership Termination](General/Membership/membership-cancellation.md)
     * [Guild Initiated Membership Termination](General/Membership/guild-initiated-membership-termination.md)
-    * New Learner Progress Check
+    * [New Learner Progress Check](General/Membership/new-learner-progress-check.md)
     * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
   * [Resources for Guild Alumni and Community Members](General/Membership/resources-for-guild-alumni-and-community-members.md)
   * [Membership FAQs](General/Membership/membership-faqs.md)
@@ -20,7 +20,7 @@
   * [Curriculum](Phases/curriculum.md)
   * [Learning Supports](/Learning/README.md)
   * [Got Help?](/Learning/phase-specific-supports.md)
-  * [Pacing](Phases/pacing.md)
+  * [Pacing](Phases/pacing.md) Requirements
   * [Phase Interviews](/Phases/Interviews/README.md)
   * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
     * [Phase 2](/Phases/Interviews/Phase_2.md)
