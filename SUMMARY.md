@@ -7,7 +7,7 @@
     * [Guild Initiated Membership Termination](General/Membership/guild-initiated-membership-termination.md)
     * [New Learner Progress Check](General/Membership/new-learner-progress-check.md)
     * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
-  * [Resources for Guild Alumni and Community Members](General/Membership/resources-for-guild-alumni-and-community-members.md)
+
   * [Membership FAQs](General/Membership/membership-faqs.md)
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Required Prep](/Runway/README.md)

@@ -13,7 +13,23 @@ Following submission, the evaluating SEP \(also referred to as the "evaluator"\)
 
 The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
 
-The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code.
+The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you *will* be expected to be able to explain the code you wrote and how it works on a basic level. 
+
+Here's an example. Lets say you're asked to write an `add` function. So you write:
+
+```js
+const add = function(a,b){ return a + b }
+```
+You will be asked to explain how individual parts of this code work. So the interviewer might ask:
+
+- What does the `const add =` part of this code do?
+- Why did you name your arguments `a` and `b`?
+- if `a` is `12` and `b` is `3`, what will `a + b` result in?
+- What will the `add` function return when called like this `add(10, 5)`
+- What will the `add` function return when called like this `add(7)`
+- What will the `add` function return when called like this `add()`
+
+That’s pretty much the type of understanding we're looking for in the Phase interviews. So you should know roughly what each line of your code does and be able to explain it.
 
 Phase Interview outcomes are shared with you via email on the Friday afternoon of the week you took the interview.
 
