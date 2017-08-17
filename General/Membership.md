@@ -1,6 +1,6 @@
 # Guild Membership
 
-_Please note that _w_hile the Enrollment Agreement does not distinguish between termination of Learner’s membership and termination of Learner’s participation in the Program, this Learner Guide, updated August 17, 2017, defines Guild Membership, further acknowledges **two types of memberships**, and distinguishes between membership termination and termination of a Learner's participation in the program. As stated in the Enrollment Agreement, "In the event of any conflict between the terms of this Agreement and the Guide, the Guide shall govern."_
+_Please note that \_w\_hile the Enrollment Agreement does not distinguish between termination of Learner’s membership and termination of Learner’s participation in the Program, this Learner Guide, updated August 17, 2017, defines Guild Membership, further acknowledges **two types of memberships**, and distinguishes between membership termination and termination of a Learner's participation in the program. As stated in the Enrollment Agreement, "In the event of any conflict between the terms of this Agreement and the Guide, the Guide shall govern."_
 
 ---
 
@@ -16,5 +16,11 @@ All Guild Members receive certain baseline Membership Benefits that are outlined
 
 ### Membership Benefits {#membership-benefits}
 
-As stated above, all Guild Members have access to certain baseline Membership Benefits. During your time as an active [Learner](https://guide.learnersguild.org/GLOSSARY.html#learner) you receive additional benefits to support your growth and enable you to launch your career as a web developer. 
+As stated above, all Guild Members have access to certain baseline Membership Benefits. During your time as an active [Learner](https://guide.learnersguild.org/GLOSSARY.html#learner) you receive additional benefits to support your growth and enable you to launch your career as a web developer.
+
+When you leave the program, regardless of whether you withdraw, do not advance to a later phase, or complete the program and accept a job, you become a Learners [Guild Alum](https://guide.learnersguild.org/GLOSSARY.html#alum), and maintain the baseline Membership Benefits afforded to all Guild Members. 
+
+There are two exceptions where this is not the case.  
+
+First, if you decide to leave, or are asked to leave the Guild during the membership cancellation period your membership with the Guild is effectively terminated. Second, if you are in serious violation of any of the [**Guild Policies**](//Policies/README.md), in which case the Guild reserves the right to revoke your Membership.
 
