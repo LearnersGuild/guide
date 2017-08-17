@@ -20,7 +20,5 @@
 1. **Guild Policy Compliance:** You are required to read, understand and comply with all published [**Guild Policies**](//Policies/README.md)** **and those that may be added in the future. Make sure to thoroughly read the policies included at the end of this Guide. 
 2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our published **Community Agreements**[^1]** **and** **those that may be added in the future. Check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions. 
 
-
-
-[^1]: The [**COS Guide**](https://cos.learnersguild.org) will be updated and integrated into the Learner Guide under the title "Community Agreements." Some of the existing "Practices" reference in the COS Guide will be revised as "Agreements" anchoring our learning community. For now, you may reference the original document to review both current Guild Practices and Agreements. 
+[^1]: The [**COS Guide**](https://cos.learnersguild.org) will be updated and integrated into the Learner Guide under the title **"Community Agreements." **Some of the existing "Practices" reference in the COS Guide will be revised as "Agreements" that anchor our learning community. For now, you may reference the original document to review both current Guild Practices and Agreements. 
 
