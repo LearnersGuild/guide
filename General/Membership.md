@@ -20,11 +20,13 @@ As stated above, all Guild Members have access to certain baseline Membership Be
 
 When you leave the program, regardless of whether you withdraw, do not advance to a later phase, or complete the program and accept a job, you become a Learners [Guild Alum](https://guide.learnersguild.org/GLOSSARY.html#alum), and maintain the baseline Membership Benefits afforded to all Guild Members.
 
+Being part of a supportive, diverse community of professionals is one of the reasons many Learners choose Learners Guild as their pathway to becoming a web developer. Regardless of when you leave the program, you are a part of this community for life. 
+
 There are two exceptions where this is not the case.
 
 First, if you decide to leave, or are asked to leave the Guild during the membership cancellation period your membership with the Guild is effectively terminated. Second, if you are in serious violation of any of the [**Guild Policies**](//Policies/README.md) the Guild reserves the right to revoke your Membership.
 
-The Membership Benefits extended to Learners and Alums are outlined below:
+#### Membership Benefits extended to Learners and Alums 
 
-![](/assets/Screen Shot 2017-08-17 at 12.05.38 PM.png)
+![](/assets/Screen Shot 2017-08-17 at 12.14.21 PM.png)
 
