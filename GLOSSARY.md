@@ -16,19 +16,19 @@ The Guild Core is the central organizational body of Learners Guild. The Core is
 
 ## Guild Member
 
-Alternate name for someone currently or previously enrolled at Learners Guild to learn and practice the craft of web development.
+Someone currently or previously enrolled at Learners Guild to learn and practice the craft of web development.
 
-## Guild Alumni
+## Guild Alum {#alum}
 
-A former Learners Guild member who successfully completed the program.
+Any former Learner who remained in the program beyond their 5th week. We are intentionally using the informal term "alum" rather than "alumni/alumnae" so as not to reference gender when referring to former Learners.  
 
 ## Learner
 
-A current Learners Guild member who is learning and practicing the craft of web development. All Learners begin as apprentices.
+A Guild Member who is actively participating in the Learners Guild program to learn and practice the craft of web development. 
 
 ## Learning Facilitator
 
-A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating Learner Support Groups, and providing nontechnical learning support to Guild members. 
+A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating Learner Support Groups, and providing nontechnical learning support to Guild members.
 
 ## Partner
 
