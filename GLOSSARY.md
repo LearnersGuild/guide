@@ -20,19 +20,19 @@ Someone currently or previously enrolled at Learners Guild to learn and practice
 
 ## Guild Alum {#alum}
 
-Any former Learner who remained in the program beyond their 5th week. We are intentionally using the informal term "alum" rather than "alumni/alumnae" so as not to reference gender when referring to former Learners.  
+Any former Learner who remained in the program beyond their 5th week. Please note that we are intentionally using the informal term "alum" rather than "alumni/alumnae" so as not to reference gender when referring to former Learners.
 
 ## Learner
 
-A Guild Member who is actively participating in the Learners Guild program to learn and practice the craft of web development. 
+A Guild Member who is actively participating in the Learners Guild program to learn and practice the craft of web development.
 
 ## Learning Facilitator
 
-A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating Learner Support Groups, and providing nontechnical learning support to Guild members.
+A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating House Meetings, and providing nontechnical learning support to Guild Learners.
 
 ## Partner
 
-Partner is the term we use for people who work in the Guild Core. A partner is an employee of the Learners Guild who has an open ended, fixed employment.
+Partner is the term we use for people who work in the Guild Core. A Partner is an employee of Learners Guild who has an open ended, fixed employment.
 
 ## Software Engineering Practitioner \(SEP\)
 
