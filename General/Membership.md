@@ -26,5 +26,5 @@ First, if you decide to leave, or are asked to leave the Guild during the member
 
 The Membership Benefits extended to Learners and Alums are outlined below:
 
-![](/assets/Screen Shot 2017-08-17 at 12.02.57 PM.png)
+![](/assets/Screen Shot 2017-08-17 at 12.05.38 PM.png)
 
