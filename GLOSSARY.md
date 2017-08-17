@@ -14,7 +14,7 @@ Learners are involved with one or more crafts. These are the industries and skil
 
 The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
-## Guild Member
+## Guild Member {#guild-member}
 
 Someone currently or previously enrolled at Learners Guild to learn and practice the craft of web development.
 
