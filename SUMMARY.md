@@ -2,14 +2,19 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
-  * [Membership Expectations](General/Membership/membership-expectations.md)
+
+  * [Learner Expectations](General/Membership/membership-expectations.md)
     * [New Learner Progress Check](//General/Membership/new-learner-progress-check.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
+
     * [Membership Termination](General/Membership/membership-termination.md)
 
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
+
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
+
   * [Membership FAQs](General/Membership/membership-faqs.md)
+
 * [Preparing for the Guild](preparing-for-the-guild.md)
   * [Required Prep](/Runway/README.md)
   * [Qualified Laptop](/Runway/qualified-laptop.md)
