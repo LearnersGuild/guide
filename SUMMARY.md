@@ -6,9 +6,9 @@
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
 
+    * Membership Termination
     * [New Learner Progress Check](/General/Membership/new-learner-progress-check.md)
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
-
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
 
   * [Membership FAQs](General/Membership/membership-faqs.md)
@@ -45,7 +45,9 @@
   * [Manifesto](/Strategies/Manifesto.md)
 
 * [LOS Support](//General/LOS_Support.md)
+
 * [Resource Links](//General/Resource_Links.md)
+
 * [Program FAQs](//Phases/program-faqs.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
