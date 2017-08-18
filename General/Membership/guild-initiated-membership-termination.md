@@ -1,6 +1,6 @@
-# Guild Initiated Membership Termination
+# Guild Initiated Program Participation Termination
 
-The terms of your membership in the Guild are governed by your Enrollment Agreement, which incorporates this guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable. If you decide to withdraw from the program after the stated cancellation period, you may begin that process by contacting your Learning Facilitator. See the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information on post-cancellation period withdrawals. All financial obligations as specified in the Enrollment Agreement and ISA, if applicable, will apply.
+The terms of your program participation at the Guild are governed by your Enrollment Agreement, which incorporates this Guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable. 
 
 #### Learners Guild reserves the right to terminate your membership in the Guild as set forth in your Enrollment Agreement, including under the following cimcumstances:
 
@@ -17,4 +17,8 @@ For purposes of clarity, termination of your membership in the Guild as referenc
 We have a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Guild members must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [**Guild Policies Section**](/Policies/README.md)**.**
 
 
+
+
+
+If you decide to withdraw from the program after the stated cancellation period, you may begin that process by contacting your [Learning Facilitator](https://guide.learnersguild.org/GLOSSARY.html#learning-facilitator). See the [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md) for more information on post-cancellation period withdrawals. All financial obligations as specified in the Enrollment Agreement and ISA, if applicable, will apply.
 

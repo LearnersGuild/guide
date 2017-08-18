@@ -8,7 +8,7 @@ The technical evaluation will cover modules you've completed during your first 3
 
 We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and your program participation and Guild Membership may be terminated.
 
-Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your participation in the program and Guild Membership without any finanical obligation to the Guild. See [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **for more information.
+Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your participation in the program and Guild Membership without any financial obligation to the Guild. See [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **for more information.
 
 #### Special Cases: Early Phase Interviews
 
