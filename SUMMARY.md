@@ -8,16 +8,18 @@
 
     * [Guild Initiated Membership Termination](General/Membership/guild-initiated-membership-termination.md)
     * [New Learner Progress Check](General/Membership/new-learner-progress-check.md)
-    * [How to Leave the Guild](General/Membership/learner-initiated-membership-cancelation-period.md)
+    * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
 
   * [Membership FAQs](General/Membership/membership-faqs.md)
 
 * [Preparing for the Guild](preparing-for-the-guild.md)
+
   * [Required Prep](/Runway/README.md)
   * [Qualified Laptop](/Runway/qualified-laptop.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
+
 * [Learning at the Guild](General/README.md)
   * [Phases](/Phases/README.md)
   * [Curriculum](Phases/curriculum.md)

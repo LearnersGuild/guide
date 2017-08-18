@@ -30,6 +30,10 @@ A Guild Member who is actively participating in the Learners Guild program to le
 
 A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating House Meetings, and providing nontechnical learning support to Guild Learners.
 
+## **Membership Cancellation Period** {#membership-cancellation-period}
+
+The Guild or a Learner may initiate membership cancellation during the first five weeks of the program. In this case, the Learner leaves the Guild and financial obligations are terminated. Membership cancellation means the departing Learner does not retain access to any of the Guild's programmatic offerings.  
+
 ## Partner
 
 Partner is the term we use for people who work in the Guild Core. A Partner is an employee of Learners Guild who has an open ended, fixed employment.
