@@ -3,9 +3,10 @@
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
   * [Membership Expectations](General/Membership/membership-expectations.md)
+    * [New Learner Progress Check](//General/Membership/new-learner-progress-check.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
     * [Membership Termination](General/Membership/membership-termination.md)
-    * [New Learner Progress Check](/General/Membership/new-learner-progress-check.md)
+
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
   * [Membership FAQs](General/Membership/membership-faqs.md)
@@ -54,4 +55,6 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
 
