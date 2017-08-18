@@ -6,7 +6,7 @@ Phase Interviews enable you to move from one phase to another. Successful Phase 
 
 1. A Phase Interview may only be attempted _twice_.
 2. You must complete and pass the phase interview no later than the 8th week after you begin the phase.
-3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time, is called a _**Phase Boundary Interview. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
+3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time, is called a [_**Phase Boundary Interview**_](https://guide.learnersguild.org/GLOSSARY.html#pbi)_**. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
 
 **All Phase Boundary Interview outcomes are shared via video-chat or in person. Your Learning Facilitator will schedule the outcomes meeting with you via Google Calendar.  **
 
@@ -21,7 +21,7 @@ Phase Interviews enable you to move from one phase to another. Successful Phase 
 
 #### Phase Interviews have two parts: a Coding Challenge and a Technical Comprehension Interview.
 
-##### The Coding Challenge 
+##### The Coding Challenge
 
 * The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
 
