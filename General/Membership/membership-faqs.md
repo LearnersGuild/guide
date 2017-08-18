@@ -1,32 +1,42 @@
-# Membership & Financial FAQs
+# Membership, Program Participation & Financial FAQs
 
 #### How is Guild Membership determined?
 
-A learner maintains membership in the Guild by successfully advancing through the learning phases on time and staying in compliance with overall membership expectations and policies. Ongoing program participation is therefore dependent upon successfuly advancing to the next learning phase within the specified [pacing requirements](/Phases/pacing.md). Failure to do so may result in membership termination. Failure to comply with membership expectations and policies can also result in potential membership termination.
+When you are accepted to Learners Guild, you join our ever-growing community of Members \(Learners and Alums\). If you stay in the program past your 5th week, your Guild Membership stays with you for as long as our doors are open. Our intent is to foster a professional community that starts when you join the Guild, but that reaches far beyond your time as a Learner.
+
+**There are two exceptions:** the first is if you decide to leave or are asked to leave by your 5th week. In this case, you Guild Membership and financial obligation to the Guild is terminated. See the [**New Learner Progress Check**](///General/Membership/new-learner-progress-check.md) section for more information.
+
+The second is if you are in serious violation of any of the Guild Policies, in which case the Guild reserves the right to revoke your Membership. See the [**Guild Policies**](//Policies/README.md) section for more information.
+
+See the [**Guild Membership** ](//General/Membership.md)and [**Membership Termination **](/General/Membership/membership-termination.md)sections for more information.
+
+#### **How is Program Participation determined?**
+
+A learner maintains membership in the Guild by successfully advancing through the learning phases on time and staying in compliance with overall membership expectations and policies. Ongoing program participation is therefore dependent upon successfuly advancing to the next learning phase within the specified [**Pacing Requirements**](/Phases/pacing.md). Failure to do so may result in membership termination. Failure to comply with membership expectations and policies can also result in potential [**program**](/General/Membership/guild-initiated-membership-termination.md) or [**membership**](/General/Membership/membership-termination.md) termination.
 
 #### Is there a cancellation period?
 
-Yes. Your first four to five weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first five \(5\) weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week five to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week four all new Learners are required to take the New Learner Progress  Check - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **Ongoing membership is dependent upon a successful Progress Check. See the **[**New Learner Progress Check**](/General/Membership/new-learner-progress-check.md)** section for  more information. **
+Yes. Your first few weeks are a bit of a test drive - for you and for us. We want to ensure you will thrive in the Guild's learning environment so during your first 5 weeks we invite you to work hard, test the model, and assess whether or not the Guild is a good fit for you. You have up to week 5 to cancel your membership without financial obligations if you conclude the Guild is not the right learning environment for you. During week 4 all new Learners are required to take the New Learner Progress Check - it's our way of determining how well you're learning in our model and whether or not we will continue to invest in you. **Ongoing program participation and membership is dependent upon a successful Progress Check. See the **[**New Learner Progress Check**](/General/Membership/new-learner-progress-check.md)** section for  more information. **
 
 #### **Can I leave and join a later cohort if the timing isn't good for me?**
 
-We make selections carefully and cannot guarantee you a spot at another time. If you withdraw from the Guild you must reapply to be considered for an upcoming cohort.
+We make selections carefully and cannot guarantee you a spot at another time. If you withdraw from the program you must reapply to be considered for an upcoming cohort.
 
 #### What if I realize the Guild isn't right for me after the cancellation period is over?
 
-You can withdraw from the program at anytime after the cancellation period has passed. The only difference is that you will be financially obligated under the terms of your Enrollment Agreement and ISA, if applicable. See the [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information.
+You can withdraw from the program at anytime after the cancellation period has passed. The only difference is that you will be financially obligated under the terms of your Enrollment Agreement and ISA, if applicable. See the [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md) section for more information.
 
-#### What happens to my ISAs if my membership is terminated or if I choose to leave the Guild?
+#### What happens to my ISAs if my program participation is terminated or if I choose to leave the program?
 
-If your membership is terminated before your anticipated graduation date, you are responsible for ISA repayments consistent with the payback period indicated in your ISA contract, and the income share percentage attached to the session in which your membership was terminated.
+If your program participation is terminated before your anticipated graduation date, you are responsible for the financial obligations under your ISA\(s\) based on the duration of your program participation and amount of living stipend, if any, that has been disbursed to you. See your ISA contracts and Enrollment Agreement for more details. 
 
 #### What if I realize I don't want to be a web developer?
 
-We would be sorry to hear that, but of course it is your choice. If you realize web development, and Learners Guild, is not for you, you are still obligated to the repayment terms indicated in the ISA agreement. If you have doubts about pursuing this career before joining a Guild chapter, we strongly recommend not matriculating in the program. Our business depends on your commitment to becoming a web developer, so if you're unsure, you should take the time to get clear before joining the program.
+We would be sorry to hear that, but of course it is your choice. If you realize the Learners Guild Program is not for you, you are still obligated to the payment terms indicated in your ISA agreement\(s\). Our ability to operate and invest in future learners is dependent upon you paying back on your ISA regardless of if you decide to be a web developer or not. We have limited slots to invest in Learners so if you are not sure you want to take on this commitment you should get clear before joining the program. 
 
 #### What's required? What's optional?
 
-Please see the [Membership Expectations](/General/Membership/membership-expectations.md) section to read all non-negotiable requirements for Learners. But, the short of the long is you are required to participate fully in the structure of the program by:
+Please see the [Learner Expectations](/General/Membership/membership-expectations.md) section to read all non-negotiable requirements for Learners. But, the short of the long is you are required to participate fully in the structure of the program by:
 
 * Diligently work on the curriculum for your phase.  
 * Abiding by the pacing requirements.
@@ -35,7 +45,7 @@ Please see the [Membership Expectations](/General/Membership/membership-expectat
 
 * Completing retrospectives \(if you have one\), offer feedback \(if you had a pair partner\) and participate in reflection Fridays.
 
-* Attending daily announcments, daily standups, weekly House Meetings, and COS Workshops.
+* Attending daily announcements, daily standups, weekly House Meetings, and COS Workshops.
 
 * Observing and adhering to [Guild Policies](//Policies/README.md).
 
@@ -51,11 +61,11 @@ Yes, we observe all national holidays. Check the [Holiday List](//General/Holida
 
 #### What if I can't get hired after the Guild?
 
-Keep learning, studying, building software and applying for jobs. All Guild graduates have access to online Guild resources and may take advantage of Phase 5 Career Prep resources for 36 months following graduation. See the [**Resources for Guild Alumni and Community Members**](/General/Membership/resources-for-guild-alumni-and-community-members.md) section for more information.
+Keep learning, studying, building software and applying for jobs. All Guild Alums have access to online curriculum resources and may take advantage of Phase 5 Career Prep resources for 36 months following graduation. See the [**Guild Membership**](//General/Membership.md) section for more information on Member Benefits for Learners and Alums.
 
 #### What if I want to found a startup after I finish at the Guild?
 
-Our business model depends on our learners "paying it forward" - in other words, it depends on our learners repaying the Guild through their Income Sharing Agreement during their first three \(3\) years of employment. Startup life can be unpredictable, so in order for us to continue offering the program with no upfront costs, it's imperative that graduated learners are in a position to repay their ISA. If you plan to start your own company, please elect to pay our program fees upfront.
+Our business model depends on our members "paying it forward" - in other words, it depends on our members paying the Guild through their Income Sharing Agreement during their first three \(3\) years of employment. Startup life can be unpredictable, so in order for us to continue offering the program with no upfront costs, it's imperative that graduated learners are in a position to repay their ISA. If you plan to start your own company, please elect to pay our program fees upfront.
 
 #### What if I'm not making more than $50,000 per year?
 
@@ -65,13 +75,13 @@ Income sharing only applies if your income is more than $50,000 annually, includ
 
 If you're unemployed, and your income is less than $50,000, the Income Sharing Agreement is paused until you're making at least $50,000.
 
-#### When do I have to start repaying my ISA?
+#### When do I have to start paying my ISA?
 
-Learners are afforded a three-month grace period after they complete or withdraw from the Guild before payments are required.
+Members are afforded a three-month grace period after they complete or withdraw from the Guild before payments are required.
 
 #### Do I need my own computer?
 
-Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [Qualified Laptop](/Runway/qualified-laptop.md) page for more information.
+Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Learners Guild uses a Mac, so it will be easier for you to collaborate with others and get troubleshooting support from our staff. Visit the [**Qualified Laptop**](/Runway/qualified-laptop.md)** **page for more information.
 
 #### What if I can't get a new Mac laptop by my start date? What should I do?
 
@@ -83,7 +93,7 @@ Apple computers running the latest Mac OS. If you are used to a Windows or Linux
 
 #### What if I have a conflict with someone that I can't resolve on my own?
 
-Conflicts happen. It's natural. And in most cases working through conflicts with our colleagues only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others by using the interpersonal tools we share in the [COS](https://cos.learnersguild.org/Practice_Tending_Relationship/Requests.html). If the conflict is tenacious, there is a [formal conflict resolution ](https://cos.learnersguild.org/Practice_Tending_Relationship/Conflict.html)process in place to support you in resolving it.
+Conflicts happen. It's natural. And in most cases working through conflicts with our colleagues only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others by using the interpersonal tools we share in the [**COS**](https://cos.learnersguild.org/Practice_Tending_Relationship/Requests.html). If the conflict is tenacious, there is a [**Formal Request**](https://cos.learnersguild.org/Practice_Tending_Relationship/Conflict.html) process in place to support you in resolving it.
 
 #### Is there a dress code?
 
