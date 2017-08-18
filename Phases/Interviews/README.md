@@ -1,24 +1,33 @@
 # Phase Interviews
 
-Phase Interviews enable you to move from one phase to another. As mentioned in the [Pacing Requirements](/Phases/pacing.md) section, it should take you 6 weeks, including phase interview, to complete any of the first three phases. 8 weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase.
+Phase Interviews enable you to move from one phase to another. Successful Phase Interviews are a condition of continued program participation. As mentioned in the [Pacing Requirements](/Phases/pacing.md) section, it should take you 6 weeks, including phase interview, to complete any of the first three phases. 8 weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase.
 
-#### Key Details about Phase Interviews:
+### The Big Picture
 
 1. A Phase Interview may only be attempted _twice_.
 2. You must complete and pass the phase interview no later than the 8th week after you begin the phase.
-3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time is called a _**Phase Boundary Interview. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
+3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time, is called a _**Phase Boundary Interview. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
 
-**All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm.**
+**All Phase Boundary Interview outcomes are shared via video-chat or in person. Your Learning Facilitator will schedule the outcomes meeting with you via Google Calendar.  **
 
-Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. In most cases, interview results will be shared via email on the Friday of your interview week. In some cases the results of interview results will be shared the following Monday. 
+---
 
-**All Phase Boundary Interview outcomes are shared via video-chat or in person. Your Learning Fa**
+### Phase Interview Logistics & Content
 
-##### Phase Interviews have two parts: a coding challenge and a technical comprehension interview.
+#### **Phase Interviews begin on Monday at 9am and must be submitted by Wednesday at 12pm.**
 
-The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
+* Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. 
+* In most cases, interview results will be shared via email on the Friday of your interview week. In some cases your interview results will be shared the following Monday.
 
-The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you _will_ be expected to be able to explain the code you wrote and how it works on a basic level.
+#### Phase Interviews have two parts: a Coding Challenge and a Technical Comprehension Interview.
+
+##### The Coding Challenge 
+
+* The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
+
+**The Technical Comprehension Interview**
+
+* The Technical Comprehension Interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you _will_ be expected to be able to explain the code you wrote and how it works on a basic level.
 
 Here's an example. Lets say you're asked to write an `add` function. So you write:
 
