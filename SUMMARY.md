@@ -7,10 +7,10 @@
   * [Transition Guide](General/Membership/membership-cancellation.md)
 
     * [New Learner Progress Check](/General/Membership/new-learner-progress-check.md)
-
-  * * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
+    * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
 
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
+
   * [Membership FAQs](General/Membership/membership-faqs.md)
 
 * [Preparing for the Guild](preparing-for-the-guild.md)
@@ -35,6 +35,7 @@
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 
 * [Learning Strategies](/Strategies/README.md)
+
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Learning Mindsets ](/General/Guidelines.md)
@@ -42,6 +43,7 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
+
 * [LOS Support](//General/LOS_Support.md)
 * [Resource Links](//General/Resource_Links.md)
 * [Program FAQs](//Phases/program-faqs.md)
