@@ -2,27 +2,20 @@
 
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
-
   * [Membership Expectations](General/Membership/membership-expectations.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
-
-    * Membership Termination
+    * [Membership Termination](General/Membership/membership-termination.md)
     * [New Learner Progress Check](/General/Membership/new-learner-progress-check.md)
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
-
   * [Membership FAQs](General/Membership/membership-faqs.md)
-
 * [Preparing for the Guild](preparing-for-the-guild.md)
-
   * [Required Prep](/Runway/README.md)
   * [Qualified Laptop](/Runway/qualified-laptop.md)
   * [Slack and Echo](//General/Slack_and_Echo.md)
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
-
 * [Learning at the Guild](General/README.md)
-
   * [Phases](/Phases/README.md)
   * [Curriculum](Phases/curriculum.md)
   * [Learning Supports](/Learning/README.md)
@@ -33,9 +26,7 @@
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
-
 * [Learning Strategies](/Strategies/README.md)
-
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Learning Mindsets ](/General/Guidelines.md)
@@ -43,11 +34,8 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
-
 * [LOS Support](//General/LOS_Support.md)
-
 * [Resource Links](//General/Resource_Links.md)
-
 * [Program FAQs](//Phases/program-faqs.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
@@ -66,6 +54,4 @@
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
 

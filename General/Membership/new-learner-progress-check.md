@@ -1,20 +1,26 @@
-# New Learner Progress Check :: Week 4
+# New Learner Progress Check
 
-Joining the Guild is a two-way street. You're making a commitment to a 10 month program and to working for at least 3 years in the tech industry. We are making a commitment to invest in you - to invest technical and non-technical training, to welcome you into a vibrant community and to offer finanical support so you can land your first developer job. It's a big commitment for both of us. As such, it’s important that we both get a sense of whether or not this is the right learning enviroment for you.
+Joining the Guild is a two-way street. You're making a commitment to a 10 month program and to working for at least 3 years in the tech industry. We are making a commitment to invest in you - to invest technical and non-technical training, to welcome you into a vibrant community and to offer financial support so you can land your first developer job. It's a big commitment for both of us. As such, it’s important that we both get a sense of whether or not this is the right learning environment for you.
 
 **During your fourth week at the Guild you'll be required to complete a coding challenge assessing how well you're progressing in our learning model and acclimating to our culture.**
 
 The technical evaluation will cover modules you've completed during your first 3 weeks in Phase 1. We'll also explore how you're faring in the Guild's culture - are you maintaining Guild community agreements? Keeping up with your accountabilities? Using the interpersonal tools we've shared to maintain good relationships in the community, etc?
 
-We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and you may be asked to leave the guild. Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your participation in the program without any finanical obligation to the Guild. See [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **for more information.
+We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and your program participation and Guild Membership may be terminated. 
+
+Conversely, you may decide that the Guild isn't the best place for you to pursue your career as a web developer and you can voluntarily terminate your participation in the program and Guild Membership without any finanical obligation to the Guild. See [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **for more information.
+
+#### Special Cases: Early Phase Interviews
+
+In the event that you want to interview out of Phase 1 during your first three weeks in the program you will be required to take both the Coding Challenge for the Progress Check \(see below for more details\) and the P2 Phase Interview. You must take the New Learner Progress Check coding challenge first. You can requetr 
 
 ### Key things to know about the Progress Check
 
-The Progress Check _must be_ _completed by end of day \(EOD\) on your 4th Friday. _Unlike the Phase Interviews you only have one opportunity to take the challenge. 
+The Progress Check _must be_ \_completed by end of day \(EOD\) on your 4th Friday. \_Unlike the Phase Interviews you only have one opportunity to take the challenge.
 
-The Progress Check consists of a timed challenge with different kinds of questions \(multiple-choice, free answer\) and a coding portion. Here are some additional details on how to prepare. 
+The Progress Check consists of a timed challenge with different kinds of questions \(multiple-choice, free answer\) and a coding portion. Here are some additional details on how to prepare.
 
-#### Challenge Coverage 
+#### Challenge Coverage
 
 The coding challenge will cover skills from the following modules in Phase 1:
 
@@ -30,7 +36,7 @@ If you haven't gone through these modules, you should do so or otherwise validat
 
 ### How to Start the Challenge {#marked-how-to-start-the-challenge}
 
-When you are ready to get started, visit [http://hr.gs/lg-week-4-prog-check](http://hr.gs/lg-week-4-prog-check) and enter the password:`guildpgck`. 
+When you are ready to get started, visit [http://hr.gs/lg-week-4-prog-check](http://hr.gs/lg-week-4-prog-check) and enter the password:`guildpgck`.
 
 Remember, **the challenge is timed and you only get one shot: do not start the challenge until you have a clear time window and are sure you are ready.**
 
