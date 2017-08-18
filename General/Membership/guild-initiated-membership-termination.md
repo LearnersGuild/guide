@@ -4,11 +4,11 @@ The terms of your program participation at the Guild are governed by your Enroll
 
 #### Learners Guild reserves the right to terminate a Learner's program participation as set forth in the Enrollment Agreement, including under the following circumstances:
 
-* Failure to meet the **Learner Expectations **previously** **outlined can result in the withdrawal of our investment and termination of your membership. In particular:
+* Failure to meet the **Learner Expectations **previously** **outlined can result in the the withdrawal of our investment and termination of your program participation. In particular:
 
-  * Failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in membership termination.
+  * Failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in program participation termination.
 
-  * Failure to uphold Learners Guild's culture by being out of integrity with the non-technical membership expectations around Attendance and Community Expectations as set forth in the [**Membership Expectations**](/General/Membership/membership-expectations.md) section of this Guide may immediately result in membership termination. Membership termination under these particular circumstances may be initiated by Learning Facilitators.
+  * Failure to uphold Learners Guild's culture by being out of integrity with the non-technical learner expectations around Attendance and Community Expectations as set forth in the [**Learner Expectations**](/General/Membership/membership-expectations.md) section of this Guide may immediately result in  membership termination. Membership termination under these particular circumstances may be initiated by Learning Facilitators.
 
 For purposes of clarity, termination of your membership in the Guild as referenced in this Guide is the same as the termination of your participation in the Program, as referenced in your Enrollment Agreement.
 

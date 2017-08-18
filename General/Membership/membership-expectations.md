@@ -2,7 +2,7 @@
 
 ### All enrolled Learners are required to meet the following expectations:
 
-#### Learning Expectations
+#### Learner Expectations
 
 1. **Successfully Pass the New Learner Progress Check: **Every new [Guild Member](https://guide.learnersguild.org/GLOSSARY.html#guild-member) is required to successfully pass a short coding challenge designed to assess how well you are progressing in our learning model during your fourth week at the Guild. We will also check in to see how you're acclimating to the Guild's culture. See the [**New Learner Progress Check **](/General/Membership/new-learner-progress-check.md)section for more information. 
 2. **Be on Purpose: **Your number one purpose at the Guild is to acquire the skills and mindsets that will make you competitive for junior web developer jobs. All [Learners](https://guide.learnersguild.org/GLOSSARY.html#learner) are expected to stay on track to land a high-paying job as a web developer. This means advancing into the phases at the required pace. _**Acceptance into a new phase on or before week \(8\) eight of the current phase is a condition for maintaining enrollment as a Learner at the Guild. Failing to be accepted into a new phase by week \(8\) eight of the current phase may immediately result in program termination.**_ See the [Learning Phases](//Phases/README.md) section for more information on Guild pacing requirements.
@@ -18,7 +18,7 @@
 #### Community Expectations
 
 1. **Guild Policy Compliance:** You are required to read, understand and comply with all published [**Guild Policies**](//Policies/README.md)** **and those that may be added in the future. Make sure to thoroughly read the policies included at the end of this Guide. 
-2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our published **Community Agreements**[^1]** **and** **those that may be added in the future. Check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions. 
+2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our forthcoming **Community Agreements**[^1]** **and** **those that may be added in the future. Check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions. 
 
-[^1]: The [**COS Guide**](https://cos.learnersguild.org) will be updated and integrated into the Learner Guide under the title **"Community Agreements." **Some of the existing "Practices" reference in the COS Guide will be revised as "Agreements" that anchor our learning community. For now, you may reference the original document to review both current Guild Practices and Agreements. 
+[^1]: The [**COS Guide**](https://cos.learnersguild.org) will be updated and integrated into the Learner Guide under the title **"Community Agreements." **Some of the existing "Practices" referenced in the COS Guide will be revised as "Agreements" that anchor our learning community. For now, you may reference the original document to review both current Guild Practices and Agreements. 
 
