@@ -38,6 +38,14 @@ The Guild or a Learner may initiate membership cancellation during the first fiv
 
 Partner is the term we use for people who work in the Guild Core. A Partner is an employee of Learners Guild who has an open ended, fixed employment.
 
+## Phase Interview {#phase-interview}
+
+A coding challenge and technical comprehension interview with an SEP that enables Learners to advance from one phase to another. Learners can attempt a phase interview twice within a phase.  
+
+## Phase Boundary Interview \(PBI\) {#pbi}
+
+A phase interview taken either for the second time, or for the first time in the eighth week of a phase.
+
 ## Software Engineering Practitioner \(SEP\)
 
 A software engineer on the Learners Guild staff \(Partner\) who provides daily learning support for a specific learning phase.

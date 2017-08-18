@@ -1,18 +1,26 @@
-# How to Leave the Guild
+# How to Leave the Program
 
-### Membership Cancellation
+### Program Participation & Membership Cancellation Period
 
-Like we said earlier, joining the Guild is a two-way street. During your first five weeks we expect and encourage you to intentionally explore whether the Guild is the right fit for you. If during your first five weeks you decide you'd rather pursue a different path to a career in web development you may elect to cancel your membership without any financial obligation to the Guild. Consult your Enrollment Agreement to understand the full scope of the Cancellation and Refund process, then follow the steps outlined below to get the ball rolling.
+During your first 5 weeks we expect and encourage you to intentionally explore whether the Guild is the right fit for you.** If during your first 5 weeks you decide you want to leave the Guild for any reason you may elect to cancel your Membership and end your program participation without any financial obligation to the Guild.** **If you stay beyond the 5 week cancellation period you will have a financial obligation under the terms of your Enrollment Agreement and ISA Agreement.** Consult your Enrollment Agreement to understand the full scope of the Cancellation and Refund process, then follow the steps outlined below to get the ball rolling.
 
 ### Post-Cancellation Period Withdrawal
 
-Let's say it's week 13 and your life circumstances change, or you find that the Guild isn't a good fit for you after all and you'd like to withdraw from the program. You may initiate the withdrawal process by following the steps below. Unlike Membership Cancellation, Withdrawing from the Guild _after_ the five week cancellation period obligates you to repayment as specified in your Enrollment Agreement and ISA agreement, if applicable. Again, consult your Enrollment Agreement to understand the full financial implications of leaving the program after the cancellation period.
+If you'd like to withdraw from the program for whatever reason after week 5, you may initiate the withdrawal process by following the steps below. Unlike Program Participation and Membership Cancellation, Withdrawing from the program _after_ the 5 week cancellation period obligates you to payment as specified in your Enrollment Agreement and ISA agreement, if applicable. Again, consult your Enrollment Agreement to understand the full financial implications of leaving the program after the cancellation period.
 
 Please note that you will be invoiced for any Learners Guild property in your possession that is not returned to the Guild prior to your last day of attendance. See your Enrollment Agreement for more information.
 
+### Ongoing Guild Membership
+
+When you leave the Learners Guild Program, your relationship to the community transitions from that of [Learner](https://guide.learnersguild.org/GLOSSARY.html#learner) to [Alum](https://guide.learnersguild.org/GLOSSARY.html#alum). One of the key features of our learning community is our commitment to paying it forward by giving back as much as we can. As an Alum, you’re in a unique position to support new Learners not only through the payment of your ISAs, which enables us to continue funding learners, but also by sharing your growing knowledge, skills and network with Learners.
+
+See the Guild Membership section for more information on how we define Guild Membership and the benefits available to all Guild Members \(Learners and Alums\).
+
 ### **Money Stuff**
 
-If you choose to leave the Guild after the cancellation period your adjusted Living Fund ISA will reflect the actual amount of stipend you've received so far. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well. You'll receive confirmation of your final ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
+If you leave the Program after the cancellation period, Your ISAs will be adjusted based on your last day of program attendance. If you are leaving as a result of a Phase Boundary Interview,  we’ll consider your last day of program attendance to be the Friday of the week you attempt your last Coding Challenge/Interview, and will calculate an adjusted Pay It Forward ISA based on this day. Yyour adjusted Living Fund ISA will reflect the actual amount of stipend you've received so far. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well. You'll receive confirmation of your final ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
+
+adjusted Living Fund ISA will reflect the actual amount of stipend you've received so far. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well. You'll receive confirmation of your final ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
 
 Once you leave the Guild VEMO is your point of contact for questions about your ISAs.
 
