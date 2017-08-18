@@ -1,33 +1,39 @@
 # Phase Interviews
 
-Phase Interviews enable you to move from one phase to another. As mentioned in the [Pacing](/Phases/pacing.md) section, it should take you six \(6\) weeks, including phase interview, to complete any of the first three phases. Eight \(8\) weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase, but, there are two rules:
+Phase Interviews enable you to move from one phase to another. As mentioned in the [Pacing Requirements](/Phases/pacing.md) section, it should take you 6 weeks, including phase interview, to complete any of the first three phases. 8 weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase.
+
+#### Key Details about Phase Interviews:
 
 1. A Phase Interview may only be attempted _twice_.
 2. You must complete and pass the phase interview no later than the 8th week after you begin the phase.
+3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time is called a _**Phase Boundary Interview. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
 
 **All Phase Interviews begin on Monday at 9am and must be submitted for evaluation by Wednesday at 12pm.**
 
-Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, face-to-face technical interview \(via video-chat\) with you.
+Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. In most cases, interview results will be shared via email on the Friday of your interview week. In some cases the results of interview results will be shared the following Monday. 
+
+**All Phase Boundary Interview outcomes are shared via video-chat or in person. Your Learning Fa**
 
 ##### Phase Interviews have two parts: a coding challenge and a technical comprehension interview.
 
 The coding challenge simulates a skill-level appropriate “take home challenge,” similar to what developers encounter in many job interview processes. It gives you an opportunity to demonstrate skills gained in a phase and readiness to begin a new phase. Depending on the phase you're interviewing into, the coding challenge may require you to complete exercises, build a small app, or build a full-stack application.
 
-The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you *will* be expected to be able to explain the code you wrote and how it works on a basic level. 
+The technical comprehension interview is a 1-on-1 conversation with an SEP designed to evaluate your understanding of the solutions you came up with on the coding challenge. You'll meet with an SEP via video chat for about 30-45 minutes to dig in to various parts of the submitted code. You won't be expected to explain abstract technical ideas that are unrelated to your code, but you _will_ be expected to be able to explain the code you wrote and how it works on a basic level.
 
 Here's an example. Lets say you're asked to write an `add` function. So you write:
 
 ```js
 const add = function(a,b){ return a + b }
 ```
+
 You will be asked to explain how individual parts of this code work. So the interviewer might ask:
 
-- What does the `const add =` part of this code do?
-- Why did you name your arguments `a` and `b`?
-- if `a` is `12` and `b` is `3`, what will `a + b` result in?
-- What will the `add` function return when called like this `add(10, 5)`
-- What will the `add` function return when called like this `add(7)`
-- What will the `add` function return when called like this `add()`
+* What does the `const add =` part of this code do?
+* Why did you name your arguments `a` and `b`?
+* if `a` is `12` and `b` is `3`, what will `a + b` result in?
+* What will the `add` function return when called like this `add(10, 5)`
+* What will the `add` function return when called like this `add(7)`
+* What will the `add` function return when called like this `add()`
 
 That’s pretty much the type of understanding we're looking for in the Phase interviews. So you should know roughly what each line of your code does and be able to explain it.
 
@@ -48,7 +54,7 @@ The kind of support SEPs provide while you're working on the Phase Interview is 
 
 You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the learner's keyboard.
 
-#### The No Peer Collaboration Rule 
+#### The No Peer Collaboration Rule
 
 When working on a phase interview coding challenge, **you must complete the challenge without help from other learners or coaches.** The Phase Interviews are designed to be an independent demonstration of your skills and understanding. If you need support, SEPs can help you with clarifying questions only. If you are unsure about whether your question counts as a ‘clarifying question’ - go ahead and ask. They will let you know whether they can offer the support you’re requesting. Again, procoaches are not available to offer support for Phase Interviews.
 
