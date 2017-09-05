@@ -2,8 +2,6 @@
 
 In the phase 2 interview, you will be expected to demonstrate your ability to write basic JavaScript programs for the Node.js platform as well as your fundamental SQL knowledge.
 
-You will _not_ be expected to show HTML, CSS, or other web-specific skills.
-
 ### Skills Evaluated
 
 - Programming (Beginner Level)
@@ -17,6 +15,8 @@ You will _not_ be expected to show HTML, CSS, or other web-specific skills.
 - SQL (Beginner Level)
 
 - Git & GitHub (Beginner Level)
+
+- HTML & CSS (Beginner Level)
 
 Some examples of specific things you _may_ be required to do as part of the interview coding challenge (this is **not** an exhaustive list):
 
