@@ -10,7 +10,7 @@ See the [Time Commitment][time-commitment] page
 
 **Do you kick people out? Why? How? Will I know ahead of time?**
 
-Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process][cos-conflict-resolution-process]. Usually, this is because they have consistently violated our shared agreements.
+Any member of Learners Guild can ask someone else to leave by using our formal [Formal Request Process][cos-formal-request-process]. Usually, this is because they have consistently violated our shared agreements.
 
 **Can I re-join a later cohort if it turns out the timing isn't good for me?**
 
@@ -93,6 +93,6 @@ Income sharing only applies if your income is more than $50,000. The $50,000 inc
 
 If you're unemployed, and your income is less than $50,000, the Income Sharing Agreement is paused until you're making at least $50,000.
 
-[cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
+[cos-formal-request-process]: https://cos.learnersguild.org/Practice_Tending_Relationship/Conflict.html
 [oak-building-hours]: ../Policies/Oakland_Building.md#hours
 [time-commitment]: ../Policies/Time_Commitment.md
