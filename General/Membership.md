@@ -1,12 +1,32 @@
 # Guild Membership
 
-We carry out our mission to make pathways to tech jobs more accessible through the idea of investment. We invest time, money and resources in high potential, aspiring web developers from all backgrounds who we believe will succeed in a rigorous, accelerated learning environment and develop the skills and mindsets necessary for a career in web development by the end of their time at the Guild.
+_Please note that while the Enrollment Agreement does not distinguish between termination of Learner’s membership and termination of Learner’s participation in the Program, this Learner Guide, updated August 17, 2017, defines Guild Membership, further acknowledges **two types of memberships**, and distinguishes between membership termination and termination of a Learner's participation in the program. As stated in the Enrollment Agreement, "In the event of any conflict between the terms of this Agreement and the Guide, the Guide shall govern."_
 
-By investing in your potential we align our incentives with yours instead of burdening you with fee-for-service debt that is disconnected from your outcomes. We don’t want to take your money if you don’t get a job. No thanks.
+---
 
-This means that we are selective about who we invest in and invite into our learning community.  It also means that we hold high standards for how each Learner participates in our growing community. If you’re learning with us at the Guild, we are in good faith providing up-front resources to you in hopes that you will succeed in the near future. In order to secure our investment, we have the following, _**Non-negotiable **_[_**Membership Expectations**_](/General/Membership/membership-expectations.md).
+We carry out our mission to make pathways to tech jobs more accessible through the idea of **investment**.
 
-#### 
+We invest time, money and resources in high potential, aspiring web developers from all backgrounds who we believe will succeed in a rigorous, accelerated learning environment and develop the skills and mindsets necessary for a career in web development by the end of their time at the Guild.
 
+As such, we are selective about who we invest in and invite into our learning community. It also means that we have high expectations for how each active [Learner](https://guide.learnersguild.org/GLOSSARY.html#learner) participates in our growing community. If you’re learning with us at the Guild, we are in good faith providing up-front resources to you in the hope that you will succeed in the near future. By investing in your potential we align our incentives with yours instead of burdening you with fee-for-service debt that is disconnected from your outcomes.
 
+When you are accepted to Learners Guild you join our ever-growing community of Members \(Learners and Alums\). If you stay in the program past your 5th week, your Guild Membership stays with you for as long as our doors are open. Our intention is to foster a professional community that starts when you join the Guild, but that reaches far beyond your time as a Learner.
+
+All Guild Members receive certain baseline Membership Benefits that are outlined below. In addition to that, as a condition of our investment, we also have _**Non-negotiable **_[_**Membership Expectations**_](/General/Membership/membership-expectations.md) that we expect every learner to abide by.
+
+### Membership Benefits {#membership-benefits}
+
+As stated above, all Guild Members have access to certain baseline Membership Benefits. During your time as an active [Learner](https://guide.learnersguild.org/GLOSSARY.html#learner) you receive additional benefits to support your growth and enable you to launch your career as a web developer.
+
+When you leave the program, regardless of whether you withdraw, do not advance to a later phase, or complete the program and accept a job, you become a Learners [Guild Alum](https://guide.learnersguild.org/GLOSSARY.html#alum), and maintain the baseline Membership Benefits afforded to all Guild Members.
+
+Being part of a supportive, diverse community of professionals is one of the reasons many Learners choose Learners Guild as their pathway to becoming a web developer. Regardless of when you leave the program, you are a part of this community for life.
+
+There are two exceptions where this is not the case.
+
+First, if you decide to leave, or are asked to leave the Guild during the membership cancellation period your membership with the Guild is effectively terminated. Second, if you are in serious violation of any of the [**Guild Policies**](//Policies/README.md) the Guild reserves the right to revoke your Membership.
+
+#### Membership Benefits extended to Learners and Alums
+
+![](/assets/Screen Shot 2017-08-17 at 12.14.21 PM.png)
 

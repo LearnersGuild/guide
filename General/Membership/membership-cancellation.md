@@ -1,6 +1,8 @@
-# **Membership Termination**
+# Transition Guide
 
-Sometimes things just don't work out the way we planned. As such, there are a couple of ways Learners leave the Guild. In this section you will find information on [**Guild-Initiated Membership Termination**](/General/Membership/guild-initiated-membership-termination.md) and the conditions under which the Guild may ask a Learner to leave.
+As mentioned above, when you are accepted to Learners Guild, you join our ever-growing community of Members \(Learners and Alums\). However, sometimes things just don't work out the way we planned. There are some instances in which continuing in the program, or continuing membership with the Guild is not viable for various reasons. This Transition Guide outlines the conditions under which program participation and/or membership is terminated, either by the Learner or by the Guild.
 
-You will also find information on [**How to Leave the Guild**](/General/Membership/learner-initiated-membership-cancelation-period.md)** **both during the official cancellation period, and after that period has passed.
+### 
+
+
 

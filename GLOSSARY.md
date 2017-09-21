@@ -14,25 +14,37 @@ Learners are involved with one or more crafts. These are the industries and skil
 
 The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
-## Guild Member
+## Guild Member {#guild-member}
 
-Alternate name for someone currently or previously enrolled at Learners Guild to learn and practice the craft of web development.
+Someone currently or previously enrolled at Learners Guild to learn and practice the craft of web development.
 
-## Guild Alumni
+## Guild Alum {#alum}
 
-A former Learners Guild member who successfully completed the program.
+Any former Learner who remained in the program beyond their 5th week. Please note that we are intentionally using the informal term "alum" rather than "alumni/alumnae" so as not to reference gender when referring to former Learners.
 
 ## Learner
 
-A current Learners Guild member who is learning and practicing the craft of web development. All Learners begin as apprentices.
+A Guild Member who is actively participating in the Learners Guild program to learn and practice the craft of web development.
 
-## Learning Facilitator
+## Learning Facilitator {#learning-facilitator}
 
-A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating Learner Support Groups, and providing nontechnical learning support to Guild members. 
+A professional facilitator on the Learners Guild staff \(Partner\) responsible for stewarding Guild culture through COS development, facilitating House Meetings, and providing nontechnical learning support to Guild Learners.
+
+## **Membership Cancellation Period** {#membership-cancellation-period}
+
+The Guild or a Learner may initiate membership cancellation during the first five weeks of the program. In this case, the Learner leaves the Guild and financial obligations are terminated. Membership cancellation means the departing Learner does not retain access to any of the Guild's programmatic offerings.
 
 ## Partner
 
-Partner is the term we use for people who work in the Guild Core. A partner is an employee of the Learners Guild who has an open ended, fixed employment.
+Partner is the term we use for people who work in the Guild Core. A Partner is an employee of Learners Guild who has an open ended, fixed employment.
+
+## Phase Interview {#phase-interview}
+
+A coding challenge and technical comprehension interview with an SEP that enables Learners to advance from one phase to another. Learners can attempt a phase interview twice within a phase.  
+
+## Phase Boundary Interview \(PBI\) {#pbi}
+
+A phase interview taken either for the second time, or for the first time in the eighth week of a phase.
 
 ## Software Engineering Practitioner \(SEP\)
 
