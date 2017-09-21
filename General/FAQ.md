@@ -1,16 +1,12 @@
 ## Frequently Asked Questions
 
-_To see FAQs about the changes that happened in the summer of 2017, check out the [pretty PDF](./FAQ_Summer_2017_Upgrade.md)._
+_To see FAQs about the changes that happened in the summer of 2017, check out the _[_pretty PDF_](./FAQ_Summer_2017_Upgrade.md)_._
 
 ---
 
 **What is the time commitment?**
 
-See the [Time Commitment][time-commitment] page
-
-**Do you kick people out? Why? How? Will I know ahead of time?**
-
-Any member of Learners Guild can ask someone else to leave by using our formal [Conflict Resolution Process][cos-conflict-resolution-process]. Usually, this is because they have consistently violated our shared agreements.
+See the [Time Commitment](../Policies/Time_Commitment.md) page
 
 **Can I re-join a later cohort if it turns out the timing isn't good for me?**
 
@@ -32,11 +28,11 @@ During the fourth week of the program, you'll have an opportunity to reflect on 
 
 What is required is that you participate fully in the structure of the program:
 
-- you work on the curriculum for the phase you're in
-- you dedicate yourself to your work and your team (if you have one) for the week
-- you complete any retrospectives or feedback
-- you attend daily standups, weekly Player Support Group meetings (and weekly COS Workshops, in your first five weeks)
-- you observe and adhere to the [policies](/Policies/) outlined in the Learner Guide
+* you work on the curriculum for the phase you're in
+* you dedicate yourself to your work and your team \(if you have one\) for the week
+* you complete any retrospectives or feedback
+* you attend daily standups, weekly Player Support Group meetings \(and weekly COS Workshops, in your first five weeks\)
+* you observe and adhere to the [policies](/Policies/) outlined in the Learner Guide
 
 You may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
 
@@ -46,8 +42,7 @@ By joining the Guild, you're making an agreement to collaborate with anyone and 
 
 **What if I have a conflict with someone that I can't resolve on my own?**
 
-Conflicts happen. It's natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process][cos-conflict-resolution-process] in place (in the COS) to support you in resolving it.
-
+Conflicts happen. It's natural. And in most cases working through conflicts with our teammates only serves to improve our relationships and the working environment. Our intention is to empower you to resolve interpersonal conflicts you may have with others. If the conflict is tenacious, there is a [formal conflict resolution process](http://cos.learnersguild.org/Processes/Conflict.html) in place \(in the COS\) to support you in resolving it.
 
 **Do I need my own computer?**
 
@@ -83,16 +78,12 @@ We would be sorry to hear that, but of course it is your choice. You would still
 
 Learners Guild's business model depends on our learners "paying forward" their tuition through an Income Sharing Agreement in their first 3 years earning income after graduating the program. If you have plans to start your own company, please elect to pay our program fees upfront.
 
-
 **What if I'm not making more than $50,000 per year?**
 
-Income sharing only applies if your income is more than $50,000. The $50,000 includes self-employed income that you may be making as a consultant. And, in certain cases, gains from equity that you received as a result of your work for a company. Please see the Income Share Agreement for more details.
+Income sharing only applies if your income is more than $50,000. The $50,000 includes self-employed income that you may be making as a consultant. And, in certain cases, gains from equity that you received as a result of your work for a company. Please see the Income Share Agreement for more details.  
 +
 
 **What if I get fired from my first job or decide to quit?**
 
 If you're unemployed, and your income is less than $50,000, the Income Sharing Agreement is paused until you're making at least $50,000.
 
-[cos-conflict-resolution-process]: http://cos.learnersguild.org/Processes/Conflict.html
-[oak-building-hours]: ../Policies/Oakland_Building.md#hours
-[time-commitment]: ../Policies/Time_Commitment.md
