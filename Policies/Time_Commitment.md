@@ -52,7 +52,7 @@ Use a personal day, stay home, and get better. When you wake up with that stuffy
 
 #### Can I stay late and work at the office on weekends?
 
-Yes. You can use the space during [open hours](../Oakland_Building.md#hours). No staff will be on-site outside of regular hours.
+Yes. You can use the space during [open hours](./Oakland_Building.md#hours). No staff will be on-site outside of regular hours.
 
 That being said, we strongly recommend that you get rest, exercise, and otherwise take care of yourself! Your mind and body need breaks to sustain the prolonged learning effort.
 
