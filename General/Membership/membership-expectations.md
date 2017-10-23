@@ -2,7 +2,7 @@
 
 ### All enrolled Learners are required to meet the following expectations:
 
-#### Learner Expectations
+#### Learning Expectations
 
 1. **Successfully Pass the New Learner Progress Check: **Every new [Guild Member](https://guide.learnersguild.org/GLOSSARY.html#guild-member) is required to successfully pass a short coding challenge designed to assess how well you are progressing in our learning model during your fourth week at the Guild. We will also check in to see how you're acclimating to the Guild's culture. See the [**New Learner Progress Check **](/General/Membership/new-learner-progress-check.md)section for more information. 
 2. **Be on Purpose: **Your number one purpose at the Guild is to acquire the skills and mindsets that will make you competitive for junior web developer jobs. All Guild Members are expected to stay on track to land a high-paying job as a web developer and to fully participate in the program structure as offered. For example, you are expected to attend daily stand-up, or, if you're in phase 3 you're actively participating in project work, or if your'e in phase 2 you're working on modules and attending lectures. 
