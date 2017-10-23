@@ -1,11 +1,11 @@
-# Learner Expectations
+# Membership Expectations
 
 ### All enrolled Learners are required to meet the following expectations:
 
 #### Learner Expectations
 
 1. **Successfully Pass the New Learner Progress Check: **Every new [Guild Member](https://guide.learnersguild.org/GLOSSARY.html#guild-member) is required to successfully pass a short coding challenge designed to assess how well you are progressing in our learning model during your fourth week at the Guild. We will also check in to see how you're acclimating to the Guild's culture. See the [**New Learner Progress Check **](/General/Membership/new-learner-progress-check.md)section for more information. 
-2. **Be on Purpose: **Your number one purpose at the Guild is to acquire the skills and mindsets that will make you competitive for junior web developer jobs. All [Learners](https://guide.learnersguild.org/GLOSSARY.html#learner) are expected to stay on track to land a high-paying job as a web developer. This means advancing into the phases at the required pace. _**Acceptance into a new phase on or before week 8 of the current phase is a condition for maintaining enrollment as a Learner at the Guild. Failing to be accepted into a new phase by week 8 of the current phase may immediately result in program termination.**_ See the [**Pacing Requirements**](/Phases/pacing.md) section and the [**Phase Interview **](//Phases/Interviews/README.md)section for more information on [Phase Boundary Interviews.](https://guide.learnersguild.org/GLOSSARY.html#pbi)
+2. **Be on Purpose: **Your number one purpose at the Guild is to acquire the skills and mindsets that will make you competitive for junior web developer jobs. All Guild Members are expected to stay on track to land a high-paying job as a web developer and to fully participate in the program structure as offered. For example, you are expected to attend daily stand-up, or, if you're in phase 3 you're actively participating in project work, or if your'e in phase 2 you're working on modules and attending lectures. 
 3. **Demonstrate a Growth Mindset:** Learning means we’re becoming familiar with, and increasing our mastery over, a topic or skill that was unfamiliar before. Given that, there will be plenty times when you experience not knowing something in the technical or interpersonal arena, making an error, feeling anxious, experiencing some degree of failure, or hear hard feedback. All Learners are expected to respond to challenge and feedback with a growth mindset, that is, a belief that your abilities and intelligence can be changed or improved, and a willingness to grow.
 
 #### Attendance Expectations
