@@ -2,17 +2,13 @@
 
 The terms of your program participation at the Guild are governed by your Enrollment Agreement, which incorporates this Guide. The terms of your financial agreement with the Guild are specified in the Enrollment Agreement and Income Share Agreement \(ISA\), if applicable.
 
-#### Learners Guild reserves the right to terminate a Learner's program participation as set forth in the Enrollment Agreement, including under the following circumstances:
+#### Learners Guild reserves the right to terminate a Learner's program participation as set forth in the Enrollment Agreement, including under the following circumstance:
 
-* Failure to meet the **Learner Expectations **previously** **outlined can result in the the withdrawal of our investment and termination of your program participation. In particular:
+* Failure to meet the [**Membership Expectations**](/General/Membership/membership-expectations.md) as** **previously** **outlined can result in the the withdrawal of our investment and termination of your program participation. 
 
-  * Failure to be accepted into phases 2, 3 or 4 by week \(8\) eight of the current phase may immediately result in program participation termination.
 
-  * Failure to uphold Learners Guild's culture by being out of integrity with the non-technical learner expectations around Attendance and Community Expectations as set forth in the [**Learner Expectations**](/General/Membership/membership-expectations.md) section of this Guide may immediately result in program participation termination. Program participation termination under these particular circumstances may be initiated by Learning Facilitators.
 
-#### **Guild Policies Overview**
+##### For information on how to initiate program withdrawal after the stated cancellation period, please see the next section: [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md).
 
-We have a handful of policies and they're applicable chapter-wide. Our policies are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. Learners must abide by all of the policies in the Guide as a condition for continued membership. You can read all Guild policies below in the [**Guild Policies Section**](/Policies/README.md)**.**
 
-If you decide to withdraw from the program after the stated cancellation period, you may begin that process by contacting your [Learning Facilitator](https://guide.learnersguild.org/GLOSSARY.html#learning-facilitator). See the [**How to Leave the Program**](/General/Membership/learner-initiated-membership-cancelation-period.md) for more information on post-cancellation period withdrawals. All financial obligations as specified in the Enrollment Agreement and ISA, if applicable, will apply.
 
