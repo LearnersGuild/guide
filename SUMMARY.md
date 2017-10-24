@@ -29,7 +29,7 @@
   * [Curriculum](Phases/curriculum.md)
   * [Learning Supports](/Learning/README.md)
   * [Got Help?](/Learning/phase-specific-supports.md)
-  * [Pacing Requirements](Phases/pacing.md)
+  * [Pacing Recommendations](Phases/pacing.md)
   * [Phase Interviews](/Phases/Interviews/README.md)
   * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
     * [Phase 2](/Phases/Interviews/Phase_2.md)
@@ -37,6 +37,7 @@
     * [Phase 4](/Phases/Interviews/Phase_4.md)
 
 * [Learning Strategies](/Strategies/README.md)
+
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Learning Mindsets ](/General/Guidelines.md)
@@ -44,6 +45,7 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
+
 * [LOS Support](//General/LOS_Support.md)
 * [Resource Links](//General/Resource_Links.md)
 * [Program FAQs](//Phases/program-faqs.md)
