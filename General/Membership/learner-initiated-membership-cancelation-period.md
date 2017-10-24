@@ -6,13 +6,15 @@ During your first 5 weeks we expect and encourage you to intentionally explore w
 
 ### Post-Cancellation Period Program Withdrawal
 
-If you'd like to withdraw from the program for whatever reason _after week 5_, you may initiate the withdrawal process by following the steps below. Unlike Program Participation and Membership Cancellation, withdrawing from the program after the 5 week cancellation period obligates you to payment as specified in your Enrollment Agreement and ISA agreement, if applicable. **In other words, if you withdraw from the Learners Guild Program after the 5 week cancellation period you will have a financial obligation to the Guild under the terms of your Enrollment Agreement and ISA Agreement.** Again, consult your Enrollment Agreement to understand the full financial implications of leaving the program after the cancellation period. 
+If you'd like to withdraw from the program for whatever reason _after week 5_, you may initiate the withdrawal process by following the steps below. Unlike Program Participation and Membership Cancellation, withdrawing from the program after the 5 week cancellation period obligates you to payment as specified in your Enrollment Agreement and ISA agreement, if applicable. **In other words, if you withdraw from the Learners Guild Program after the 5 week cancellation period you will have a financial obligation to the Guild under the terms of your Enrollment Agreement and ISA Agreement.** Again, consult your Enrollment Agreement to understand the full financial implications of leaving the program after the cancellation period.
 
 _If you have a Guild Laptop, you must return it within 3 days of your last day in the program. Please make arrangements to return any other Guild property \(headphones, books, etc.\) within this timeframe as well. If you have any Guild equipment \(e.g. loaner laptop\) that hasn’t been returned within 10 days of your last day, we will send you an invoice for the cost of the equipment. See your Enrollment Agreement for more information._
 
 ### **Money Stuff**
 
-If you leave the Program after the cancellation period your ISAs will be adjusted based on your last day of program attendance. If you are leaving as a result of a [Phase Boundary Interview](https://guide.learnersguild.org/GLOSSARY.html#pbi),  we will consider your last day of program attendance to be the Friday of the week you attempt your last Coding Challenge/Interview, and will calculate an adjusted Pay It Forward ISA based on this day. Your adjusted Living Fund ISA will reflect the actual amount of stipend you've received so far. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well. 
+If you leave the Program after the cancellation period your ISAs will be adjusted based on your last day of program attendance. 
+
+Your adjusted Living Fund ISA will reflect the actual amount of stipend you've received up to your exit date. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
 
 **Your final stipend disbursement will be the last one received on or before your final day as an active Learner. Whether the disbursement aligns with your final day in the program depends upon your disbursement schedule.**
 
@@ -34,11 +36,11 @@ See the Guild Membership section for more information on how we define Guild Mem
 
 ### Access to Guild Curriculum and Resources
 
-As an Alum you are welcome to feel free to stay engaged with our curriculum. You may continue your access to modules and projects through our curriculum app \(https://curriculum.learnersguild.org/\). You will need to purchase your own account for modules or projects requiring Treehouse.
+As an Alum you are welcome to feel free to stay engaged with our curriculum. You may continue your access to modules and projects through our curriculum app \([https://curriculum.learnersguild.org/\](https://curriculum.learnersguild.org/\)\). You will need to purchase your own account for modules or projects requiring Treehouse.
 
 You are welcome to come visit if you choose, for example to meet your friends for lunch; however we cannot make the space available to you for co-working or hosting events after hours. We may also host certain “Member co-working hours” - you’ll be notified if and when we implement this feature.
 
-### Changes to Membership Benefits 
+### Changes to Membership Benefits
 
 As an Alum:
 
@@ -46,7 +48,7 @@ As an Alum:
 
 * You will no longer have access to channels of the main Learners Guild Slack instance.
 
-* You will no longer have direct access to Coaches and SEPs. This doesn’t mean you can’t ask questions in the Learners Guild Slack Community, but during Guild hours SEPs and Coaches will be focused on current and active Learners. 
+* You will no longer have direct access to Coaches and SEPs. This doesn’t mean you can’t ask questions in the Learners Guild Slack Community, but during Guild hours SEPs and Coaches will be focused on current and active Learners.
 
 ### **Staying in Touch with the Community**
 

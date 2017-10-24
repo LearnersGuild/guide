@@ -1,6 +1,6 @@
-# Membership Expectations
+# Learner Expectations
 
-### All enrolled Learners are required to meet the following expectations:
+### _All actively enrolled Learners are required to meet the following expectations:_
 
 #### Learning Expectations
 

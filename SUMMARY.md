@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Guild Membership](/General/Membership.md)
 
-  * [Membership Expectations](General/Membership/membership-expectations.md)
+  * [Learner Expectations](General/Membership/membership-expectations.md)
     * [New Learner Progress Check](//General/Membership/new-learner-progress-check.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
 
@@ -24,6 +24,7 @@
     * [First Week](General/Membership/onboarding.md)
 
 * [Learning at the Guild](General/README.md)
+
   * [Phases](/Phases/README.md)
   * [Curriculum](Phases/curriculum.md)
   * [Learning Supports](/Learning/README.md)
@@ -34,6 +35,7 @@
     * [Phase 2](/Phases/Interviews/Phase_2.md)
     * [Phase 3](/Phases/Interviews/Phase_3.md)
     * [Phase 4](/Phases/Interviews/Phase_4.md)
+
 * [Learning Strategies](/Strategies/README.md)
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
