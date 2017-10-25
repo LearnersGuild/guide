@@ -10,5 +10,5 @@ Each phase has an assigned [SEP](//GLOSSARY.md) serving as the technical “poin
 
 **Check the Phase Calendar for your phase for lecture and office hour times.**
 
-![](/assets/Screen Shot 2017-08-04 at 12.57.08 AM.png)
+![](/assets/Screen Shot 2017-10-24 at 5.20.50 PM.png)
 
