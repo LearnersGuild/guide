@@ -12,7 +12,7 @@ As such, we are selective about who we invest in and invite into our learning co
 
 When you are accepted to Learners Guild you join our ever-growing community of Members \(Learners and Alums\). If you stay in the program past your 5th week, your Guild Membership stays with you for as long as our doors are open. Our intention is to foster a professional community that starts when you join the Guild, but that reaches far beyond your time as a Learner.
 
-All Guild Members receive certain baseline Membership Benefits that are outlined below. In addition to that, as a condition of our investment, we also have _**Non-negotiable **_[_**Membership Expectations**_](/General/Membership/membership-expectations.md) that we expect every learner to abide by.
+All Guild Members receive certain baseline Membership Benefits that are outlined below. In addition to that, as a condition of our investment, we also have _**Non-negotiable **_[_**Learner Expectations**_](/General/Membership/membership-expectations.md) that we expect every **active Learner** to abide by.
 
 ### Membership Benefits {#membership-benefits}
 
@@ -28,5 +28,5 @@ First, if you decide to leave, or are asked to leave the Guild during the member
 
 #### Membership Benefits extended to Learners and Alums
 
-![](/assets/Screen Shot 2017-08-17 at 12.14.21 PM.png)
+![](/assets/Screen Shot 2017-08-17 at 12.05.38 PM.png)
 

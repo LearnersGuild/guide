@@ -5,6 +5,7 @@ Everyone needs a little help sometimes. In addition to SEP support, there are al
 * Google it - no really, google it and google it again.
 * Post a question in the \#Help channel.
 * Request help in your phase channel by using the tags below. SEPs and Procoaches assigned to your phase will be pinged. Make sure to include the actual request for help. For example: `@phase-1-help: Can someone explain the difference between mocha and chai?`
+* _Note that help requests for Area 45 use the @phase-4-help tag. _
 
 #### Phase Help Tags:
 
@@ -16,8 +17,6 @@ Everyone needs a little help sometimes. In addition to SEP support, there are al
                 @phase-3-help
 
                 @phase-4-help
-
-                @phase-5-help
 ```
 
 ### Recorded Lectures & Office Hour Talks

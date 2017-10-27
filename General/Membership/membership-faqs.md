@@ -12,7 +12,7 @@ See the [**Guild Membership** ](//General/Membership.md)and [**Membership Termin
 
 #### **How is Program Participation determined?**
 
-A learner maintains membership in the Guild by successfully advancing through the learning phases on time and staying in compliance with overall membership expectations and policies. Ongoing program participation is therefore dependent upon successfuly advancing to the next learning phase within the specified [**Pacing Requirements**](/Phases/pacing.md). Failure to do so may result in membership termination. Failure to comply with membership expectations and policies can also result in potential [**program**](/General/Membership/guild-initiated-membership-termination.md) or [**membership**](/General/Membership/membership-termination.md) termination.
+A learner maintains membership in the Guild by staying in compliance with the stated [**Membership Expectations**](/General/Membership/membership-expectations.md) and [**Guild Policies**](//Policies/README.md)**. **Failure to comply with membership expectations and policies can result in potential [**program**](/General/Membership/guild-initiated-membership-termination.md) and/or [**membership**](/General/Membership/membership-termination.md) termination.
 
 #### Is there a cancellation period?
 
@@ -28,24 +28,21 @@ You can withdraw from the program at anytime after the cancellation period has p
 
 #### What happens to my ISAs if my program participation is terminated or if I choose to leave the program?
 
-If your program participation is terminated before your anticipated graduation date, you are responsible for the financial obligations under your ISA\(s\) based on the duration of your program participation and amount of living stipend, if any, that has been disbursed to you. See your ISA contracts and Enrollment Agreement for more details. 
+If your program participation is terminated before your anticipated graduation date, you are responsible for the financial obligations under your ISA\(s\) based on the duration of your program participation and amount of living stipend, if any, that has been disbursed to you. See your ISA contracts and Enrollment Agreement for more details.
 
 #### What if I realize I don't want to be a web developer?
 
-We would be sorry to hear that, but of course it is your choice. If you realize the Learners Guild Program is not for you, you are still obligated to the payment terms indicated in your ISA agreement\(s\). Our ability to operate and invest in future learners is dependent upon you paying back on your ISA regardless of if you decide to be a web developer or not. We have limited slots to invest in Learners so if you are not sure you want to take on this commitment you should get clear before joining the program. 
+We would be sorry to hear that, but of course it is your choice. If you realize the Learners Guild Program is not for you, you are still obligated to the payment terms indicated in your ISA agreement\(s\). Our ability to operate and invest in future learners is dependent upon you paying back on your ISA regardless of if you decide to be a web developer or not. We have limited slots to invest in Learners so if you are not sure you want to take on this commitment you should get clear before joining the program.
 
 #### What's required? What's optional?
 
-Please see the [Learner Expectations](/General/Membership/membership-expectations.md) section to read all non-negotiable requirements for Learners. But, the short of the long is you are required to participate fully in the structure of the program by:
+Please see the [**Membership Expectations**](/General/Membership/membership-expectations.md) section to read all non-negotiable requirements for Learners. **But, the short of the long is you are required to participate fully in the structure of the program by:**
 
-* Diligently work on the curriculum for your phase.  
-* Abiding by the pacing requirements.
+* Diligently work on the modules and projects for your phase.
 
-* Dedicating yourself to your work and your team \(if you have one\) for the week.
+* Dedicating yourself to your work and your team \(if you have one\).
 
-* Completing retrospectives \(if you have one\), offer feedback \(if you had a pair partner\) and participate in reflection Fridays.
-
-* Attending daily announcements, daily standups, weekly House Meetings, and COS Workshops.
+* Attending daily standups, lectures, House Meetings, and COS Workshops, and communicating clearly ahead of time to the relevant people if you will miss a scheduled meeting or required gathering.
 
 * Observing and adhering to [Guild Policies](//Policies/README.md).
 
