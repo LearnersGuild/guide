@@ -1,14 +1,14 @@
 # Phase Interviews
 
-Phase Interviews enable you to move from one phase to another. Successful Phase Interviews are a condition of continued program participation. As mentioned in the [Pacing Requirements](/Phases/pacing.md) section, it should take you 6 weeks, including phase interview, to complete any of the first three phases. 8 weeks is the maximum amount of time you can spend in phases 1, 2 or 3, respectively. You may choose to complete a phase interview at any time during the phase.
+Phase Interviews enable you to move from one phase to another. As mentioned in the [Pacing Recommendations](/Phases/pacing.md) section, you should aim to interview out of a phase well before your 8th week in the phase if you feel prepared to do so. You may choose to complete a phase interview at any time during the phase.
 
 ### The Big Picture
 
-1. A Phase Interview may only be attempted _twice_.
-2. You must complete and pass the phase interview no later than the 8th week after you begin the phase.
-3. The second attempt at the Phase Interview, or an interview taken in the 8th week for the first time, is called a [_**Phase Boundary Interview**_](https://guide.learnersguild.org/GLOSSARY.html#pbi)_**. **_**Unsuccessful Phase Boundary Interviews may result in the immediate termination of your program participation. **See the [**Learner Expectations**](/General/Membership/membership-expectations.md) for more details.  
-
-**All Phase Boundary Interview outcomes are shared via video-chat or in person. Your Learning Facilitator will schedule the outcomes meeting with you via Google Calendar.  **
+1. A Phase Interview can be attempted more than once.
+2. You must wait a full two weeks between Phase Interview attempts. For example, if you attempt an interview in week 4, you must wait until the Monday of week 7 for your second attempt. 
+3. You may complete the coding portion of your Phase Interview remotely.
+4. All comprehension interviews are conducted via video chat regardless of whether you are physically onsite or not.
+5. Under most circumstances, you will receive the outcome of your interview on the Friday of your interview week.
 
 ---
 
@@ -18,6 +18,7 @@ Phase Interviews enable you to move from one phase to another. Successful Phase 
 
 * Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. 
 * In most cases, interview results will be shared via email on the Friday of your interview week. In some cases your interview results will be shared the following Monday.
+* In the event that you do not receive your coding challenge by 9am, you will be given additional time to complete the challenge.
 
 #### Phase Interviews have two parts: a Coding Challenge and a Technical Comprehension Interview.
 

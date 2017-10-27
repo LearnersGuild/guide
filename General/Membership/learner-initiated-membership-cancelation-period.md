@@ -12,9 +12,7 @@ _If you have a Guild Laptop, you must return it within 3 days of your last day i
 
 ### **Money Stuff**
 
-If you leave the Program after the cancellation period your ISAs will be adjusted based on your last day of program attendance. 
-
-Your adjusted Living Fund ISA will reflect the actual amount of stipend you've received up to your exit date. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
+If you leave the Program after the cancellation period your ISAs will be adjusted based on your last day of program attendance. Your adjusted Living Fund ISA will reflect the actual amount of stipend you've received up to your exit date. You'll receive confirmation of these adjusted ISAs in a separate email from VEMO, and will be able to see this reflected in your VEMO account as well.
 
 **Your final stipend disbursement will be the last one received on or before your final day as an active Learner. Whether the disbursement aligns with your final day in the program depends upon your disbursement schedule.**
 
@@ -36,7 +34,7 @@ See the Guild Membership section for more information on how we define Guild Mem
 
 ### Access to Guild Curriculum and Resources
 
-As an Alum you are welcome to feel free to stay engaged with our curriculum. You may continue your access to modules and projects through our curriculum app \([https://curriculum.learnersguild.org/\](https://curriculum.learnersguild.org/\)\). You will need to purchase your own account for modules or projects requiring Treehouse.
+As an Alum you are welcome to feel free to stay engaged with our curriculum. You may continue your access to modules and projects through our curriculum app \([https://curriculum.learnersguild.org/\](https://curriculum.learnersguild.org/%29\). You will need to purchase your own account for modules or projects requiring Treehouse.
 
 You are welcome to come visit if you choose, for example to meet your friends for lunch; however we cannot make the space available to you for co-working or hosting events after hours. We may also host certain “Member co-working hours” - you’ll be notified if and when we implement this feature.
 

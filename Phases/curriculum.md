@@ -14,7 +14,5 @@ Note that the curriculum is a living system, and will be shifting and improving 
 
 [Phase 3 curriculum](https://curriculum.learnersguild.org/phases/3/)
 
-[Area 45 curriculum](https://curriculum.learnersguild.org/phases/4/)
-
-
+[Phase 4 curriculum](https://curriculum.learnersguild.org/phases/4/)
 

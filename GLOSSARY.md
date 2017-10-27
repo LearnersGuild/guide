@@ -1,7 +1,3 @@
-## Apprentice
-
-The apprentice stage is the first stage of learning a craft. Learners admitted to a chapter begin their journey as an apprentice. Apprentices are paid an optional minimal stipend and their primary responsibility is to advance the learning of everyone, including themselves.
-
 ## Chapter
 
 Chapters are the centers of learning within Learners Guild. They are communities of practice designed for intensive, deliberate learning and growth.
@@ -12,7 +8,7 @@ Learners are involved with one or more crafts. These are the industries and skil
 
 ## Guild Core
 
-The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
+The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific. The core is often referred to as the "Guild Staff."
 
 ## Guild Member {#guild-member}
 
@@ -34,17 +30,11 @@ A professional facilitator on the Learners Guild staff \(Partner\) responsible f
 
 The Guild or a Learner may initiate membership cancellation during the first five weeks of the program. In this case, the Learner leaves the Guild and financial obligations are terminated. Membership cancellation means the departing Learner does not retain access to any of the Guild's programmatic offerings.
 
-## Partner
 
-Partner is the term we use for people who work in the Guild Core. A Partner is an employee of Learners Guild who has an open ended, fixed employment.
 
 ## Phase Interview {#phase-interview}
 
-A coding challenge and technical comprehension interview with an SEP that enables Learners to advance from one phase to another. Learners can attempt a phase interview twice within a phase.  
-
-## Phase Boundary Interview \(PBI\) {#pbi}
-
-A phase interview taken either for the second time, or for the first time in the eighth week of a phase.
+A coding challenge and technical comprehension interview with an SEP that enables Learners to advance from one phase to another. Learners can attempt a phase interview twice within a phase.
 
 ## Software Engineering Practitioner \(SEP\)
 

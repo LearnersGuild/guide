@@ -38,11 +38,11 @@ We would be sorry to hear that, but of course it is your choice. If you realize 
 
 Please see the [**Membership Expectations**](/General/Membership/membership-expectations.md) section to read all non-negotiable requirements for Learners. **But, the short of the long is you are required to participate fully in the structure of the program by:**
 
-* Diligently work on the modules and projects for your phase.  
+* Diligently work on the modules and projects for your phase.
 
 * Dedicating yourself to your work and your team \(if you have one\).
 
-* Attending daily standups, lectures, House Meetings, and COS Workshops.
+* Attending daily standups, lectures, House Meetings, and COS Workshops, and communicating clearly ahead of time to the relevant people if you will miss a scheduled meeting or required gathering.
 
 * Observing and adhering to [Guild Policies](//Policies/README.md).
 
