@@ -4,17 +4,19 @@ Phase Interviews enable you to move from one phase to another. As mentioned in t
 
 ### The Big Picture
 
-1. A Phase Interview can be attempted more than once.
-2. You must wait a full two weeks between Phase Interview attempts. For example, if you attempt an interview in week 4, you must wait until the Monday of week 7 for your second attempt. 
-3. You may complete the coding portion of your Phase Interview remotely.
-4. All comprehension interviews are conducted via video chat regardless of whether you are physically onsite or not.
-5. Under most circumstances, you will receive the outcome of your interview on the Friday of your interview week.
+1. Phase Interviews begin on Monday at 9am and must be submitted by Wednesday at 12pm.
+
+2. A Phase Interview can be attempted more than once.
+3. You must wait a full two weeks between Phase Interview attempts. For example, if you attempt an interview in week 4, you must wait until the Monday of week 7 for your second attempt. 
+4. You may complete the coding portion of your Phase Interview remotely.
+5. All comprehension interviews are conducted via video chat regardless of whether you are physically onsite or not.
+6. Under most circumstances, you will receive the outcome of your interview on the Friday of your interview week.
 
 ---
 
 ### Phase Interview Logistics & Content
 
-#### **Phase Interviews begin on Monday at 9am and must be submitted by Wednesday at 12pm.**
+#### 
 
 * Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. 
 * In most cases, interview results will be shared via email on the Friday of your interview week. In some cases your interview results will be shared the following Monday.
