@@ -7,6 +7,7 @@ Phase Interviews enable you to move from one phase to another. As mentioned in t
 1. Phase Interviews begin on Monday at 9am and must be submitted by Wednesday at 12pm.
 
 2. A Phase Interview can be attempted more than once.
+
 3. You must wait a full two weeks between Phase Interview attempts. For example, if you attempt an interview in week 4, you must wait until the Monday of week 7 for your second attempt. 
 4. You may complete the coding portion of your Phase Interview remotely.
 5. All comprehension interviews are conducted via video chat regardless of whether you are physically onsite or not.
@@ -14,13 +15,60 @@ Phase Interviews enable you to move from one phase to another. As mentioned in t
 
 ---
 
-### Phase Interview Logistics & Content
+## Phase Interview Logistics, Guidelines & Content
 
-#### 
+### I. Logistics 
 
-* Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. 
-* In most cases, interview results will be shared via email on the Friday of your interview week. In some cases your interview results will be shared the following Monday.
-* In the event that you do not receive your coding challenge by 9am, you will be given additional time to complete the challenge.
+#### Requesting a Phase Interview
+
+1. Notify the SEP for the phase you are interviewing into via Slack direct message \(DM\) no later than 5pm on the Thursday prior to the week you'd like to interview. So, if you wish to take a Phase Interview in the upcoming week, you'd notify the SEP for the phase you want to enter no later than 5pm on the Thursday of the current week.
+2. Your DM can be as simple as: "“Hi \_\_, I’d like to interview for Phase X during week X”
+3. On the Monday of your interview week, you will receive a link to the coding challenge and instructions for submission no later than 9am.
+   1. In the event that you do not receive your coding challenge by 9am, you will be given additional time to complete the challenge.
+4. When you receive the coding challenge, reply to the SEP confirming that you received it and have begun work.  
+5. You will have until 12pm on Wednesday to complete and submit your code.
+
+#### Submitting the Coding Challenge
+
+Once you've completed the coding challenge portion of the Phase Interview you must submit your code for review. Use the following steps to successfully submit your work:
+
+1. Open Slack to any channel
+2. Use the`/project set-artifact <repo url>` command to submit your code. 
+
+#### What to expect after submitting your Coding Challenge
+
+1. Following submission, the evaluating SEP \(also referred to as the "evaluator"\) will schedule a 30-45 minute, technical comprehension interview \(via video-chat\) with you. 
+2. Interview results will be shared via email on the Friday of your interview week. 
+   1. In some rare cases your interview results will be shared the following Monday.
+3. If you accepted to the next phase, you are expected to join that phase for stand up the following Monday. 
+
+#### Working remotely during your interview week
+
+During your Phase Interview the week you have the option to work remotely or at the Guild. Although you are required to submit your code on Wednesday afternoon, your technical interview may not be scheduled until Friday via zoom, so can essentially work remotely for the entire week. We recommend being in a quiet, private place for your technical interview, which for some of us means being at home instead of the office. During your downtime between challenge submission and the technical interview we recommend reviewing modules from the phase you're attempting to interview out of or into - it's up to you. We just recommend making the most of your practice time.
+
+### II. Guidelines
+
+##### Your Challenge, Your Solution 
+
+SEPs will only evaluate coding solutions for the challenge they issued directly to you. Submitting coding solutions for alternate challenges is considered a breach of interview integrity. 
+
+##### Work Independently
+
+Phase Interviews are designed to be an independent demonstration of your skills and understanding. When working on a coding challenge, you must complete the challenge without help from other learners or coaches, which includes refraining from consulting challenge solutions submitted by other learners, even if those repos/solutions are publicly available. Remember, **passing code does not equal a passing interview**; you must be able to discuss, explain, and work with the code you wrote in order to be accepted to the next phase.
+
+##### Last Thing 
+
+We expect learners to refrain from accessing any resources that may indicate what you'll be evaluated on, or solutions to those evaluations, in advance of receiving the challenge.
+
+##### SEP Support
+
+If you need support, SEPs can help you with clarifying questions only. See below for more information on SEP support. The kind of support SEPs provide while you're working on the Phase Interview is limited to clarifying questions about the goal, its specs, or debugging strange environment or git issues. If you are unsure about whether your question counts as a ‘clarifying question’ - go ahead and ask. They will let you know whether they can offer the support you’re requesting.
+
+You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the learner's keyboard. **Please note that coaches are not available to offer support for phase interviews.**
+
+#### We expect all learners to comply with the above Guidelines. Failure to do so is a serious breach of integrity and will initiate a review of your program participation. 
+
+### III. Content
 
 #### Phase Interviews have two parts: a Coding Challenge and a Technical Comprehension Interview.
 
@@ -49,43 +97,13 @@ You will be asked to explain how individual parts of this code work. So the inte
 
 That’s pretty much the type of understanding we're looking for in the Phase interviews. So you should know roughly what each line of your code does and be able to explain it.
 
-Phase Interview outcomes are shared with you via email on the Friday afternoon of the week you took the interview.
+### 
 
-Should you have a successful Phase Interview you will be required to begin the new phase the following Monday. If, for example you interview out of Phase 2 in your 5th week of the phase you may not stay in Phase 2 for an additional three weeks and then move on to Phase 3. You must begin Phase 3 the Monday after being accepted into the phase.
+### 
 
-### How to request a Phase Interview
+#### 
 
-1. Notify the SEP for the phase you are interviewing into via Slack direct message \(DM\) no later than 5pm on the Thursday prior to the week you'd like to interview. So, if you wish to take a Phase Interview in the upcoming week, you'd notify the SEP for the phase you want to enter no later than 5pm on the Thursday of the current week.
-2. Your DM can be as simple as: "“Hi \_\_, I’d like to interview for Phase X during week X”
-3. On the Monday of your interview week, you will receive a link to the coding challenge and instructions for submission.
-4. Upon receipt of your coding challenge DM the SEP for the phase you are interviewing into letting them know you received the challenge and have begun work.  
-
-### Getting Support from SEPs
-
-The kind of support SEPs provide while you're working on the Phase Interview is limited to clarifying questions about the goal, its specs, or debugging strange environment or git issues.
-
-You should not expect the same level of in-depth support that would ordinarily be available on non-interview projects. For example, it is unlikely that a SEP will "pair program" with you or do any kind of "cognitive apprenticeship." In most cases, the SEP will not even touch the learner's keyboard.
-
-#### The No Peer Collaboration Rule
-
-When working on a phase interview coding challenge, **you must complete the challenge without help from other learners or coaches.** The Phase Interviews are designed to be an independent demonstration of your skills and understanding. If you need support, SEPs can help you with clarifying questions only. If you are unsure about whether your question counts as a ‘clarifying question’ - go ahead and ask. They will let you know whether they can offer the support you’re requesting. Again, procoaches are not available to offer support for Phase Interviews.
-
-We consider sharing actual solution code for a challenge a serious breach of integrity and will follow up with you accordingly.
-
-Here’s why: working with other people on your challenge solution is not in your best interest. Remember, in the short term, **passing code does not equal a passing interview**; you must be able to discuss, explain, and work with the code you wrote in order to be accepted to the next phase. In the long term, you’ll do yourself a disservice by getting an inaccurate reflection of your own skills.
-
-### Work from home or at the Guild
-
-During the week of your Phase Interview you have the option to work remotely or at the Guild. If you choose to work remotely you are essentially working remotely for the entire week. Although you are required to submit your code on Wednesday afternoon, your technical interview may not be scheduled until Friday via zoom. We recommend being in a quiet, private place for your technical interview, which for some of us means being at home instead of the office. During your downtime between challenge submission and the technical interview we recommend reviewing modules from the phase you're attempting to interview out of or into - it's up to you. We just recommend making the most of your practice time.
-
-### How to submit the Coding Challenge
-
-**The coding challenge is due no later than 12pm on the Wednesday of your Interview week.**
-
-Once you've completed the coding challenge portion of the Phase Interview you must submit your code for review. Use the following steps to successfully submit your work:
-
-* Open Slack to any channel
-* Use the`/project set-artifact <repo url>` command to submit your code. 
+### 
 
 
 
