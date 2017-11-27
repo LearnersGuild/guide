@@ -14,9 +14,11 @@ This section of the Guide is designed to help you get settled and up to speed on
 
 The Learner Guide \(referred to as The Guide\) and the Cultural Operating System \(COS\) Guide contain just about everything you need to know about how things work at the Guild. We regularly update the Guides to reflect the latest information about our Learning Operating System \(LOS\) and Cultural Operating System \(COS\). Periodically you may catch one of the Guides in "mid-edit" and some information may be outdated. Feel free to [submit an issue to this repo](https://github.com/LearnersGuild/guide/issues), or to hang tight until the final edits are updated.
 
-1. Learning Operating System: Learner Guide: [https://guide.learnersguild.org/](https://guide.learnersguild.org/)
+1. Learning Operating System (LOS):
+  [https://curriculum.learnersguild.org](https://curriculum.learnersguild.org/)
 
-2. Cultural Operating System: COS guide: [https://cos.learnersguild.org/](https://cos.learnersguild.org/)
+2. Cultural Operating System (COS):
+  [https://cos.learnersguild.org](https://cos.learnersguild.org/)
 
 ### Setup Direct Deposit for your Stipend
 
@@ -34,7 +36,7 @@ If you are receiving a stipend through the **Learner Living Fund**, your first d
 
 ### Join and start using Slack
 
-We use Slack as our primary communication tool. You'll receive a link to join Learners Guild Slack via email about a week before your start date. Browse the available channels and join ones you both need and want to follow. Visit the [Slack and Echo](/General/Slack_and_Echo.md) section for an overview of the channels you're required to join. **And remember, please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
+We use Slack as our primary communication tool. Your LOS credentials will also give you access to our Slack teams. Visit the [Slack and Echo](/General/Slack_and_Echo.md) section for an overview of our use of the platform. **And remember, please be judicious with your use of @channel or @here notifications during work hours - unless a message requires everyone’s immediate attention, limit @channel mentions to the hours before 9:00am and after 5:30pm. **
 
 ### Join these Trello Boards
 
@@ -81,4 +83,3 @@ As a shared working space, it's important that the Guild is comfortable and oper
 3. If you don’t have one, [create a LinkedIn profile](https://www.linkedin.com/), update your title to "Apprentice Web Developer" at Learners Guild, [follow Learners Guild](https://www.linkedin.com/company/learners-guild), and start friending other Learners.
 
 Have questions? Just ask. Welcome to Learners Guild.
-

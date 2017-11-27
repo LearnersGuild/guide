@@ -1,24 +1,12 @@
 # Slack & Echo
 
-Echo is the persona that represents the LOS system. We use [Slack](https://learnersguild.slack.com/) as our primary system for communication at the Guild, and you'll occasionally see messages from [Echo](https://learnersguild.slack.com/messages/@echo/) in slack. You can sign-in to Slack at [https://learnersguild.slack.com](https://learnersguild.slack.com). You can see your learner profile and read feedback about your work at [https://echo.learnersguild.org/](https://echo.learnersguild.org/).
+Echo is the persona that represents the LOS system. We use [Slack](https://learnersguild.slack.com/) as our primary system for communication at the Guild, and you'll occasionally see messages from [Echo](https://learnersguild.slack.com/messages/@echo/) in slack. You can sign-in to Slack at [https://learnersguild.slack.com](https://learnersguild.slack.com).
 
-Echo and the LOS are under active development. If you notice something that could be better, or you encounter a bug, please [create a GitHub issue on the LOS repo](https://github.com/LearnersGuild/los/issues/new). We want your feedback. Together we can build a more perfect Learning Operating System.
-
-## Slack Commands
-
-Echo supports a variety of commands for interacting with the LOS right from Slack. For example, if you're in Phase 3 you'd use the `vote` command for voting on goals .
-
-To issue a command, type a forward slash `/` followed by the command name in the Slack chat window. You can type commands from any channel.
-
-When you type `/`, Slack will show a menu of the available commands and some hints as to their usage. Make sure to scroll down to see command options for Slack, Echo and other integrations.
-
-For many commands, passing the `-h` or `--help` flag will show you a helpful message about the command.
-
-For example, to get help with the `/review` command, type `/review --help`.
+Echo and the LOS are under active development. If you encounter a bug or notice something that could be better, please create a [GitHub issue](https://github.com/LearnersGuild/los/issues/new) for the LOS repo. You can also ask questions and offer feedback using Slack in the #guild-feedback channel. We love to hear feedback and believe that together we can build a more effective system.
 
 ### Slack Guidelines
 
-**Slack is our primary communication tool.** Since we have so many people communicating on a public platform, it's important to observe some shared Guidelines. These guidelines are to support us in making the most of this tool while minimizing distractions and maximizing learning:
+**Slack is our primary communication tool.** Since there are so many of us communicating on the platform, it's important to observe some common guidelines. These guidelines support us in making the most of using Slack while minimizing distractions:
 
 #### Managing **OUTPUT**:
 
@@ -52,9 +40,9 @@ Guidance for managing the volume of posts and notifications you are fielding and
 
 `@channel` notifications are costly for our attention, flow, and productivity. You should almost never use them. Ask yourself:
 
-* "Does everyone really need to know about this?" 
-  * If the answer is **NO**, then please be strategic about who you tag and/or where you are posting. 
-  * If the answer is **YES, **but** **it's the middle of the day, ask yourself: "Do they need to know **NOW**? Is it worth breaking their attention? Would I ring the gong to announce it? Is it urgent or an emergency?" If the answer is **YES**, go ahead and post. 
+* "Does everyone really need to know about this?"
+  * If the answer is **NO**, then please be strategic about who you tag and/or where you are posting.
+  * If the answer is **YES, **but** **it's the middle of the day, ask yourself: "Do they need to know **NOW**? Is it worth breaking their attention? Would I ring the gong to announce it? Is it urgent or an emergency?" If the answer is **YES**, go ahead and post.
   * If the answer is **NO**, wait to post it before 9:00am or after 5:30pm.
 
 #### **Use an @channel notification for these types of messages**:
@@ -66,6 +54,3 @@ Guidance for managing the volume of posts and notifications you are fielding and
 
 * \#space: `@channel` if you see a mac charger with a github sticker on it, please let me know. Thanks _\(Not necessary that everyone be notified about the missing charger - those who see the message will keep an eye out\)_
 * \#oakland: `@channel` leaving early today. See ya'll tomorrow! _\(Not necessary to let everyone know if you have to take off early\)_
-
-
-

@@ -23,18 +23,17 @@
   * [Onboarding](/General/Onboarding.md)
     * [First Week](General/Membership/onboarding.md)
 
-* [Learning at the Guild](General/README.md)
+* [Learning at the Guild](Learning/README.md)
 
-  * [Phases](/Phases/README.md)
-  * [Curriculum](Phases/curriculum.md)
-  * [Learning Supports](/Learning/README.md)
-  * [Got Help?](/Learning/phase-specific-supports.md)
-  * [Pacing Recommendations](Phases/pacing.md)
-  * [Phase Interviews](/Phases/Interviews/README.md)
-  * [Preparing for Phase Interviews](Phases/preparing-for-phase-interviews.md)
-    * [Phase 2](/Phases/Interviews/Phase_2.md)
-    * [Phase 3](/Phases/Interviews/Phase_3.md)
-    * [Phase 4](/Phases/Interviews/Phase_4.md)
+  * [Phases](Learning/Phases.md)
+  * [Curriculum](Learning/Curriculum.md)
+  * [Learning Supports](/Learning/Supports.md)
+  * [Got Help?](/Learning/Help.md)
+  * [Pacing Recommendations](Learning/Pacing.md)
+  * [Phase Interviews](/Learning/Interviews/README.md)
+  * [Preparing for Phase Interviews](Learning/Interviews/Preparation.md)
+    * [Practice](/Learning/Interviews/Practice.md)
+    * [Area 45](/Learning/Interviews/Area_45.md)
 
 * [Learning Strategies](/Strategies/README.md)
 
@@ -48,7 +47,7 @@
 
 * [LOS Support](//General/LOS_Support.md)
 * [Resource Links](//General/Resource_Links.md)
-* [Program FAQs](//Phases/program-faqs.md)
+* [Program FAQs](//Learning/FAQs.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
@@ -58,14 +57,7 @@
   * [Drug and Alcohol Policy](/Policies/Drug_and_Alcohol_Policy.md)
   * [Disabilities](/Policies/Disabilities.md)
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
-* [Log](log.md)
-  * [FAQ Summer 2017 Upgrade](/General/FAQ_Summer_2017_Upgrade.md)
-  * [LM Changes](Log/LM_Changes.md)
-  * [Q 2](Log/q2.md)
-  * [FAQv1](/General/FAQ.md)
+
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
-
-
-

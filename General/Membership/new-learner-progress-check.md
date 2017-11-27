@@ -4,7 +4,7 @@ Joining the Guild is a two-way street. You're making a commitment to a 10 month 
 
 **During your fourth week at the Guild you'll be required to complete a coding challenge assessing how well you're progressing in our learning model and acclimating to our culture.**
 
-The technical evaluation will cover modules you've completed during your first 3 weeks in Phase 1. We'll also explore how you're faring in the Guild's culture - are you maintaining Guild community agreements? Keeping up with your accountabilities? Using the interpersonal tools we've shared to maintain good relationships in the community, etc?
+The technical evaluation will cover modules you've completed during your first 3 weeks in Foundations. We'll also explore how you're faring in the Guild's culture - are you maintaining Guild community agreements? Keeping up with your accountabilities? Using the interpersonal tools we've shared to maintain good relationships in the community, etc?
 
 We base our decision to continue investing in you on the data collected via the week four New Learner Progress Check. At this time, Learners Guild may assess that we cannot continue investing in you and your program participation and Guild Membership may be terminated.
 
@@ -12,7 +12,7 @@ Conversely, you may decide that the Guild isn't the best place for you to pursue
 
 #### Special Cases: Early Phase Interviews
 
-In the event that you want to interview out of Phase 1 during your first three weeks in the program you will be required to take both the Coding Challenge for the Progress Check \(see below for more details\) and the [P2 Phase Interview](//Phases/Interviews/README.md). You must take the New Learner Progress Check coding challenge first.
+In the event that you want to interview out of Foundations during your first three weeks in the program you will be required to take both the Coding Challenge for the Progress Check \(see below for more details\) and the [Practice Phase Interview](//Learning/Interviews/README.md). You must take the New Learner Progress Check coding challenge first.
 
 ### Key things to know about the Progress Check
 
@@ -22,7 +22,7 @@ The Progress Check consists of a timed challenge with different kinds of questio
 
 #### Challenge Coverage
 
-The coding challenge will cover skills from the following modules in Phase 1:
+The coding challenge will cover skills from the following modules in Foundations:
 
 * Terminal Basics
 * Saving Progress With Git And GitHub
@@ -43,4 +43,3 @@ When you are ready to get started send a Slack DM to the SEP assigned to your ph
 After you submit your challenge, we'll review your submission. Most of the questions are automatically evaluated, but there are a few subjective responses that need a human evaluator. You will eventually get a score between 0-100%. 80% and above is a pass.
 
 If you get under 80%, you will be assigned to a 30 minute interview with someone from staff to go over your solution. We use the outcome of this interview in determining whether or not to cancel your membership.
-
