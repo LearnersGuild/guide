@@ -1,8 +1,5 @@
 ## Frequently Asked Questions
 
-_To see FAQs about the changes that happened in the summer of 2017, check out the _[_pretty PDF_](./FAQ_Summer_2017_Upgrade.md)_._
-
----
 
 **What is the time commitment?**
 
@@ -28,11 +25,14 @@ During the fourth week of the program, you'll have an opportunity to reflect on 
 
 What is required is that you participate fully in the structure of the program:
 
+* you observe and adhere to the [policies](/Policies/) outlined in the Learner Guide
 * you work on the curriculum for the phase you're in
 * you dedicate yourself to your work and your team \(if you have one\) for the week
-* you complete any retrospectives or feedback
-* you attend daily standups, weekly Player Support Group meetings \(and weekly COS Workshops, in your first five weeks\)
-* you observe and adhere to the [policies](/Policies/) outlined in the Learner Guide
+* you attend all required meetings, including:
+  * daily standups (9am)
+  * weekly check-ins w/ an SEP (varies)
+  * weekly demo time (Friday afternoons)
+  * bi-weekly House meetings
 
 You may choose to revisit COS Workshops that support goals you have for yourself or address feedback you're receiving from peers, practitioners, or facilitators.
 
@@ -80,10 +80,8 @@ Learners Guild's business model depends on our learners "paying forward" their t
 
 **What if I'm not making more than $50,000 per year?**
 
-Income sharing only applies if your income is more than $50,000. The $50,000 includes self-employed income that you may be making as a consultant. And, in certain cases, gains from equity that you received as a result of your work for a company. Please see the Income Share Agreement for more details.  
-+
+Income sharing only applies if your income is more than $50,000. The $50,000 includes self-employed income that you may be making as a consultant. And, in certain cases, gains from equity that you received as a result of your work for a company. Please see the Income Share Agreement for more details.
 
 **What if I get fired from my first job or decide to quit?**
 
 If you're unemployed, and your income is less than $50,000, the Income Sharing Agreement is paused until you're making at least $50,000.
-

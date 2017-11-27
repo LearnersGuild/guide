@@ -30,7 +30,7 @@ If you are late or absent and do not let anyone know via Slack or by emailing [t
 
 ## Leave of Absence Policy
 
-Under extenuating circumstances \(e.g. serious illness, family emergency\), learners may request a leave of absence from the program. Leaves of absence \(LOA\) are evaluated on a case-by-case basis and may last up to 3 months. While you're away, your phase progression is "frozen." Upon your return your phase progression will be reactivated and you will have however many weeks left in the phase you had prior to leaving. For example, if you just completed the fourth week of Phase 2 when you left, upon your return you will begin week 5 in the phase.
+Under extenuating circumstances \(e.g. serious illness, family emergency\), learners may request a leave of absence from the program. Leaves of absence \(LOA\) are evaluated on a case-by-case basis and may last up to 3 months. While you're away, your phase progression is "frozen." Upon your return your phase progression will be reactivated and you will have however many weeks left in the phase you had prior to leaving. For example, if you just completed the fourth week in Area 45, upon your return you will begin week 5 in the phase.
 
 If you are gone for a full 3 month period and there are significant curriculum changes you will be resorted into the appropriate phase upon your return.
 
@@ -55,4 +55,3 @@ Use a personal day, stay home, and get better. When you wake up with that stuffy
 Yes. You can use the space during [open hours](./Oakland_Building.md#hours). No staff will be on-site outside of regular hours.
 
 That being said, we strongly recommend that you get rest, exercise, and otherwise take care of yourself! Your mind and body need breaks to sustain the prolonged learning effort.
-

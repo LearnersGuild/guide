@@ -1,14 +1,9 @@
-# Learning Supports
+# Learning at the Guild
 
-The Guild is a resource rich environment, offering a mix of various phase specific learning supports including [SEP](//GLOSSARY.md) lectures, live code reviews, and cognitive apprenticeship sessions.
+Learning at the Guild happens in a range of contexts and formats. This section of the Guide is meant to orient you to the Guild's learning model and the 'why' of its structure, direct you towards the program curriculum, and to give you the resources and tools you need to make the most of your time and effort.
 
-As Learners move from one phase to another, different supports are needed. Early on in the program, Learners benefit from a sequenced curriculum with intentional scaffolding and guided support. As Learners move through the program their work begins to simulate real-life web development teams with the benefit of a senior engineer's guidance.
+#### Key Links (bookmark these):
 
-Each phase has an assigned [SEP](//GLOSSARY.md) serving as the technical “point person” for the duration of a learner’s time in the phase. The earlier phases also have assigned pro-coaches.
+* [**Learners Guild Curriculum**](https://curriculum.learnersguild.org/)
 
-## Phase Specific Supports
-
-**Check the Phase Calendar for your phase for lecture and office hour times.**
-
-![](/assets/Screen Shot 2017-10-27 at 12.44.59 PM.png)
-
+* [**Echo - Learner Data Platform**](https://echo.learnersguild.org/users)

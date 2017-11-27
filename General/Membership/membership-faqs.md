@@ -58,7 +58,7 @@ Yes, we observe all national holidays. Check the [Holiday List](//General/Holida
 
 #### What if I can't get hired after the Guild?
 
-Keep learning, studying, building software and applying for jobs. All Guild Alums have access to online curriculum resources and may take advantage of Phase 5 Career Prep resources for 36 months following graduation. See the [**Guild Membership**](//General/Membership.md) section for more information on Member Benefits for Learners and Alums.
+Keep learning, studying, building software and applying for jobs. All Guild Alums have access to online curriculum resources and may take advantage of Area 45 Career Prep resources for 36 months following graduation. See the [**Guild Membership**](//General/Membership.md) section for more information on Member Benefits for Learners and Alums.
 
 #### What if I want to found a startup after I finish at the Guild?
 
@@ -82,7 +82,7 @@ Yes, you need to have a Mac laptop that's less than 3 years old. Everyone at Lea
 
 #### What if I can't get a new Mac laptop by my start date? What should I do?
 
-You can elect to borrow a laptop from the Guild for use through Phase 1 of the program. Make sure to select this option on your Enrollment Agreement. It will require a separate Loaner Agreement.
+You can elect to borrow a laptop from the Guild for use through the Foundations Phase. Make sure to select this option on your Enrollment Agreement. It will require a separate Loaner Agreement.
 
 #### What platforms and operating systems does Learners Guild use?
 
@@ -95,4 +95,3 @@ Conflicts happen. It's natural. And in most cases working through conflicts with
 #### Is there a dress code?
 
 Casual, but professional. As in, we want you to be comfortable and that looks different ways to different people. So feel free to be in the full expression of your personal style, but consider leaving the pj's at home.
-
