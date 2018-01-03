@@ -93,7 +93,7 @@ _Practitioner behaviors during reflection_
 
 1. Immediately following a work session, conduct a thorough review with participating learner(s).
 1. During a review of work done, ask learner(s) to describe what they observed.
-1. When learner(s) describe that they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
+1. When learner(s) describe what they observed, listen for and point out similarities and discrepancies with what you observed or thought about during the work session.
 1. When you observe a discrepancy between each of your perspectives, address that discrepancy openly and honestly.
 1. At the end of the review session, prompt learner(s) to reflect on what they learned and update their log/notes.
 1. While learner(s) update their log, add your own observations to it.
