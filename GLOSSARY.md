@@ -30,8 +30,6 @@ A professional facilitator on the Learners Guild staff \(Partner\) responsible f
 
 The Guild or a Learner may initiate membership cancellation during the first five weeks of the program. In this case, the Learner leaves the Guild and financial obligations are terminated. Membership cancellation means the departing Learner does not retain access to any of the Guild's programmatic offerings.
 
-
-
 ## Phase Interview {#phase-interview}
 
 A coding challenge and technical comprehension interview with an SEP that enables Learners to advance from one phase to another. Learners can attempt a phase interview twice within a phase.
@@ -43,4 +41,76 @@ A software engineer on the Learners Guild staff \(Partner\) who provides daily l
 ## Stakeholder
 
 Stakeholders include all partners and learners in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
+
+\#\# Accountability
+
+I take ownership of my areas of responsibility.
+
+I am willing to give an accurate recollection of my actions at any time.
+
+I strive to know the impact of my actions and take all of my impact into account.
+
+
+
+\#\# Apprentice
+
+The apprentice stage is the first stage of learning a craft. Learners admitted to a chapter begin their journey as an apprentice. Apprentices are paid an optional minimal stipend and their primary responsibility is to advance the learning of everyone in their cohort, including themselves.
+
+
+
+\#\# Being with Others
+
+I am present and honest in my interactions with people.
+
+
+
+\#\# Belonging
+
+I feel like I am an integral part of the organization/team/pair.
+
+I have a place here.
+
+
+
+\#\# Chapter
+
+Chapters are the centers of learning within Learners Guild. They are communities of practice designed for intensive, deliberate learning and growth.
+
+
+
+\#\# Cohort
+
+A cohort is a set of learners with a shared start date and chapter. Cohorts are named after their start month: e.g. November Cohort, September Cohort. Cohorts go through orientation, and some foundational workshops together. 
+
+
+
+\#\# Common Good
+
+I engage/participate for the betterment of the team over personal gain.
+
+
+
+\#\# Continuous Growth
+
+I am deliberately and consistently improving my craft and my skills.
+
+I aspire to live in my Zone of Proximal Development.
+
+I take on Relevant Stretchy Goals.
+
+
+
+\#\# Courage
+
+I am honest, even when it’s risky.
+
+I take actions that frighten me when I believe in the value of the outcome.
+
+I choose truth over comfort.
+
+I am willing to risk the status quo in order to make it better.
+
+I am willing to risk our relationship, in order to deepen it.
+
+
 
