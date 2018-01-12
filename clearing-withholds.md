@@ -1,4 +1,4 @@
-# edit this
+# edit this 
 
 # Clearing: Clear personal tensions swiftly and directly
 
@@ -15,8 +15,6 @@ Clearings come in many different flavors, these are the main three:
 * **A Pinch:**Something someone did, that "pinched" my ego. I could let it go, but it's building a small level of resentment, so I'll just say it. For example: "When you didn't respond to that question I asked in the meeting I felt snubbed". Pinches are quick to resolve, and usually don't need more than a "thank you" in response.
 
 * **A Reality Check:**We make up stories all the time about each other. If you notice a belief forming in your mind about someone else, ask them about it. For example: "I noticed that whenever I talk about anything related to marketing, you seem to zone out. I'm starting to make up a story in my mind that you think I'm shitty at marketing. Is there any truth to that?"
-
-* **A Reveal:**Sometimes it's important to reveal something about how our mind/heart works in order to clear the air. Reveals can be "negative" or "positive" stories/history/self image that's relevant to how we are relating personally to someone. This is distinctly different from feedback about their work product. For example: "Your accent reminds me of this guy who used to bully me, and sometimes I notice myself mad at you for no reason." or "I really like your writing style. I've always wanted to write like that and sometimes I notice that I feel intimidated and jealous of you."
 
 An apology can also be another form of clearing.
 

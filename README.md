@@ -1,12 +1,4 @@
-##### The Learner Guide is undergoing edits to reflect recent upgrades at the Guild. You may find a few inconsistencies, broken links or outdated references below until the final revisions are complete.
-
-~ Learners Guild
-
----
-
-> "An idea that is not dangerous is unworthy of being called an idea at all." ~ Oscar Wilde
-
-# Learner Guide
+# Program Guide
 
 Welcome!
 
@@ -25,7 +17,7 @@ As a Learners Guild Member, each learner takes on two objectives:
 
 ## Learning Operating System
 
-The Learning Operating System (LOS) is a sequenced training platform that aids learners in building solid programming fundamentals and meta-learning skills in the early stages of the program and guides learners toward increasingly self-directed projects.
+The Learning Operating System \(LOS\) is a sequenced training platform that aids learners in building solid programming fundamentals and meta-learning skills in the early stages of the program and guides learners toward increasingly self-directed projects.
 
 In other words, it's the framework that supports us in achieving the first objective. Learners primarily engage with the LOS through the Guild's [Curriculum](https://curriculum.learnersguild.org/) and [Echo](https://echo.learnersguild.org/) web apps.
 
@@ -35,7 +27,7 @@ To read more about the program's structure, visit the [Learning Phases](/Learnin
 
 We believe a powerful, inclusive culture is the strongest, most pervasive support structure a learning community can have. At the Guild, Learners rely on each other daily for coding and personal support, effectively building strong professional relationships and friendships that extend beyond their time at the Guild.
 
-While LOS provides a framework by which we learn together, the [Cultural Operating System](https://cos.learnersguild.org/) (COS), defines the components of our shared culture and the processes by which members of the learning community can shape it. In short, The COS  is the framework that supports us in achieving the second objective of building a learning culture that brings out the best in us and supports us in achieving the first objective.
+While LOS provides a framework by which we learn together, the [Cultural Operating System](https://cos.learnersguild.org/) \(COS\), defines the components of our shared culture and the processes by which members of the learning community can shape it. In short, The COS  is the framework that supports us in achieving the second objective of building a learning culture that brings out the best in us and supports us in achieving the first objective.
 
 #### **What is our Shared Purpose as a Learning Community?**
 
@@ -65,5 +57,6 @@ There are a couple things in place to support learners in building a strong comm
 
 ---
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
