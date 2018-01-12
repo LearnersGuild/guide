@@ -10,7 +10,6 @@
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
     * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
 * [Learning Resoures](/Strategies/README.md)
-
   * [Finding Your ZPD](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Learning Mindsets ](/General/Guidelines.md)
@@ -18,16 +17,14 @@
   * [Individual](/Strategies/Individual.md)
   * [Reflection](/Strategies/Reflection.md)
   * [Manifesto](/Strategies/Manifesto.md)
-
 * Commitment to Our Community
-
 * [Community Agreements](community-agreements.md)
   * [Clearing Withholds](clearing-withholds.md)
   * [Non-Triangulation Agreement](non-triangulation-agreement.md)
   * [Responsibility & Accountability](radical-responsibility.md)
   * [Requests](requests-and-formal-requests.md)
 * [Conflict Resolution](conflict-resolution.md)
-* Mental Health Resources
+* [Mental Health Resources](mental-health-resources.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
@@ -40,7 +37,6 @@
 * [FAQs](///Learning/FAQs.md)
 * [Holiday List](/General/Holiday_List.md)
 * [GLOSSARY](/GLOSSARY.md)
-* [CONTRIBUTING](CONTRIBUTING.md)
 
 
 
