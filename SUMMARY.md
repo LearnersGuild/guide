@@ -15,14 +15,6 @@
 
   * [Membership FAQs](General/Membership/membership-faqs.md)
 
-* [Preparing for the Guild](preparing-for-the-guild.md)
-
-  * [Required Prep](/Runway/README.md)
-  * [Qualified Laptop](/Runway/qualified-laptop.md)
-  * [Slack and Echo](//General/Slack_and_Echo.md)
-  * [Onboarding](/General/Onboarding.md)
-    * [First Week](General/Membership/onboarding.md)
-
 * [Learning at the Guild](Learning/README.md)
 
   * [Phases](Learning/Phases.md)
@@ -46,9 +38,11 @@
   * [Manifesto](/Strategies/Manifesto.md)
 
 * [LOS Support](//General/LOS_Support.md)
+
 * [Resource Links](//General/Resource_Links.md)
 * [Program FAQs](//Learning/FAQs.md)
 * [Guild Policies](/Policies/README.md)
+
   * [Oakland Building](/Policies/Oakland_Building.md)
   * [Code of Conduct](/Policies/Code_of_Conduct.md)
   * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -59,5 +53,9 @@
   * [Equal Opportunity](/Policies/Equal_Opportunity.md)
 
 * [Holiday List](/General/Holiday_List.md)
+
 * [GLOSSARY](/GLOSSARY.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+
+
+
