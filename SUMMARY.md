@@ -1,9 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Instructional Theory](instructional-theory.md)
+
 * [Program Features](program-features.md)
 * [Learning Resources and Strategies](/Strategies/README.md)
+
   * [Zone of Proximal Development](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Community](/Strategies/Community.md)
@@ -11,6 +12,7 @@
   * [Individual](/Strategies/Individual.md)
 
   * [Reflection](/Strategies/Reflection.md)
+
 * [Our Community](commitment-to-our-community.md)
   * [Community Agreements](community-agreements.md)
     * [Clearing Withholds](clearing-withholds.md)

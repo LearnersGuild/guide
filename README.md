@@ -1,10 +1,12 @@
+> _**Learners Guild's mission is to make pathways to web developer jobs more accessible by investing in high potential candidates from all backgrounds.**_** **
+
 # Program Guide
 
 Welcome!
 
-Learners Guild's mission is to make pathways to tech jobs more accessible for anyone who is willing and able to become a web developer by investing in their potential, inviting them to participate in, and contribute to, a thriving learning culture, and providing learning supports along the way.
+This Guide 
 
-This Guide is the official repository for all of our agreements, policies, operating models, values and guiding principles. It is meant to orient you to how learning happens at the Guild by offering an overview of the learning model and how you progress through it, as well as resources and strategies for learning. The Guide also shares Guild policies and the terms of Guild membership.
+the official repository for all of our agreements, policies, operating models, values and guiding principles. It is meant to orient you to how learning happens at the Guild by offering an overview of the learning model and how you progress through it, as well as resources and strategies for learning. The Guide also shares Guild policies and the terms of Guild membership.
 
 As a living and dynamic support for the way we work and learn together, the Guide is subject to change, as such we reserve the right to amend, revise and/or withdraw parts of it. Feedback and suggestions \(especially in the form of pull requests to the guide repo\) are very appreciated.
 
