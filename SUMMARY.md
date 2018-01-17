@@ -1,18 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-
 * [Program Features](program-features.md)
 * [Learning Resources and Strategies](/Strategies/README.md)
-
   * [Zone of Proximal Development](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
   * [Community](/Strategies/Community.md)
   * [Team](/Strategies/Team.md)
   * [Individual](/Strategies/Individual.md)
-
   * [Reflection](/Strategies/Reflection.md)
-
 * [Our Community](commitment-to-our-community.md)
   * [Community Agreements](community-agreements.md)
     * [Clearing Withholds](clearing-withholds.md)
@@ -22,6 +18,7 @@
   * [Conflict Resolution](conflict-resolution.md)
 * [Membership](/General/Membership.md)
   * [Learner Expectations](General/Membership/membership-expectations.md)
+
   * [Transition Guide](General/Membership/membership-cancellation.md)
     * [Membership Termination](General/Membership/membership-termination.md)
     * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
