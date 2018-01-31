@@ -19,7 +19,7 @@
 * [Our Community](commitment-to-our-community.md)
   * [Community Agreements](community-agreements.md)
     * [Requests](requests-and-formal-requests.md)
-  * [Conflict Resolution](conflict-resolution.md)
+    * [Conflict Resolution](conflict-resolution.md)
 * [Mental Health Resources](mental-health-resources.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)

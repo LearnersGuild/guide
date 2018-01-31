@@ -1,5 +1,3 @@
-_**edit this!**_
-
 # Conflict Resolution Process
 
 **Purpose: **To resolve an interpersonal conflict.
