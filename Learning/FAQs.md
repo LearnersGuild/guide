@@ -6,7 +6,7 @@ Learners should aim to move through the beginning of the program as quickly as p
 
 #### How do I know which phase I’m in?
 
-Upon enrollment, all learners begin in the Foundations Phase. Learners then interview into each of the following phases through a technical interview process. You can see your phase placement in the curriculum app.
+You can see your phase placement in [**Echo**](https://echo.learnersguild.org/).
 
 #### Is someone responsible for ‘running’ each phase?
 
@@ -26,7 +26,13 @@ Learners who complete 80% or more of the the requirements for a phase interview 
 
 #### How many times can a learner take a Phase Interview?
 
-As many times as you need to, subject to a 2 week waiting period between attempts.
+As many times as you need to, subject to the following interview completion guidelines. Below you'll see how long you must wait before reattempting an interview based on the completion percentage of your current interview: 
+
+Completion &lt; 40%: 3 weeks wait time
+
+Completion &lt; 60%: 2 weeks wait time
+
+Completion &lt; 80%: 1 week wait time
 
 #### How do learners access the curriculum for each phase?
 

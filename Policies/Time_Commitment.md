@@ -1,12 +1,12 @@
 # Time Commitment
 
-While our ambition is to be able to invest in everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege of reliably being able to show up at the office every weekday \(except [national holidays](../General/Holiday_List.md)\) from **9:00 AM to 6:00 PM**.
+While our ambition is to be able to invest in everyone who aspires to be a software developer, we are still a long way from being there. For now, we can only invest in learners whose life circumstances afford them the privilege of reliably being able to show up at the office every weekday \(except [national holidays](../General/Holiday_List.md)\) from **10:00 AM to 5:00 PM**.
 
 Make sure to read the Time Commitment Policy closely. **Abiding by this policy is a condition for continued membership at the Guild.**
 
 ### Personal Days
 
-Life happens to all of us, so we make an allowance of **10 personal days** over the course of the 40 weeks.
+Life happens to all of us, so we make an allowance of **10 personal days** over the course of your program time.
 
 You can use personal days at your discretion. Use them for physical or mental health days, emergency errands, major life events \(births/bereavement/weddings\) or anything else you think is important enough to warrant your absence.
 
@@ -16,7 +16,7 @@ When you decide to take a personal day you must email [**timeoff@learnersguild.o
 
 ### Professional Development Days
 
-Every learner has 3 days Professional Development \(PD\) days to support you in your growth as a web developer.
+Every learner has 5 days Professional Development \(PD\) days to support you in your growth as a web developer.
 
 PD days are distinct from Personal Days. PDs are for expanding your learning at a conference or workshop, while Personal Days are, well, other stuff \(doctor's appointments, weddings, mental health day, etc.\).
 
@@ -40,9 +40,9 @@ If you need to request a Leave of Absence, contact your Learning Facilitator via
 
 #### What happens if I come late or need to leave early?
 
-Your commitment is to show up and practice web development between 9:00am to 6pm. Anything non-critical to your life should be scheduled outside these hours.
+Your commitment is to show up and practice web development between 10:00am to 5pm. Anything non-critical to your life should be scheduled outside these hours.
 
-If you are going to be late and/or miss a day, you need to let your colleagues by posting in your Phase channel, and emailing [**timeoff@learnersguild.org**](mailto:timeoff@learnersguild.org), if you are taking a personal or PD day.
+If you are going to miss a day, you need to let your colleagues by posting in your Phase channel, and emailing [**timeoff@learnersguild.org**](mailto:timeoff@learnersguild.org), if you are taking a personal or PD day.
 
 You must also inform anyone you have meetings scheduled with for the day \(SEPs, Procoaches, Learning Facilitators, house members, etc.\), as you would in the workplace. Informing your colleagues about your inability to be present and logging time off are agreements we make to respect each others' and our communal time.
 
@@ -55,3 +55,4 @@ Use a personal day, stay home, and get better. When you wake up with that stuffy
 Yes. You can use the space during [open hours](./Oakland_Building.md#hours). No staff will be on-site outside of regular hours.
 
 That being said, we strongly recommend that you get rest, exercise, and otherwise take care of yourself! Your mind and body need breaks to sustain the prolonged learning effort.
+
