@@ -26,5 +26,7 @@ Omni has three components: SEI workshops, 1-on-1 coaching sessions with Learning
 
 ### Career Development
 
-Our Career Development content supports learners in readying themselves for the job search and interview process with resume/online presence support, mock interviews, algorithms practice, and talks from industry insiders, as well as connecting them with potential apprenticeship and job opportunities. 
+Our Career Development content supports learners in readying themselves for the job search and interview process with resume/online presence support, mock interviews, algorithms practice, and talks from industry insiders, as well as connecting them with potential apprenticeship and job opportunities.
+
+
 

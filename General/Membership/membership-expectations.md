@@ -10,15 +10,33 @@
 
 #### Attendance Expectations
 
-1. **Time Commitment: **Show up from **9a to 6p daily**. If you're running late or leaving early, you’re required to alert your house and phase group in the appropriate slack channels. By '_running late or leaving early'_ we mean less than an hour. Anything in excess of an hour requires you to report time off. **Please note that it is your responsibility to consult with your Learning Facilitator and Phase Lead immediately if extenuating circumstances or major life events unexpectedly prevent you from fulfilling the above time commitment on a regular basis.**
-2. **Time Off: **Each Learner has **10 personal days**, and 3 professional development days to use during their 40 weeks. You are required to log all time off with the Guild by emailing [**timeoff@learnersguild.org**](mailto:timeoff@learnersguild.org) as soon as you know you will be out. If you will miss more than an hour of the day you must log a half day \(1-4 hours\), and if you will miss more than four \(4\) hours, you must log a full day. To maintain membership at the Guild you must not exceed 10 personal days, and 3 professional development days.
-   1. **No Call, No Show: **Learners who fail to report** **five days of non-participation in the program are in violation of the Attendance Expectations which may result in the immediate termination of their membership. See the [**No Call, No Show** ](//Policies/Time_Commitment.md)section of the Time Commitment Policy for additional information.
-3. **Be Present at all Scheduled Meetings:** There are recurring meetings that all learners are required to attend, plus additional one-off meetings that may be put on your Google calendar, and/or on shared Guild calendars. You are obligated to be present for all scheduled meetings, including but not limited to, onboarding meetings, 1:1 meetings with staff, All-Hands meetings, Daily Standups, Friday Wrap-ups, House Meetings, and COS Workshops. If you're running late to a meeting, you are required to notify the people you are meeting with ahead of time.
+1. **Time Commitment: **
+   1. Show up from **10a to 5p daily. **
+   2. Periodically you may have a scheduled meeting between 5-6pm. 
+   3. You may arrive as early as 7am to begin working. Optional content, such as Algonauts, begins at 9am. 
+   4. You must be present for Phase Checkin at 10am, no exceptions. 
+2. **Time Off: **Each Learner has **10 personal days**, and **5 professional development** days to use during their time at the Guild. You are required to log all time off by emailing [**timeoff@learnersguild.org**](mailto:timeoff@learnersguild.org) as soon as you know you will be out.   
+   1. **Half Day Off**: If you will miss more than an hour of the day you must log a half day \(1-4 hours\),   
+   2. **Full Day Off**: If you will miss more than four \(4\) hours, you must log a full day.
+
+   **To maintain membership at the Guild you must not exceed 10 personal days, and 3 professional development days.**
+
+3. **No Call, No Show: **Learners who fail to report** **five days of non-participation in the program are in violation of the Attendance Expectations which may result in the immediate termination of their membership. See the [**No Call, No Show** ](//Policies/Time_Commitment.md)section of the Time Commitment Policy for additional information.
+4. **Be Present at for all Mandatory Programming:** Learners are required to attend the following scheduled programming: 
+   1. All Hands Meetings
+   2. 10am Phase/Squad Checkins 
+   3. Technical Instruction Sessions
+   4. Omni Workshops
+   5. House Meetings
+   6. Scheduled 1:1s with SEPs, Coaches and Learning Facilitators
+   7. , plus additional one-off meetings that may be put on your Google calendar, and/or on shared Guild calendars. You are obligated to be present for all scheduled meetings, including but not limited to, onboarding meetings, 1:1 meetings with staff, All-Hands meetings, Daily Standups, Friday Wrap-ups, House Meetings, and COS Workshops. If you're running late to a meeting, you are required to notify the people you are meeting with ahead of time.
+
+**Please note that it is your responsibility to immediately consult with your Learning Facilitator and Phase Lead if extenuating circumstances or major life events unexpectedly prevent you from fulfilling the above time commitment on a regular basis.**
 
 #### Community Expectations
 
 1. **Guild Policy Compliance:** We have a handful of Guild-wide policies that are meant to keep us safe, comfortable and promote inclusion. Pretty basic, but essential stuff. You are expected and required to read, understand and comply with all published [**Guild Policies**](//Policies/README.md) and those that may be added in the future. Doing so is a condition for continued membership. You can read all Guild policies below in the [**Guild Policies Section**](/Policies/README.md)**. **
-2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our [**Community Agreements**](/community-agreements.md)** **and** **those that may be added in the future. Check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions.
+2. **Community Agreements:** The Guild is dedicated to creating an inclusive environment for everyone that facilitates accelerated learning, self-leadership development and transformative relationship building. In order to support a diverse community of learners we require all Guild members to abide by our [**Community Agreements**](/community-agreements.md)** **and** **those that may be added in the future. Check in with your Onboarding Mentor and/or Learning Facilitator if you have any questions.
 
 
 

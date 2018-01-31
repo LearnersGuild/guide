@@ -2,6 +2,13 @@
 
 * [Introduction](README.md)
 * [Program Features](program-features.md)
+  * Guild Program Calendar
+* [Membership](/General/Membership.md)
+  * [Learner Expectations](General/Membership/membership-expectations.md)
+  * [Transition Guide](General/Membership/membership-cancellation.md)
+    * [Membership Termination](General/Membership/membership-termination.md)
+    * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
+    * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
 * [Learning Resources and Strategies](/Strategies/README.md)
   * [Zone of Proximal Development](/Learning/Challenge.md)
   * [Cognitive Apprenticeship](/Learning/Cognitive_Apprenticeship.md)
@@ -16,13 +23,6 @@
     * [Responsibility & Accountability](radical-responsibility.md)
     * [Requests](requests-and-formal-requests.md)
   * [Conflict Resolution](conflict-resolution.md)
-* [Membership](/General/Membership.md)
-  * [Learner Expectations](General/Membership/membership-expectations.md)
-
-  * [Transition Guide](General/Membership/membership-cancellation.md)
-    * [Membership Termination](General/Membership/membership-termination.md)
-    * [Program Participation Termination](General/Membership/guild-initiated-membership-termination.md)
-    * [How to Leave the Program](General/Membership/learner-initiated-membership-cancelation-period.md)
 * [Mental Health Resources](mental-health-resources.md)
 * [Guild Policies](/Policies/README.md)
   * [Oakland Building](/Policies/Oakland_Building.md)
