@@ -10,3 +10,7 @@ If you decide to withdraw, or are asked to leave the Guild _**during the first 5
 
 If you are in serious violation of any of the [**Guild Policies**](//Policies/README.md) the Guild reserves the right to revoke your Membership. This is equally applicable to active Learners and Alums.
 
+
+
+Membership Review Process
+

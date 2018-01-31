@@ -4,7 +4,6 @@ A collection of our favorite strategies for co-creating a community of learning.
 
 Roughly organized in order of preference: proven, high-leverage strategies are listed before less-important ones.
 
-If you have a strategy you'd like to add or edit, please consider [contributing](../CONTRIBUTING.md).
 
 ## Pay it Forward
 
@@ -20,7 +19,7 @@ Learn to ask great questions by having the courage to ask bad ones.
 
 ## Take Ownership
 
-The guild is beta software. If you see something that needs fixing, fix it! Write goals. Open pull requests. Wash dishes. Leave the environment better than you found it.
+The guild is beta software. If you see something that needs fixing, let's talk about it in our feedback sessions. This is your learning environment. We encourage you to leave the environment better than you found it.
 
 > [...] the biggest effects on student learning occur when teachers become learners of their own teaching, and when students become their own teachers.
 >

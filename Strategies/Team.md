@@ -4,11 +4,9 @@ A collection of our favorite strategies for learning in team.
 
 Roughly organized in order of preference: proven, high-leverage strategies are listed before less-important ones.
 
-If you have a strategy you'd like to add or edit, please consider [contributing](../CONTRIBUTING.md).
-
 ## Give and Request Good Feedback
 
-Your teammates count on your honest reflection, both in your daily interactions and in the retrospectives. Their learning and their job readiness depend on it. Be worthy of their trust.
+The people around you count on your honest reflection, both in your daily interactions and in the retrospectives. Their learning and their job readiness depend on it. Be worthy of their trust.
 
 Requesting feedback often and receiving it well can go a long way towards making a team environment a rich place for mutual growth.
 
@@ -18,7 +16,7 @@ When you begin to work together, be clear about what you are all agreeing to do.
 
 These and other questions are like good medicine: best taken _before_ things go wrong, rather than after.
 
-The less mutual clarity you have, the greater the chances are for misunderstanding and conflict, which is (usually) a cause of friction for everyone's learning.
+The less mutual clarity you have, the greater the chances are for misunderstanding and conflict, which is \(usually\) a cause of friction for everyone's learning.
 
 ## Stay in Team
 
@@ -26,7 +24,7 @@ Lead without slowing down. Follow without disengaging. Assert yourself. Stay fle
 
 ## Apply Cognitive Apprenticeship
 
-Every team has a variety of skills and skill levels. Use these internal differences to everyone's advantage: apply [cognitive apprenticeship practices][cog-app] to best match team members to the tasks that will challenge them, and let the others (for whom the task would be too difficult) observe, reflect, and inquire.
+Every team has a variety of skills and skill levels. Use these internal differences to everyone's advantage: apply [cognitive apprenticeship practices](../Game_Manual/Cognitive_Apprenticeship.md) to best match team members to the tasks that will challenge them, and let the others \(for whom the task would be too difficult\) observe, reflect, and inquire.
 
 _Best used when the team faces a task that is in or beyond most of the team's ZPD, but which one person is capable of._
 
@@ -34,11 +32,11 @@ _Best used when the team faces a task that is in or beyond most of the team's ZP
 
 Working alongside someone else on the same problem has a lot of advantages: you are less likely to get stuck, distracted, or make glaring mistakes.
 
-There are many sub-strategies and tactics to pairing (Google "pair programming" and you'll get 1,650,000 results). Here are some of the basics to get you started:
+There are many sub-strategies and tactics to pairing \(Google "pair programming" and you'll get 1,650,000 results\). Here are some of the basics to get you started:
 
-- Pace yourself. Pairing can be tiring, be sure to take breaks.
-- Keep communication flowing. Share thoughts, ideas, and questions.
-- Always aim for consent. If you can't agree, find a compromise. If you can't compromise, agree to disagree.
+* Pace yourself. Pairing can be tiring, be sure to take breaks.
+* Keep communication flowing. Share thoughts, ideas, and questions.
+* Always aim for consent. If you can't agree, find a compromise. If you can't compromise, agree to disagree.
 
 _Best used when you want to go far together, optimize for quality, and avoid team fragmentation._
 
@@ -48,9 +46,9 @@ The most difficult problems are often made easier simply by putting more heads t
 
 Whether you are actively pairing, building together with the team, or engaging in a group design and problem-solving session, it is helpful to have everyone together. There is strength and intelligence in numbers.
 
-Many of the challenges your teams will face will be new (and possibly intimidating) to everyone on the team. No one person will be able to propose a solution, or even know where to begin. You'll have to rely on each other to figure it out.
+Many of the challenges your teams will face will be new \(and possibly intimidating\) to everyone on the team. No one person will be able to propose a solution, or even know where to begin. You'll have to rely on each other to figure it out.
 
-_Best used when the team faces a task that is challenging for everyone (i.e. the whole team is in their ZPD)._
+_Best used when the team faces a task that is challenging for everyone \(i.e. the whole team is in their ZPD\)._
 
 ## Divide & Specialize
 
@@ -66,10 +64,9 @@ _Best used when there is the need for high productivity in a short amount of tim
 
 One of the pitfalls of working in teams constantly is that you may not have to face challenges on your own and learn what you are really capable of without your team's support and leadership.
 
-A way to address this is to _parallelize_ (each team member does the same task on their own) and then _synchronize_ (meet back up and share/analyze each other's work).
+A way to address this is to _parallelize_ \(each team member does the same task on their own\) and then _synchronize_ \(meet back up and share/analyze each other's work\).
 
 This is a good way to test yourself. You will likely discover areas where you surprise yourself with how much you know, and other areas where you struggled even though you felt confident in your abilities.
 
 _Best used when you and your team are interested in developing greater self-awareness and gauging your abilities_.
 
-[cog-app]: ../Game_Manual/Cognitive_Apprenticeship.md
