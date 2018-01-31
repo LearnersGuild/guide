@@ -36,9 +36,7 @@ If you need coaching or support before clearing with someone, or before/during e
 
 Sometimes, a member can sense a conflict between two people \(or is caught in a triangulation between them\). If that's the case, they can ask one \(or both\) parties to the perceived conflict wether or not there actually is one \(reality check\), and make a request that they address it and report back.
 
-## Members v.s. Non-Members
-
-Our conflict resolution process is an agreement made by and between members of our learning collective. It's important to remember and acknowledge that people outside the collective are bound to this process, and have not agreed to it. When resolving conflicts with non members, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
+---
 
 \[^1\]: If the Conflict Resolver is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.
 
