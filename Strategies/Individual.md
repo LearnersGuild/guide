@@ -80,13 +80,6 @@ Amateurs collect knowledge. Pros develop skills.
 >
 > <cite>Ancient Proverb</cite>
 
-## Don't Sweat the Stats
-
-The stats are a mirror, not a destination. Stay focused on your work and your learning. On time and in team.
-
-> Essentially, all models are wrong, but some are useful.
->
-> <cite>George E.P. Box, Empirical Model-Building and Response Surfaces</cite>
 
 ## Check your Cognitive Biases
 

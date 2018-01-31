@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Program Features](program-features.md)
-  * Guild Program Calendar
+  * [Guild Program Calendar](program-features/guild-program-calendar.md)
 * [Membership](/General/Membership.md)
   * [Learner Expectations](General/Membership/membership-expectations.md)
   * [Transition Guide](General/Membership/membership-cancellation.md)
@@ -18,9 +18,6 @@
   * [Reflection](/Strategies/Reflection.md)
 * [Our Community](commitment-to-our-community.md)
   * [Community Agreements](community-agreements.md)
-    * [Clearing Withholds](clearing-withholds.md)
-    * [Non-Triangulation Agreement](non-triangulation-agreement.md)
-    * [Responsibility & Accountability](radical-responsibility.md)
     * [Requests](requests-and-formal-requests.md)
   * [Conflict Resolution](conflict-resolution.md)
 * [Mental Health Resources](mental-health-resources.md)
