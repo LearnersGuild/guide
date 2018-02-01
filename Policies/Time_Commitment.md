@@ -26,7 +26,7 @@ Towards the end of your time at the Guild, you may need to be absent for on-site
 
 ### No Call, No Show {#no-call-no-show}
 
-If you are late or absent and do not let anyone know via Slack or by emailing [timeoff@learnersguild.org](mailto:timeoff@learnersguild.org), it will be considered a _“no call, no show.”_ No call, no shows are a serious violation of our time commitment policy, akin to not showing up to work. You must post in Slack and/or email timeoff as soon as you know you will be late or absent - in 95% of cases, this means posting or emailing before you miss the time. **5 No call, No show instances may result in the immediate withdrawal of our investment and termination of your membership at the Guild.**
+If you are late or absent and do not let anyone know via Slack or by emailing [timeoff@learnersguild.org](mailto:timeoff@learnersguild.org), it will be considered a _“no call, no show.”_ No call, no shows are a serious violation of our time commitment policy, akin to not showing up to work. You must post in Slack and/or email timeoff as soon as you know you will be late or absent - in 95% of cases, this means posting or emailing before you miss the time. **5 No call, No show instances may result in the immediate withdrawal of our investment and termination of your program participation and/or membership at the Guild.**
 
 ## Leave of Absence Policy
 
